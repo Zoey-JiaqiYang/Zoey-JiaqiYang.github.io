@@ -23,6 +23,20 @@ html{
     scroll-padding-top: 7rem;
 }
 
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: .5rem;
+    border: .2rem solid rgb(255, 255, 255);
+}
+
+.btn:hover{
+    background-color: rgb(89, 104, 124);
+}
+
+
 a,a:hover{
     color: aliceblue;
 }
@@ -88,6 +102,80 @@ a,a:hover{
 
 
 /* "new" part start */
-.section{
+/* .section{
     padding: 4rem 0 2rem;
+} */
+
+.header .saved-list{
+    position: absolute;
+    top: 110%; right: -110%;
+    padding: 1rem;
+    border-radius: .5rem;
+    box-shadow: #a4aaaf;
+    width: 36rem;
+    background: #424a5a;
+}
+
+.header .saved-list.active{
+    right: 2rem;
+    transition: .4s linear;
+}
+
+.header .saved-list .box{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+    margin: 1rem 0;;
+}
+
+.header .saved-list .box img{
+    height: 9rem;
+    width: 12rem;
+}
+
+.header .saved-list .box .bxs-trash{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 50%;
+    right: 0rem;
+    cursor: pointer;
+    transform: translateY(-50%);
+    color: #ffffff;
+}
+
+
+.header .saved-list .box .bxs-trash:hover{
+    color: rgb(143, 150, 158);
+}
+
+.header .saved-list .box .content h3{
+    color: aliceblue;
+    font-size: 1.4rem;
+    padding-bottom:1rem;
+}
+
+.header .saved-list .box .content span{
+    color: aliceblue;
+    font-size: 1.6rem;
+    
+}
+
+.header .saved-list .box .content .year{
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+
+.header .saved-list .total{
+    font-size: 1.4rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+.header .saved-list .btn{
+    display:block;
+    text-align: center;
+    margin: 1rem;
 }
