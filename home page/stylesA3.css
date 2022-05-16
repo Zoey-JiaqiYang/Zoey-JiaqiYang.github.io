@@ -223,5 +223,63 @@ section{
     }
 }
 
+/* "search part" start*/
 
+.search-title{
+    margin-top: 20rem;
+    font-weight: bolder;
+    color: transparent;
+    -webkit-text-stroke:.1rem #ffffff;
+    text-align:  center;
+    font-size: 4rem;
+}
+
+.search-form{
+    width: 100%;
+    height: 80%;
+    margin-top: -6rem;
+    background:url(bugatti.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.search-form form{
+    display: flex;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap: 1.5rem;
+    background-color: rgba(157, 176, 201, 0.7);
+    border-radius: 2rem;
+    padding: 3rem 2rem;
+    margin-top: 2rem;
+}
+
+.inputBox{
+    flex: 1 1 20rem;
+    padding: 3rem;
+}
+
+.search-form form .inputBox span{
+    font-size: 1.2rem;
+    color: white;
+}
+
+.search-form form .inputBox input{
+    width: 100%;
+    padding: 1.2rem 1.4rem;
+    border-radius: 1rem;
+    border: .2rem solid rgb(189, 212, 232);
+    text-transform: none;
+    background: white;
+    margin-top: .5rem;
+    color: #dfe6ff;
+}
+
+.search-form .btn{
+    display: flex;
+    text-align: center;
+    margin: 1rem;
+    width: 18rem;
+    justify-content: center;
+}
 
