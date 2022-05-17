@@ -301,16 +301,18 @@ section{
 
 .news{
     background: #16171B;
+    height: 63rem;
 }
 
 .news .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
-    gap: 2rem;
+    gap: 3rem;
 }
 
 .news .box-container .box{
-    padding: 1rem 1rem;
+    padding: 1rem .5rem;
+    padding-bottom: 2rem;
     background: #cee0f0;
     text-align: center;
     box-shadow: #636877;
@@ -345,3 +347,84 @@ section{
 .news .box-container .box .btn{
     border: .1rem solid rgb(189, 212, 232);
 }
+
+/* footer part */
+.footer{
+    padding-top: 2rem;
+}
+
+.footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem,1fr));
+    gap: 1.5rem;
+}
+
+.footer .box-container .box h3{
+    font-size: 1.5rem;
+    color: rgb(250, 255, 255);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box h3 span{
+    color:rgb(189, 212, 232)
+}
+
+.footer .box-container .box h3 i{
+    color: rgb(229, 235, 240);
+}
+
+
+.footer .box-container .box a{
+    display: block;
+    font-size: 1.4rem;
+    color: rgb(220, 226, 235);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box a:hover{
+    display: block;
+    font-size: 1.4rem;
+    color: rgb(126, 136, 152);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box a i{
+    color: rgb(219, 228, 241);
+    padding-right: .5rem;
+}
+
+.footer .box-container .box a:hover i{
+    color: rgb(96, 110, 128);
+    padding-right: .5rem;
+}
+
+.footer .box-container .box p{
+    line-height: 1.7;
+    display: block;
+    font-size: 1.5rem;
+    color: white;
+    padding: 1rem 0;
+}
+
+.footer .box-container .box .email{
+    width: 100%;
+    margin: .7rem 0;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    background: #e9eaea;
+    font-size: 1.5rem;
+    color: #daeaf9;
+    text-transform: none;
+}
+
+.footer .box-container .box .btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: rgb(94, 106, 121);
+    color: #daeaf9;
+}
+
+
