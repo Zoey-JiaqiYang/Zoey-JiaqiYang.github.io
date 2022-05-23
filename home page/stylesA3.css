@@ -33,11 +33,12 @@ section{
     padding: .8rem 3rem;
     font-size: 1.3rem;
     border-radius: 1rem;
-    background-color: #283a50;
+    background-color: #3c8cdc;
+    color: #ffffff;
 }
 
 .btn:hover{
-    background-color: rgb(89, 104, 124);
+    background-color: #9FC8F0;
 }
 
 
@@ -73,14 +74,13 @@ a,a:hover{
     font-style: italic;
 }
 
-.header .logo span{
-   
-    color: rgb(189, 212, 232);
+.header .logo span{ 
+    color: #9FC8F0;
 }
 
 .header .navbar a{
-    font-size: 1.8rem;
-    margin: 0 2rem;
+    font-size: 1.7rem;
+    margin: 0 3rem;
     color: rgb(177, 195, 213);
 }
 
@@ -121,8 +121,8 @@ a,a:hover{
     padding: 1rem;
     border-radius: .5rem;
     box-shadow: #a4aaaf;
-    width: 36rem;
-    background: #424a5a;
+    width: 40rem;
+    background: #333843;
 }
 
 .header .saved-list.active{
@@ -131,23 +131,26 @@ a,a:hover{
 }
 
 .header .saved-list .box{
+    background-color: #9cafc3;
+    border-radius: .5rem;
     display: flex;
     align-items: center;
     gap: 1rem;
     position: relative;
-    margin: 1rem 0;;
+    margin: 2rem 0;
 }
 
-.header .saved-list .box img{
-    height: 9rem;
-    width: 12rem;
+.header .saved-list .box a img{
+    height: 9.5rem;
+    width: 14rem;
+    margin: .5rem;
 }
 
 .header .saved-list .box .bxs-trash{
     font-size: 1.5rem;
     position: absolute;
     top: 50%;
-    right: 0rem;
+    right: 1rem;
     cursor: pointer;
     transform: translateY(-50%);
     color: #ffffff;
@@ -167,7 +170,6 @@ a,a:hover{
 .header .saved-list .box .content span{
     color: aliceblue;
     font-size: 1.6rem;
-    
 }
 
 .header .saved-list .box .content .year{
@@ -177,8 +179,8 @@ a,a:hover{
 
 
 .header .saved-list .total{
-    font-size: 1.4rem;
-    padding: 1rem 0;
+    font-size: 1.5rem;
+    padding: 2rem 0;
     text-align: center;
     color: aliceblue;
 }
@@ -237,7 +239,7 @@ a,a:hover{
     width: 100%;
     padding: 1.2rem 1.4rem;
     border-radius: 1rem;
-    border: .2rem solid rgb(189, 212, 232);
+    border: .1rem solid #3c8cdc;
     text-transform: none;
     background: white;
     margin-top: .5rem;
@@ -252,22 +254,15 @@ a,a:hover{
     margin-right: 2rem;
     font-size: 1.3rem;
     border-radius: 1rem;
-    background-color: #283a50;
     display: inline-block;
     padding: 1rem 5rem;
     text-align: center;
 }
 
-.search-form .search-btn .btn:hover{
-    background-color: rgb(89, 104, 124);
-
-}
 
 
 
 /* "news part" start*/
-
-
 
 
 .home{
@@ -306,14 +301,13 @@ a,a:hover{
 
 .news{
     background: #16171B;
-
 }
 
 .news .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
     gap: 3rem;
-    padding-bottom: 1rem;
+    padding-bottom: 3rem;
 }
 
 .news .box-container .box{
@@ -439,8 +433,19 @@ a,a:hover{
     font-size: 1.3rem;
     border-radius: 1rem;
     background-color: rgb(94, 106, 121);
+    border: 0rem solid rgb(60, 69, 79);
     color: #daeaf9;
-    border: .1rem solid white;
+}
+
+.footer .box-container .box .btn:hover{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: rgb(60, 69, 79);
+    border: 0rem solid rgb(60, 69, 79);
+    color: #daeaf9;
 }
 
 .footer .credit{
@@ -470,7 +475,7 @@ a,a:hover{
 }
 
 @media (max-width:768px){
-
+    
 }
     
 @media (max-width:450px){

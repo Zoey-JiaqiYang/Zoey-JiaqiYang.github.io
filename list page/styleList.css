@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&family=Josefin+Sans:wght@300;500&family=Lora&family=Montserrat:wght@300;400;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(#81A5C8,#4B6074,#090C0F);
+    height: 120rem;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+
+}
+
+section{
+    padding: 2rem 9%;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: #3c8cdc;
+    color: #ffffff;
+}
+
+.btn:hover{
+    background-color: #9FC8F0;
+}
+
+
+a,a:hover{
+    color: aliceblue;
+}
+
+.heading{
+    text-align: center;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+    font-size: 2.5rem;
+    color: #daeaf9;
+}
+
+/*navbar starts*/
+.header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 9%;
+    background-color: #4A6886;
+    box-shadow:0 .5rem .5rem #2e3e4a;
+}
+
+.header .logo{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.header .logo span{
+   
+    color: #9FC8F0;
+}
+
+.header .navbar a{
+    font-size: 1.5rem;
+    margin: 0 3rem;
+    color: rgb(255, 255, 255);
+}
+
+.header .navbar a:hover{
+    color: #9FC8F0;
+}
+
+.header .icons div{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 7px;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    background-color: rgb(127, 152, 170);
+    transition: all 0.3s ease-in-out;
+    color: rgb(255, 255, 255);
+}
+
+.header .icons div:hover{
+    background-color: #9FC8F0;
+    color: white;
+}
+
+#menu-btn{
+    display: none;
+}
+
+
+
+/* refinebar starts */
+
+.refine{
+    margin: 6rem;
+    margin-top: 15rem;
+    width: 28rem;
+    height: 52rem;
+    border: .1rem solid #f1f8ff;
+    padding: .2rem;
+    border-radius: .5rem;
+}
+
+.refine .title{
+    padding-left: 22rem;
+    font-size: 1.2rem;
+}
+
+.refine .navbar{
+    font-size: 1.3rem;
+    padding: .1rem;
+}
+
+
+.refine .navbar ul li{
+    margin: 3rem 0;
+    list-style: none;
+}
+
+
+.refine .navbar ul li a{
+    display: block;
+    padding: 1.5rem;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.6);
+    height: 5rem;
+}
+
+.refine .navbar ul li a:hover{
+    background-color:#9FC8F0;
+    
+}
+
+
+
+
+/* product list part */
+
+.Prolist{
+    margin: 9rem;
+    margin-top: 16rem;
+}
+
+.Prolist h4{
+    margin: 1rem;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.Prolist .choosen{
+    margin-top: .5rem;
+    display: inline-block;
+    padding: .4rem 1rem;
+    font-size: 1rem;
+    border-radius: 1.6rem;
+    background-color: #ffffff9c;
+    color: #0b0b0b;
+    margin-bottom: 1rem;
+}
+
+.Prolist .choosen h6{
+    font-size: 1.1rem;
+    color: black;
+}
+
+.Prolist .choosen h6 a{
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    color: black;
+}
+
+.Prolist .choosen h6 a:hover{
+    color: rgb(147, 147, 147);
+}
+
+.Prolist .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
+    gap: 3rem;
+    padding-bottom: 3rem;
+}
+
+.Prolist .box-container .box{
+    padding: 1rem .5rem;
+    padding-bottom: 2rem;
+    background: #cee0f0;
+    text-align: center;
+    box-shadow: .3rem .3rem .3rem #878a96;
+    border-radius: 1.2rem;
+}
+
+.Prolist .box-container .box:hover{
+    box-shadow: .5rem .5rem .5rem #44464d;
+}
+
+.Prolist .box-container .box img{
+    height: 20rem;
+    max-width: 33rem;
+}
+
+.Prolist .box-container .box h3{
+    font-size: 1.5rem;
+    line-height: 1.2;
+    color: #000000;
+    padding-top: 1.2rem;
+}
+
+.Prolist .box-container .box span{
+    font-weight: bolder;
+    font-size: 1.7rem;
+    margin-left: 4.5rem;
+}
+
+.Prolist .box-container .box .brief h6{
+    font-size: 1.2rem;
+    display: inline;
+    margin: 1.5rem;
+}
+
+.news .box-container .box .btn{
+    border: .1rem solid rgb(189, 212, 232);
+}
