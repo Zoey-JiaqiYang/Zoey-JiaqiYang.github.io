@@ -39,12 +39,9 @@ section{
 
 .btn:hover{
     background-color: #9FC8F0;
+    color: black;
 }
 
-
-a,a:hover{
-    color: aliceblue;
-}
 
 .heading{
     text-align: center;
@@ -222,7 +219,6 @@ a,a:hover{
     padding: 3rem 3rem;
     margin-top: 3rem;
     margin-bottom: 12rem;
-    
 }
 
 .inputBox{
