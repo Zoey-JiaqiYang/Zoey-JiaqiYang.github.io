@@ -364,6 +364,8 @@ section{
     color: #000000;
     padding-top: 1.2rem;
     padding: .5rem;
+    border-style: none none solid none;
+    border-color: #9FC8F0;
 }
 
 .prolist .box-container .box span{
@@ -388,6 +390,7 @@ section{
 }
 
 .prolist .box-container .box .brief .content p{
+    border-style: none none none none;
     font-size: 1rem;
     display: inline;
 }
