@@ -258,6 +258,9 @@ section{
     background-position: center;
 }
 
+
+
+
 .search-form form{
     display: flex;
     align-items:flex-end;
@@ -318,6 +321,16 @@ section{
     background-size: cover;
     background-position: center;
 }
+
+@media (max-width:768px){
+    .home{
+        background: url(bluecar-mobile.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+}
+
 
 .home .content{
     max-width: 50rem;
