@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&family=Josefin+Sans:wght@300;500&family=Lora&family=Montserrat:wght@300;400;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+body {
+    background-image: linear-gradient(#81A5C8,#4B6074,#090C0F);
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+}
+
+section{
+    padding: 2rem 9%;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: #3c8cdc;
+    color: #ffffff;
+}
+
+.btn:hover{
+    background-color: #9FC8F0;
+    color: black;
+}
+
+
+.heading{
+    text-align: center;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+    font-size: 2.5rem;
+    color: #daeaf9;
+}
+
+/*navbar starts*/
+.header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 9%;
+    background-color: #4A6886;
+    box-shadow:0 .5rem .5rem #2e3e4a;
+}
+
+.header .logo{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.header .logo span{ 
+    color: #9FC8F0;
+}
+
+.header .navbar a{
+    font-size: 1.5rem;
+    margin: 0 3rem;
+    color: rgb(236, 245, 255);
+}
+
+
+.header .navbar a:hover{
+    color:#81A5C8;
+}
+
+.header .icons div{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 7px;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
+    background-color: rgb(130, 149, 172);
+    transition: all 0.3s ease-in-out;
+    color: rgb(255, 255, 255);
+}
+
+.header .icons #menu-bars{
+    display: none;
+}
+
+
+.header .icons div:hover{
+    background-color: #3c8cdc;
+    color: white;
+}
+
+#menu-btn{
+    display: none;
+}
+
+
+/* "saved list" part start */
+
+
+.header .saved-list{
+    position: absolute;
+    top: 110%; right: -110%;
+    padding: 1rem;
+    border-radius: .5rem;
+    box-shadow: #a4aaaf;
+    width: 40rem;
+    background: #333843;
+}
+
+.header .saved-list.active{
+    right: 2rem;
+    transition: .4s linear;
+}
+
+.header .saved-list .box{
+    background-color: #9cafc3;
+    border-radius: .5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+    margin: 2rem 0;
+}
+
+.header .saved-list .box a img{
+    height: 9.5rem;
+    width: 14rem;
+    margin: .5rem;
+}
+
+.header .saved-list .box .bxs-trash{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    cursor: pointer;
+    transform: translateY(-50%);
+    color: #ffffff;
+}
+
+
+.header .saved-list .box .bxs-trash:hover{
+    color: rgb(143, 150, 158);
+}
+
+.header .saved-list .box .content h3{
+    color: aliceblue;
+    font-size: 1.4rem;
+    padding-bottom:1rem;
+}
+
+.header .saved-list .box .content span{
+    color: aliceblue;
+    font-size: 1.6rem;
+}
+
+.header .saved-list .box .content .year{
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+
+.header .saved-list .total{
+    font-size: 1.5rem;
+    padding: 2rem 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+.header .saved-list .btn{
+    display:block;
+    text-align: center;
+    margin: 1rem;
+}
+
+@media (max-width:991px){
+    html{
+        font-size: 55%;
+    }
+
+    header{
+        padding: 1rem 2rem;
+    }
+}
+
+@media (max-width:768px){
+
+    .header .icons #menu-bars{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top: 100%; left: 0; right: 0;
+        background: #232428;
+        padding: 1rem;
+
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    }
+
+    .header .navbar.active{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+
+
+    .header .navbar a{
+        display: block;
+        padding: 1.5rem;
+        margin: 1rem;
+        font-size: 2rem;
+        background: #16171B;
+    }
+}
+
+@media (max-width:991px){
+    html{
+        font-size: 50%;
+    }
+}
