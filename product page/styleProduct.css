@@ -317,7 +317,7 @@ section{
 
 
 .container .box-container .box h3{
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     line-height: 1.2;
     color: #000000;
     margin-bottom: 3rem;
@@ -336,7 +336,7 @@ section{
 .container .box-container .box  h4 span{
     font-weight: bolder;
     font-size: 1.7rem;
-    margin-left: 17rem;
+    margin-left: 18rem;
 }
 
 @media (max-width:440px){
