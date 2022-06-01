@@ -390,8 +390,9 @@ section{
 }
 
 .container .box-container .box .content a{
-    margin-left: 6rem;
     margin-top: 2.4rem;
+    width: 48%;
+    text-align: center;
 }
 
 
