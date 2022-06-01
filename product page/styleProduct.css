@@ -242,9 +242,12 @@ section{
     padding: 80px 7%;
 }
 
-.container .back a{
+.container .back{
     font-size: 1.2rem;
-    margin-top: 4rem;
+    margin-top: 1rem;
+}
+
+.container .back a{
     color: white;
 }
 
@@ -267,7 +270,7 @@ section{
     flex: 1 1 500px;
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: .5rem;
     background: rgba(220, 233, 239, 0.9);
     border-radius: 1rem;
 }
@@ -278,7 +281,6 @@ section{
 
 .container .box-container .box .image-container .small-image{
     width: 20%;
-    padding: .5rem;
     border: .2rem solid white;
     border-radius: 1rem;
 }
@@ -287,7 +289,7 @@ section{
     width: 100%;
     border-radius: 1rem;
     cursor: pointer;
-    padding: .2rem;
+    padding: .1rem;
     margin-top: 1rem;
 }
 .container .box-container .box .image-container .small-image img:hover{
@@ -301,7 +303,7 @@ section{
 
 .container .box-container .box .image-container .big-image img{
     width: 100%;
-    padding: 10px;
+    padding-right: .5rem;
     border-radius: 2rem;
     cursor: pointer;
 }
@@ -337,6 +339,15 @@ section{
     margin-left: 17rem;
 }
 
+@media (max-width:440px){
+    .container .box-container .box  h4 span{
+        font-weight: bolder;
+        font-size: 1.7rem;
+        margin-left: 3.5rem;
+    }
+
+}
+
 .container .box-container .box .bmw{
     font-size: 1.2rem;
     margin-top: 1rem;
@@ -349,7 +360,7 @@ section{
 }
 
 .container .box-container .box .bmw .benefit{
-    color: #9cafc3;
+    color: #8392a2;
 }
 
 .container .box-container .box .bmw p{
@@ -381,7 +392,44 @@ section{
 .container .box-container .box .content a{
     margin-left: 5rem;
     margin-top: 2.4rem;
+}
 
+
+/* detail starts */
+
+.container .box .detail{
+    /* background-color: rgba(219, 232, 243, 0.9); */
+    border-radius: 1rem;
+    padding: 2rem;
+    font-size: 1.2rem;
+    color: white;
+    border: .2rem solid rgb(191, 209, 219);
+}
+.container .box .detail h5{
+    padding-bottom: .8rem;
+    font-size: 1.2rem;
+    color: #a4ccf3;
+}
+
+.container .box .detail p{
+    padding: .3rem;
+}
+
+.container .box .detail h6{
+    font-size: 1rem;
+}
+
+.container .box .detail .para{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.container .box .detail .para p{
+    padding-top: .6rem;
+}
+
+.container .box .detail .list{
+    margin-top: 1rem;
 }
 
 
@@ -389,5 +437,127 @@ section{
 
 
 
+/* footer */
+.footer{
+    background: rgba(37, 44, 54, 0.53);
+    margin-top: 6rem;
+}
+
+.footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem,1fr));
+    gap: 1.5rem;
+}
+
+.footer .box-container .box h3{
+    font-size: 1.5rem;
+    color: rgb(250, 255, 255);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box h3 span{
+    color:rgb(189, 212, 232)
+}
+
+.footer .box-container .box h3 i{
+    color: rgb(229, 235, 240);
+}
 
 
+.footer .box-container .box a{
+    display: block;
+    font-size: 1.4rem;
+    color: rgb(220, 226, 235);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box a:hover{
+    display: block;
+    font-size: 1.4rem;
+    color: rgb(126, 136, 152);
+    padding: 1rem 0;
+}
+
+.footer .box-container .box a i{
+    color: rgb(219, 228, 241);
+    padding-right: .5rem;
+}
+
+.footer .box-container .box a:hover i{
+    color: rgb(96, 110, 128);
+    padding-right: .5rem;
+}
+
+.footer .box-container .box p{
+    line-height: 1.7;
+    display: block;
+    font-size: 1.5rem;
+    color: white;
+    padding: 1rem 0;
+}
+
+.footer .box-container .box .email{
+    width: 100%;
+    margin: .7rem 0;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    background: #e9eaea;
+    font-size: 1.5rem;
+    color: #daeaf9;
+    text-transform: none;
+}
+
+.footer .box-container .box .btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: rgb(94, 106, 121);
+    border: 0rem solid rgb(60, 69, 79);
+    color: #daeaf9;
+}
+
+.footer .box-container .box .btn:hover{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    background-color: rgb(60, 69, 79);
+    border: 0rem solid rgb(60, 69, 79);
+    color: #daeaf9;
+}
+
+.footer .credit{
+    text-align: center;
+    margin-top: 1.5rem;
+    padding: 1rem;
+    padding-top: 1rem;
+    font-size: 1rem;
+    color: #cad1db;
+    border-top: .1rem solid rgb(18, 18, 18);
+}
+
+.footer .credit span{
+    color: #ffffff;
+}
+
+
+
+
+@media (max-width:991px){
+    section{
+        padding: 2rem;
+    }
+}
+
+@media (max-width:768px){
+    
+}
+    
+@media (max-width:450px){
+    .footer{
+        text-align: center;
+    }
+}

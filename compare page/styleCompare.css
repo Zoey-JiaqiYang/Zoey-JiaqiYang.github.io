@@ -266,7 +266,15 @@ section{
     background-color: #efefef;
 }
   
-  
+.compare .back{
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.compare .back a{
+    color: white;
+}
   
 .compare .box-container{
     display: grid;
