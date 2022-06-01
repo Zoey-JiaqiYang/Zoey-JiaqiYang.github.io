@@ -278,6 +278,14 @@ section{
     padding: 2.5rem;
 }
 
+.field{
+	border: 2px solid rgba(0, 0, 0, 0);
+	outline: none;
+	background-color: rgba(230, 230, 230, 0.6);
+	transition: .3s;
+}
+
+
 .search-form form .inputBox span{
     font-size: 1.2rem;
     color: white;
