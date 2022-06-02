@@ -237,97 +237,77 @@ section{
     }
 }
 
-
-
-/* Compare table starts */
-.compare{
-    margin-top: 5rem;
-}
-
-#compareT{
-    border-collapse: collapse;
-    width: 100%;
-    margin-top: 1rem;
-}
-  
-#compareT td{
-    border: 1px solid rgb(223, 245, 251);
-    padding: 8px;
-    font-size: larger;
-}
-
-#compareT th{
-    border: 1px solid rgb(223, 245, 251);
-    padding: 8px;
-    color: #262934;
-}
-  
-#compareT tr:nth-child(even){
-    background-color: #efefef;
-}
-  
-.compare .back{
+/* enquire form starts */
+.back{
     font-size: 1.2rem;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 10rem;
+    margin-left: 10rem;
 }
-
-.compare .back a{
+.back a{
     color: white;
 }
-  
-.compare .box-container{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
-    gap: 3rem;
-    padding-bottom: 3rem;
+
+/* chosen info */
+.container1{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 5rem;
 }
 
-.compare .box-container .box{
-    padding: 1rem .5rem;
-    padding-bottom: 2rem;
-    background: #cee0f09d;
+.container1 .information{
+	max-width: 850px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #fff;
+	box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+}
+
+.container1 .left{
+	background: url("save\ and\ compare2.svg") no-repeat center;
+	background-size: cover;
+	height: 100%;
+}
+
+.container1 .right{
+	padding: 25px 40px;
+}
+
+
+@media screen and (max-width: 880px){
+	.container1 .information{
+		grid-template-columns: 1fr;
+	}
+	.container1 .left{
+		height: 90px;
+	}
+}
+
+.submitted{
     text-align: center;
-    box-shadow: .5rem .5rem .5rem #44464d;
-    border-radius: 1rem;
+    margin-top: 2rem;
+    font-size: 3rem;
+    color: white;
 }
 
-
-.compare .box-container .box img{
-    margin: 1rem 0;
-    height: 23rem;
-    max-width: 100%;
-    width: 40rem;
-    border-radius: 1.5rem;
-}
-
-.compare .box-container .box h3{
-    font-size: 1.5rem;
-    line-height: 1.2;
-    color: #000000;
-    
-}
-
-.compare .box-container .box p{
-    font-size: 1.5rem;
-    line-height: 1.8;
-    color: #35383d;
-    padding: 1rem 1.2rem;
-    text-align: left;
+.submitted h5{
+    margin-top: 1rem;
+    color: #cce2f8;
+    font-size: 1rem;
 }
 
 
 
-
-
-
-
-
-
-
+/* footer */
 .footer{
     background: rgba(37, 44, 54, 0.53);
-    margin-top: 6rem;
+    margin-top: 10rem;
 }
 
 .footer .box-container{
@@ -448,3 +428,5 @@ section{
         text-align: center;
     }
 }
+
+
