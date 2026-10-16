@@ -6,6 +6,7 @@
       "category": "markets",
       "title_en": "AI chip rout sends Korea's Kospi down 7.6%",
       "title_zh": "AI芯片股暴跌，韩国综指单日重挫7.6%",
+      "search_zh": "韩国股市暴跌 AI芯片",
       "summary_en": "Asian technology stocks suffered a brutal sell-off on Thursday, with South Korea's Kospi index plunging 7.57% to 5,554.22, its lowest close in six months. Trading in Seoul was briefly halted after the fall triggered a circuit breaker, and chip giants SK Hynix and Samsung Electronics each lost around 10%. The slump spread across the region, with Japan's Nikkei 225 falling nearly 5% and SoftBank sinking more than 9%. Investors were rattled by sticky US inflation, which rose to 3.7% in September and raised bets that the Federal Reserve will hike interest rates again. Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable. Korean authorities held an emergency meeting and promised to protect investors, while traders are now watching whether the rout spreads further into US tech shares.",
       "summary_zh": "周四亚洲科技股遭遇猛烈抛售，韩国KOSPI综合指数暴跌7.57%，收于5554.22点，创六个月来最低收盘。跌幅触发熔断机制，首尔股市一度暂停交易，芯片巨头SK海力士和三星电子各跌约10%。跌势蔓延至整个亚洲，日本日经225指数下跌近5%，软银集团跌逾9%。美国9月通胀升至3.7%且居高不下，市场押注美联储将再次加息，令投资者恐慌。借贷成本上升也让人再度怀疑AI基础设施的巨额投入能否持续。韩国监管部门召开紧急会议并承诺保护投资者，交易员正关注这波暴跌是否会进一步波及美国科技股。",
       "why_zh": "AI概念是今年全球股市的主线，这次暴跌说明“AI泡沫”担忧正在升温，也会影响澳洲科技股和你的养老金（super）投资表现。",
@@ -14,14 +15,27 @@
       "source": "Reuters (via U.S. News & World Report)",
       "url": "https://money.usnews.com/investing/news/articles/2026-10-15/south-koreas-kospi-triggers-circuit-breaker-in-tech-led-selloff",
       "vocab": [
-        {"word": "circuit breaker", "phonetic": "/ˈsɜːkɪt ˌbreɪkə/", "pos": "n.", "zh": "（股市）熔断机制", "example": "Trading in Seoul was briefly halted after the fall triggered a circuit breaker, and chip giants SK Hynix and Samsung Electronics each lost around 10%."},
-        {"word": "sustainable", "phonetic": "/səˈsteɪnəbl/", "pos": "adj.", "zh": "可持续的", "example": "Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable."}
+        {
+          "word": "circuit breaker",
+          "phonetic": "/ˈsɜːkɪt ˌbreɪkə/",
+          "pos": "n.",
+          "zh": "（股市）熔断机制",
+          "example": "Trading in Seoul was briefly halted after the fall triggered a circuit breaker, and chip giants SK Hynix and Samsung Electronics each lost around 10%."
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "pos": "adj.",
+          "zh": "可持续的",
+          "example": "Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable."
+        }
       ]
     },
     {
       "category": "australia",
       "title_en": "Australian unemployment hits five-year high of 4.7%",
       "title_zh": "澳洲失业率升至4.7%，创五年新高",
+      "search_zh": "澳洲失业率 4.7%",
       "summary_en": "Australia's unemployment rate rose to 4.7% in September, its highest level since the end of the COVID lockdowns in October 2021, according to the Australian Bureau of Statistics. The economy shed about 39,300 jobs, even though economists had expected it to add around 20,000. The decline was driven by a sharp drop in part-time work, which more than offset a rise in full-time jobs. The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation. Some economists say the softening labour market makes another rate hike less likely, and the Australian dollar slipped after the data was released. The RBA's next decision is due on November 3, and the October jobs figures will be published on November 19.",
       "summary_zh": "澳大利亚统计局数据显示，9月澳洲失业率升至4.7%，为2021年10月新冠封锁结束以来的最高水平。经济学家原本预计新增约2万个就业岗位，结果却减少了约3.93万个。下降主要来自兼职岗位大幅减少，抵消了全职岗位的增长还有余。这份疲弱数据公布时，距离澳洲储备银行把现金利率上调至4.60%以对抗顽固通胀仅过去两周。部分经济学家认为，劳动力市场转弱让央行再次加息的可能性降低，数据公布后澳元走低。澳储行下次利率决议在11月3日，10月就业数据将于11月19日公布。",
       "why_zh": "失业率和利率直接影响房贷、找工作和企业营销预算；兼职岗位减少也意味着消费者可能更“抠门”，做营销要更重视性价比。",
@@ -30,14 +44,27 @@
       "source": "Australian Bureau of Statistics",
       "url": "https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-47-september",
       "vocab": [
-        {"word": "offset", "phonetic": "/ˌɒfˈset/", "pos": "v.", "zh": "抵消；弥补", "example": "The decline was driven by a sharp drop in part-time work, which more than offset a rise in full-time jobs."},
-        {"word": "stubborn", "phonetic": "/ˈstʌbən/", "pos": "adj.", "zh": "顽固的；难以改变的", "example": "The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation."}
+        {
+          "word": "offset",
+          "phonetic": "/ˌɒfˈset/",
+          "pos": "v.",
+          "zh": "抵消；弥补",
+          "example": "The decline was driven by a sharp drop in part-time work, which more than offset a rise in full-time jobs."
+        },
+        {
+          "word": "stubborn",
+          "phonetic": "/ˈstʌbən/",
+          "pos": "adj.",
+          "zh": "顽固的；难以改变的",
+          "example": "The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation."
+        }
       ]
     },
     {
       "category": "entertainment",
       "title_en": "Zhou Xun wins top acting prize at Busan film festival",
       "title_zh": "周迅凭《初次尝到寂寞》获釜山电影节表演奖",
+      "search_zh": "周迅 釜山电影节",
       "summary_en": "Chinese actress Zhou Xun has won the Best Actor prize, a gender-neutral award, at the 31st Busan International Film Festival for her role in \"The First Taste of Loneliness\". The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\". Zhou plays Yue, a middle-aged woman who returns home after her father dies and discovers that her mother has started a late-life romance. Fighting back tears on stage, she thanked her parents for giving her life and freedom, and stars including Chen Kun quickly posted congratulations online. Chinese media celebrated the win as her first acting award from a major international competitive festival, and it became one of the hottest topics on Weibo. She shared the prize with a performer from the Japanese film \"Satoko Always\", while the festival's top award went to Iranian director Majid Majidi's \"Midday Meal\".",
       "summary_zh": "中国女演员周迅凭借电影《初次尝到寂寞》，获得第31届釜山国际电影节主竞赛单元的表演奖（该奖项不分性别，中文媒体称其为“影后”）。影片由顾晓刚（又名顾游）执导，是他广受好评的“山水”三部曲的最终章，系列第一部是《春江水暖》。周迅在片中饰演中年女性江月，父亲去世后她回乡整理遗物，却发现母亲开始了一段黄昏恋。周迅在台上哽咽，感谢父母给予她生命和自由，陈坤等明星也纷纷在网上发文祝贺。中文媒体称这是她首个国际A类竞赛电影节的表演奖，相关话题迅速登上微博热搜。她与日本电影《Satoko Always》的演员分享该奖，最佳影片则由伊朗导演马基德·马基迪的《Midday Meal》摘得。",
       "why_zh": "华语电影和演员在亚洲最大电影节上获认可，“文艺片+实力派”话题也展示了口碑营销如何带动社交媒体热度。",
@@ -46,8 +73,20 @@
       "source": "The Paper (澎湃新闻); Busan International Film Festival",
       "url": "https://m.thepaper.cn/newsDetail_forward_34258771",
       "vocab": [
-        {"word": "acclaimed", "phonetic": "/əˈkleɪmd/", "pos": "adj.", "zh": "广受赞誉的", "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."},
-        {"word": "trilogy", "phonetic": "/ˈtrɪlədʒi/", "pos": "n.", "zh": "三部曲", "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."}
+        {
+          "word": "acclaimed",
+          "phonetic": "/əˈkleɪmd/",
+          "pos": "adj.",
+          "zh": "广受赞誉的",
+          "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."
+        },
+        {
+          "word": "trilogy",
+          "phonetic": "/ˈtrɪlədʒi/",
+          "pos": "n.",
+          "zh": "三部曲",
+          "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."
+        }
       ]
     }
   ]

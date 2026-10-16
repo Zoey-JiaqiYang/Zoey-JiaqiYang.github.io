@@ -515,7 +515,11 @@
             <div class="ni-text">${body}</div>
             ${it.why_zh ? `<div class="ni-why">${esc(it.why_zh)}</div>` : ""}
             <div class="ni-foot">
-              ${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">阅读原文 ↗</a>` : "<span></span>"}
+              <div class="ni-links">
+                ${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">原文 ↗</a>` : ""}
+                <a class="xhs" href="https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(it.search_zh || it.title_zh)}" target="_blank" rel="noopener">小红书</a>
+                <a class="dy" href="https://www.douyin.com/search/${encodeURIComponent(it.search_zh || it.title_zh)}" target="_blank" rel="noopener">抖音</a>
+              </div>
               <button class="btn small read-btn ${read ? "on" : ""}" data-read="${i}">${read ? "✓ 已读" : "读完了，打卡"}</button>
             </div>
           </div>

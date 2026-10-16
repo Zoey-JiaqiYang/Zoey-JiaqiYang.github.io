@@ -439,3 +439,12 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .lg.full { background: var(--teal); }
 .lg.part { background: var(--pink); }
 .lg.none { background: rgba(255,255,255,.9); border: 1px solid var(--line); }
+
+/* news: "see more" links */
+.ni-links { display: flex; gap: 6px; flex-wrap: wrap; }
+.ni-foot .ni-links a {
+  padding: 6px 12px; border-radius: 999px; font-size: 12.5px; font-weight: 500;
+  background: rgba(255,255,255,.85); color: var(--teal-2); text-decoration: none;
+}
+.ni-foot .ni-links a.xhs { background: #ffe1e6; color: #d6284a; }
+.ni-foot .ni-links a.dy { background: #1f2d33; color: #fff; }
