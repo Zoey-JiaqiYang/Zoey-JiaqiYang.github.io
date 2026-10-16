@@ -304,8 +304,6 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .hello .date { margin: 0 0 6px; color: var(--ink-2); font-size: 13px; }
 .hello h1 { margin: 0; font-size: 30px; font-weight: 600; line-height: 1.15; letter-spacing: -0.01em; }
 .hello .wave { display: inline-block; animation: float 4s ease-in-out infinite; }
-.squiggle { display: block; width: 150px; height: 12px; margin-top: 6px; }
-.squiggle path { fill: none; stroke: var(--pink-deep); stroke-width: 2.4; stroke-linecap: round; filter: url(#wobble); }
 @keyframes float { 50% { transform: translateY(-4px) rotate(-6deg); } }
 .streak-badge {
   display: flex; align-items: center; gap: 4px; padding: 10px 14px; border-radius: 999px;
@@ -489,3 +487,4 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .b-more p b { color: var(--teal); }
 .b-actions { display: flex; flex-wrap: wrap; gap: 6px; }
 .b-actions .del { color: var(--bad); }
+.sum-actions { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 4px; }

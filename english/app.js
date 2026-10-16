@@ -120,8 +120,12 @@
     '<svg class="doodle" viewBox="0 0 60 60"><path d="M12 36 C 12 26, 22 22, 28 26 C 30 16, 46 16, 46 28 C 54 28, 54 40, 46 40 L16 40 C 12 40, 10 38, 12 36 Z"/></svg>',
   ];
 
+  // rounds of 5: the daily round, then optional "learn 5 more" rounds
+  const roundStart = (d) => Math.floor(Math.min(d.idx, d.set.length - 1) / 5) * 5;
   function renderSteps(d) {
-    $("#wordSteps").innerHTML = d.set.map((it, i) => {
+    const r0 = roundStart(d);
+    $("#wordSteps").innerHTML = d.set.slice(r0, r0 + 5).map((it, k) => {
+      const i = r0 + k;
       const a = d.answers[i];
       const cls = a ? (a.ok ? "ok" : "bad") : i === d.idx ? "cur" : "";
       return `<i class="${cls}"></i>`;
@@ -149,7 +153,7 @@
         <div class="flip-inner">
           <div class="face front">
             <span class="chip ${chipCls} tag">${chipText}</span>
-            <span class="counter">${d.idx + 1} / ${d.set.length}</span>
+            <span class="counter">${d.idx - roundStart(d) + 1} / ${Math.min(5, d.set.length - roundStart(d))}</span>
             <div class="word-big">${esc(it.w)}</div>
             <div class="word-meta">
               ${it.ph ? `<span>${esc(it.ph)}</span>` : ""}<span>${esc(it.pos)}</span>
@@ -227,38 +231,69 @@
 
   function renderSummary() {
     const d = day();
-    const okN = d.answers.filter((a) => a && a.ok).length;
+    const r0 = roundStart(d);
+    const round = d.set.slice(r0);
+    const okN = d.answers.slice(r0).filter((a) => a && a.ok).length;
+    const extra = d.set.length - 5;
     $("#quiz").innerHTML = `
       <div class="summary">
-        <div class="stamp">DONE<small>${okN} / ${d.set.length}</small></div>
+        <div class="stamp">${r0 ? "BONUS" : "DONE"}<small>${okN} / ${round.length}</small></div>
+        ${extra > 0 ? `<p class="hand-note" style="margin:-4px 0 10px">今天已经多学了 ${extra} 个词，厉害！✎</p>` : ""}
         <ul class="sum-list">
-          ${d.set.map((it, i) => {
+          ${round.map((it, k) => {
+            const i = r0 + k;
             const a = d.answers[i] || {};
             return `<li><span class="mk ${a.ok ? "ok" : "bad"}">${a.ok ? "✓" : "✗"}</span><b>${esc(it.w)}</b><span class="zh">${esc(it.zh)}</span>${a.ok ? "" : `<span class="again">${a.again || 1} 天后再考</span>`}</li>`;
           }).join("")}
         </ul>
-        <button class="btn ghost small" id="redoBtn">再过一遍（不计分）</button>
+        <div class="sum-actions">
+          <button class="btn" id="moreBtn">＋ 再学 5 个新词</button>
+          <button class="btn ghost small" id="redoBtn">再过一遍（不计分）</button>
+        </div>
       </div>`;
     $("#redoBtn").addEventListener("click", practice);
+    $("#moreBtn").addEventListener("click", moreWords);
+  }
+
+  // bonus round: 5 more brand-new words (no reviews), counted toward "learned"
+  function moreWords() {
+    const d = day();
+    const inSet = new Set(d.set.map((it) => it.w));
+    const pick = [];
+    const pattern = ["mkt", "confuse", "adv", "mkt", "confuse", "adv"];
+    let p = 0, guard = 0;
+    while (pick.length < 5 && guard++ < 40) {
+      const kind = pattern[p++ % pattern.length];
+      const e = shuffle(BANK[kind].filter((e) => !S.seen[e.w] && !inSet.has(e.w) && !S.queue[e.w] && !(e.like && inSet.has(e.like))))[0];
+      if (e) { inSet.add(e.w); pick.push(makeItem(e, kind)); }
+    }
+    if (!pick.length) return toast("词库里的新词都学完啦，明天再来复习 🌷");
+    d.set.push(...pick);
+    d.idx = d.set.length - pick.length;
+    save();
+    renderQuiz();
+    renderHome();
   }
 
   // practice mode: flip through today's cards again without affecting the schedule
   function practice() {
     const d = day();
+    const r0 = roundStart(d);
+    const cards = d.set.slice(r0);
     let i = 0;
     const show = () => {
-      const it = d.set[i];
+      const it = cards[i];
       $("#quiz").innerHTML = `
         <div class="flip" id="flip"><div class="flip-inner">
-          <div class="face front"><span class="counter">${i + 1} / ${d.set.length}</span><div class="word-big">${esc(it.w)}</div>
+          <div class="face front"><span class="counter">${i + 1} / ${cards.length}</span><div class="word-big">${esc(it.w)}</div>
             <div class="word-meta"><span>${esc(it.ph)}</span><button class="speak" data-say="${esc(it.w)}">🔊</button></div>${DOODLES[i % 5]}</div>
           <div class="face back"><div class="ans">${esc(it.zh)}</div>${it.ex ? `<p class="ex">${highlight(it.ex, it.w)}</p>` : ""}${it.tip ? `<p class="tipline">${esc(it.tip)}</p>` : ""}</div>
         </div></div>
         <div class="quiz-foot"><span class="hand-note">点卡片翻面</span>
-          <span><button class="btn ghost small" id="pExit">退出</button> <button class="btn small" id="pNext">${i < d.set.length - 1 ? "下一张 →" : "结束"}</button></span></div>`;
+          <span><button class="btn ghost small" id="pExit">退出</button> <button class="btn small" id="pNext">${i < cards.length - 1 ? "下一张 →" : "结束"}</button></span></div>`;
       $("#flip").addEventListener("click", (e) => { if (!e.target.closest(".speak")) $("#flip").classList.toggle("flipped"); });
       $("#pExit").addEventListener("click", renderSummary);
-      $("#pNext").addEventListener("click", () => (++i < d.set.length ? show() : renderSummary()));
+      $("#pNext").addEventListener("click", () => (++i < cards.length ? show() : renderSummary()));
     };
     show();
   }
@@ -759,7 +794,7 @@
   function renderProgress() {
     const d = day();
     const wDone = d.set ? d.answers.filter(Boolean).length : 0;
-    $("#pWords").textContent = `${wDone}/5`;
+    $("#pWords").textContent = `${Math.min(wDone, 5)}/5`;
     $("#pNews").textContent = `${newsCount(d)}/3`;
     $("#pillWords").classList.toggle("done", !!d.wordsDone);
     $("#pillNews").classList.toggle("done", newsCount(d) >= 3);
@@ -814,8 +849,9 @@
     const d = day();
     const wDone = d.set ? d.answers.filter(Boolean).length : 0;
     const n = newsCount(d);
-    $("#homeWordsSub").textContent = d.wordsDone ? "今日已完成 ✓" : wDone ? `已完成 ${wDone}/5` : "5 个词 · 约 2 分钟";
-    $("#homeWordsBar").style.width = (wDone / 5) * 100 + "%";
+    const extra = d.set ? d.set.length - 5 : 0;
+    $("#homeWordsSub").textContent = d.wordsDone ? `今日已完成 ✓${extra > 0 ? ` · 加练 ${extra}` : ""}` : wDone ? `已完成 ${Math.min(wDone, 5)}/5` : "5 个词 · 约 2 分钟";
+    $("#homeWordsBar").style.width = (Math.min(wDone, 5) / 5) * 100 + "%";
     const lead = newsData?.items?.[0];
     $("#homeNewsSub").textContent = n >= 3 ? "今日已读完 ✓" : lead ? `${n}/3 · ${lead.title_zh}` : "3 条 · 中英双语";
     $("#homeNewsBar").style.width = (n / 3) * 100 + "%";
