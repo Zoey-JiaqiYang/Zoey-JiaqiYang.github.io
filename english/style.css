@@ -194,7 +194,6 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .dr-sec h5 { margin: 0 0 6px; font-size: 12px; color: var(--ink-3); font-weight: 500; text-transform: uppercase; letter-spacing: .06em; }
 .zh-chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .zh-chip { border: 1.5px solid transparent; background: var(--pink); color: #6e2f5c; border-radius: 999px; padding: 4px 11px; font-size: 14px; }
-.zh-chip.sel { border-color: var(--pink-deep); background: #fff; }
 .zh-chip .pos { font-size: 11px; opacity: .7; margin-right: 4px; }
 .en-defs { margin: 0; padding-left: 18px; font-size: 14px; color: var(--ink); line-height: 1.5; }
 .en-defs li { margin-bottom: 6px; }

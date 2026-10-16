@@ -386,16 +386,6 @@
     return days;
   }
 
-  function setMeaning(w, zh) {
-    const n = S.notebook[w];
-    if (!n) return;
-    n.zh = zh;
-    if (S.queue[w]) S.queue[w].entry.zh = zh;
-    else addLookup(w, n);
-    save();
-    renderNotebook();
-  }
-
   let lookupSeq = 0;
   async function lookup(raw) {
     const q = raw.trim();
@@ -437,8 +427,8 @@
         <button class="speak" id="drSpeak" aria-label="发音">🔊</button>
         <span class="dr-saved">✓ 已存入生词本${days ? `，${days} 天后考你` : ""}</span>
       </div>
-      ${chips.length ? `<div class="dr-sec"><h5>中文释义 · 点一个设为考题答案</h5><div class="zh-chips">
-        ${chips.map((c) => `<button class="zh-chip ${saved.zh.split("；")[0] === c.term ? "sel" : ""}" data-zh="${esc(c.term)}"><span class="pos">${esc(c.pos)}</span>${esc(c.term)}</button>`).join("")}
+      ${chips.length ? `<div class="dr-sec"><h5>中文释义</h5><div class="zh-chips">
+        ${chips.map((c) => `<span class="zh-chip"><span class="pos">${esc(c.pos)}</span>${esc(c.term)}</span>`).join("")}
       </div></div>` : ""}
       ${en?.defs.length ? `<div class="dr-sec"><h5>English</h5><ol class="en-defs">
         ${en.defs.map((d) => `<li><span class="pos">${esc(d.pos)}</span>${esc(d.def)}${d.eg ? `<span class="eg">“${esc(d.eg)}”</span>` : ""}</li>`).join("")}
@@ -448,12 +438,6 @@
       e.stopPropagation();
       if (en?.audio) new Audio(en.audio).play().catch(() => speak(q)); else speak(q);
     });
-    out.querySelectorAll(".zh-chip").forEach((b) => b.addEventListener("click", () => {
-      out.querySelectorAll(".zh-chip").forEach((x) => x.classList.remove("sel"));
-      b.classList.add("sel");
-      setMeaning(key, b.dataset.zh);
-      toast(`考题答案已设为「${b.dataset.zh}」`);
-    }));
   }
 
   document.addEventListener("click", (e) => {
@@ -887,6 +871,19 @@
     if (cameFromHome) { cameFromHome = false; history.back(); } else go("home", false);
   }));
   let cameFromHome = false;
+  // home search bar → open the dictionary and focus the input inside the same tap,
+  // otherwise iOS won't pop up the keyboard
+  $("#homeSearch").addEventListener("click", (e) => {
+    e.preventDefault();
+    cameFromHome = true;
+    closePop();
+    document.querySelectorAll(".view").forEach((el) => (el.hidden = el.dataset.view !== "dict"));
+    const input = $("#dictInput");
+    input.focus();
+    input.select();
+    history.pushState(null, "", "#/dict");
+    window.scrollTo(0, 0);
+  });
   document.querySelectorAll('.home a[href^="#/"]').forEach((a) => a.addEventListener("click", () => (cameFromHome = true)));
 
   /* ═════════════ boot ═════════════ */
