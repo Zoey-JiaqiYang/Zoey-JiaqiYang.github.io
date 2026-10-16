@@ -268,7 +268,7 @@
     if (s) { e.stopPropagation(); speak(s.dataset.say); }
   });
   document.addEventListener("keydown", (e) => {
-    if (e.target.matches("input, textarea")) return;
+    if (e.target.matches("input, textarea") || $('[data-view="words"]').hidden) return;
     const d = day();
     if (!d.set || d.idx >= d.set.length) return;
     if (!d.answers[d.idx] && "1234".includes(e.key)) answer(+e.key - 1);
@@ -412,7 +412,7 @@
     if (!b) return;
     $("#dictInput").value = b.dataset.look;
     lookup(b.dataset.look);
-    if (b.closest(".pop")) $("#dict").scrollIntoView({ behavior: "smooth", block: "start" });
+    if (b.closest(".pop")) { closePop(); go("dict", false); }
   });
   $("#dictForm").addEventListener("submit", (e) => { e.preventDefault(); lookup($("#dictInput").value); $("#dictInput").blur(); });
 
@@ -486,7 +486,7 @@
   function renderNews() {
     const list = $("#newsList");
     document.querySelectorAll("#langSeg button").forEach((b) => b.classList.toggle("on", b.dataset.lang === LANG));
-    $("#news").classList.toggle("both", LANG === "both");
+    $('[data-view="news"]').classList.toggle("both", LANG === "both");
     $("#newsNext").disabled = newsDate >= TODAY;
     if (!newsData) {
       list.innerHTML = `<div class="news-empty">这一天没有热点存档 🌙</div>`;
@@ -541,6 +541,7 @@
       save();
     }
     renderNews();
+    renderHome();
   }
 
   $("#langSeg").addEventListener("click", (e) => {
@@ -650,6 +651,7 @@
     }
     renderCalendar();
     renderStats();
+    renderHome();
   }
   $("#celebrate").addEventListener("click", () => ($("#celebrate").hidden = true));
 
@@ -687,11 +689,60 @@
     $("#statQueue").textContent = Object.keys(S.queue).length;
   }
 
+  /* ═════════════ home + router ═════════════ */
+  function renderHome() {
+    const d = day();
+    const wDone = d.set ? d.answers.filter(Boolean).length : 0;
+    const n = newsCount(d);
+    $("#homeWordsSub").textContent = d.wordsDone ? "今日已完成 ✓" : wDone ? `已完成 ${wDone}/5` : "5 个词 · 约 2 分钟";
+    $("#homeWordsBar").style.width = (wDone / 5) * 100 + "%";
+    const lead = newsData?.items?.[0];
+    $("#homeNewsSub").textContent = n >= 3 ? "今日已读完 ✓" : lead ? `${n}/3 · ${lead.title_zh}` : "3 条 · 中英双语";
+    $("#homeNewsBar").style.width = (n / 3) * 100 + "%";
+    $("#newsCount").textContent = `${n}/3`;
+    // this week (Mon → Sun)
+    const t = parseYmd(TODAY);
+    const mon = addDays(TODAY, -((t.getDay() + 6) % 7));
+    $("#homeWeek").innerHTML = ["一", "二", "三", "四", "五", "六", "日"].map((w, i) => {
+      const k = addDays(mon, i);
+      return `<div class="${status(S.days[k])} ${k === TODAY ? "today" : ""}">${w}<span>${parseYmd(k).getDate()}</span></div>`;
+    }).join("");
+    let streak = 0;
+    let cur = status(S.days[TODAY]) === "full" ? TODAY : addDays(TODAY, -1);
+    while (status(S.days[cur]) === "full") { streak++; cur = addDays(cur, -1); }
+    $("#homeStreak").textContent = streak;
+  }
+
+  const VIEWS = ["home", "dict", "words", "news", "cal"];
+  function route() {
+    const v = (location.hash.match(/^#\/(\w+)/) || [])[1] || "home";
+    const view = VIEWS.includes(v) ? v : "home";
+    closePop();
+    document.querySelectorAll(".view").forEach((el) => (el.hidden = el.dataset.view !== view));
+    window.scrollTo(0, 0);
+    if (view === "dict") setTimeout(() => $("#dictInput").focus(), 60);
+    if (view === "home") renderHome();
+  }
+  function go(view, replace) {
+    const h = view === "home" ? "#/" : `#/${view}`;
+    if (replace) history.replaceState(null, "", h); else location.hash = h;
+    route();
+  }
+  window.addEventListener("hashchange", route);
+  // back button: go back in history if we came from home, so the phone's back gesture feels natural
+  document.querySelectorAll(".topbar .back").forEach((a) => a.addEventListener("click", (e) => {
+    e.preventDefault();
+    if (cameFromHome) { cameFromHome = false; history.back(); } else go("home", false);
+  }));
+  let cameFromHome = false;
+  document.querySelectorAll('.home a[href^="#/"]').forEach((a) => a.addEventListener("click", () => (cameFromHome = true)));
+
   /* ═════════════ boot ═════════════ */
   const h = new Date().getHours();
   $("#greeting").textContent = h < 12 ? "Good Morning" : h < 18 ? "Good Afternoon" : "Good Evening";
   $("#todayLabel").textContent = new Date().toLocaleDateString("en-AU", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
 
+  route();
   renderNotebook();
   renderProgress();
   // build today's set after news vocab is known, so earlier news words can join the pool
