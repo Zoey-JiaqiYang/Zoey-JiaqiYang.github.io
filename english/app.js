@@ -309,44 +309,76 @@
   });
 
   /* ═════════════ dictionary ═════════════ */
-  async function gtx(q, sl, tl) {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}&dt=t&dt=bd&dj=1&q=${encodeURIComponent(q)}`;
-    const r = await fetch(url);
-    if (!r.ok) throw new Error("gtx " + r.status);
-    const j = await r.json();
+  // fetch with a hard timeout so one slow source never blocks the result
+  async function fetchJ(url, ms) {
+    const ctl = new AbortController();
+    const t = setTimeout(() => ctl.abort(), ms);
+    try {
+      const r = await fetch(url, { signal: ctl.signal });
+      if (!r.ok) throw new Error(String(r.status));
+      return await r.json();
+    } finally { clearTimeout(t); }
+  }
+  const stripTags = (s) => String(s || "").replace(/<[^>]+>/g, "");
+
+  async function gtx(q, sl, tl, extra = false) {
+    const dts = ["t", "bd"].concat(extra ? ["md", "ex"] : []).map((d) => `&dt=${d}`).join("");
+    const j = await fetchJ(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=${sl}&tl=${tl}${dts}&dj=1&q=${encodeURIComponent(q)}`, 3500);
     return {
       text: (j.sentences || []).map((s) => s.trans || "").join("").trim(),
       dict: (j.dict || []).map((d) => ({ pos: d.pos, terms: (d.terms || []).slice(0, 5) })),
+      defs: (j.definitions || []).flatMap((d) => (d.entry || []).slice(0, 2).map((e) => ({ pos: d.pos, def: e.gloss, eg: stripTags(e.example) }))).slice(0, 4),
+      examples: ((j.examples && j.examples.example) || []).map((e) => stripTags(e.text)).slice(0, 3),
     };
   }
   async function myMemory(q, sl, tl) {
-    const r = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=${sl}|${tl}`);
-    const j = await r.json();
-    return { text: j?.responseData?.translatedText || "", dict: [] };
+    const j = await fetchJ(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=${sl}|${tl}`, 3500);
+    return { text: j?.responseData?.translatedText || "", dict: [], defs: [], examples: [] };
   }
-  async function translate(q, sl, tl) {
-    try { return await gtx(q, sl, tl); } catch (e) {
-      try { return await myMemory(q, sl === "zh-CN" ? "zh-CN" : "en", tl); } catch (e2) { return { text: "", dict: [] }; }
-    }
+  // first source that answers wins: Google straight away, MyMemory joins in if Google is slow (>1.2s) or fails
+  function translate(q, sl, tl, extra = false) {
+    const empty = { text: "", dict: [], defs: [], examples: [] };
+    return new Promise((resolve) => {
+      let done = false, failures = 0, mmStarted = false;
+      const finish = (r) => { if (!done) { done = true; resolve(r); } };
+      const bad = () => { if (++failures >= 2) finish(empty); };
+      const startMM = () => {
+        if (mmStarted || done) return;
+        mmStarted = true;
+        myMemory(q, sl === "zh-CN" ? "zh-CN" : "en", tl).then((r) => (r.text ? finish(r) : bad()), bad);
+      };
+      gtx(q, sl, tl, extra).then((r) => (r.text || r.dict.length ? finish(r) : (bad(), startMM())), () => { bad(); startMM(); });
+      setTimeout(startMM, 1200);
+      setTimeout(() => finish(empty), 4000);
+    });
   }
   async function englishEntry(w) {
     try {
-      const r = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(w)}`);
-      if (!r.ok) return null;
-      const j = await r.json();
+      const j = await fetchJ(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(w)}`, 4000);
       const first = j[0] || {};
-      const ph = first.phonetic || (j.flatMap((e) => e.phonetics || []).find((p) => p.text) || {}).text || "";
-      const audio = (j.flatMap((e) => e.phonetics || []).find((p) => p.audio && /-(au|uk)\.mp3/.test(p.audio)) || j.flatMap((e) => e.phonetics || []).find((p) => p.audio) || {}).audio || "";
+      const phs = j.flatMap((e) => e.phonetics || []);
+      const ph = first.phonetic || (phs.find((p) => p.text) || {}).text || "";
+      const audio = (phs.find((p) => p.audio && /-(au|uk)\.mp3/.test(p.audio)) || phs.find((p) => p.audio) || {}).audio || "";
       const defs = [];
       for (const e of j) for (const m of e.meanings || []) for (const d of m.definitions || []) {
-        if (defs.length < 4 && !defs.some((x) => x.pos === m.partOfSpeech && defs.filter((y) => y.pos === m.partOfSpeech).length >= 2))
-          defs.push({ pos: m.partOfSpeech, def: d.definition, eg: d.example || "" });
+        if (defs.length < 4 && defs.filter((y) => y.pos === m.partOfSpeech).length < 2) defs.push({ pos: m.partOfSpeech, def: d.definition, eg: d.example || "" });
       }
       return { ph, audio, defs };
     } catch (e) { return null; }
   }
 
   const POS_ZH = { noun: "n.", verb: "v.", adjective: "adj.", adverb: "adv.", preposition: "prep.", conjunction: "conj.", pronoun: "pron.", interjection: "int.", abbreviation: "abbr.", phrase: "phr." };
+
+  // per-browser cache: a word you've looked up before shows instantly
+  const DKEY = "zoey-english-desk.dict";
+  let DCACHE = {};
+  try { DCACHE = JSON.parse(localStorage.getItem(DKEY) || "{}"); } catch (e) {}
+  function cachePut(k, v) {
+    DCACHE[k] = v;
+    const keys = Object.keys(DCACHE);
+    if (keys.length > 400) delete DCACHE[keys[0]];
+    try { localStorage.setItem(DKEY, JSON.stringify(DCACHE)); } catch (e) {}
+  }
 
   // word book: every looked-up, saved or wrongly answered word
   function bookAdd(w, data, src) {
@@ -392,9 +424,10 @@
     if (!q) return;
     const seq = ++lookupSeq;
     const out = $("#dictResult");
-    out.innerHTML = `<div class="dr-box"><div class="loading">查询中</div></div>`;
+    const key = q.toLowerCase();
 
     if (isCJK(q)) {
+      out.innerHTML = `<div class="dr-box"><div class="loading">查询中</div></div>`;
       const t = await translate(q, "zh-CN", "en");
       if (seq !== lookupSeq) return;
       const cands = [...new Set([...t.dict.flatMap((d) => d.terms), t.text].filter(Boolean))].slice(0, 8);
@@ -406,38 +439,83 @@
       return;
     }
 
-    const [t, en] = await Promise.all([translate(q, "en", "zh-CN"), englishEntry(q)]);
-    if (seq !== lookupSeq) return;
-    if (!t.text && !t.dict.length && !en) {
-      out.innerHTML = `<div class="dr-box"><div class="dr-top"><h3>${esc(q)}</h3></div><p class="dr-note">网络好像不太通，或者没有这个词 🤔</p></div>`;
-      return;
-    }
-    const chips = t.dict.length
-      ? t.dict.flatMap((d) => d.terms.slice(0, 4).map((term) => ({ pos: POS_ZH[d.pos] || d.pos, term })))
-      : t.text ? [{ pos: "", term: t.text }] : [];
-    const firstPos = chips[0]?.pos || "";
-    const defaultZh = t.dict.length ? t.dict[0].terms.slice(0, 2).join("；") : t.text;
-    const key = q.toLowerCase();
-    const days = addLookup(key, { ph: en?.ph, pos: firstPos, zh: defaultZh, ex: en?.defs.find((d) => d.eg)?.eg || "" });
-    const saved = S.notebook[key];
+    // r accumulates everything we know; render() is called each time a source answers
+    const r = Object.assign({ zh: null, defs: [], examples: [], exZh: [], ph: "", audio: "" }, DCACHE[key] || {});
+    let days = null, saved = false;
+    const render = () => {
+      if (seq !== lookupSeq) return;
+      const chips = r.zh ? (r.zh.dict.length
+        ? r.zh.dict.flatMap((d) => d.terms.slice(0, 4).map((term) => ({ pos: POS_ZH[d.pos] || d.pos, term })))
+        : r.zh.text ? [{ pos: "", term: r.zh.text }] : []) : null;
+      const bankEx = ENTRY[key]?.ex;
+      const exs = [...new Set([...r.examples, ...r.defs.map((d) => d.eg).filter(Boolean), ...(bankEx ? [bankEx] : [])])].slice(0, 3);
+      out.innerHTML = `<div class="dr-box">
+        <div class="dr-top">
+          <h3>${esc(q)}</h3>${r.ph ? `<span class="ph">${esc(r.ph)}</span>` : ""}
+          <button class="speak" id="drSpeak" aria-label="发音">🔊</button>
+          ${saved ? `<span class="dr-saved">✓ 已存入生词本${days ? `，${days} 天后考你` : ""}</span>` : ""}
+        </div>
+        <div class="dr-sec"><h5>中文释义</h5>${chips === null ? `<div class="loading">查询中</div>` : chips.length
+          ? `<div class="zh-chips">${chips.map((c) => `<span class="zh-chip"><span class="pos">${esc(c.pos)}</span>${esc(c.term)}</span>`).join("")}</div>`
+          : `<p class="dr-note">网络好像不太通，或者没有这个词 🤔</p>`}</div>
+        ${exs.length ? `<div class="dr-sec"><h5>例句</h5><ul class="ex-list">
+          ${exs.map((e, i) => `<li><span class="en">${highlight(e, key)}</span>${r.exZh[i] ? `<span class="zh">${esc(r.exZh[i])}</span>` : ""}<button class="speak sm" data-say="${esc(e)}" aria-label="朗读">🔊</button></li>`).join("")}
+        </ul></div>` : ""}
+        ${r.defs.length ? `<div class="dr-sec"><h5>English</h5><ol class="en-defs">
+          ${r.defs.map((d) => `<li><span class="pos">${esc(d.pos)}</span>${esc(d.def)}</li>`).join("")}
+        </ol></div>` : ""}
+      </div>`;
+      $("#drSpeak").addEventListener("click", (e) => {
+        e.stopPropagation();
+        if (r.audio) new Audio(r.audio).play().catch(() => speak(q)); else speak(q);
+      });
+      return exs;
+    };
+    const saveNow = () => {
+      if (!r.zh || (!r.zh.text && !r.zh.dict.length)) return;
+      const zh = r.zh.dict.length ? r.zh.dict[0].terms.slice(0, 2).join("；") : r.zh.text;
+      const pos = r.zh.dict.length ? POS_ZH[r.zh.dict[0].pos] || "" : "";
+      const ex = r.examples[0] || r.defs.find((d) => d.eg)?.eg || ENTRY[key]?.ex || "";
+      const d = addLookup(key, { ph: r.ph, pos, zh, ex });
+      if (!saved) days = d;
+      saved = true;
+    };
+    let lastExs = [];
+    const translateExamples = async (exs) => {
+      if (!exs.length || exs.join("|") === lastExs.join("|")) return;
+      lastExs = exs;
+      // one small request per sentence, in parallel — robust and fast
+      const lines = await Promise.all(exs.map((e) => translate(e, "en", "zh-CN").then((t) => t.text)));
+      if (exs !== lastExs) return;
+      r.examples = exs; r.exZh = lines;
+      render();
+      cachePut(key, { zh: r.zh, defs: r.defs, examples: exs, exZh: lines, ph: r.ph, audio: r.audio });
+    };
 
-    out.innerHTML = `<div class="dr-box">
-      <div class="dr-top">
-        <h3>${esc(q)}</h3>${en?.ph ? `<span class="ph">${esc(en.ph)}</span>` : ""}
-        <button class="speak" id="drSpeak" aria-label="发音">🔊</button>
-        <span class="dr-saved">✓ 已存入生词本${days ? `，${days} 天后考你` : ""}</span>
-      </div>
-      ${chips.length ? `<div class="dr-sec"><h5>中文释义</h5><div class="zh-chips">
-        ${chips.map((c) => `<span class="zh-chip"><span class="pos">${esc(c.pos)}</span>${esc(c.term)}</span>`).join("")}
-      </div></div>` : ""}
-      ${en?.defs.length ? `<div class="dr-sec"><h5>English</h5><ol class="en-defs">
-        ${en.defs.map((d) => `<li><span class="pos">${esc(d.pos)}</span>${esc(d.def)}${d.eg ? `<span class="eg">“${esc(d.eg)}”</span>` : ""}</li>`).join("")}
-      </ol></div>` : ""}
-    </div>`;
-    $("#drSpeak").addEventListener("click", (e) => {
-      e.stopPropagation();
-      if (en?.audio) new Audio(en.audio).play().catch(() => speak(q)); else speak(q);
+    const first = render();
+    if (r.zh) { saveNow(); render(); if (!r.exZh.length) translateExamples(first || []); }
+
+    // Chinese meaning — the part that has to be fast
+    const zhP = translate(q, "en", "zh-CN", true).then((t) => {
+      r.zh = { text: t.text, dict: t.dict };
+      if (t.examples.length) r.examples = t.examples;
+      if (t.defs.length && !r.defs.length) r.defs = t.defs;
+      saveNow();
+      cachePut(key, { zh: r.zh, defs: r.defs, examples: r.examples, exZh: r.exZh, ph: r.ph, audio: r.audio });
+      const exs = render();
+      translateExamples(exs || []);
     });
+    // phonetic, audio, extra definitions/examples — fills in whenever it arrives
+    const enP = englishEntry(q).then((en) => {
+      if (!en) return;
+      r.ph = en.ph || r.ph; r.audio = en.audio || r.audio;
+      if (!r.defs.length || r.defs.every((d) => !d.eg)) r.defs = en.defs;
+      if (S.notebook[key] && r.ph) S.notebook[key].ph = r.ph;
+      const exs = render();
+      if (r.zh) translateExamples(exs || []);
+    });
+    await Promise.allSettled([zhP, enP]);
+    if (r.zh && (r.zh.text || r.zh.dict.length)) cachePut(key, { zh: r.zh, defs: r.defs, examples: r.examples, exZh: r.exZh, ph: r.ph, audio: r.audio });
   }
 
   document.addEventListener("click", (e) => {
