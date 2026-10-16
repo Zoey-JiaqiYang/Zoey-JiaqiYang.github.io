@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-17T02:00:19+11:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T02:30:00+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "AI chip rout sends Korea's Kospi down 7.6%",
-      "title_zh": "AI芯片股暴跌，韩国综指单日重挫7.6%",
-      "search_zh": "韩国股市暴跌 AI芯片",
-      "summary_en": "Asian technology stocks suffered a brutal sell-off on Thursday, with South Korea's Kospi index plunging 7.57% to 5,554.22, its lowest close in six months. Trading in Seoul was briefly halted after the fall triggered a circuit breaker, and chip giants SK Hynix and Samsung Electronics each lost around 10%. Investors were rattled by sticky US inflation, which rose to 3.7% in September and raised bets that the Federal Reserve will hike interest rates again. Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable.",
-      "summary_zh": "周四亚洲科技股遭遇猛烈抛售，韩国KOSPI综合指数暴跌7.57%，收于5554.22点，创六个月来最低收盘。跌幅触发熔断机制，首尔股市一度暂停交易，芯片巨头SK海力士和三星电子各跌约10%。美国9月通胀升至3.7%且居高不下，市场押注美联储将再次加息，令投资者恐慌。借贷成本上升也让人再度怀疑AI基础设施的巨额投入能否持续。",
-      "why_zh": "AI概念是今年全球股市的主线，这次暴跌说明“AI泡沫”担忧正在升温，也会影响澳洲科技股和你的养老金（super）投资表现。",
+      "category": "world",
+      "title_en": "Zelensky praises Europe's 'real leaders' as ties with Trump sour",
+      "title_zh": "泽连斯基布鲁塞尔求援，称赞欧洲“真正的领导人”暗讽特朗普",
+      "search_zh": "泽连斯基 欧盟峰会 特朗普",
+      "summary_en": "Ukrainian President Volodymyr Zelensky received a warm welcome from European Union leaders at a summit in Brussels on Friday, as his relationship with US President Donald Trump continues to deteriorate. Zelensky thanked the \"real leaders\" in the room, a remark widely seen as a veiled swipe at Trump, who had criticised him in a Newsmax interview a day earlier. He asked the EU for about €70 billion in additional support for 2027, on top of a €90 billion EU loan that already covers this year and next. Zelensky also warned that Ukraine is \"not a priority destination\" for US-made Patriot air-defence missiles, as most interceptors are now being sent to the Middle East.",
+      "summary_zh": "周五，乌克兰总统泽连斯基在布鲁塞尔出席欧盟峰会，受到欧盟领导人的热烈欢迎，而他与美国总统特朗普的关系正持续恶化。泽连斯基感谢在场的“真正的领导人”，此话被普遍视为暗讽特朗普——特朗普前一天刚在接受Newsmax采访时批评过他。他请求欧盟为2027年追加约700亿欧元援助，这是在欧盟已承诺覆盖今明两年的900亿欧元贷款之外的额外资金。泽连斯基还警告，乌克兰并非美制“爱国者”防空导弹的“优先供应目的地”，目前大部分拦截弹都被送往中东。",
+      "why_zh": "美欧在援乌问题上的分歧会影响全球安全格局和能源价格；“veiled swipe（含蓄地讽刺）”这类表达在英文新闻和职场沟通中都很常见。",
       "image": "",
       "image_credit": "",
-      "source": "Reuters (via U.S. News & World Report)",
-      "url": "https://money.usnews.com/investing/news/articles/2026-10-15/south-koreas-kospi-triggers-circuit-breaker-in-tech-led-selloff",
+      "source": "CNN; Euronews",
+      "url": "https://www.cnn.com/2026/10/16/europe/zelensky-brussels-trump-relationship-intl",
       "vocab": [
         {
-          "word": "circuit breaker",
-          "phonetic": "/ˈsɜːkɪt ˌbreɪkə/",
-          "pos": "n.",
-          "zh": "（股市）熔断机制",
-          "example": "Trading in Seoul was briefly halted after the fall triggered a circuit breaker, and chip giants SK Hynix and Samsung Electronics each lost around 10%."
+          "word": "deteriorate",
+          "phonetic": "/dɪˈtɪəriəreɪt/",
+          "pos": "v.",
+          "zh": "恶化；变坏",
+          "example": "Ukrainian President Volodymyr Zelensky received a warm welcome from European Union leaders at a summit in Brussels on Friday, as his relationship with US President Donald Trump continues to deteriorate."
         },
         {
-          "word": "sustainable",
-          "phonetic": "/səˈsteɪnəbl/",
+          "word": "veiled",
+          "phonetic": "/veɪld/",
           "pos": "adj.",
-          "zh": "可持续的",
-          "example": "Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable."
+          "zh": "含蓄的；隐晦的",
+          "example": "Zelensky thanked the \"real leaders\" in the room, a remark widely seen as a veiled swipe at Trump, who had criticised him in a Newsmax interview a day earlier."
         }
       ]
     },
     {
       "category": "australia",
-      "title_en": "Australian unemployment hits five-year high of 4.7%",
-      "title_zh": "澳洲失业率升至4.7%，创五年新高",
-      "search_zh": "澳洲失业率 4.7%",
-      "summary_en": "Australia's unemployment rate rose to 4.7% in September, its highest level since the end of the COVID lockdowns in October 2021, according to the Australian Bureau of Statistics. The economy shed about 39,300 jobs, even though economists had expected it to add around 20,000. The decline was driven by a sharp drop in part-time work, which more than offset a rise in full-time jobs. The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation.",
-      "summary_zh": "澳大利亚统计局数据显示，9月澳洲失业率升至4.7%，为2021年10月新冠封锁结束以来的最高水平。经济学家原本预计新增约2万个就业岗位，结果却减少了约3.93万个。下降主要来自兼职岗位大幅减少，抵消了全职岗位的增长还有余。这份疲弱数据公布时，距离澳洲储备银行把现金利率上调至4.60%以对抗顽固通胀仅过去两周。",
-      "why_zh": "失业率和利率直接影响房贷、找工作和企业营销预算；兼职岗位减少也意味着消费者可能更“抠门”，做营销要更重视性价比。",
+      "title_en": "Senate blocks Labor's health insurance rebate cut for over-65s",
+      "title_zh": "参议院否决工党削减65岁以上人群私人医保返利计划",
+      "search_zh": "澳洲私人医保 返利 65岁 参议院",
+      "summary_en": "The Senate has blocked the Albanese government's plan to remove the higher private health insurance rebate for Australians aged 65 and over, voting 38 to 23 to strike the bill from its agenda. The Coalition, the Greens, One Nation and several crossbench senators joined forces against the change, which was due to start in April 2027. The government says the measure would save about $3 billion over four years, which it plans to redirect to aged care, but the Greens will only support it if pensioners are exempted. Health Minister Mark Butler has reintroduced the same bill, while the Opposition warns that older couples could face premium increases of up to $1,614 a year.",
+      "summary_zh": "参议院以38票对23票将相关法案移出议程，阻止了阿尔巴尼斯政府取消65岁及以上澳洲人较高私人医保返利的计划。联盟党、绿党、一国党和多名中间派参议员联手反对这项原定于2027年4月实施的改革。政府称该措施四年可节省约30亿澳元，并计划将这笔钱转投养老护理，但绿党表示只有在豁免领取养老金者的情况下才会支持。卫生部长马克·巴特勒已重新提交了同一法案，而反对党警告称，老年夫妇每年的保费可能最多上涨1614澳元。",
+      "why_zh": "私人医保返利关系到很多家庭（包括父母辈）的保费支出；保险、医疗和养老行业的营销也会随政策变化调整定价和宣传。",
       "image": "",
       "image_credit": "",
-      "source": "Australian Bureau of Statistics",
-      "url": "https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-47-september",
+      "source": "The New Daily; The Senior; Canberra Times",
+      "url": "https://www.thenewdaily.com.au/news/politics/australian-politics/2026/10/15/private-health-cuts-blocked",
       "vocab": [
         {
-          "word": "offset",
-          "phonetic": "/ˌɒfˈset/",
+          "word": "exempted",
+          "phonetic": "/ɪɡˈzemptɪd/",
           "pos": "v.",
-          "zh": "抵消；弥补",
-          "example": "The decline was driven by a sharp drop in part-time work, which more than offset a rise in full-time jobs."
+          "zh": "（被）豁免；免除",
+          "example": "The government says the measure would save about $3 billion over four years, which it plans to redirect to aged care, but the Greens will only support it if pensioners are exempted."
         },
         {
-          "word": "stubborn",
-          "phonetic": "/ˈstʌbən/",
-          "pos": "adj.",
-          "zh": "顽固的；难以改变的",
-          "example": "The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation."
+          "word": "premium",
+          "phonetic": "/ˈpriːmiəm/",
+          "pos": "n.",
+          "zh": "保险费",
+          "example": "Health Minister Mark Butler has reintroduced the same bill, while the Opposition warns that older couples could face premium increases of up to $1,614 a year."
         }
       ]
     },
     {
       "category": "entertainment",
-      "title_en": "Zhou Xun wins top acting prize at Busan film festival",
-      "title_zh": "周迅凭《初次尝到寂寞》获釜山电影节表演奖",
-      "search_zh": "周迅 釜山电影节",
-      "summary_en": "Chinese actress Zhou Xun has won the Best Actor prize, a gender-neutral award, at the 31st Busan International Film Festival for her role in \"The First Taste of Loneliness\". The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\". Zhou plays Yue, a middle-aged woman who returns home after her father dies and discovers that her mother has started a late-life romance. Chinese media celebrated the win as her first acting award from a major international competitive festival, and it became one of the hottest topics on Weibo.",
-      "summary_zh": "中国女演员周迅凭借电影《初次尝到寂寞》，获得第31届釜山国际电影节主竞赛单元的表演奖（该奖项不分性别，中文媒体称其为“影后”）。影片由顾晓刚（又名顾游）执导，是他广受好评的“山水”三部曲的最终章，系列第一部是《春江水暖》。周迅在片中饰演中年女性江月，父亲去世后她回乡整理遗物，却发现母亲开始了一段黄昏恋。中文媒体称这是她首个国际A类竞赛电影节的表演奖，相关话题迅速登上微博热搜。",
-      "why_zh": "华语电影和演员在亚洲最大电影节上获认可，“文艺片+实力派”话题也展示了口碑营销如何带动社交媒体热度。",
+      "title_en": "Huang Zitao and Xu Yiyang finally confirm they are parents",
+      "title_zh": "黄子韬徐艺洋官宣当爸妈，晒一家三口海边合影",
+      "search_zh": "黄子韬 徐艺洋 官宣 一家三口",
+      "summary_en": "Former EXO member Huang Zitao and his wife Xu Yiyang have finally confirmed that they are parents, ending more than two years of speculation. On October 15, Xu posted sunset photos on Weibo that show the couple at the beach holding hands with a toddler, and the news quickly became one of the hottest topics on Chinese social media. The couple, who registered their marriage in December 2024 and held a wedding in Beijing in October 2025, had never directly confirmed rumours that they had a child, and their agency once issued a statement denying surrogacy claims. Many fans sent congratulations, but others questioned why the pair had stayed silent for so long, while the child's name, gender and date of birth remain undisclosed.",
+      "summary_zh": "前EXO成员黄子韬和妻子徐艺洋终于确认已为人父母，结束了两年多的猜测。10月15日，徐艺洋在微博发布一组夕阳照片，画面中两人在海边牵着一个已会走路的孩子，这一消息迅速成为中文社交媒体上最热门的话题之一。两人于2024年12月官宣领证，2025年10月在北京举办婚礼，此前从未正面承认过生子传闻，其经纪公司还曾发声明否认代孕传言。许多粉丝送上祝福，但也有人质疑两人为何沉默这么久，而孩子的名字、性别和出生日期至今仍未公开。",
+      "why_zh": "明星“官宣”时机和方式本身就是一种公关策略；这件事也说明，长期回避回应可能损害公众信任，对品牌危机公关很有参考价值。",
       "image": "",
       "image_credit": "",
-      "source": "The Paper (澎湃新闻); Busan International Film Festival",
-      "url": "https://m.thepaper.cn/newsDetail_forward_34258771",
+      "source": "Malay Mail; AsiaOne; Sina Entertainment (新浪娱乐)",
+      "url": "https://www.malaymail.com/amp/news/showbiz/2026/10/16/wait-huang-zitao-is-a-dad-former-exo-stars-sunset-family-photos-have-fans-talking/239284",
       "vocab": [
         {
-          "word": "acclaimed",
-          "phonetic": "/əˈkleɪmd/",
-          "pos": "adj.",
-          "zh": "广受赞誉的",
-          "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."
+          "word": "speculation",
+          "phonetic": "/ˌspekjuˈleɪʃn/",
+          "pos": "n.",
+          "zh": "猜测；推测",
+          "example": "Former EXO member Huang Zitao and his wife Xu Yiyang have finally confirmed that they are parents, ending more than two years of speculation."
         },
         {
-          "word": "trilogy",
-          "phonetic": "/ˈtrɪlədʒi/",
-          "pos": "n.",
-          "zh": "三部曲",
-          "example": "The film, directed by Gu Xiaogang, also known as Gu You, is the final chapter of his acclaimed \"Landscape\" trilogy, which began with \"Dwelling in the Fuchun Mountains\"."
+          "word": "undisclosed",
+          "phonetic": "/ˌʌndɪsˈkləʊzd/",
+          "pos": "adj.",
+          "zh": "未公开的；未透露的",
+          "example": "Many fans sent congratulations, but others questioned why the pair had stayed silent for so long, while the child's name, gender and date of birth remain undisclosed."
         }
       ]
     }
