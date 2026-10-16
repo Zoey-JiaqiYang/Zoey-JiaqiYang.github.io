@@ -57,7 +57,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .chip-lime { background: var(--lime); color: #4f5a12; }
 .chip-teal { background: var(--teal); color: #e0f1f4; }
 .chip-mint { background: var(--mint); color: #245c4a; }
-.hand-note { font-family: var(--hand); font-size: 19px; color: var(--pink-deep); line-height: 1.1; }
+.hand-note { font-size: 13px; color: var(--ink-2); line-height: 1.4; }
 
 
 .icon-btn {
@@ -113,7 +113,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .face.back { background: var(--teal); color: #e7f3f5; transform: rotateY(180deg); justify-content: center; gap: 8px; }
 .face .tag { position: absolute; top: 14px; left: 16px; }
-.face .counter { position: absolute; top: 14px; right: 18px; font-family: var(--hand); font-size: 20px; color: #8a5a7c; }
+.face .counter { position: absolute; top: 16px; right: 18px; font-size: 13px; font-weight: 500; color: #8a5a7c; }
 .doodle { position: absolute; bottom: 10px; right: 14px; width: 54px; opacity: .55; filter: url(#wobble); }
 .doodle path, .doodle circle { fill: none; stroke: #8a5a7c; stroke-width: 2; stroke-linecap: round; }
 .word-big { font-size: clamp(30px, 5vw, 42px); font-weight: 600; letter-spacing: -0.01em; margin: 6px 0 4px; }
@@ -128,7 +128,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .back .ex b { color: var(--lime); font-weight: 500; }
 .back .tipline { margin: 0; font-size: 14px; color: #f7d7ec; }
 .back .tipline::before { content: "✎ "; }
-.back .verdict { font-family: var(--hand); font-size: 24px; color: var(--lime); }
+.back .verdict { font-size: 15px; font-weight: 600; color: var(--lime); }
 .back .verdict.no { color: #ffb3c4; }
 
 .options { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
@@ -323,7 +323,7 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .search-bar span { flex: 1; }
 .search-bar i { font-style: normal; font-size: 11px; padding: 4px 10px; border-radius: 99px; background: var(--lav); color: #4a3f99; }
 
-.section-label { font-family: var(--hand); font-size: 22px; color: var(--pink-deep); margin: 22px 4px 10px; }
+.section-label { font-size: 15px; font-weight: 600; color: var(--ink); margin: 22px 4px 10px; }
 
 /* tiles */
 .tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
@@ -383,12 +383,12 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .topbar .steps { gap: 4px; padding: 0; }
 .topbar .steps i { width: 12px; }
 
-.dict-hint { margin: 10px 4px 0; font-size: 17px; }
+.dict-hint { margin: 10px 4px 0; }
 .dict-result { margin: 14px 0 6px; }
 .notebook { margin-top: 18px; }
 
 .news-tools { justify-content: space-between; margin-bottom: 8px; }
-.news-hint { margin: 4px 4px 12px; font-size: 17px; }
+.news-hint { margin: 4px 4px 12px; }
 .news-item { padding: 12px; }
 .ni-body { padding: 0 4px 4px; }
 

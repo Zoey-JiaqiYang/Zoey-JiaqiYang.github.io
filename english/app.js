@@ -113,10 +113,8 @@
 
   /* ═════════════ quiz UI ═════════════ */
   const DOODLES = [
-    '<svg class="doodle" viewBox="0 0 60 60"><path d="M30 8 L35 24 L52 24 L38 34 L43 51 L30 41 L17 51 L22 34 L8 24 L25 24 Z"/></svg>',
     '<svg class="doodle" viewBox="0 0 60 60"><path d="M30 50 C 10 38, 6 22, 18 14 C 25 10, 30 16, 30 20 C 30 16, 35 10, 42 14 C 54 22, 50 38, 30 50 Z"/></svg>',
     '<svg class="doodle" viewBox="0 0 60 60"><circle cx="30" cy="30" r="10"/><path d="M30 6v8M30 46v8M6 30h8M46 30h8M13 13l6 6M41 41l6 6M47 13l-6 6M19 41l-6 6"/></svg>',
-    '<svg class="doodle" viewBox="0 0 60 60"><path d="M10 44 C 14 30, 22 20, 30 30 S 44 36, 50 16"/><path d="M44 14 L50 16 L50 23"/></svg>',
     '<svg class="doodle" viewBox="0 0 60 60"><path d="M12 36 C 12 26, 22 22, 28 26 C 30 16, 46 16, 46 28 C 54 28, 54 40, 46 40 L16 40 C 12 40, 10 38, 12 36 Z"/></svg>',
   ];
 
@@ -238,7 +236,7 @@
     $("#quiz").innerHTML = `
       <div class="summary">
         <div class="stamp">${r0 ? "BONUS" : "DONE"}<small>${okN} / ${round.length}</small></div>
-        ${extra > 0 ? `<p class="hand-note" style="margin:-4px 0 10px">今天已经多学了 ${extra} 个词，厉害！✎</p>` : ""}
+        ${extra > 0 ? `<p class="hand-note" style="margin:-4px 0 10px">今天已经多学了 ${extra} 个词，厉害！</p>` : ""}
         <ul class="sum-list">
           ${round.map((it, k) => {
             const i = r0 + k;
@@ -286,7 +284,7 @@
       $("#quiz").innerHTML = `
         <div class="flip" id="flip"><div class="flip-inner">
           <div class="face front"><span class="counter">${i + 1} / ${cards.length}</span><div class="word-big">${esc(it.w)}</div>
-            <div class="word-meta"><span>${esc(it.ph)}</span><button class="speak" data-say="${esc(it.w)}">🔊</button></div>${DOODLES[i % 5]}</div>
+            <div class="word-meta"><span>${esc(it.ph)}</span><button class="speak" data-say="${esc(it.w)}">🔊</button></div>${DOODLES[i % DOODLES.length]}</div>
           <div class="face back"><div class="ans">${esc(it.zh)}</div>${it.ex ? `<p class="ex">${highlight(it.ex, it.w)}</p>` : ""}${it.tip ? `<p class="tipline">${esc(it.tip)}</p>` : ""}</div>
         </div></div>
         <div class="quiz-foot"><span class="hand-note">点卡片翻面</span>
@@ -589,9 +587,6 @@
       <svg viewBox="0 0 300 200" preserveAspectRatio="xMidYMid slice" style="filter:url(#wobble)">
         <circle cx="${60 + i * 70}" cy="50" r="38" fill="rgba(255,255,255,.35)"/>
         <circle cx="250" cy="${150 - i * 20}" r="60" fill="rgba(255,255,255,.25)"/>
-        <path d="M0 160 C 60 130, 110 185, 170 155 S 260 130, 300 150 L300 200 L0 200 Z" fill="rgba(255,255,255,.35)"/>
-        <path d="M20 40 q 10 -10 20 0 t 20 0" fill="none" stroke="rgba(15,74,89,.35)" stroke-width="2.4" stroke-linecap="round"/>
-        <path d="M230 40 l 6 14 l 14 2 l -10 10 l 3 14 l -13 -7 l -13 7 l 3 -14 l -10 -10 l 14 -2 z" fill="none" stroke="rgba(15,74,89,.3)" stroke-width="2"/>
       </svg>
       <span class="emo">${c.emo}</span></div>`;
   }
@@ -627,7 +622,7 @@
     $("#newsDate").textContent = newsData.date.slice(5).replace("-", "/") + (newsData.date === TODAY ? " · 今天" : "");
     const d = day();
     const late = newsDate === TODAY && newsData.date !== TODAY;
-    list.innerHTML = (late ? `<p class="hand-note" style="margin:0">今天的热点 9:00 前更新，先看看 ${newsData.date.slice(5).replace("-", "/")} 的 ✎</p>` : "") +
+    list.innerHTML = (late ? `<p class="hand-note" style="margin:0">今天的热点 9:00 前更新，先看看 ${newsData.date.slice(5).replace("-", "/")} 的</p>` : "") +
       newsData.items.map((it, i) => {
         const c = CAT[it.category] || CAT.world;
         const read = d.newsRead.includes(readKey(i));
