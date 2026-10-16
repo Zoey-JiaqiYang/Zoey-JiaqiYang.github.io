@@ -206,7 +206,7 @@
       const again = rand(1, 3);                      // wrong → test again within 3 days
       S.queue[it.w] = { due: addDays(TODAY, again), src: "wrong", entry };
       d.answers[d.idx].again = again;
-      if (S.notebook[it.w]) S.notebook[it.w].status = "learning";
+      bookAdd(it.w, entry, "wrong");
     }
     save();
     renderQuiz();
@@ -315,11 +315,26 @@
 
   const POS_ZH = { noun: "n.", verb: "v.", adjective: "adj.", adverb: "adv.", preposition: "prep.", conjunction: "conj.", pronoun: "pron.", interjection: "int.", abbreviation: "abbr.", phrase: "phr." };
 
-  function addLookup(w, data) {
+  // word book: every looked-up, saved or wrongly answered word
+  function bookAdd(w, data, src) {
+    const key = w.toLowerCase();
+    const prev = S.notebook[key] || {};
+    const srcs = new Set(prev.srcs || (prev.w ? ["lookup"] : []));
+    srcs.add(src);
+    S.notebook[key] = {
+      w: key, ph: data.ph || prev.ph || "", pos: data.pos || prev.pos || "", zh: data.zh || prev.zh || "", ex: data.ex || prev.ex || "",
+      added: prev.added || TODAY, last: Date.now(), status: "learning", srcs: [...srcs],
+      wrong: (prev.wrong || 0) + (src === "wrong" ? 1 : 0),
+    };
+    save();
+    renderBook();
+    return S.notebook[key];
+  }
+
+  function addLookup(w, data, src = "lookup") {
     // data: { ph, pos, zh, ex }
     const key = w.toLowerCase();
-    const prev = S.notebook[key];
-    S.notebook[key] = { w: key, ph: data.ph || prev?.ph || "", pos: data.pos || prev?.pos || "", zh: data.zh || prev?.zh || "", ex: data.ex || prev?.ex || "", added: prev?.added || TODAY, last: Date.now(), status: "learning" };
+    bookAdd(key, data, src);
     const inToday = (day().set || []).some((it) => it.w === key && !day().answers[day().set.indexOf(it)]);
     let days = null;
     if (S.notebook[key].zh && !inToday) {
@@ -333,6 +348,7 @@
     }
     save();
     renderNotebook();
+    renderBook();
     renderStats();
     return days;
   }
@@ -416,20 +432,98 @@
   });
   $("#dictForm").addEventListener("submit", (e) => { e.preventDefault(); lookup($("#dictInput").value); $("#dictInput").blur(); });
 
-  let nbOpen = false;
   function renderNotebook() {
-    const list = Object.values(S.notebook).sort((a, b) => (b.last || 0) - (a.last || 0));
+    const list = Object.values(S.notebook).filter((n) => !n.srcs || n.srcs.includes("lookup")).sort((a, b) => (b.last || 0) - (a.last || 0));
     $("#nbCount").textContent = list.length ? `· ${list.length} 个` : "";
-    $("#nbToggle").hidden = list.length <= 5;
-    $("#nbToggle").textContent = nbOpen ? "收起" : "展开全部";
-    const shown = nbOpen ? list : list.slice(0, 5);
-    $("#nbList").innerHTML = shown.length ? shown.map((n) => {
+    $("#nbList").innerHTML = list.length ? list.slice(0, 5).map((n) => {
       const q = S.queue[n.w];
       const st = n.status === "mastered" ? `<span class="st m">已掌握</span>` : q ? `<span class="st">${q.due <= TODAY ? "今天考" : `${q.due.slice(5).replace("-", "/")} 考`}</span>` : "";
       return `<li><span class="w" data-look="${esc(n.w)}">${esc(n.w)}</span><span class="z">${esc(n.zh) || "（无释义）"}</span>${st}<button class="x" data-del="${esc(n.w)}" aria-label="删除">×</button></li>`;
     }).join("") : `<li class="empty">还没有查过词～ 查过的词会出现在这里</li>`;
   }
-  $("#nbToggle").addEventListener("click", () => { nbOpen = !nbOpen; renderNotebook(); });
+
+  /* ═════════════ word book ═════════════ */
+  let bookFilter = "all";
+  let bookOpen = null;
+  const srcsOf = (n) => n.srcs || ["lookup"];
+  function renderBook() {
+    const all = Object.values(S.notebook).sort((a, b) => (b.last || 0) - (a.last || 0));
+    const isDue = (n) => n.status !== "mastered" && S.queue[n.w];
+    const counts = {
+      all: all.length,
+      wrong: all.filter((n) => srcsOf(n).includes("wrong")).length,
+      lookup: all.filter((n) => srcsOf(n).some((x) => x !== "wrong")).length,
+      due: all.filter(isDue).length,
+      mastered: all.filter((n) => n.status === "mastered").length,
+    };
+    $("#homeBook").innerHTML = `
+      <div><b>${counts.all}</b><small>全部</small></div>
+      <div><b>${counts.wrong}</b><small>答错过</small></div>
+      <div><b>${counts.lookup}</b><small>查过/收藏</small></div>
+      <div><b>${counts.due}</b><small>待复习</small></div>`;
+    $("#bookCount").textContent = `${counts.all} 个`;
+    document.querySelectorAll("#bookSeg button").forEach((b) => b.classList.toggle("on", b.dataset.f === bookFilter));
+    const list = all.filter((n) =>
+      bookFilter === "all" ? true :
+      bookFilter === "wrong" ? srcsOf(n).includes("wrong") :
+      bookFilter === "lookup" ? srcsOf(n).some((x) => x !== "wrong") :
+      bookFilter === "due" ? isDue(n) : n.status === "mastered");
+    const TAG = { wrong: ["t-wrong", "答错"], lookup: ["t-look", "查过"], news: ["t-news", "新闻"] };
+    $("#bookList").innerHTML = list.length ? list.map((n) => {
+      const q = S.queue[n.w];
+      const state = n.status === "mastered" ? `<span class="bst m">已掌握</span>` : q ? `<span class="bst">${q.due <= TODAY ? "今天复习" : `${q.due.slice(5).replace("-", "/")} 复习`}</span>` : "";
+      const tags = srcsOf(n).map((s) => TAG[s] ? `<span class="btag ${TAG[s][0]}">${TAG[s][1]}${s === "wrong" && n.wrong > 1 ? ` ×${n.wrong}` : ""}</span>` : "").join("");
+      const open = bookOpen === n.w;
+      return `<li class="${open ? "open" : ""}" data-w="${esc(n.w)}">
+        <div class="b-row">
+          <div class="b-main"><b>${esc(n.w)}</b>${n.ph ? `<span class="b-ph">${esc(n.ph)}</span>` : ""}<div class="b-zh">${esc(n.pos)} ${esc(n.zh) || "（无释义）"}</div></div>
+          <div class="b-side">${state}<div class="b-tags">${tags}</div></div>
+        </div>
+        ${open ? `<div class="b-more">
+          ${n.ex ? `<p>${highlight(n.ex, n.w)}</p>` : ""}
+          <div class="b-actions">
+            <button class="btn ghost small" data-say="${esc(n.w)}">🔊 发音</button>
+            <button class="btn ghost small" data-look="${esc(n.w)}">查词典</button>
+            ${n.status === "mastered" ? `<button class="btn ghost small" data-relearn="${esc(n.w)}">重新学</button>` : `<button class="btn ghost small" data-master="${esc(n.w)}">标记已掌握</button>`}
+            <button class="btn ghost small del" data-del="${esc(n.w)}">删除</button>
+          </div>
+        </div>` : ""}
+      </li>`;
+    }).join("") : `<li class="empty">${bookFilter === "all" ? "答错的词、查过的词、在新闻里收藏的词都会出现在这里" : "这里还没有词"}</li>`;
+  }
+  $("#bookSeg").addEventListener("click", (e) => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    bookFilter = b.dataset.f;
+    renderBook();
+  });
+  $("#bookList").addEventListener("click", (e) => {
+    const t = e.target;
+    const attr = (name) => t.closest(`[data-${name}]`)?.dataset[name];
+    if (attr("del")) {
+      const k = attr("del");
+      delete S.notebook[k];
+      if (S.queue[k]?.src !== "wrong") delete S.queue[k];
+      save(); renderBook(); renderNotebook(); renderStats();
+      return toast("已删除");
+    }
+    if (attr("master")) {
+      const k = attr("master");
+      S.notebook[k].status = "mastered"; delete S.queue[k];
+      save(); renderBook(); renderStats();
+      return toast("已标记为掌握，不再考这个词");
+    }
+    if (attr("relearn")) {
+      const k = attr("relearn");
+      addLookup(k, S.notebook[k], srcsOf(S.notebook[k])[0]);
+      return toast("好的，1–3 天内会再考你");
+    }
+    if (t.closest("[data-say]")) return;
+    if (t.closest("[data-look]")) { go("dict", false); return; }
+    const li = t.closest("li[data-w]");
+    if (li) { bookOpen = bookOpen === li.dataset.w ? null : li.dataset.w; renderBook(); }
+  });
+
   $("#nbList").addEventListener("click", (e) => {
     const del = e.target.closest("[data-del]");
     if (!del) return;
@@ -438,6 +532,7 @@
     if (S.queue[w]?.src === "lookup") delete S.queue[w];
     save();
     renderNotebook();
+    renderBook();
     renderStats();
   });
 
@@ -472,7 +567,8 @@
       const w = v.word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
       html = html.replace(new RegExp(`\\b(${w}\\w*)`, "i"), `<span class="vocab" data-v="${esc(v.word)}">$1</span>`);
     }
-    return html;
+    // wrap every remaining English word so it can be tapped
+    return html.replace(/(<[^>]+>)|([A-Za-z][A-Za-z'’-]*[A-Za-z]|[A-Za-z])/g, (m, tag, word) => (tag ? tag : `<span class="tw">${word}</span>`));
   }
   const paras = (text) => {
     // split 5–6 sentences into two short paragraphs for easier reading
@@ -586,34 +682,50 @@
       return;
     }
     const v = e.target.closest(".vocab");
-    if (v) {
-      const item = newsData.items[+v.closest(".news-item").dataset.i];
-      const voc = item.vocab.find((x) => x.word === v.dataset.v);
-      showPop(v, voc.word, `<b>${esc(voc.word)}</b> ${esc(voc.phonetic || "")} <i>${esc(voc.pos || "")}</i><br>${esc(voc.zh)}`, { ph: voc.phonetic, pos: voc.pos, zh: voc.zh, ex: voc.example });
-    }
+    const tw = e.target.closest(".tw");
+    if (!v && !tw) return;
+    e.stopPropagation();
+    const item = newsData.items[+(v || tw).closest(".news-item").dataset.i];
+    const voc = v && item.vocab.find((x) => x.word === v.dataset.v);
+    // a plain word inside a highlighted phrase still opens the phrase
+    if (voc) return wordPop(v, voc.word, { ph: voc.phonetic, pos: voc.pos, zh: voc.zh, ex: voc.example });
+    const word = tw.textContent.replace(/[’']s$/, "");
+    const p = tw.closest("p");
+    const sentence = (p?.textContent.match(new RegExp(`[^.!?]*\\b${word.replace(/[^A-Za-z'’-]/g, "")}\\b[^.!?]*[.!?]`, "i")) || [""])[0].trim();
+    wordPop(tw, word, null, sentence);
   });
 
-  // double-click any English word in the news → quick translate + save
-  $("#newsList").addEventListener("dblclick", async (e) => {
-    if (!e.target.closest(".en-p")) return;
-    const sel = window.getSelection();
-    const w = (sel.toString() || "").trim().replace(/[^A-Za-z'-]/g, "");
-    if (!w || w.length < 2) return;
-    const anchor = e.target.closest(".vocab") || e.target;
-    showPop(anchor, w, `<b>${esc(w)}</b><br><span class="loading">翻译中</span>`, null);
-    const t = await translate(w, "en", "zh-CN");
-    const zh = t.dict.length ? t.dict[0].terms.slice(0, 2).join("；") : t.text;
-    const pos = t.dict.length ? POS_ZH[t.dict[0].pos] || "" : "";
-    const sentence = (anchor.closest("p")?.textContent.match(new RegExp(`[^.!?]*\\b${w}\\b[^.!?]*[.!?]`, "i")) || [""])[0].trim();
-    const days = zh ? addLookup(w.toLowerCase(), { pos, zh, ex: sentence }) : null;
-    showPop(anchor, w, `<b>${esc(w)}</b> <i>${esc(pos)}</i><br>${esc(zh || "没查到")}${zh ? `<br><small>✓ 已存入生词本${days ? `，${days} 天后考你` : ""}</small>` : ""}`, null);
-  });
+  const tCache = {};
+  async function wordPop(anchor, word, known, sentence = "") {
+    document.querySelectorAll(".tw.on, .vocab.on").forEach((x) => x.classList.remove("on"));
+    anchor.classList.add("on");
+    const key = word.toLowerCase();
+    let data = known;
+    if (!data) {
+      showPop(anchor, word, `<b>${esc(word)}</b><br><span class="loading">翻译中</span>`, null);
+      if (!tCache[key]) {
+        const t = await translate(word, "en", "zh-CN");
+        tCache[key] = {
+          zh: t.dict.length ? t.dict.slice(0, 2).map((d) => `${POS_ZH[d.pos] || d.pos} ${d.terms.slice(0, 3).join("；")}`).join("　") : t.text,
+          short: t.dict.length ? t.dict[0].terms.slice(0, 2).join("；") : t.text,
+          pos: t.dict.length ? POS_ZH[t.dict[0].pos] || "" : "",
+        };
+      }
+      if (!anchor.classList.contains("on")) return; // user tapped something else meanwhile
+      const c = tCache[key];
+      data = { pos: c.pos, zh: c.short, ex: sentence, display: c.zh };
+    }
+    const html = `<b>${esc(word)}</b> ${esc(data.ph || "")} ${data.display ? "" : `<i>${esc(data.pos || "")}</i>`}<br>${esc(data.display || data.zh || "没查到")}`;
+    showPop(anchor, word, html, data.zh ? data : null);
+  }
 
   function showPop(anchor, word, html, saveData) {
-    closePop();
+    closePop(true);
+    const key = word.toLowerCase();
+    const inBook = !!S.notebook[key];
     const p = document.createElement("div");
     p.className = "pop";
-    p.innerHTML = `${html}<div class="row2"><button data-say="${esc(word)}">🔊 发音</button>${saveData ? `<button data-addnb>+ 生词本</button>` : ""}<button data-look="${esc(word)}">查词典</button></div>`;
+    p.innerHTML = `${html}<div class="row2"><button data-say="${esc(word)}">🔊 发音</button>${saveData ? `<button data-addnb ${inBook ? "disabled" : ""}>${inBook ? "✓ 已在单词本" : "＋ 记到单词本"}</button>` : ""}<button data-look="${esc(word)}">详细</button></div>`;
     document.body.appendChild(p);
     const r = anchor.getBoundingClientRect();
     const left = Math.min(window.scrollX + r.left, window.scrollX + document.documentElement.clientWidth - p.offsetWidth - 12);
@@ -621,14 +733,18 @@
     p.style.top = window.scrollY + r.bottom + 8 + "px";
     p.querySelector("[data-addnb]")?.addEventListener("click", (e) => {
       e.stopPropagation();
-      const days = addLookup(word.toLowerCase(), saveData);
-      toast(`已加入生词本${days ? `，${days} 天后考你` : ""}`);
+      const days = addLookup(key, saveData, "news");
+      toast(`已记到单词本${days ? `，${days} 天后考你` : ""}`);
       closePop();
     });
     setTimeout(() => document.addEventListener("click", outside), 0);
   }
   function outside(e) { if (!e.target.closest(".pop")) closePop(); }
-  function closePop() { document.querySelector(".pop")?.remove(); document.removeEventListener("click", outside); }
+  function closePop(keepMark) {
+    document.querySelector(".pop")?.remove();
+    document.removeEventListener("click", outside);
+    if (!keepMark) document.querySelectorAll(".tw.on, .vocab.on").forEach((x) => x.classList.remove("on"));
+  }
 
   /* ═════════════ progress / calendar ═════════════ */
   const newsCount = (d) => Math.min(3, (d?.newsRead || []).length);
@@ -717,7 +833,7 @@
     $("#homeStreak").textContent = streak;
   }
 
-  const VIEWS = ["home", "dict", "words", "news", "cal"];
+  const VIEWS = ["home", "dict", "words", "news", "book", "cal"];
   function route() {
     const v = (location.hash.match(/^#\/(\w+)/) || [])[1] || "home";
     const view = VIEWS.includes(v) ? v : "home";
@@ -726,6 +842,7 @@
     window.scrollTo(0, 0);
     if (view === "dict") setTimeout(() => $("#dictInput").focus(), 60);
     if (view === "home") renderHome();
+    if (view === "book") renderBook();
   }
   function go(view, replace) {
     const h = view === "home" ? "#/" : `#/${view}`;
@@ -748,6 +865,7 @@
 
   route();
   renderNotebook();
+  renderBook();
   renderProgress();
   // build today's set after news vocab is known, so earlier news words can join the pool
   loadNews(TODAY).finally(renderQuiz);

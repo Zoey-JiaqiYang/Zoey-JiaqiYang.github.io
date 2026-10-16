@@ -69,6 +69,17 @@
           <div class="bar"><i id="homeNewsBar"></i></div>
         </a>
 
+        <a class="tile tile-book" href="#/book">
+          <div class="tile-top">
+            <div>
+              <span class="chip chip-white">Word Book</span>
+              <h3>我的单词本</h3>
+            </div>
+            <span class="go">→</span>
+          </div>
+          <div class="book-stats" id="homeBook"></div>
+        </a>
+
         <a class="tile tile-cal" href="#/cal">
           <div class="tile-top">
             <div>
@@ -95,8 +106,8 @@
       <div id="dictResult" class="dict-result"></div>
       <div class="notebook">
         <div class="nb-head">
-          <h4>我的生词本 <small id="nbCount"></small></h4>
-          <button class="link-btn" id="nbToggle">展开全部</button>
+          <h4>最近查过 <small id="nbCount"></small></h4>
+          <a class="link-btn" href="#/book">单词本全部 →</a>
         </div>
         <ul id="nbList" class="nb-list"></ul>
       </div>
@@ -123,8 +134,21 @@
           <button class="icon-btn" id="newsNext" aria-label="后一天">›</button>
         </div>
       </div>
-      <p class="hand-note news-hint">高亮词点一下看释义，双击任意单词直接查 ✎</p>
+      <p class="hand-note news-hint">点任意英文单词看意思，可以记到单词本 ✎</p>
       <div id="newsList" class="news-list"></div>
+    </section>
+
+    <!-- ═════════ WORD BOOK ═════════ -->
+    <section class="view" data-view="book" hidden>
+      <div class="topbar"><a class="back" href="#/">‹</a><h2>我的单词本</h2><span class="tb-r" id="bookCount"></span></div>
+      <div class="seg book-seg" id="bookSeg">
+        <button data-f="all" class="on">全部</button>
+        <button data-f="wrong">答错过</button>
+        <button data-f="lookup">查过</button>
+        <button data-f="due">待复习</button>
+        <button data-f="mastered">已掌握</button>
+      </div>
+      <ul class="book-list" id="bookList"></ul>
     </section>
 
     <!-- ═════════ CALENDAR ═════════ -->
