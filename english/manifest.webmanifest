@@ -1,0 +1,12 @@
+{
+  "name": "Zoey's English Desk",
+  "short_name": "English Desk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#dfe5ea",
+  "theme_color": "#dfe5ea",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
