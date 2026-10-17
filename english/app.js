@@ -1007,7 +1007,6 @@
     if (ok === "wrong") addLookup(it.w, data, "picture");                       // into the word book + review in 1–3 days
     save();
     renderPic();
-    if (ok !== "wrong") speak(it.w);
   }
 
   function picResult(it, r) {
