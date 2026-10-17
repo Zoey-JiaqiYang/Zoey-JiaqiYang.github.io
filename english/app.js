@@ -22,16 +22,30 @@
     toastTimer = setTimeout(() => t.classList.remove("show"), 2600);
   }
 
-  function speak(text) {
+  // Pronunciation: play a real audio file (works on iPhone, unlike the browser speech engine
+  // which is often silent there), fall back to the speech engine if the audio can't load.
+  const player = new Audio();
+  player.preload = "auto";
+  function ttsFallback(text) {
     try {
+      const synth = window.speechSynthesis;
       const u = new SpeechSynthesisUtterance(text);
-      const voices = speechSynthesis.getVoices();
+      const voices = synth.getVoices();
       u.voice = voices.find((v) => v.lang === "en-AU") || voices.find((v) => v.lang === "en-GB") || voices.find((v) => v.lang.startsWith("en")) || null;
-      u.lang = u.voice ? u.voice.lang : "en-AU";
+      u.lang = u.voice ? u.voice.lang : "en-GB";
       u.rate = 0.92;
-      speechSynthesis.cancel();
-      speechSynthesis.speak(u);
+      if (synth.speaking) synth.cancel();
+      synth.speak(u);
     } catch (e) { toast("这个浏览器不支持发音"); }
+  }
+  function speak(text, url) {
+    const src = url || `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(text)}&type=1`;
+    let fell = false;
+    const fallback = () => { if (!fell) { fell = true; ttsFallback(text); } };
+    player.onerror = fallback;
+    player.src = src;
+    const p = player.play();
+    if (p && p.catch) p.catch(fallback);
   }
 
   /* ═════════════ state (localStorage) ═════════════ */
@@ -467,7 +481,7 @@
       </div>`;
       $("#drSpeak").addEventListener("click", (e) => {
         e.stopPropagation();
-        if (r.audio) new Audio(r.audio).play().catch(() => speak(q)); else speak(q);
+        speak(q, r.audio || null);
       });
       return exs;
     };
