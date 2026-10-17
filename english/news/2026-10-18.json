@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T07:30:00+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Iran's attacks on Hormuz shipping hit record high, pushing oil to $110",
+      "title_zh": "伊朗袭船创纪录，霍尔木兹海峡告急，油价冲上110美元",
+      "search_zh": "霍尔木兹海峡 袭船 油价 110美元",
+      "summary_en": "Attacks on commercial ships in and around the Strait of Hormuz have reached a record high, as Iran steps up its campaign to choke off oil exports from the Gulf. A Singapore-flagged container ship sank on October 14 after being hit while crossing the strait, making it the third commercial vessel sunk since the US-Iran war began in late February. Iranian officials told Reuters that Tehran has intensified the strikes to keep oil prices elevated and put pressure on Washington ahead of next month's US midterm elections. On Friday, the global benchmark Brent crude briefly touched $110 a barrel for the first time since May before settling at $109.86, up 3.7% on the day.",
+      "summary_zh": "霍尔木兹海峡及其周边针对商船的袭击已创下历史新高，伊朗正加紧行动，试图掐断海湾地区的石油出口。10月14日，一艘悬挂新加坡国旗的集装箱船在穿越海峡时遇袭沉没，这是自2月底美伊战争爆发以来第三艘被击沉的商船。伊朗官员向路透社表示，德黑兰加强袭击是为了让油价维持高位，并在下月美国中期选举前向华盛顿施压。周五，国际基准布伦特原油盘中自5月以来首次触及每桶110美元，最终收于109.86美元，单日上涨3.7%。",
+      "why_zh": "油价上涨会直接推高澳洲油价、运费和各类商品价格，影响消费者的钱包和品牌的推广预算；“choke off（掐断）”是新闻里描述供应中断的常用说法。",
+      "image": "",
+      "image_credit": "",
+      "source": "NBC News; CNBC; Reuters",
+      "url": "https://www.nbcnews.com/world/iran/iran-strikes-strait-hormuz-shipping-trump-oil-prices-midterms-rcna603670",
+      "vocab": [
+        {
+          "word": "choke off",
+          "phonetic": "/tʃəʊk ɒf/",
+          "pos": "phr. v.",
+          "zh": "掐断；切断（供应等）",
+          "example": "Attacks on commercial ships in and around the Strait of Hormuz have reached a record high, as Iran steps up its campaign to choke off oil exports from the Gulf."
+        },
+        {
+          "word": "elevated",
+          "phonetic": "/ˈelɪveɪtɪd/",
+          "pos": "adj.",
+          "zh": "（价格、水平）偏高的；高企的",
+          "example": "Iranian officials told Reuters that Tehran has intensified the strikes to keep oil prices elevated and put pressure on Washington ahead of next month's US midterm elections."
+        }
+      ],
+      "explain": {
+        "one_liner": "美国和伊朗在打仗，伊朗专挑运油的海上要道袭击船只，想用高油价逼美国让步。",
+        "facts": [
+          {
+            "icon": "🌊",
+            "name": "霍尔木兹海峡 Strait of Hormuz",
+            "text": "波斯湾通往外海的唯一出口，平时全球很大一部分石油都要从这里运出去，是世界能源的“咽喉”。"
+          },
+          {
+            "icon": "🇮🇷",
+            "name": "伊朗 Iran",
+            "text": "海峡北岸的国家。今年2月底起和美国处于战争状态，用导弹、无人机等袭击过往船只。"
+          },
+          {
+            "icon": "🇺🇸",
+            "name": "美国中期选举 midterms",
+            "text": "美国总统任期中间举行的国会选举，今年是11月3日。油价、汽油价高会让执政的特朗普和共和党失分。"
+          },
+          {
+            "icon": "🛢️",
+            "name": "布伦特原油 Brent crude",
+            "text": "全球最常用的国际油价“标准价”，澳洲的油价也主要参考它。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "伊朗",
+            "b": "美国",
+            "type": "bad",
+            "label": "处于战争状态"
+          },
+          {
+            "a": "伊朗袭击商船",
+            "b": "海峡石油运输减少",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "石油运输减少",
+            "b": "国际油价上涨",
+            "type": "cause",
+            "label": "推高"
+          },
+          {
+            "a": "油价上涨",
+            "b": "特朗普选前压力增大",
+            "type": "cause",
+            "label": "带来"
+          }
+        ],
+        "points": [
+          "海峡附近的袭船事件数量创下纪录。",
+          "10月14日一艘新加坡籍集装箱船被击沉，是开战以来第三艘沉没的商船。",
+          "伊朗官员说，就是要让油价保持高位，在美国中期选举前施压。",
+          "布伦特原油周五盘中摸到每桶110美元，是5月以来首次。"
+        ],
+        "relevance": "油价一涨，澳洲的汽油、物流和进口成本都会跟着涨，消费者会更省钱，市场营销预算和促销策略可能都要调整。",
+        "phrase": {
+          "en": "step up (a campaign)",
+          "zh": "加紧、加大（行动的）力度"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China proposes export controls on 23 advanced AI technologies",
+      "title_zh": "中国拟对大模型、AI芯片设计等23项人工智能技术实施出口管制",
+      "search_zh": "商务部 科技部 人工智能 出口管制 征求意见",
+      "summary_en": "China's Ministry of Commerce and Ministry of Science and Technology have published a draft that would add 40 cutting-edge technologies to the country's export control list, 23 of them related to artificial intelligence. The AI items include large language models, AI agents, chip designs and computing clusters, and the draft would bring model weights and source code under control for the first time. However, the proposal exempts people using Chinese AI through apps, websites or APIs, and it leaves alone technology that is already public through open-source releases or academic papers. The public can comment on the draft until November 15, and analysts see it as a sign that Beijing now views its top AI know-how as a strategic asset worth protecting.",
+      "summary_zh": "中国商务部和科技部发布了一份征求意见稿，拟将40项前沿技术列入出口管制清单，其中23项与人工智能相关。这些人工智能项目包括大语言模型、智能体、芯片设计和算力集群，该草案还将首次把模型权重和源代码纳入管制范围。不过，草案豁免了通过应用程序、网站或API使用中国人工智能的情况，并且不涉及已通过开源发布或学术论文公开的技术。公众可在11月15日前对草案提出意见，分析人士认为，这表明北京如今将其顶尖人工智能技术视为值得保护的战略资产。",
+      "why_zh": "中美在AI领域的竞争越来越像“科技冷战”；普通用户照样能用中国AI产品，但企业层面的合作和技术转让可能受影响。",
+      "image": "",
+      "image_credit": "",
+      "source": "Taipei Times; The Next Web; Bloomberg (via secondary reports)",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/17/2003866098",
+      "vocab": [
+        {
+          "word": "exempts",
+          "phonetic": "/ɪɡˈzempts/",
+          "pos": "v.",
+          "zh": "豁免；使免除",
+          "example": "However, the proposal exempts people using Chinese AI through apps, websites or APIs, and it leaves alone technology that is already public through open-source releases or academic papers."
+        },
+        {
+          "word": "strategic",
+          "phonetic": "/strəˈtiːdʒɪk/",
+          "pos": "adj.",
+          "zh": "战略性的；关键的",
+          "example": "The public can comment on the draft until November 15, and analysts see it as a sign that Beijing now views its top AI know-how as a strategic asset worth protecting."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国准备把自家最先进的AI技术“锁起来”，不让随便卖到或转移到国外，但普通人用中国AI App不受影响。",
+        "facts": [
+          {
+            "icon": "🏢",
+            "name": "商务部 MOFCOM",
+            "text": "负责对外贸易的国家部门，出口管制清单就归它管。"
+          },
+          {
+            "icon": "🔬",
+            "name": "科技部 MOST",
+            "text": "负责国家科技政策的部门，这次和商务部一起发布草案。"
+          },
+          {
+            "icon": "📋",
+            "name": "出口管制 export controls",
+            "text": "国家规定某些敏感技术或产品不能随便卖给外国，要先审批。美国多年来就用它限制向中国出口高端芯片。"
+          },
+          {
+            "icon": "🤖",
+            "name": "大语言模型 LLM / 模型权重",
+            "text": "像DeepSeek、通义千问这类AI的核心；“权重”可以理解成AI训练出来的“大脑参数”。"
+          },
+          {
+            "icon": "📝",
+            "name": "征求意见稿 draft",
+            "text": "还不是正式法规，公众可以提意见，之后可能修改再正式实施。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "中国",
+            "b": "美国",
+            "type": "bad",
+            "label": "科技竞争，互相限制出口"
+          },
+          {
+            "a": "AI成为战略资产",
+            "b": "出台出口管制草案",
+            "type": "cause",
+            "label": "促使"
+          },
+          {
+            "a": "普通用户",
+            "b": "中国AI应用",
+            "type": "neutral",
+            "label": "通过App/API使用不受限"
+          }
+        ],
+        "points": [
+          "一共40项技术，其中23项是AI相关。",
+          "首次把模型权重和源代码纳入管制。",
+          "通过App、网站、API使用，以及已开源的技术，不在管制范围内。",
+          "11月15日前征求公众意见，目前还不是正式规定。"
+        ],
+        "relevance": "做营销常会用到各种AI工具；这说明AI已经变成国家间博弈的筹码，以后跨国AI合作、工具选择和数据合规都可能更复杂。",
+        "phrase": {
+          "en": "a strategic asset",
+          "zh": "战略资产、关键筹码"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Nasdaq sinks 2% as AI debt fears hit tech stocks",
+      "title_zh": "AI债务担忧发酵，纳斯达克重挫2%创6月以来最差一周",
+      "search_zh": "纳斯达克 下跌 AI债务 CoreWeave",
+      "summary_en": "US tech stocks fell sharply on Friday, with the Nasdaq Composite dropping about 2.1% and the broader S&P 500 losing 1.1%. The Nasdaq lost more than 4% over the week, its worst weekly performance since June, even though it had hit a record high only about ten days earlier. Investors are increasingly worried about the huge amounts of debt that some companies have borrowed to build AI data centres, and shares in cloud provider CoreWeave tumbled about 12% as its bond yields jumped. A hotter-than-expected inflation report also raised fears that the Federal Reserve could raise interest rates, which would make that debt even more expensive.",
+      "summary_zh": "美国科技股周五大幅下跌，纳斯达克综合指数下跌约2.1%，覆盖面更广的标普500指数下跌1.1%。纳斯达克本周累计下跌超过4%，为6月以来表现最差的一周，而就在大约十天前它才刚创下历史新高。投资者越来越担心一些公司为建设AI数据中心而背负的巨额债务，云服务商CoreWeave的股价暴跌约12%，其债券收益率也大幅上升。一份高于预期的通胀报告还加剧了市场对美联储可能加息的担忧，而加息会让这些债务的成本更高。",
+      "why_zh": "美股科技股大跌往往会拖累澳股和全球投资情绪，也会影响你的养老金（super）表现；“AI泡沫”的讨论也会影响科技公司的广告和营销投入。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNN; Washington Post (AP); Reuters",
+      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+      "vocab": [
+        {
+          "word": "tumbled",
+          "phonetic": "/ˈtʌmbld/",
+          "pos": "v.",
+          "zh": "（价格）暴跌；骤降",
+          "example": "Investors are increasingly worried about the huge amounts of debt that some companies have borrowed to build AI data centres, and shares in cloud provider CoreWeave tumbled about 12% as its bond yields jumped."
+        },
+        {
+          "word": "hotter-than-expected",
+          "phonetic": "/ˈhɒtə ðən ɪkˈspektɪd/",
+          "pos": "adj.",
+          "zh": "（数据）高于预期的",
+          "example": "A hotter-than-expected inflation report also raised fears that the Federal Reserve could raise interest rates, which would make that debt even more expensive."
+        }
+      ],
+      "explain": {
+        "one_liner": "大家开始担心AI公司借钱借太多，再加上可能要加息，美国科技股被大量抛售。",
+        "facts": [
+          {
+            "icon": "📉",
+            "name": "纳斯达克 Nasdaq",
+            "text": "美国以科技股为主的股票指数，苹果、英伟达、Meta等都在里面，被看作科技行业的“晴雨表”。"
+          },
+          {
+            "icon": "📊",
+            "name": "标普500 S&P 500",
+            "text": "美国最大的500家上市公司组成的指数，代表整个美股大盘。"
+          },
+          {
+            "icon": "🏦",
+            "name": "美联储 the Fed",
+            "text": "美国的央行，负责定利率。通胀太高时会加息来“降温”。"
+          },
+          {
+            "icon": "☁️",
+            "name": "CoreWeave",
+            "text": "一家出租AI算力（数据中心）的美国云服务公司，大量靠借债扩张。"
+          },
+          {
+            "icon": "💵",
+            "name": "债券收益率 bond yield",
+            "text": "投资者借钱给公司要求的回报率。收益率飙升＝市场觉得这家公司风险变大了。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "通胀高于预期",
+            "b": "美联储可能加息",
+            "type": "cause",
+            "label": "导致担忧"
+          },
+          {
+            "a": "加息",
+            "b": "AI公司借债成本上升",
+            "type": "cause",
+            "label": "推高"
+          },
+          {
+            "a": "AI债务担忧",
+            "b": "科技股被抛售",
+            "type": "cause",
+            "label": "引发"
+          }
+        ],
+        "points": [
+          "纳斯达克周五跌约2.1%，标普500跌1.1%。",
+          "纳斯达克一周跌超4%，是6月以来最差的一周。",
+          "CoreWeave股价单日暴跌约12%。",
+          "通胀数据超预期，市场担心美联储加息。"
+        ],
+        "relevance": "美股一跌，第二个交易日澳股（ASX）往往也受影响，你的super养老金也可能缩水；科技公司如果收紧开支，数字广告市场也会感受到。",
+        "phrase": {
+          "en": "hotter-than-expected",
+          "zh": "（数据）比预期更“热”、更高"
+        }
+      }
+    }
+  ]
+}
