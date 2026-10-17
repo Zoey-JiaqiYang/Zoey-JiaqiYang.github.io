@@ -651,6 +651,7 @@
     australia: { label: "🦘 澳洲", chip: "chip-mint", emo: "🦘", c1: "#cfe9df", c2: "#e6f39b" },
     entertainment: { label: "🎬 娱乐", chip: "chip-pink", emo: "🎬", c1: "#f2c4e2", c2: "#cfc8f3" },
     markets: { label: "📈 市场", chip: "chip-lime", emo: "📈", c1: "#e6f39b", c2: "#9fd0c6" },
+    china: { label: "🇨🇳 国内", chip: "chip-pink", emo: "🏮", c1: "#fbdbe2", c2: "#fbe9c9" },
   };
   let LANG = "en";
   try { LANG = localStorage.getItem("zoey-english-desk.lang") || "en"; } catch (e) {}
