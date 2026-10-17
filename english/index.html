@@ -29,7 +29,12 @@
           <p class="date" id="todayLabel"></p>
           <h1><span id="greeting">Good Morning</span>,<br>Zoey <span class="wave">☁️</span></h1>
         </div>
-        <a class="streak-badge" href="#/cal" aria-label="打卡日历">🔥<b id="homeStreak">0</b></a>
+        <div class="hello-r">
+          <button class="refresh-btn" id="refreshBtn" aria-label="刷新">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg>
+          </button>
+          <a class="streak-badge" href="#/cal" aria-label="打卡日历">🔥<b id="homeStreak">0</b></a>
+        </div>
       </header>
 
       <!-- search bar: tap → dictionary -->

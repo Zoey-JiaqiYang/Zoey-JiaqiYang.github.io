@@ -1167,6 +1167,21 @@
   });
   document.querySelectorAll('.home a[href^="#/"]').forEach((a) => a.addEventListener("click", () => (cameFromHome = true)));
 
+  /* ═════════════ refresh (no browser reload button in the home-screen app) ═════════════ */
+  const ASSETS = ["./", "index.html", "app.js", "style.css", "words.js", "pics.js", "news/latest.json", `news/${TODAY}.json`];
+  async function hardRefresh() {
+    const btn = $("#refreshBtn");
+    btn.classList.add("spin");
+    // pull fresh copies past the browser cache, then reload
+    await Promise.allSettled(ASSETS.map((u) => fetch(u, { cache: "reload" })));
+    location.reload();
+  }
+  $("#refreshBtn").addEventListener("click", hardRefresh);
+  // the home-screen app can stay open for days: reload by itself when you come back on a new day
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && ymd(new Date()) !== TODAY) hardRefresh();
+  });
+
   /* ═════════════ boot ═════════════ */
   const h = new Date().getHours();
   $("#greeting").textContent = h < 12 ? "Good Morning" : h < 18 ? "Good Afternoon" : "Good Evening";

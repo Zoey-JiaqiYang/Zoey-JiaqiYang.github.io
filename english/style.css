@@ -566,3 +566,14 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .sum-emo { width: 22px; text-align: center; }
 .t-pic { background: var(--mint); color: #245c4a; }
 .pic-type[hidden] { display: none; }
+
+/* refresh button */
+.hello-r { display: flex; align-items: center; gap: 8px; }
+.refresh-btn {
+  width: 42px; height: 42px; border-radius: 50%; border: none; flex: none;
+  background: var(--card); box-shadow: var(--shadow); display: grid; place-items: center;
+}
+.refresh-btn svg { width: 19px; height: 19px; fill: none; stroke: var(--ink-2); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+.refresh-btn:active { transform: scale(.94); }
+.refresh-btn.spin svg { animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
