@@ -582,25 +582,25 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
    THEME v2 — flat colour blocks on warm paper (visual only)
    ═══════════════════════════════════════════════════════════ */
 :root {
-  --paper: #efe6db;
-  --card: #f9f4ec;
-  --card-solid: #f9f4ec;
+  --paper: #faf3e0;
+  --card: #fffbf3;
+  --card-solid: #fffbf3;
   --ink: #22231f;
   --ink-2: #66625a;
   --ink-3: #a29c90;
   --line: rgba(34, 35, 31, 0.09);
-  --pink: #f6a0ad;
+  --pink: #f3b8bf;
   --pink-deep: #e2697f;
-  --lav: #c3d6e3;          /* now a dusty blue */
+  --lav: #cddde8;          /* now a dusty blue */
   --lav-deep: #4f7a96;
   --teal: #34352f;         /* charcoal: primary buttons & dark blocks */
   --teal-2: #4a4b44;
-  --lime: #dbe57a;
-  --mint: #cadfa8;
-  --olive: #6f6a1d;
+  --lime: #e2e89a;
+  --mint: #d3e3b6;
+  --olive: #85803f;
   --olive-soft: #cfc68f;
-  --orange: #ee7d4c;
-  --yellow: #f4c74e;
+  --orange: #eba07e;
+  --yellow: #f1d27f;
   --ok: #5c8b38;
   --bad: #d65a5a;
   --radius: 26px;
@@ -611,8 +611,10 @@ html { background: var(--paper); }
 body { background: var(--paper); }
 /* a whisper of paper grain */
 body::before {
-  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0; opacity: .55; mix-blend-mode: multiply;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .45  0 0 0 0 .38  0 0 0 0 .3  0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0; mix-blend-mode: multiply;
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .42  0 0 0 0 .35  0 0 0 0 .22  0 0 0 .16 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012' numOctaves='3' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .55  0 0 0 0 .45  0 0 0 0 .25  0 0 0 .14 -.02'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E");
 }
 .app { position: relative; z-index: 1; }
 
@@ -662,7 +664,7 @@ body::before {
 
 .tile-cal { background: var(--card); backdrop-filter: none; border: 1.5px solid var(--line); }
 .tile-cal .chip-white { background: var(--lav); color: #24465a; }
-.week-strip span { background: #efe6db; color: var(--ink-2); }
+.week-strip span { background: #f3ead3; color: var(--ink-2); }
 .week-strip .part span { background: var(--pink); color: #3d1720; }
 .week-strip .full span { background: var(--olive); color: #f6f0dd; }
 .week-strip .today span { outline: 2px dashed var(--ink); }
@@ -709,14 +711,14 @@ body::before {
 .streak small { color: #e5dcb8; }
 .mini-stats div { background: var(--card); border: 1.5px solid var(--line); }
 .cal-box { background: var(--card); border: 1.5px solid var(--line); }
-.cal-day span { background: #efe6db; }
+.cal-day span { background: #f3ead3; }
 .cal-day.part span { background: var(--pink); color: #3d1720; }
 .cal-day.full span { background: var(--olive); color: #f6f0dd; }
 .cal-day.full::after { color: var(--orange); }
 .cal-day.today span { outline: 2px dashed var(--ink); }
 .lg.full { background: var(--olive); }
 .lg.part { background: var(--pink); }
-.lg.none { background: #efe6db; }
+.lg.none { background: #f3ead3; }
 .pill { background: var(--card); border: 1.5px solid var(--line); }
 .pill.done { background: var(--olive); color: #e5dcb8; border-color: transparent; }
 .pill.done .dot { background: var(--yellow); }

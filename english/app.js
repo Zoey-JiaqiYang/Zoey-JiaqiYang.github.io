@@ -647,11 +647,11 @@
 
   /* ═════════════ news ═════════════ */
   const CAT = {
-    world: { label: "🌏 国际", chip: "chip-lav", emo: "🌏", c1: "#c3d6e3", c2: "#c3d6e3" },
-    australia: { label: "🦘 澳洲", chip: "chip-mint", emo: "🦘", c1: "#cadfa8", c2: "#cadfa8" },
-    entertainment: { label: "🎬 娱乐", chip: "chip-pink", emo: "🎬", c1: "#f6a0ad", c2: "#f6a0ad" },
-    markets: { label: "📈 市场", chip: "chip-lime", emo: "📈", c1: "#f4c74e", c2: "#f4c74e" },
-    china: { label: "🇨🇳 国内", chip: "chip-pink", emo: "🏮", c1: "#ee7d4c", c2: "#ee7d4c" },
+    world: { label: "🌏 国际", chip: "chip-lav", emo: "🌏", c1: "#cddde8", c2: "#cddde8" },
+    australia: { label: "🦘 澳洲", chip: "chip-mint", emo: "🦘", c1: "#d3e3b6", c2: "#d3e3b6" },
+    entertainment: { label: "🎬 娱乐", chip: "chip-pink", emo: "🎬", c1: "#f3b8bf", c2: "#f3b8bf" },
+    markets: { label: "📈 市场", chip: "chip-lime", emo: "📈", c1: "#f1d27f", c2: "#f1d27f" },
+    china: { label: "🇨🇳 国内", chip: "chip-pink", emo: "🏮", c1: "#eba07e", c2: "#eba07e" },
   };
 
   let LANG = "en";
