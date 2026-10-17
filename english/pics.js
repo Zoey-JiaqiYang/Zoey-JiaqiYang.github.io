@@ -116,8 +116,160 @@
     { emoji: "🔌", w: "plug", ph: "/plʌɡ/", pos: "n.", zh: "插头", accept: ["plug", "power plug"], near: ["socket", "power point"], ex: "Is it plugged in? The plug looks loose.", tip: "墙上的插座澳洲叫 power point；美国叫 outlet" },
   ];
 
+  // compact emoji item: [emoji, word, phonetic, pos, 中文, example, tip, accept(extra, "|"-separated), near("|")]
+  const E = (rows) => rows.map(([emoji, w, ph, pos, zh, ex, tip, acc = "", near = ""]) => ({
+    emoji, w, ph, pos, zh, ex, tip, accept: [w, ...acc.split("|").filter(Boolean)], near: near.split("|").filter(Boolean),
+  }));
+
+  const FACES = E([
+    ["🙄", "roll your eyes", "/rəʊl jɔːr aɪz/", "phr.", "翻白眼", "She rolled her eyes when he was late again.", "表示不耐烦、无语"],
+    ["🥱", "yawn", "/jɔːn/", "v./n.", "打哈欠", "Sorry, I can't stop yawning — big night.", "big night = 昨晚玩得很晚（口语）"],
+    ["😬", "cringe", "/krɪndʒ/", "v./adj.", "尴尬到脚趾抠地", "That ad was so cringe.", "年轻人常把 cringe 当形容词用", "", "awkward"],
+    ["😳", "embarrassed", "/ɪmˈbærəst/", "adj.", "难为情的、脸红的", "I was so embarrassed when I called my boss 'Mum'.", "注意拼写：两个 r、两个 s", "", "awkward|shy"],
+    ["🤧", "sneeze", "/sniːz/", "v.", "打喷嚏", "Bless you! That's your third sneeze.", "别人打喷嚏要说 Bless you"],
+    ["🤢", "nauseous", "/ˈnɔːziəs/", "adj.", "恶心想吐的", "The boat ride made me feel nauseous.", "也可以说 I feel sick（澳洲常用）", "", "sick"],
+    ["😵‍💫", "dizzy", "/ˈdɪzi/", "adj.", "头晕的", "I stood up too fast and felt dizzy.", "light-headed 也是「头晕」"],
+    ["🥶", "freezing", "/ˈfriːzɪŋ/", "adj.", "冻死了、极冷的", "It's freezing this morning — grab a jumper.", "澳洲人把毛衣叫 jumper", "", "cold"],
+    ["🥵", "boiling", "/ˈbɔɪlɪŋ/", "adj.", "热死了", "It's boiling outside, 40 degrees!", "口语「热死了」= It's boiling / scorching", "", "hot"],
+    ["🤫", "shush", "/ʃʊʃ/", "v./int.", "嘘（让人安静）", "She shushed the kids during the movie.", "", "", "quiet"],
+    ["🫠", "overwhelmed", "/ˌəʊvəˈwelmd/", "adj.", "被压垮了、应付不过来", "I'm a bit overwhelmed with work this week.", "职场高频：I'm swamped 也是「忙爆了」", "", "tired|melting"],
+    ["🤦", "facepalm", "/ˈfeɪspɑːm/", "n./v.", "扶额（无语）", "His excuse was a total facepalm moment.", ""],
+    ["🤷", "shrug", "/ʃrʌɡ/", "v.", "耸肩", "He just shrugged and said, 'No idea.'", "shrug it off = 不当回事"],
+    ["😤", "huff", "/hʌf/", "v./n.", "（生气地）哼一声、气呼呼", "She walked off in a huff.", "in a huff = 气呼呼地", "", "angry"],
+  ]);
+
+  const GESTURES = E([
+    ["🤞", "fingers crossed", "/ˈfɪŋɡəz ˌkrɒst/", "phr.", "祈祷好运", "Fingers crossed the weather holds for the weekend.", "说「祝好运」时直接说 Fingers crossed!", "cross my fingers"],
+    ["👏", "clap", "/klæp/", "v.", "鼓掌", "Everyone clapped at the end of the pitch.", "applaud 更正式"],
+    ["🙌", "high five", "/ˌhaɪ ˈfaɪv/", "n.", "击掌", "Nice work — high five!", "", "high-five"],
+    ["🤝", "shake hands", "/ʃeɪk hændz/", "phr.", "握手", "We shook hands and agreed on the deal.", "", "handshake"],
+    ["👋", "wave goodbye", "/weɪv ɡʊdˈbaɪ/", "phr.", "挥手告别", "She waved goodbye from the car.", "wave 也是「海浪」", "wave|waving"],
+    ["🙇", "bow", "/baʊ/", "v.", "鞠躬", "The actors bowed to the audience.", "注意发音 /baʊ/；读 /bəʊ/ 时是「弓、蝴蝶结」"],
+    ["🧎", "kneel", "/niːl/", "v.", "跪下", "He knelt down to tie his shoelace.", "过去式 knelt"],
+    ["🙋", "raise your hand", "/reɪz jɔː hænd/", "phr.", "举手", "Raise your hand if you have a question.", "", "put your hand up|raise hand"],
+    ["🫡", "salute", "/səˈluːt/", "v./n.", "敬礼", "The soldier saluted the flag.", ""],
+    ["🤙", "call me", "/kɔːl miː/", "phr.", "（手势）打电话给我", "He made the 'call me' sign as he left.", "冲浪圈也叫 shaka，表示 hang loose", "shaka|hang loose"],
+    ["🫶", "heart hands", "/hɑːt hændz/", "n.", "比心", "Fans made heart hands at the concert.", ""],
+    ["🤸", "cartwheel", "/ˈkɑːtwiːl/", "n./v.", "侧手翻", "The kids were doing cartwheels on the grass.", ""],
+    ["🧘", "meditate", "/ˈmedɪteɪt/", "v.", "冥想", "I try to meditate for ten minutes before work.", "", "meditation|meditating", "yoga"],
+  ]);
+
+  const HEALTH = E([
+    ["🩹", "band-aid", "/ˈbænd eɪd/", "n.", "创可贴", "Have you got a Band-Aid? I've cut my finger.", "澳洲/美国说 Band-Aid，英国说 plaster", "bandaid|band aid|plaster", "bandage"],
+    ["🩼", "crutch", "/krʌtʃ/", "n.", "拐杖", "He's on crutches after the footy injury.", "on crutches = 拄着拐", "crutches"],
+    ["🩺", "stethoscope", "/ˈsteθəskəʊp/", "n.", "听诊器", "The GP listened to my chest with a stethoscope.", "澳洲看病先看 GP（全科医生）"],
+    ["💉", "injection", "/ɪnˈdʒekʃn/", "n.", "打针、注射", "I had a flu injection at the chemist.", "口语也说 jab / shot；澳洲药房叫 chemist", "jab|shot|needle|vaccine|syringe"],
+    ["💊", "tablet", "/ˈtæblət/", "n.", "药片", "Take two tablets after meals.", "澳洲多说 tablet，美国多说 pill", "pill|pills|tablets|medicine"],
+    ["🌡️", "thermometer", "/θəˈmɒmɪtə(r)/", "n.", "温度计、体温计", "Use the thermometer to check her temperature.", "重音在第二个音节：ther-MO-meter"],
+    ["🦷", "tooth", "/tuːθ/", "n.", "牙齿", "I chipped a tooth on a hard lolly.", "复数 teeth；澳洲糖果叫 lolly", "teeth"],
+    ["🩻", "x-ray", "/ˈeks reɪ/", "n.", "X 光片", "The x-ray showed a small fracture.", "", "xray|x ray"],
+    ["🦽", "wheelchair", "/ˈwiːltʃeə(r)/", "n.", "轮椅", "The venue is wheelchair accessible.", "accessible = 无障碍的"],
+    ["🩸", "blood test", "/ˈblʌd test/", "n.", "验血", "The doctor ordered a blood test.", "", "blood", ""],
+    ["🧑‍⚕️", "pharmacist", "/ˈfɑːməsɪst/", "n.", "药剂师", "Ask the pharmacist if it's safe to take with food.", "澳洲人也说 chemist", "chemist"],
+    ["🚑", "ambulance", "/ˈæmbjələns/", "n.", "救护车", "Call triple zero for an ambulance.", "澳洲急救电话是 000，读作 triple zero"],
+  ]);
+
+  const SHOPPING = E([
+    ["🛒", "trolley", "/ˈtrɒli/", "n.", "购物车", "Grab a trolley — we need heaps of stuff.", "澳洲/英国说 trolley，美国说 cart", "shopping trolley|cart|shopping cart"],
+    ["🧾", "receipt", "/rɪˈsiːt/", "n.", "收据、小票", "Do you want your receipt?", "p 不发音！"],
+    ["🏷️", "price tag", "/ˈpraɪs tæɡ/", "n.", "价签", "There's no price tag on this one.", "", "tag|label"],
+    ["💳", "tap", "/tæp/", "v.", "（卡）感应支付", "Can I just tap? — Yep, go for it.", "澳洲付款几乎都说 tap", "tap and go|paywave", "card|swipe"],
+    ["🥫", "tin", "/tɪn/", "n.", "罐头", "Grab a tin of tomatoes for the pasta.", "澳洲/英国说 tin，美国说 can", "can|canned food"],
+    ["🧻", "toilet paper", "/ˈtɔɪlət ˌpeɪpə(r)/", "n.", "卫生纸", "We're out of toilet paper again.", "口语也说 loo roll；be out of = 用完了", "loo roll|toilet roll"],
+    ["🧴", "moisturiser", "/ˈmɔɪstʃəraɪzə(r)/", "n.", "保湿霜、润肤露", "This moisturiser has SPF 30.", "澳洲拼法 -iser，美国 -izer", "moisturizer|lotion|sunscreen", "cream"],
+    ["🫙", "jar", "/dʒɑː(r)/", "n.", "广口瓶", "Can you open this jar? The lid's stuck.", "lid = 盖子"],
+    ["🥡", "takeaway", "/ˈteɪkəweɪ/", "n.", "外卖", "Let's just get takeaway tonight.", "澳洲说 takeaway，美国说 takeout", "takeout|take away|take-away"],
+    ["🪙", "coin", "/kɔɪn/", "n.", "硬币", "I've only got coins, is that okay?", "零钱也叫 change / shrapnel（澳洲俚语）", "change"],
+    ["🛍️", "shopping bag", "/ˈʃɒpɪŋ bæɡ/", "n.", "购物袋", "Do you need a bag? They're 20 cents.", "", "bag|bags"],
+    ["🍼", "baby bottle", "/ˈbeɪbi ˌbɒtl/", "n.", "奶瓶", "The baby bottles are in aisle seven.", "aisle /aɪl/ = 货架通道，s 不发音", "bottle"],
+  ]);
+
+  const STREET = E([
+    ["🚦", "traffic lights", "/ˈtræfɪk laɪts/", "n.", "红绿灯", "Turn left at the next set of traffic lights.", "", "traffic light|lights"],
+    ["🚧", "roadworks", "/ˈrəʊdwɜːks/", "n.", "道路施工", "Sorry I'm late — roadworks on the freeway.", "", "road works|construction"],
+    ["⛽", "servo", "/ˈsɜːvəʊ/", "n.", "加油站（澳洲口语）", "Let's stop at the servo for a coffee.", "service station 的澳洲简称；也可以说 petrol station", "petrol station|service station|gas station"],
+    ["🅿️", "car park", "/ˈkɑː pɑːk/", "n.", "停车场", "The car park was full, so I parked on the street.", "美国说 parking lot", "carpark|parking|parking lot"],
+    ["🚏", "bus stop", "/ˈbʌs stɒp/", "n.", "公交车站", "I'll meet you at the bus stop.", ""],
+    ["🛴", "scooter", "/ˈskuːtə(r)/", "n.", "滑板车", "E-scooters are everywhere in the city now.", "", "e-scooter|kick scooter"],
+    ["🛞", "tyre", "/ˈtaɪə(r)/", "n.", "轮胎", "I've got a flat tyre.", "澳洲拼 tyre，美国拼 tire；flat tyre = 爆胎", "tire|wheel"],
+    ["🪪", "licence", "/ˈlaɪsns/", "n.", "驾照、执照", "Can I see your licence, please?", "澳洲名词拼 licence，动词拼 license", "license|driver's licence|ID|id card"],
+    ["🎫", "ticket", "/ˈtɪkɪt/", "n.", "票", "Did you get a ticket for parking there?", "parking ticket 还可以指罚单"],
+    ["🚒", "fire engine", "/ˈfaɪər ˌendʒɪn/", "n.", "消防车", "A fire engine raced past with its sirens on.", "", "fire truck"],
+    ["🚇", "underground", "/ˈʌndəɡraʊnd/", "n.", "地铁", "Sydney Metro runs partly underground.", "澳洲多说 the train / Metro", "metro|subway|train|tube"],
+    ["🛑", "stop sign", "/ˈstɒp saɪn/", "n.", "停车标志", "He rolled through the stop sign and got fined.", "fine = 罚款", "stop"],
+  ]);
+
+  const TOOLS = E([
+    ["🔧", "spanner", "/ˈspænə(r)/", "n.", "扳手", "Pass me the spanner, would you?", "澳洲/英国说 spanner，美国说 wrench", "wrench"],
+    ["🪛", "screwdriver", "/ˈskruːdraɪvə(r)/", "n.", "螺丝刀", "You'll need a Phillips-head screwdriver.", ""],
+    ["🔨", "hammer", "/ˈhæmə(r)/", "n.", "锤子", "Use a hammer to hang the picture.", ""],
+    ["🪚", "saw", "/sɔː/", "n.", "锯子", "He cut the plank in half with a saw.", ""],
+    ["🔩", "bolt", "/bəʊlt/", "n.", "螺栓", "Tighten the nut on the bolt.", "nut = 螺母；nuts and bolts = 基本细节", "nut and bolt|nut|screw"],
+    ["🧲", "magnet", "/ˈmæɡnət/", "n.", "磁铁", "Stick the note on the fridge with a magnet.", ""],
+    ["🪝", "hook", "/hʊk/", "n.", "挂钩", "Hang your bag on the hook behind the door.", "off the hook = 脱身了"],
+    ["🧰", "toolbox", "/ˈtuːlbɒks/", "n.", "工具箱", "The torch is in the toolbox.", "", "tool box|tool kit|toolkit"],
+    ["🪓", "axe", "/æks/", "n.", "斧头", "He split the firewood with an axe.", "美国拼 ax"],
+    ["⛓️", "chain", "/tʃeɪn/", "n.", "链子", "Lock your bike with a chain.", "supply chain = 供应链"],
+    ["🪤", "mousetrap", "/ˈmaʊstræp/", "n.", "捕鼠夹", "We set a mousetrap under the sink.", "", "mouse trap|trap"],
+    ["🗜️", "clamp", "/klæmp/", "n.", "夹钳", "Hold the wood in place with a clamp.", "clamp down on = 严厉打击"],
+  ]);
+
+  const NATURE = E([
+    ["⛈️", "thunderstorm", "/ˈθʌndəstɔːm/", "n.", "雷暴", "A thunderstorm is forecast for this arvo.", "arvo = afternoon（澳洲口语）", "storm|thunder"],
+    ["🌫️", "fog", "/fɒɡ/", "n.", "雾", "The fog was so thick I couldn't see the bridge.", "foggy (adj.)", "foggy|mist"],
+    ["🌦️", "showers", "/ˈʃaʊəz/", "n.", "阵雨", "Expect a few showers later today.", "天气预报里的 showers = 阵雨", "shower|rain"],
+    ["🌪️", "tornado", "/tɔːˈneɪdəʊ/", "n.", "龙卷风", "The tornado ripped roofs off houses.", "", "twister|whirlwind"],
+    ["🌋", "volcano", "/vɒlˈkeɪnəʊ/", "n.", "火山", "Bali flights were cancelled after the volcano erupted.", "erupt = 喷发"],
+    ["🌊", "wave", "/weɪv/", "n.", "海浪", "The waves are massive at Bondi today.", ""],
+    ["🍂", "fallen leaves", "/ˌfɔːlən ˈliːvz/", "n.", "落叶", "The footpath is covered in fallen leaves.", "澳洲把人行道叫 footpath", "leaves|autumn"],
+    ["🪸", "coral", "/ˈkɒrəl/", "n.", "珊瑚", "The Great Barrier Reef is the world's largest coral reef.", "", "coral reef|reef"],
+    ["🌾", "wheat", "/wiːt/", "n.", "小麦", "Australia is a major wheat exporter.", "", "crop|grain"],
+    ["🌵", "cactus", "/ˈkæktəs/", "n.", "仙人掌", "Don't touch the cactus!", "复数 cacti 或 cactuses"],
+    ["🏜️", "desert", "/ˈdezət/", "n.", "沙漠", "Uluru is in the middle of the desert.", "dessert（甜点）多一个 s"],
+    ["🌘", "crescent moon", "/ˈkresnt muːn/", "n.", "月牙", "There was a thin crescent moon last night.", "", "crescent|moon"],
+  ]);
+
+  const AUSSIE = E([
+    ["🩴", "thongs", "/θɒŋz/", "n.", "人字拖（澳洲叫法）", "Don't wear thongs to the office!", "⚠️ 在美国 thong 是丁字裤，美国人叫 flip-flops", "thong|flip flops|flip-flops"],
+    ["🕶️", "sunnies", "/ˈsʌniz/", "n.", "太阳镜（澳洲口语）", "Grab your sunnies, it's bright out.", "sunglasses 的澳洲叫法", "sunglasses"],
+    ["🦟", "mozzie", "/ˈmɒzi/", "n.", "蚊子（澳洲口语）", "The mozzies are out in force tonight.", "mosquito 的澳洲叫法", "mosquito|mozzies"],
+    ["🪰", "blowfly", "/ˈbləʊflaɪ/", "n.", "绿头苍蝇（澳洲口语 blowie）", "Shut the door before the blowies get in!", "", "blowie|fly"],
+    ["🏄", "surf", "/sɜːf/", "v.", "冲浪", "We went for a surf before work.", "go for a surf = 去冲个浪", "surfing|surfer"],
+    ["🏉", "footy", "/ˈfʊti/", "n.", "（澳式）橄榄球", "Are you watching the footy this weekend?", "澳洲人说 footy 一般指 AFL 或橄榄球联赛", "football|afl|rugby"],
+    ["🏏", "cricket", "/ˈkrɪkɪt/", "n.", "板球", "The Boxing Day Test is a big cricket tradition.", "cricket 也是「蟋蟀」"],
+    ["🌭", "snag", "/snæɡ/", "n.", "香肠（澳洲口语）", "Grab a snag at the Bunnings sausage sizzle.", "sausage sizzle = 烤香肠义卖，澳洲特色", "sausage|hot dog"],
+    ["🍖", "barbie", "/ˈbɑːbi/", "n.", "烧烤（澳洲口语）", "We're having a barbie on Sunday, come over!", "barbecue / BBQ 的澳洲叫法", "barbecue|bbq"],
+    ["🐨", "koala", "/kəʊˈɑːlə/", "n.", "考拉", "Koalas sleep up to 20 hours a day.", "不要叫 koala bear，它不是熊"],
+    ["🦈", "shark", "/ʃɑːk/", "n.", "鲨鱼", "Swim between the flags — there's been a shark sighting.", "swim between the flags = 在救生员旗帜之间游泳"],
+    ["☀️", "scorcher", "/ˈskɔːtʃə(r)/", "n.", "大热天", "Tomorrow's going to be a scorcher — 38 degrees.", "", "hot day|stinker", "sunny|hot"],
+  ]);
+
+  const OFFICE = E([
+    ["📌", "drawing pin", "/ˈdrɔːɪŋ pɪn/", "n.", "图钉", "Pin the flyer up with a drawing pin.", "美国说 thumbtack；pushpin 是这种圆头的", "pushpin|thumbtack|pin"],
+    ["📏", "ruler", "/ˈruːlə(r)/", "n.", "直尺", "Can I borrow your ruler?", "ruler 也是「统治者」"],
+    ["🗂️", "folder", "/ˈfəʊldə(r)/", "n.", "文件夹", "Save it in the shared folder.", "", "file|dividers|binder"],
+    ["🗄️", "filing cabinet", "/ˈfaɪlɪŋ ˌkæbɪnət/", "n.", "文件柜", "The contracts are in the filing cabinet.", "", "file cabinet|cabinet"],
+    ["📋", "clipboard", "/ˈklɪpbɔːd/", "n.", "写字夹板；剪贴板", "Copy it to your clipboard.", "电脑里的「剪贴板」也叫 clipboard"],
+    ["🖨️", "printer", "/ˈprɪntə(r)/", "n.", "打印机", "The printer's jammed again.", "jammed = 卡纸了"],
+    ["🧮", "abacus", "/ˈæbəkəs/", "n.", "算盘", "My grandma could add faster on an abacus.", ""],
+    ["🗓️", "calendar", "/ˈkælɪndə(r)/", "n.", "日历、日程", "I'll send you a calendar invite.", "calendar invite = 日程邀请（职场高频）", "diary|schedule"],
+    ["📉", "downturn", "/ˈdaʊntɜːn/", "n.", "下滑、衰退", "Sales took a downturn in Q3.", "", "decline|drop|fall|graph", "chart"],
+    ["💼", "briefcase", "/ˈbriːfkeɪs/", "n.", "公文包", "He left his briefcase on the train.", "", "", "bag|suitcase"],
+    ["🖇️", "paperclips", "/ˈpeɪpəklɪps/", "n.", "回形针（复数）", "Keep the paperclips in the drawer.", "", "paperclip|paper clips|paper clip"],
+    ["🔖", "bookmark", "/ˈbʊkmɑːk/", "n./v.", "书签；收藏网页", "Bookmark that page so you can find it later.", ""],
+  ]);
+
   window.PIC_THEMES = [
     { id: "water", name: "一杯水", icon: "🥛", prompt: "这个动作怎么说？", items: WATER },
+    { id: "faces", name: "表情与感受", icon: "😬", prompt: "这个表情怎么说？", items: FACES },
     { id: "home", name: "家里的东西", icon: "🏠", prompt: "这个东西叫什么？", items: HOME },
+    { id: "aussie", name: "澳洲口语", icon: "🦘", prompt: "澳洲人会怎么说？", items: AUSSIE },
+    { id: "gestures", name: "手势与动作", icon: "🤞", prompt: "这个动作怎么说？", items: GESTURES },
+    { id: "shopping", name: "超市购物", icon: "🛒", prompt: "这个东西叫什么？", items: SHOPPING },
+    { id: "health", name: "看病与健康", icon: "🩺", prompt: "这个怎么说？", items: HEALTH },
+    { id: "street", name: "街上与交通", icon: "🚦", prompt: "这个怎么说？", items: STREET },
+    { id: "office", name: "办公室", icon: "💼", prompt: "这个东西叫什么？", items: OFFICE },
+    { id: "nature", name: "天气与自然", icon: "⛈️", prompt: "这个怎么说？", items: NATURE },
+    { id: "tools", name: "工具", icon: "🔧", prompt: "这个工具叫什么？", items: TOOLS },
   ];
 })();
