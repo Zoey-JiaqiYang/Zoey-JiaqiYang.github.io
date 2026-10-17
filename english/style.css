@@ -783,3 +783,4 @@ body::before {
 .hello .date { padding-right: 130px; }
 .hello h1 { font-size: 29px; line-height: 1.12; }
 .hello-r { position: absolute; top: -4px; right: 0; }
+.pic-left { font-size: 13px; color: var(--ink-2); margin: 0 0 12px; line-height: 1.6; } .pic-left b { color: var(--ink); }

@@ -937,20 +937,53 @@
   /* ═════════════ picture → speak ═════════════ */
   const THEMES = window.PIC_THEMES || [];
   S.pic ||= { seen: {}, next: 0, right: 0, total: 0 };
+  S.pic.retry ||= [];          // groups to re-test: [{ due, words: [...] }]
   let PS = null; // current session
+  const THEME_OF = {};
+  const indexThemes = () => { for (const t of THEMES) for (const it of t.items) THEME_OF[it.w] = t; };
+  indexThemes();
+  const unseenIn = (t) => t.items.filter((it) => !S.pic.seen[it.w]);
+  const unseenTotal = () => THEMES.reduce((n, t) => n + unseenIn(t).length, 0);
+
+  // 4 English options from the item's own theme, look-alikes first (spill vs splash…)
+  function optionsFor(it) {
+    const others = THEME_OF[it.w].items.filter((o) => o.w !== it.w);
+    const near = others.filter((o) => (it.near || []).includes(o.w));
+    const pick = [...shuffle(near), ...shuffle(others.filter((o) => !near.includes(o)))].slice(0, 3).map((o) => o.w);
+    return shuffle([it.w, ...pick]);
+  }
+
+  // what the next round will be (also used by the home tile)
+  function planPicRound() {
+    // 1) a group where you missed 3+ comes back once within 3 days
+    const due = S.pic.retry.filter((r) => r.due <= TODAY).sort((a, b) => a.due.localeCompare(b.due))[0];
+    if (due) {
+      const items = due.words.map((w) => THEMES.flatMap((t) => t.items).find((it) => it.w === w)).filter(Boolean);
+      if (items.length) return { label: { icon: "🔁", name: "复习上次错得多的那组" }, items, retry: due };
+    }
+    // 2) only pictures you've never seen: next theme (in rotation) that still has new ones
+    for (let k = 0; k < THEMES.length; k++) {
+      const t = THEMES[(S.pic.next + k) % THEMES.length];
+      const fresh = shuffle(unseenIn(t));
+      if (!fresh.length) continue;
+      let items = fresh.slice(0, 5);
+      let label = { icon: t.icon, name: t.name };
+      if (items.length < 5) { // top up with new pictures from other themes
+        const more = shuffle(THEMES.filter((o) => o !== t).flatMap(unseenIn)).slice(0, 5 - items.length);
+        items = items.concat(more);
+        if (more.length) label = { icon: "🎲", name: "混合" };
+      }
+      return { label, items, themeIndex: (S.pic.next + k) % THEMES.length };
+    }
+    // 3) everything seen: least-practised as a stopgap until new themes arrive
+    const all = THEMES.flatMap((t) => t.items).sort((a, b) => (S.pic.seen[a.w] || 0) - (S.pic.seen[b.w] || 0) || Math.random() - 0.5);
+    return { label: { icon: "📚", name: "温故知新" }, items: all.slice(0, 5), exhausted: true };
+  }
 
   function newPicSession() {
-    const theme = THEMES[S.pic.next % THEMES.length];
-    // least-practised items first, random among equals
-    const items = shuffle(theme.items).sort((a, b) => (S.pic.seen[a.w] || 0) - (S.pic.seen[b.w] || 0)).slice(0, 5);
-    // 4 English options: look-alike words from the same theme first (spill vs splash…), then the rest
-    const opts = items.map((it) => {
-      const others = theme.items.filter((o) => o.w !== it.w);
-      const near = others.filter((o) => (it.near || []).includes(o.w));
-      const pick = [...shuffle(near), ...shuffle(others.filter((o) => !near.includes(o)))].slice(0, 3).map((o) => o.w);
-      return shuffle([it.w, ...pick]);
-    });
-    PS = { theme, items, opts, idx: 0, res: [] };
+    const plan = planPicRound();
+    if (plan.themeIndex !== undefined) S.pic.next = plan.themeIndex;
+    PS = { ...plan, opts: plan.items.map(optionsFor), idx: 0, res: [] };
   }
 
   function picImg(it) {
@@ -975,10 +1008,10 @@
     const hint = `${it.w[0]}${it.w.slice(1).replace(/[a-z]/gi, " _")}`;
     box.innerHTML = `
       <div class="pic-card">
-        <span class="chip chip-lav tag">${PS.theme.icon} ${esc(PS.theme.name)}</span>
+        <span class="chip chip-lav tag">${PS.label.icon} ${esc(PS.label.name)}</span>
         <span class="counter">${PS.idx + 1} / ${PS.items.length}</span>
         ${picImg(it)}
-        <p class="pic-q">${esc(PS.theme.prompt)}</p>
+        <p class="pic-q">${esc(THEME_OF[it.w].prompt)}</p>
       </div>
       <div class="options pic-opts">
         ${PS.opts[PS.idx].map((o, i) => `<button class="opt" data-o="${esc(o)}"><span class="k">${"ABCD"[i]}</span>${esc(o)}</button>`).join("")}
@@ -1011,7 +1044,7 @@
   }
 
   function picResult(it, r) {
-    const other = r.ok === "wrong" ? PS.theme.items.find((o) => o.w === r.said) : null;
+    const other = r.ok === "wrong" ? THEME_OF[it.w].items.find((o) => o.w === r.said) : null;
     const head = r.ok === "right" ? `<div class="pic-verdict ok">✅ 答对了！</div>`
       : `<div class="pic-verdict no">❌ 答案是 <b>${esc(it.w)}</b></div>${other ? `<p class="pic-said">你选的 <b>${esc(other.w)}</b> 是「${esc(other.zh)}」</p>` : ""}`;
     return `${head}
@@ -1030,6 +1063,15 @@
 
   function renderPicSummary() {
     const okN = PS.res.filter((r) => r.ok !== "wrong").length;
+    const wrongN = PS.items.length - okN;
+    if (!PS.done) {
+      PS.done = true;
+      if (PS.retry) S.pic.retry = S.pic.retry.filter((r) => !(r.due === PS.retry.due && r.words.join() === PS.retry.words.join()));
+      if (wrongN >= 3) { PS.again = rand(1, 3); S.pic.retry.push({ due: addDays(TODAY, PS.again), words: PS.items.map((it) => it.w) }); }
+      if (!PS.retry && !PS.exhausted) S.pic.next++;   // next round starts from the next theme
+      save();
+    }
+    const left = unseenTotal();
     $("#picBox").innerHTML = `
       <div class="summary">
         <div class="stamp">NICE<small>${okN} / ${PS.items.length}</small></div>
@@ -1037,23 +1079,39 @@
           ${PS.items.map((it, i) => {
             const r = PS.res[i] || {};
             const mk = r.ok === "right" ? `<span class="mk ok">✓</span>` : `<span class="mk bad">✗</span>`;
-            return `<li>${mk}<span class="sum-emo">${it.emoji || PS.theme.icon}</span><b>${esc(it.w)}</b><span class="zh">${esc(it.zh)}</span></li>`;
+            return `<li>${mk}<span class="sum-emo">${it.emoji || THEME_OF[it.w].icon}</span><b>${esc(it.w)}</b><span class="zh">${esc(it.zh)}</span></li>`;
           }).join("")}
         </ul>
+        <p class="pic-left">${PS.again ? `这组错了 ${wrongN} 个，${PS.again} 天后会再考你一次这组 🔁<br>` : ""}${left ? `还有 <b>${left}</b> 张新图没做过` : "题库都做完啦！每天早上会自动加新主题"}</p>
         <div class="sum-actions">
           <button class="btn" id="picMore">再来一组 →</button>
           <a class="btn ghost small" href="#/">回首页</a>
         </div>
       </div>`;
-    $("#picMore").addEventListener("click", () => { S.pic.next++; save(); newPicSession(); renderPic(); });
+    $("#picMore").addEventListener("click", () => { newPicSession(); renderPic(); });
   }
 
   function renderPicTile() {
     if (!THEMES.length) return;
-    const theme = THEMES[S.pic.next % THEMES.length];
-    $("#homePicThumb").innerHTML = theme.items[0].svg || `<span>${theme.items[0].emoji}</span>`;
-    $("#homePicSub").textContent = `下一组：${theme.icon} ${theme.name} · 四选一，1 分钟`;
+    const plan = planPicRound();
+    const first = plan.items[0];
+    $("#homePicThumb").innerHTML = first.svg || `<span>${first.emoji}</span>`;
+    $("#homePicSub").textContent = plan.retry ? "🔁 今天复习上次错得多的那组"
+      : plan.exhausted ? "题库做完啦，明早会加新主题"
+      : `下一组：${plan.label.icon} ${plan.label.name} · 还有 ${unseenTotal()} 张新图`;
   }
+
+  // new themes are added by the daily routine into pics/extra.json
+  fetch("pics/extra.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : [])).then((extra) => {
+    const have = new Set(THEMES.flatMap((t) => t.items.map((i) => i.w)));
+    for (const t of extra || []) {
+      if (!t || !Array.isArray(t.items) || THEMES.some((x) => x.id === t.id)) continue;
+      const items = t.items.filter((i) => i.w && i.zh && (i.emoji || i.svg) && !have.has(i.w)).map((i) => ({ accept: [i.w], near: [], ...i }));
+      if (items.length >= 4) { THEMES.push({ ...t, items }); items.forEach((i) => have.add(i.w)); }
+    }
+    indexThemes();
+    renderPicTile();
+  }).catch(() => {});
 
   /* ═════════════ home + router ═════════════ */
   function renderHome() {
@@ -1121,7 +1179,7 @@
   document.querySelectorAll('.home a[href^="#/"]').forEach((a) => a.addEventListener("click", () => (cameFromHome = true)));
 
   /* ═════════════ refresh (no browser reload button in the home-screen app) ═════════════ */
-  const ASSETS = ["./", "index.html", "app.js", "style.css", "words.js", "pics.js", "news/latest.json", `news/${TODAY}.json`];
+  const ASSETS = ["./", "index.html", "app.js", "style.css", "words.js", "pics.js", "pics/extra.json", "news/latest.json", `news/${TODAY}.json`];
   async function hardRefresh() {
     const btn = $("#refreshBtn");
     btn.classList.add("spin");
