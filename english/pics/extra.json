@@ -1,1 +1,191 @@
-[]
+[
+  {
+    "id": "kitchen-food",
+    "added": "2026-10-18",
+    "name": "厨房与吃的",
+    "icon": "🍳",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🍳",
+        "w": "fry",
+        "ph": "/fraɪ/",
+        "pos": "v.",
+        "zh": "煎、炸",
+        "ex": "I'll fry a couple of eggs for brekkie.",
+        "tip": "brekkie = breakfast（澳洲口语）；deep-fry = 油炸",
+        "accept": [
+          "fry",
+          "fried egg",
+          "frying"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔪",
+        "w": "chop",
+        "ph": "/tʃɒp/",
+        "pos": "v.",
+        "zh": "切（块）",
+        "ex": "Can you chop the onions while I start the sauce?",
+        "tip": "切丁是 dice，切片是 slice",
+        "accept": [
+          "chop",
+          "cut",
+          "chopping"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧂",
+        "w": "salt shaker",
+        "ph": "/ˈsɔːlt ˌʃeɪkə(r)/",
+        "pos": "n.",
+        "zh": "盐瓶",
+        "ex": "Pass the salt shaker, please.",
+        "tip": "撒一点盐 = sprinkle some salt",
+        "accept": [
+          "salt shaker",
+          "salt",
+          "shaker"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍲",
+        "w": "stew",
+        "ph": "/stjuː/",
+        "pos": "n./v.",
+        "zh": "炖菜；炖",
+        "ex": "Mum's beef stew is perfect for a cold night.",
+        "tip": "澳洲人也常说 casserole",
+        "accept": [
+          "stew",
+          "casserole",
+          "hotpot"
+        ],
+        "near": [
+          "soup"
+        ]
+      },
+      {
+        "emoji": "🥟",
+        "w": "dumplings",
+        "ph": "/ˈdʌmplɪŋz/",
+        "pos": "n.",
+        "zh": "饺子",
+        "ex": "Let's get dumplings in Chinatown tonight.",
+        "tip": "小笼包是 soup dumplings / xiao long bao",
+        "accept": [
+          "dumplings",
+          "dumpling",
+          "gyoza"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧊",
+        "w": "ice cube",
+        "ph": "/ˈaɪs kjuːb/",
+        "pos": "n.",
+        "zh": "冰块",
+        "ex": "Can I get a water with a few ice cubes?",
+        "tip": "no ice = 去冰",
+        "accept": [
+          "ice cube",
+          "ice",
+          "ice cubes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥣",
+        "w": "cereal",
+        "ph": "/ˈsɪəriəl/",
+        "pos": "n.",
+        "zh": "麦片（早餐谷物）",
+        "ex": "I just had a bowl of cereal for breakfast.",
+        "tip": "和 serial（连续的）同音",
+        "accept": [
+          "cereal",
+          "muesli",
+          "porridge"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥐",
+        "w": "croissant",
+        "ph": "/ˈkwæsɒ̃/",
+        "pos": "n.",
+        "zh": "牛角包",
+        "ex": "A croissant and a flat white, please.",
+        "tip": "澳洲人常读 /krəˈsɒnt/，两种都能听懂",
+        "accept": [
+          "croissant"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍴",
+        "w": "cutlery",
+        "ph": "/ˈkʌtləri/",
+        "pos": "n.",
+        "zh": "刀叉餐具",
+        "ex": "The cutlery is in the top drawer.",
+        "tip": "澳洲/英国说 cutlery，美国说 silverware",
+        "accept": [
+          "cutlery",
+          "silverware",
+          "knife and fork",
+          "fork and knife"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥤",
+        "w": "soft drink",
+        "ph": "/ˌsɒft ˈdrɪŋk/",
+        "pos": "n.",
+        "zh": "汽水、碳酸饮料",
+        "ex": "Do you want a soft drink with your meal?",
+        "tip": "澳洲说 soft drink，美国说 soda；fizzy drink 也行",
+        "accept": [
+          "soft drink",
+          "soda",
+          "fizzy drink",
+          "pop"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧃",
+        "w": "popper",
+        "ph": "/ˈpɒpə(r)/",
+        "pos": "n.",
+        "zh": "盒装果汁（澳洲叫法）",
+        "ex": "I packed a popper in the kids' lunchboxes.",
+        "tip": "澳洲特有说法，别的地方叫 juice box",
+        "accept": [
+          "popper",
+          "juice box"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥧",
+        "w": "meat pie",
+        "ph": "/ˌmiːt ˈpaɪ/",
+        "pos": "n.",
+        "zh": "肉派（澳洲国民小吃）",
+        "ex": "Nothing beats a meat pie at the footy.",
+        "tip": "pie with sauce = 配番茄酱的肉派",
+        "accept": [
+          "meat pie",
+          "pie"
+        ],
+        "near": []
+      }
+    ]
+  }
+]
