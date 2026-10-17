@@ -582,9 +582,9 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
    THEME v2 — flat colour blocks on warm paper (visual only)
    ═══════════════════════════════════════════════════════════ */
 :root {
-  --paper: #faf3e0;
-  --card: #fffbf3;
-  --card-solid: #fffbf3;
+  --paper: #f8f4ec;
+  --card: #fffdf8;
+  --card-solid: #fffdf8;
   --ink: #22231f;
   --ink-2: #66625a;
   --ink-3: #a29c90;
@@ -611,10 +611,10 @@ html { background: var(--paper); }
 body { background: var(--paper); }
 /* a whisper of paper grain */
 body::before {
-  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 90; mix-blend-mode: multiply;
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0; mix-blend-mode: multiply;
   background-image:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .38  0 0 0 0 .3  0 0 0 0 .18  0 0 0 .32 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012' numOctaves='3' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .55  0 0 0 0 .44  0 0 0 0 .24  0 0 0 .22 -.03'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E");
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .42  0 0 0 0 .35  0 0 0 0 .22  0 0 0 .16 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='600'%3E%3Cfilter id='m'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012' numOctaves='3' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .55  0 0 0 0 .45  0 0 0 0 .25  0 0 0 .14 -.02'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23m)'/%3E%3C/svg%3E");
 }
 .app { position: relative; z-index: 1; }
 
@@ -664,7 +664,7 @@ body::before {
 
 .tile-cal { background: var(--card); backdrop-filter: none; border: 1.5px solid var(--line); }
 .tile-cal .chip-white { background: var(--lav); color: #24465a; }
-.week-strip span { background: #f3ead3; color: var(--ink-2); }
+.week-strip span { background: #eee8dc; color: var(--ink-2); }
 .week-strip .part span { background: var(--pink); color: #3d1720; }
 .week-strip .full span { background: var(--olive); color: #f6f0dd; }
 .week-strip .today span { outline: 2px dashed var(--ink); }
@@ -711,14 +711,14 @@ body::before {
 .streak small { color: #e5dcb8; }
 .mini-stats div { background: var(--card); border: 1.5px solid var(--line); }
 .cal-box { background: var(--card); border: 1.5px solid var(--line); }
-.cal-day span { background: #f3ead3; }
+.cal-day span { background: #eee8dc; }
 .cal-day.part span { background: var(--pink); color: #3d1720; }
 .cal-day.full span { background: var(--olive); color: #f6f0dd; }
 .cal-day.full::after { color: var(--orange); }
 .cal-day.today span { outline: 2px dashed var(--ink); }
 .lg.full { background: var(--olive); }
 .lg.part { background: var(--pink); }
-.lg.none { background: #f3ead3; }
+.lg.none { background: #eee8dc; }
 .pill { background: var(--card); border: 1.5px solid var(--line); }
 .pill.done { background: var(--olive); color: #e5dcb8; border-color: transparent; }
 .pill.done .dot { background: var(--yellow); }
