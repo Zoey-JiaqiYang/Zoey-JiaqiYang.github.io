@@ -443,8 +443,6 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
   padding: 6px 12px; border-radius: 999px; font-size: 12.5px; font-weight: 500;
   background: rgba(255,255,255,.85); color: var(--teal-2); text-decoration: none;
 }
-.ni-foot .ni-links a.xhs { background: #ffe1e6; color: #d6284a; }
-.ni-foot .ni-links a.dy { background: #1f2d33; color: #fff; }
 
 /* news: every word tappable */
 .tw { cursor: pointer; border-radius: 4px; transition: background .15s; }
