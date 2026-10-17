@@ -577,7 +577,7 @@
       bookFilter === "wrong" ? srcsOf(n).includes("wrong") :
       bookFilter === "lookup" ? srcsOf(n).some((x) => x !== "wrong") :
       bookFilter === "due" ? isDue(n) : n.status === "mastered");
-    const TAG = { wrong: ["t-wrong", "答错"], lookup: ["t-look", "查过"], news: ["t-news", "新闻"] };
+    const TAG = { wrong: ["t-wrong", "答错"], lookup: ["t-look", "查过"], news: ["t-news", "新闻"], picture: ["t-pic", "看图"] };
     $("#bookList").innerHTML = list.length ? list.map((n) => {
       const q = S.queue[n.w];
       const state = n.status === "mastered" ? `<span class="bst m">已掌握</span>` : q ? `<span class="bst">${q.due <= TODAY ? "今天复习" : `${q.due.slice(5).replace("-", "/")} 复习`}</span>` : "";
@@ -933,6 +933,175 @@
     $("#statQueue").textContent = Object.keys(S.queue).length;
   }
 
+  /* ═════════════ picture → speak ═════════════ */
+  const THEMES = window.PIC_THEMES || [];
+  S.pic ||= { seen: {}, next: 0, right: 0, total: 0 };
+  let PS = null; // current session
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  const norm = (s) => ` ${String(s || "").toLowerCase().replace(/[^a-z\s-]/g, " ").replace(/-/g, " ").replace(/\s+/g, " ").trim()} `;
+  const hit = (said, list) => (list || []).some((a) => norm(said).includes(norm(a)));
+
+  function newPicSession() {
+    const theme = THEMES[S.pic.next % THEMES.length];
+    // least-practised items first, random among equals
+    const items = shuffle(theme.items).sort((a, b) => (S.pic.seen[a.w] || 0) - (S.pic.seen[b.w] || 0)).slice(0, 5);
+    PS = { theme, items, idx: 0, res: [] };
+  }
+
+  function picImg(it) {
+    return it.svg ? `<div class="pic-img">${it.svg}</div>` : `<div class="pic-img emoji">${it.emoji}</div>`;
+  }
+
+  function renderPicSteps() {
+    $("#picSteps").innerHTML = PS ? PS.items.map((_, i) => {
+      const r = PS.res[i];
+      return `<i class="${r ? (r.ok === "wrong" ? "bad" : "ok") : i === PS.idx ? "cur" : ""}"></i>`;
+    }).join("") : "";
+  }
+
+  function renderPic() {
+    if (!THEMES.length) return;
+    if (!PS) newPicSession();
+    renderPicSteps();
+    const box = $("#picBox");
+    if (PS.idx >= PS.items.length) return renderPicSummary();
+    const it = PS.items[PS.idx];
+    const r = PS.res[PS.idx];
+    const hint = `${it.w[0]}${it.w.slice(1).replace(/[a-z]/gi, " _")}`;
+    box.innerHTML = `
+      <div class="pic-card">
+        <span class="chip chip-lav tag">${PS.theme.icon} ${esc(PS.theme.name)}</span>
+        <span class="counter">${PS.idx + 1} / ${PS.items.length}</span>
+        ${picImg(it)}
+        <p class="pic-q">${esc(PS.theme.prompt)}</p>
+      </div>
+      ${r ? picResult(it, r) : `
+        <p class="pic-hint" id="picHint" hidden>提示：<b>${esc(hint)}</b>　（${it.w.replace(/\s/g, "").length} 个字母）</p>
+        <div class="pic-actions">
+          ${SR ? `<button class="btn mic" id="picMic">🎤 点一下，说英文</button>` : ""}
+          <form class="pic-type" id="picType" autocomplete="off" ${SR ? "hidden" : ""}>
+            <input id="picInput" placeholder="输入英文…" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done">
+            <button class="btn small">确定</button>
+          </form>
+          <div class="pic-sub">
+            ${SR ? `<button class="link-btn" id="picTypeBtn">⌨️ 打字回答</button>` : ""}
+            <button class="link-btn" id="picHintBtn">💡 提示</button>
+            <button class="link-btn" id="picReveal">👀 看答案</button>
+          </div>
+        </div>`}`;
+
+    if (r) {
+      $("#picNext").addEventListener("click", () => { PS.idx++; renderPic(); });
+      $("#picFix")?.addEventListener("click", () => { setPicResult("right", r.said, true); });
+      return;
+    }
+    $("#picHintBtn").addEventListener("click", () => ($("#picHint").hidden = false));
+    $("#picReveal").addEventListener("click", () => setPicResult("wrong", ""));
+    $("#picTypeBtn")?.addEventListener("click", () => { $("#picType").hidden = false; $("#picInput").focus(); });
+    $("#picType").addEventListener("submit", (e) => { e.preventDefault(); judge([$("#picInput").value]); });
+    $("#picMic")?.addEventListener("click", listen);
+  }
+
+  function judge(alts) {
+    const it = PS.items[PS.idx];
+    const said = (alts[0] || "").trim();
+    if (!said) return;
+    if (alts.some((a) => hit(a, it.accept.concat([it.w])))) return setPicResult("right", said);
+    if (alts.some((a) => hit(a, it.near))) return setPicResult("close", said);
+    setPicResult("wrong", said);
+  }
+
+  function setPicResult(ok, said, corrected = false) {
+    const it = PS.items[PS.idx];
+    const prev = PS.res[PS.idx];
+    PS.res[PS.idx] = { w: it.w, ok, said };
+    if (!prev) { S.pic.total++; S.pic.seen[it.w] = (S.pic.seen[it.w] || 0) + 1; }
+    if (ok === "right") S.pic.right++;
+    const data = { ph: it.ph, pos: it.pos, zh: it.zh, ex: it.ex };
+    if (ok === "wrong") addLookup(it.w, data, "picture");                       // into the word book + review in 1–3 days
+    // "其实我说对了": undo the word-book entry this card just created (keep it if it was there before for other reasons)
+    const nb = S.notebook[it.w];
+    if (corrected && nb && (nb.srcs || []).join() === "picture") { delete S.queue[it.w]; delete S.notebook[it.w]; renderBook(); renderStats(); }
+    save();
+    renderPic();
+    if (ok !== "wrong") speak(it.w);
+  }
+
+  function picResult(it, r) {
+    const head = r.ok === "right" ? `<div class="pic-verdict ok">✅ 说对了！</div>`
+      : r.ok === "close" ? `<div class="pic-verdict mid">🟡 差不多！更地道的说法是 <b>${esc(it.w)}</b></div>`
+      : `<div class="pic-verdict no">${r.said ? "❌ 不太对" : "没关系～"} 答案是 <b>${esc(it.w)}</b></div>`;
+    return `${head}
+      ${r.said ? `<p class="pic-said">你说的是：「${esc(r.said)}」</p>` : ""}
+      <div class="pic-answer">
+        <div class="pa-top"><b>${esc(it.w)}</b><span>${esc(it.ph)}</span><i>${esc(it.pos)}</i><button class="speak" data-say="${esc(it.w)}" aria-label="发音">🔊</button></div>
+        <div class="pa-zh">${esc(it.zh)}</div>
+        <p class="pa-ex">${highlight(it.ex, it.w.split(" ")[0])}<button class="speak sm" data-say="${esc(it.ex)}" aria-label="朗读">🔊</button></p>
+        ${it.tip ? `<p class="pa-tip">💡 ${esc(it.tip)}</p>` : ""}
+        ${r.ok === "wrong" ? `<p class="pa-note">已记到单词本，1–3 天内会再考你</p>` : ""}
+      </div>
+      <div class="quiz-foot">
+        ${r.ok !== "right" ? `<button class="link-btn" id="picFix">其实我说对了</button>` : "<span></span>"}
+        <button class="btn" id="picNext">${PS.idx === PS.items.length - 1 ? "完成 ✓" : "下一张 →"}</button>
+      </div>`;
+  }
+
+  let rec = null;
+  function listen() {
+    const btn = $("#picMic");
+    if (rec) { rec.stop(); return; }
+    try {
+      rec = new SR();
+      rec.lang = "en-AU";
+      rec.interimResults = false;
+      rec.maxAlternatives = 5;
+      rec.onresult = (e) => {
+        const alts = [...e.results[0]].map((a) => a.transcript);
+        judge(alts);
+      };
+      rec.onerror = (e) => {
+        if (e.error === "not-allowed" || e.error === "service-not-allowed") toast("麦克风没开权限，可以先用打字回答");
+        else if (e.error === "no-speech") toast("没听到声音，再试一次～");
+        else toast("没听清，再说一次或者打字回答");
+      };
+      rec.onend = () => { rec = null; const b = $("#picMic"); if (b) { b.classList.remove("on"); b.textContent = "🎤 点一下，说英文"; } };
+      rec.start();
+      btn.classList.add("on");
+      btn.textContent = "正在听… 说完会自动识别";
+    } catch (err) {
+      rec = null;
+      toast("这个浏览器不支持语音，用打字回答吧");
+      $("#picType").hidden = false;
+    }
+  }
+
+  function renderPicSummary() {
+    const okN = PS.res.filter((r) => r.ok !== "wrong").length;
+    $("#picBox").innerHTML = `
+      <div class="summary">
+        <div class="stamp">NICE<small>${okN} / ${PS.items.length}</small></div>
+        <ul class="sum-list">
+          ${PS.items.map((it, i) => {
+            const r = PS.res[i] || {};
+            const mk = r.ok === "right" ? `<span class="mk ok">✓</span>` : r.ok === "close" ? `<span class="mk mid">~</span>` : `<span class="mk bad">✗</span>`;
+            return `<li>${mk}<span class="sum-emo">${it.emoji || PS.theme.icon}</span><b>${esc(it.w)}</b><span class="zh">${esc(it.zh)}</span></li>`;
+          }).join("")}
+        </ul>
+        <div class="sum-actions">
+          <button class="btn" id="picMore">再来一组 →</button>
+          <a class="btn ghost small" href="#/">回首页</a>
+        </div>
+      </div>`;
+    $("#picMore").addEventListener("click", () => { S.pic.next++; save(); newPicSession(); renderPic(); });
+  }
+
+  function renderPicTile() {
+    if (!THEMES.length) return;
+    const theme = THEMES[S.pic.next % THEMES.length];
+    $("#homePicThumb").innerHTML = theme.items[0].svg || `<span>${theme.items[0].emoji}</span>`;
+    $("#homePicSub").textContent = `下一组：${theme.icon} ${theme.name} · 1–2 分钟`;
+  }
+
   /* ═════════════ home + router ═════════════ */
   function renderHome() {
     const d = day();
@@ -956,9 +1125,10 @@
     let cur = status(S.days[TODAY]) === "full" ? TODAY : addDays(TODAY, -1);
     while (status(S.days[cur]) === "full") { streak++; cur = addDays(cur, -1); }
     $("#homeStreak").textContent = streak;
+    renderPicTile();
   }
 
-  const VIEWS = ["home", "dict", "words", "news", "book", "cal"];
+  const VIEWS = ["home", "dict", "words", "news", "pic", "book", "cal"];
   function route() {
     const v = (location.hash.match(/^#\/(\w+)/) || [])[1] || "home";
     const view = VIEWS.includes(v) ? v : "home";
@@ -968,6 +1138,7 @@
     if (view === "dict") setTimeout(() => $("#dictInput").focus(), 60);
     if (view === "home") renderHome();
     if (view === "book") renderBook();
+    if (view === "pic") renderPic();
   }
   function go(view, replace) {
     const h = view === "home" ? "#/" : `#/${view}`;

@@ -69,6 +69,17 @@
           <div class="bar"><i id="homeNewsBar"></i></div>
         </a>
 
+        <a class="tile tile-pic" href="#/pic">
+          <div class="tile-top">
+            <div>
+              <span class="chip chip-white">加练 · 不计打卡</span>
+              <h3>看图说英文</h3>
+              <p id="homePicSub">看图开口说，1–2 分钟</p>
+            </div>
+            <div class="pic-thumb" id="homePicThumb"></div>
+          </div>
+        </a>
+
         <a class="tile tile-book" href="#/book">
           <div class="tile-top">
             <div>
@@ -138,6 +149,12 @@
       <div id="newsList" class="news-list"></div>
     </section>
 
+    <!-- ═════════ PICTURE → SPEAK ═════════ -->
+    <section class="view" data-view="pic" hidden>
+      <div class="topbar"><a class="back" href="#/">‹</a><h2>看图说英文</h2><div class="steps" id="picSteps"></div></div>
+      <div id="picBox"></div>
+    </section>
+
     <!-- ═════════ WORD BOOK ═════════ -->
     <section class="view" data-view="book" hidden>
       <div class="topbar"><a class="back" href="#/">‹</a><h2>我的单词本</h2><span class="tb-r" id="bookCount"></span></div>
@@ -191,6 +208,7 @@
   </div>
 
   <script src="words.js"></script>
+  <script src="pics.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
