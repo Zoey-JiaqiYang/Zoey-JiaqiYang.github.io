@@ -1,8 +1,8 @@
 // "看图说英文" picture themes.
 // item: { w, ph, pos, zh, ex, tip, accept: [answers counted as right], near: [answers counted as "close"], svg | emoji }
 (() => {
-  const S = 'stroke="#0f4a59" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"';
-  const W = "#bfe3f0";   // water
+  const S = 'stroke="#22231f" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"';
+  const W = "#a9cbe0";   // water
   const svg = (body) => `<svg viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg">${body}</svg>`;
   const drop = (x, y, s = 1) => `<path d="M${x} ${y} q${-7 * s} ${12 * s} 0 ${16 * s} q${7 * s} ${-4 * s} 0 ${-16 * s} z" fill="${W}" ${S}/>`;
 
@@ -40,7 +40,7 @@
         <path d="M66 36 L66 20 M54 20 L78 20" fill="none" ${S}/>
         ${drop(88, 82)}${drop(88, 112, 0.8)}
         <ellipse cx="88" cy="148" rx="26" ry="5" fill="${W}" ${S}/>
-        <path d="M118 150 q4 -6 8 0 M50 150 q4 -6 8 0" fill="none" stroke="#c77fb3" stroke-width="2.4" stroke-linecap="round"/>`),
+        <path d="M118 150 q4 -6 8 0 M50 150 q4 -6 8 0" fill="none" stroke="#e2697f" stroke-width="2.4" stroke-linecap="round"/>`),
     },
     {
       w: "stir", ph: "/stɜː(r)/", pos: "v.", zh: "搅拌", accept: ["stir", "stirring", "stirred", "stir coffee", "stir it"], near: ["mix"],
@@ -50,8 +50,8 @@
         <ellipse cx="95" cy="82" rx="35" ry="8" fill="#e2c3a4" ${S}/>
         <path d="M132 88 Q156 94 129 122" fill="none" ${S}/>
         <path d="M122 26 L100 84" fill="none" ${S}/>
-        <path d="M66 60 A30 9 0 1 0 128 62" fill="none" stroke="#c77fb3" stroke-width="3" stroke-linecap="round"/>
-        <path d="M128 62 l-9 -5 M128 62 l-3 -10" fill="none" stroke="#c77fb3" stroke-width="3" stroke-linecap="round"/>`),
+        <path d="M66 60 A30 9 0 1 0 128 62" fill="none" stroke="#e2697f" stroke-width="3" stroke-linecap="round"/>
+        <path d="M128 62 l-9 -5 M128 62 l-3 -10" fill="none" stroke="#e2697f" stroke-width="3" stroke-linecap="round"/>`),
     },
     {
       w: "splash", ph: "/splæʃ/", pos: "v./n.", zh: "（水）溅起、泼溅", accept: ["splash", "splashing", "splashed"], near: ["spray", "spill"],
@@ -79,9 +79,9 @@
       ex: "She sipped her flat white while reading the news.", tip: "drink 是泛指「喝」；小口小口慢慢喝是 sip，大口灌是 gulp",
       svg: svg(`
         <circle cx="72" cy="78" r="44" fill="#fde6f1" ${S}/>
-        <circle cx="84" cy="64" r="3.5" fill="#0f4a59"/>
+        <circle cx="84" cy="64" r="3.5" fill="#22231f"/>
         <path d="M104 92 q6 2 10 -1" fill="none" ${S}/>
-        <path d="M58 92 q6 4 12 0" fill="none" stroke="#c77fb3" stroke-width="2.5" stroke-linecap="round"/>
+        <path d="M58 92 q6 4 12 0" fill="none" stroke="#e2697f" stroke-width="2.5" stroke-linecap="round"/>
         <g transform="rotate(-18 140 100)">
           <path d="M116 86 L120 122 Q121 128 128 128 L148 128 Q155 128 156 122 L160 86 Z" fill="#fff" ${S}/>
           <path d="M160 96 Q174 100 158 114" fill="none" ${S}/>
@@ -97,7 +97,7 @@
         <path d="M70 70 L70 60 L90 60 L90 70" fill="#fff" ${S}/>
         <path d="M60 44 L106 44 L116 52 L106 60 L60 60 Z" fill="#fff" ${S}/>
         <path d="M78 60 L70 82" fill="none" ${S}/>
-        ${[[130, 50], [142, 40], [146, 58], [158, 46], [162, 64], [170, 34], [176, 54], [136, 64], [154, 30], [182, 44]].map(([x, y]) => `<circle cx="${x}" cy="${y}" r="3" fill="${W}" stroke="#0f4a59" stroke-width="1.6"/>`).join("")}`),
+        ${[[130, 50], [142, 40], [146, 58], [158, 46], [162, 64], [170, 34], [176, 54], [136, 64], [154, 30], [182, 44]].map(([x, y]) => `<circle cx="${x}" cy="${y}" r="3" fill="${W}" stroke="#22231f" stroke-width="1.6"/>`).join("")}`),
     },
   ];
 
