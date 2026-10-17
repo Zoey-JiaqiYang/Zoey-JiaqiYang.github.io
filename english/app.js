@@ -683,6 +683,24 @@
     return [s.slice(0, half).join(""), s.slice(half).join("")].filter((x) => x.trim());
   };
 
+  // "30 秒看懂" card for politics / economy news
+  function explainCard(x) {
+    const REL = { good: ["rel-good", "🤝"], bad: ["rel-bad", "⚡"], neutral: ["rel-mid", "🤔"], cause: ["rel-cause", "→"] };
+    return `<div class="explain">
+      <div class="ex-head">🧩 30 秒看懂</div>
+      ${x.one_liner ? `<p class="ex-one"><b>一句话：</b>${esc(x.one_liner)}</p>` : ""}
+      ${x.facts?.length ? `<div class="ex-sec"><h6>先知道这几件事</h6><ul class="ex-facts">
+        ${x.facts.map((f) => `<li><span class="ic">${esc(f.icon || "•")}</span><span><b>${esc(f.name)}</b>　${esc(f.text)}</span></li>`).join("")}
+      </ul></div>` : ""}
+      ${x.relations?.length ? `<div class="ex-sec"><h6>${x.relations.every((r) => r.type === "cause") ? "前因后果" : "人物关系"}</h6><div class="ex-rels">
+        ${x.relations.map((r) => { const [c, ic] = REL[r.type] || REL.neutral; return `<div class="ex-rel ${c}"><span class="node">${esc(r.a)}</span><span class="link">${ic} ${esc(r.label || "")}</span><span class="node">${esc(r.b)}</span></div>`; }).join("")}
+      </div></div>` : ""}
+      ${x.points?.length ? `<div class="ex-sec"><h6>这次发生了什么</h6><ol class="ex-points">${x.points.map((p) => `<li>${esc(p)}</li>`).join("")}</ol></div>` : ""}
+      ${x.relevance ? `<div class="ex-sec"><h6>跟我有什么关系</h6><p>${esc(x.relevance)}</p></div>` : ""}
+      ${x.phrase ? `<p class="ex-phrase"><b>学一个表达：</b><i>${esc(x.phrase.en)}</i> = ${esc(x.phrase.zh)}</p>` : ""}
+    </div>`;
+  }
+
   function readKey(i) { return `${newsData.date}#${i}`; }
 
   function renderNews() {
@@ -714,8 +732,9 @@
             <div class="ni-meta"><span class="chip ${c.chip}">${c.label}</span><span>${esc(it.source || "")}</span></div>
             <h3>${esc(LANG === "zh" ? it.title_zh : it.title_en)}</h3>
             <h4>${esc(LANG === "zh" ? it.title_en : it.title_zh)}</h4>
+            ${it.explain ? explainCard(it.explain) + `<div class="read-label">读一读 · ${LANG === "zh" ? "中文" : LANG === "en" ? "English" : "双语"}</div>` : ""}
             <div class="ni-text">${body}</div>
-            ${it.why_zh ? `<div class="ni-why">${esc(it.why_zh)}</div>` : ""}
+            ${it.why_zh && !it.explain ? `<div class="ni-why">${esc(it.why_zh)}</div>` : ""}
             <div class="ni-foot">
               <div class="ni-links">
                 ${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">原文 ↗</a>` : ""}

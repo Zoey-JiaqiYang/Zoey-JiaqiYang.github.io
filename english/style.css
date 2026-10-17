@@ -493,3 +493,27 @@ a { color: inherit; text-decoration: none; -webkit-tap-highlight-color: transpar
 .ex-list .en b { color: var(--teal); }
 .ex-list .zh { display: block; color: var(--ink-2); font-size: 13px; margin-top: 2px; }
 .speak.sm { position: absolute; top: 8px; right: 8px; width: 28px; height: 28px; font-size: 12px; background: rgba(255,255,255,.85); }
+
+/* 30 秒看懂 card */
+.explain { background: linear-gradient(160deg, rgba(207,200,243,.38), rgba(242,196,226,.32)); border-radius: 18px; padding: 14px 14px 12px; margin: 4px 0 14px; font-size: 14px; line-height: 1.55; color: #2c2f4a; }
+.ex-head { font-weight: 600; font-size: 15px; margin-bottom: 8px; color: #3d3478; }
+.ex-one { margin: 0 0 10px; background: rgba(255,255,255,.7); border-radius: 12px; padding: 9px 12px; }
+.ex-sec { margin-top: 10px; }
+.ex-sec h6 { margin: 0 0 6px; font-size: 12px; font-weight: 600; color: #6a5fb8; letter-spacing: .02em; }
+.ex-sec p { margin: 0; }
+.ex-facts { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.ex-facts li { display: flex; gap: 8px; align-items: flex-start; }
+.ex-facts .ic { flex: none; width: 22px; text-align: center; }
+.ex-rels { display: grid; gap: 6px; }
+.ex-rel { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; background: rgba(255,255,255,.7); border-radius: 12px; padding: 8px 10px; }
+.ex-rel .node { font-weight: 600; }
+.ex-rel .link { font-size: 12px; padding: 2px 8px; border-radius: 99px; }
+.rel-good .link { background: var(--mint); color: #245c4a; }
+.rel-bad .link { background: #fbdbe2; color: #b1405a; }
+.rel-mid .link { background: #fbe9c9; color: #8a5a1a; }
+.rel-cause .link { background: var(--lav); color: #4a3f99; }
+.ex-points { margin: 0; padding-left: 20px; }
+.ex-points li { margin-bottom: 3px; }
+.ex-phrase { margin: 10px 0 0; padding-top: 8px; border-top: 1px dashed rgba(61,52,120,.2); }
+.ex-phrase i { color: var(--teal); font-weight: 600; }
+.read-label { font-size: 12px; font-weight: 600; color: var(--ink-3); margin: 0 0 6px; letter-spacing: .03em; }

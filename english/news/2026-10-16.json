@@ -29,7 +29,56 @@
           "zh": "可持续的",
           "example": "Higher borrowing costs have also revived doubts about whether the huge spending on AI infrastructure is sustainable."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "美国通胀降不下来，大家担心美国还要加息、AI 投资过热，于是亚洲芯片股被大量抛售，韩国股市一天跌了 7.6%。",
+        "facts": [
+          {
+            "icon": "📊",
+            "name": "Kospi",
+            "text": "韩国股市的大盘指数，类似澳洲的 ASX 200。"
+          },
+          {
+            "icon": "🧯",
+            "name": "熔断 circuit breaker",
+            "text": "股价跌得太快时，交易所暂停交易一会儿，让市场冷静。"
+          },
+          {
+            "icon": "🏦",
+            "name": "美联储 the Fed",
+            "text": "美国的央行，决定美国利率。利率高 → 借钱贵 → 股市通常会跌。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI 芯片股",
+            "text": "SK 海力士、三星给 AI 做芯片，这两年涨了很多，所以对坏消息特别敏感。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "美国通胀 3.7%",
+            "b": "美联储可能再加息",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "借钱变贵",
+            "b": "怀疑 AI 投资撑不住 → 芯片股被抛售",
+            "type": "cause",
+            "label": "导致"
+          }
+        ],
+        "points": [
+          "韩国 Kospi 跌 7.57%，收在 5,554 点，是六个月来最低。",
+          "跌幅触发熔断，首尔股市一度暂停交易。",
+          "SK 海力士和三星电子各跌约 10%。"
+        ],
+        "relevance": "澳洲的养老金（super）很多投在全球股票里，科技股大跌会影响你的 super 余额；市场情绪差时，客户的营销预算也常常会收紧。",
+        "phrase": {
+          "en": "rattled",
+          "zh": "（让人）慌了、不安"
+        }
+      }
     },
     {
       "category": "australia",
@@ -58,7 +107,56 @@
           "zh": "顽固的；难以改变的",
           "example": "The weak figures came just two weeks after the Reserve Bank lifted the cash rate to 4.60% in an effort to bring down stubborn inflation."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "9 月澳洲找不到工作的人变多了，失业率 4.7% 是近五年最高，而央行两周前刚加过息。",
+        "facts": [
+          {
+            "icon": "📈",
+            "name": "失业率",
+            "text": "想工作却找不到工作的人占比。"
+          },
+          {
+            "icon": "🏦",
+            "name": "澳储行 RBA",
+            "text": "澳洲的央行，决定现金利率（cash rate），直接影响房贷利率。"
+          },
+          {
+            "icon": "🔥",
+            "name": "通胀",
+            "text": "物价涨得太快。央行加息就是为了把物价压下来。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "为什么矛盾",
+            "text": "加息能压物价，但也会让企业少招人。这次数据说明经济可能在变冷。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "央行加息到 4.60%",
+            "b": "企业借钱变贵、少招人",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "失业率上升",
+            "b": "央行再加息的可能变小",
+            "type": "cause",
+            "label": "可能导致"
+          }
+        ],
+        "points": [
+          "失业率升到 4.7%，是 2021 年 10 月以来最高。",
+          "经济学家原本预计新增约 2 万个工作，结果反而少了约 3.9 万个。",
+          "减少的主要是兼职工作，全职其实还多了一些。"
+        ],
+        "relevance": "找工作或换工作的话，现在的就业市场在变冷；有房贷的话，失业率上升可能让央行暂停加息。",
+        "phrase": {
+          "en": "shed jobs",
+          "zh": "（经济）减少工作岗位"
+        }
+      }
     },
     {
       "category": "entertainment",

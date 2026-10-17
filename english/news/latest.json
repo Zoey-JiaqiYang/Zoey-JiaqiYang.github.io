@@ -29,7 +29,51 @@
           "zh": "含蓄的；隐晦的",
           "example": "Zelensky thanked the \"real leaders\" in the room, a remark widely seen as a veiled swipe at Trump, who had criticised him in a Newsmax interview a day earlier."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "乌克兰总统去找欧洲要钱要武器，顺便暗戳戳地吐槽了美国总统特朗普。",
+        "facts": [
+          {
+            "icon": "🇺🇦",
+            "name": "乌克兰",
+            "text": "2022 年起一直在和俄罗斯打仗，打仗的钱和武器很大一部分靠外国援助。"
+          },
+          {
+            "icon": "🇪🇺",
+            "name": "欧盟和美国",
+            "text": "乌克兰最主要的两个“金主”。"
+          },
+          {
+            "icon": "😬",
+            "name": "最近的矛盾",
+            "text": "特朗普对援助乌克兰越来越冷淡，前一天还在采访里批评了泽连斯基。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "泽连斯基",
+            "b": "欧盟领导人",
+            "type": "good",
+            "label": "关系很好"
+          },
+          {
+            "a": "泽连斯基",
+            "b": "特朗普",
+            "type": "bad",
+            "label": "关系变差"
+          }
+        ],
+        "points": [
+          "感谢在场的“真正的领导人”，言下之意是“某些人不算”，被认为在讽刺特朗普。",
+          "向欧盟再要约 700 亿欧元，用在 2027 年（今明两年已经有 900 亿欧元贷款）。",
+          "抱怨美国的“爱国者”防空导弹大多送去了中东，乌克兰排不上号。"
+        ],
+        "relevance": "美国和欧洲在援助乌克兰上意见不合，会影响全球局势和油价、能源价格，澳洲也会受影响。",
+        "phrase": {
+          "en": "a veiled swipe",
+          "zh": "含蓄地讽刺、暗戳戳地损人"
+        }
+      }
     },
     {
       "category": "australia",
@@ -58,7 +102,67 @@
           "zh": "保险费",
           "example": "Health Minister Mark Butler has reintroduced the same bill, while the Opposition warns that older couples could face premium increases of up to $1,614 a year."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "政府想少给 65 岁以上老人一点私人医保补贴、把钱挪去做养老护理，结果在参议院被几个党联手挡住了。",
+        "facts": [
+          {
+            "icon": "🔴",
+            "name": "工党 Labor",
+            "text": "现在的执政党，总理是阿尔巴尼斯（Albanese）。这个计划就是他们提的。"
+          },
+          {
+            "icon": "🔵",
+            "name": "联盟党 Coalition",
+            "text": "自由党 + 国家党，最大的反对党。新闻里的 the Opposition 就是它。"
+          },
+          {
+            "icon": "🟢",
+            "name": "绿党 Greens",
+            "text": "偏左的小党，在参议院经常决定法案能不能通过。"
+          },
+          {
+            "icon": "🟠",
+            "name": "一国党 One Nation",
+            "text": "偏右的小党，领袖是 Pauline Hanson。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "参议院 Senate",
+            "text": "法案要众议院、参议院都通过才算数。工党在参议院不过半，需要别的党或独立议员（crossbench）支持。"
+          },
+          {
+            "icon": "💊",
+            "name": "私人医保返利 rebate",
+            "text": "政府帮你付一部分私人医保保费，年纪越大补贴比例越高。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "工党政府",
+            "b": "联盟党 + 绿党 + 一国党 + 部分独立议员",
+            "type": "bad",
+            "label": "这次联手反对"
+          },
+          {
+            "a": "绿党",
+            "b": "工党政府",
+            "type": "neutral",
+            "label": "有条件支持：领养老金的人要豁免"
+          }
+        ],
+        "points": [
+          "参议院 38 票对 23 票，把这个法案移出了议程。",
+          "政府说这样四年能省约 30 亿澳元，拿去投养老护理（aged care）。",
+          "反对党说，老年夫妇每年保费可能最多多交 1,614 澳元。",
+          "卫生部长 Mark Butler 已经重新提交同一法案，事情还没完。"
+        ],
+        "relevance": "你或家里长辈买澳洲私人医保的话可以留意补贴政策在变；这也是看懂澳洲“政府提案 → 参议院卡住”这套流程的典型例子。",
+        "phrase": {
+          "en": "join forces",
+          "zh": "联手、联合起来"
+        }
+      }
     },
     {
       "category": "entertainment",
