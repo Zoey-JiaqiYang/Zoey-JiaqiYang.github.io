@@ -718,7 +718,7 @@
     $("#newsDate").textContent = newsData.date.slice(5).replace("-", "/") + (newsData.date === TODAY ? " · 今天" : "");
     const d = day();
     const late = newsDate === TODAY && newsData.date !== TODAY;
-    list.innerHTML = (late ? `<p class="hand-note" style="margin:0">今天的热点 9:00 前更新，先看看 ${newsData.date.slice(5).replace("-", "/")} 的</p>` : "") +
+    list.innerHTML = (late ? `<p class="hand-note" style="margin:0">今天的热点凌晨 2 点更新，先看看 ${newsData.date.slice(5).replace("-", "/")} 的</p>` : "") +
       newsData.items.map((it, i) => {
         const c = CAT[it.category] || CAT.world;
         const read = d.newsRead.includes(readKey(i));
