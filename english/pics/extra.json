@@ -187,5 +187,201 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "clothes",
+    "added": "2026-10-19",
+    "name": "穿搭与配饰",
+    "icon": "🧣",
+    "prompt": "这个叫什么？",
+    "items": [
+      {
+        "emoji": "👟",
+        "w": "runners",
+        "ph": "/ˈrʌnəz/",
+        "pos": "n.",
+        "zh": "运动鞋（澳洲叫法）",
+        "ex": "Wear your runners, we're walking to the beach.",
+        "tip": "澳洲说 runners，美国说 sneakers，英国说 trainers",
+        "accept": [
+          "runners",
+          "sneakers",
+          "trainers",
+          "joggers"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🩱",
+        "w": "swimmers",
+        "ph": "/ˈswɪməz/",
+        "pos": "n.",
+        "zh": "泳衣（澳洲叫法）",
+        "ex": "Don't forget your swimmers and a towel!",
+        "tip": "澳洲也说 cossie / togs，美国说 swimsuit",
+        "accept": [
+          "swimmers",
+          "cossie",
+          "cozzie",
+          "togs",
+          "swimsuit",
+          "bathers"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🩳",
+        "w": "boardies",
+        "ph": "/ˈbɔːdiz/",
+        "pos": "n.",
+        "zh": "沙滩裤（澳洲口语）",
+        "ex": "He turned up to the barbie in boardies and thongs.",
+        "tip": "board shorts 的澳洲简称",
+        "accept": [
+          "boardies",
+          "board shorts",
+          "shorts"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦺",
+        "w": "hi-vis",
+        "ph": "/ˌhaɪ ˈvɪz/",
+        "pos": "n.",
+        "zh": "荧光背心、高可见度工作服",
+        "ex": "All visitors must wear hi-vis on site.",
+        "tip": "high-visibility 的简称，澳洲工地必备",
+        "accept": [
+          "hi-vis",
+          "high vis",
+          "hi vis",
+          "high-vis",
+          "safety vest",
+          "vest"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥾",
+        "w": "hiking boots",
+        "ph": "/ˈhaɪkɪŋ buːts/",
+        "pos": "n.",
+        "zh": "登山靴",
+        "ex": "Bring hiking boots for the Blue Mountains walk.",
+        "tip": "澳洲人也常说 go bushwalking（去丛林徒步）",
+        "accept": [
+          "hiking boots",
+          "boots",
+          "walking boots"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧣",
+        "w": "scarf",
+        "ph": "/skɑːf/",
+        "pos": "n.",
+        "zh": "围巾",
+        "ex": "It's cold in Melbourne — pack a scarf.",
+        "tip": "复数 scarves",
+        "accept": [
+          "scarf"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧤",
+        "w": "gloves",
+        "ph": "/ɡlʌvz/",
+        "pos": "n.",
+        "zh": "手套",
+        "ex": "I lost one of my gloves on the tram.",
+        "tip": "注意发音 /ɡlʌvz/，o 读 ʌ",
+        "accept": [
+          "gloves",
+          "glove"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥿",
+        "w": "flats",
+        "ph": "/flæts/",
+        "pos": "n.",
+        "zh": "平底鞋",
+        "ex": "I always carry flats in my bag for the walk home.",
+        "tip": "flat 在澳洲还指「公寓」",
+        "accept": [
+          "flats",
+          "ballet flats"
+        ],
+        "near": [
+          "heels"
+        ]
+      },
+      {
+        "emoji": "👠",
+        "w": "heels",
+        "ph": "/hiːlz/",
+        "pos": "n.",
+        "zh": "高跟鞋",
+        "ex": "My feet are killing me — never wearing heels to a wedding again.",
+        "tip": "high heels 的简称；my feet are killing me = 脚疼死了",
+        "accept": [
+          "heels",
+          "high heels",
+          "stilettos"
+        ],
+        "near": [
+          "flats"
+        ]
+      },
+      {
+        "emoji": "👓",
+        "w": "glasses",
+        "ph": "/ˈɡlɑːsɪz/",
+        "pos": "n.",
+        "zh": "眼镜",
+        "ex": "I can't read the menu without my glasses.",
+        "tip": "口语也说 specs；墨镜是 sunnies",
+        "accept": [
+          "glasses",
+          "specs",
+          "spectacles",
+          "eyeglasses"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💍",
+        "w": "engagement ring",
+        "ph": "/ɪnˈɡeɪdʒmənt rɪŋ/",
+        "pos": "n.",
+        "zh": "订婚戒指",
+        "ex": "She showed everyone her engagement ring at work.",
+        "tip": "结婚戒指是 wedding ring",
+        "accept": [
+          "engagement ring",
+          "ring",
+          "wedding ring"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎀",
+        "w": "ribbon",
+        "ph": "/ˈrɪbən/",
+        "pos": "n.",
+        "zh": "丝带、蝴蝶结",
+        "ex": "Tie the gift with a pink ribbon.",
+        "tip": "「蝴蝶结」也可以说 bow /bəʊ/",
+        "accept": [
+          "ribbon",
+          "bow"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
