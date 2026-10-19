@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T02:10:00+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Independent MP Helen Haines critically injured in 'deliberate' car attack",
+      "title_zh": "独立议员海伦·海恩斯在选区办公室外遭汽车撞击，伤势危重，总理称“绝非意外”",
+      "search_zh": "海伦·海恩斯 议员 汽车撞击 旺加拉塔",
+      "summary_en": "Independent federal MP Helen Haines was critically injured on Monday afternoon when a four-wheel drive struck her outside her electorate office in Wangaratta, in north-east Victoria. Police arrested a 43-year-old man at the scene, and officers said they found and seized a knife from inside the Toyota LandCruiser. Prime Minister Anthony Albanese told the ABC that \"this wasn't an accident\" and that it appeared to be a deliberate act, although the motive is still unknown. The national counter-terrorism team has been activated, and Albanese warned that the \"temperature\" of political debate in Australia had risen in recent times.",
+      "summary_zh": "周一下午，联邦独立议员海伦·海恩斯在维多利亚州东北部旺加拉塔的选区办公室外被一辆四驱车撞倒，伤势危重。警方在现场逮捕了一名43岁男子，并表示在这辆丰田陆地巡洋舰车内发现并扣押了一把刀。总理阿尔巴尼斯对ABC表示，“这不是意外”，看起来是蓄意行为，但动机目前仍不清楚。全国反恐小组已经启动，阿尔巴尼斯也警告说，近来澳洲政治辩论的“温度”有所升高。",
+      "why_zh": "在澳洲，政治人物遭到蓄意袭击非常罕见，这件事会引发关于议员安全和社会对立情绪的大讨论；“electorate office（选区办公室）”“deliberate（蓄意的）”都是澳洲新闻常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "NPR (AP); Al Jazeera; Newsweek (citing ABC); The Nightly",
+      "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming",
+      "vocab": [
+        {
+          "word": "electorate office",
+          "phonetic": "/ɪˈlektərət ˈɒfɪs/",
+          "pos": "n.",
+          "zh": "（议员的）选区办公室",
+          "example": "Independent federal MP Helen Haines was critically injured on Monday afternoon when a four-wheel drive struck her outside her electorate office in Wangaratta, in north-east Victoria."
+        },
+        {
+          "word": "motive",
+          "phonetic": "/ˈməʊtɪv/",
+          "pos": "n.",
+          "zh": "动机",
+          "example": "Prime Minister Anthony Albanese told the ABC that \"this wasn't an accident\" and that it appeared to be a deliberate act, although the motive is still unknown."
+        }
+      ],
+      "explain": {
+        "one_liner": "一位很受选民欢迎的联邦独立议员在自己办公室门口被车撞成重伤，警方怀疑是故意的，案件动机还在调查中。",
+        "facts": [
+          {
+            "icon": "👩‍⚕️",
+            "name": "海伦·海恩斯 Helen Haines",
+            "text": "维州Indi选区的联邦众议员，2019年起当选，不属于任何政党（独立议员），目前是第三个任期。"
+          },
+          {
+            "icon": "🏘️",
+            "name": "旺加拉塔 Wangaratta",
+            "text": "维多利亚州东北部的乡镇，在墨尔本东北方向约250公里，属于海恩斯的选区。"
+          },
+          {
+            "icon": "🧑‍💼",
+            "name": "阿尔巴尼斯 Anthony Albanese",
+            "text": "澳大利亚总理，工党领袖。"
+          },
+          {
+            "icon": "🙋",
+            "name": "独立议员 independent MP",
+            "text": "不属于工党、自由党等大党的议员，近年在澳洲越来越多，常被称为“crossbench（交叉席）”。"
+          },
+          {
+            "icon": "🛡️",
+            "name": "反恐小组 counter-terrorism team",
+            "text": "由警方和情报部门组成的专门团队，遇到可能针对公众人物或带政治目的的袭击时会介入调查，启动不代表已认定是恐怖袭击。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "嫌疑司机",
+            "b": "海恩斯议员",
+            "type": "bad",
+            "label": "驾车撞击"
+          },
+          {
+            "a": "警方",
+            "b": "嫌疑司机",
+            "type": "neutral",
+            "label": "当场逮捕、调查动机"
+          },
+          {
+            "a": "政治对立情绪升温",
+            "b": "议员安全担忧",
+            "type": "cause",
+            "label": "引发"
+          }
+        ],
+        "points": [
+          "海恩斯在选区办公室外被四驱车撞倒，伤势危重。",
+          "43岁男子当场被捕，车内发现一把刀。",
+          "总理称这“不是意外”，但动机未明。",
+          "反恐小组已介入，议员安全问题受到关注。"
+        ],
+        "relevance": "像这样的重大社会事件发生后，公众情绪会比较沉重，品牌在社交媒体上的发帖语气和时机要特别注意，避免显得轻浮或“蹭热点”。",
+        "phrase": {
+          "en": "This wasn't an accident.",
+          "zh": "这不是意外。"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's economy grows 4.5% in third quarter, slightly beating forecasts",
+      "title_zh": "中国三季度GDP同比增长4.5%，略超预期，但房地产投资仍下滑两成",
+      "search_zh": "国家统计局 三季度 GDP 4.5% 2026",
+      "summary_en": "China's economy grew 4.5% in the third quarter from a year earlier, the National Bureau of Statistics said on Monday, slightly beating the 4.4% forecast in a Reuters poll. That was an improvement on the 4.3% pace recorded in the second quarter, and it lifted growth for the first nine months of the year to 4.6%, within the government's 2026 target of 4.5% to 5%. Strong exports and factory output did most of the work, with industrial production rising 5.5% in September and retail sales growing 1.1%, faster than expected. However, the property slump deepened, as investment in real estate development fell 20.6% in the first nine months, and overall fixed-asset investment dropped 7.2%.",
+      "summary_zh": "中国国家统计局周一公布，第三季度经济同比增长4.5%，略高于路透社调查预测的4.4%。这一增速比第二季度的4.3%有所回升，并使今年前九个月的增长达到4.6%，处于政府设定的2026年4.5%至5%目标范围内。强劲的出口和工厂生产是主要动力，9月工业增加值增长5.5%，社会消费品零售总额增长1.1%，好于预期。不过，房地产低迷进一步加深，前九个月房地产开发投资下降20.6%，全国固定资产投资下降7.2%。",
+      "why_zh": "上周我们看了预测，今天“成绩单”出来了：略好于预期。中国经济是澳洲铁矿石出口和澳元的重要风向标，“beat forecasts（超出预期）”是财经新闻最常见的说法之一。",
+      "image": "",
+      "image_credit": "",
+      "source": "Xinhua; CNBC; The Star (Reuters); National Bureau of Statistics via gov.cn",
+      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "vocab": [
+        {
+          "word": "slump",
+          "phonetic": "/slʌmp/",
+          "pos": "n.",
+          "zh": "（经济、市场的）低迷，暴跌",
+          "example": "However, the property slump deepened, as investment in real estate development fell 20.6% in the first nine months, and overall fixed-asset investment dropped 7.2%."
+        },
+        {
+          "word": "did most of the work",
+          "phonetic": "/dɪd məʊst əv ðə wɜːk/",
+          "pos": "phr.",
+          "zh": "出了大部分力；起主要作用",
+          "example": "Strong exports and factory output did most of the work, with industrial production rising 5.5% in September and retail sales growing 1.1%, faster than expected."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国三季度经济增长4.5%，比大家预想的好一点点，主要靠出口和工厂，但老百姓消费和房地产依然疲软。",
+        "facts": [
+          {
+            "icon": "📊",
+            "name": "GDP 同比增长",
+            "text": "“同比”是跟去年同一时期比。4.5%的意思是今年7–9月的经济总量比去年7–9月多了4.5%。"
+          },
+          {
+            "icon": "🏢",
+            "name": "国家统计局 NBS",
+            "text": "中国负责发布官方经济数据的政府部门。"
+          },
+          {
+            "icon": "🏭",
+            "name": "工业增加值 industrial production",
+            "text": "衡量工厂、矿山、电力等行业生产了多少东西的指标。"
+          },
+          {
+            "icon": "🛍️",
+            "name": "社会消费品零售总额 retail sales",
+            "text": "衡量老百姓在商店、网上买东西花了多少钱，是看消费强弱的关键数据。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "固定资产投资 fixed-asset investment",
+            "text": "企业和政府在厂房、基础设施、房地产等方面的投资，今年前九个月下降了7.2%。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "出口强劲",
+            "b": "GDP增速回升",
+            "type": "cause",
+            "label": "推动"
+          },
+          {
+            "a": "房地产低迷",
+            "b": "投资下降",
+            "type": "cause",
+            "label": "拖累"
+          },
+          {
+            "a": "中国经济",
+            "b": "澳洲铁矿石出口",
+            "type": "neutral",
+            "label": "紧密相连"
+          }
+        ],
+        "points": [
+          "三季度增长4.5%，高于预期的4.4%和二季度的4.3%。",
+          "前九个月增长4.6%，在全年目标范围内。",
+          "9月工业增长5.5%，零售增长1.1%。",
+          "房地产开发投资前九个月下降20.6%。"
+        ],
+        "relevance": "中国消费仍偏弱，说明中国家庭花钱谨慎；如果你的品牌面向中国游客、留学生或代购市场，定价和促销信息要更突出“性价比”。",
+        "phrase": {
+          "en": "beat forecasts",
+          "zh": "超出预期"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "Trump waives tough new Russia sanctions, sparking backlash from Republicans and Zelensky",
+      "title_zh": "特朗普暂停对俄罗斯新一轮严厉制裁，共和党人与泽连斯基齐声批评",
+      "search_zh": "特朗普 暂停 对俄制裁 格雷厄姆法案 泽连斯基",
+      "summary_en": "US President Donald Trump has signed an executive order waiving a wide range of new sanctions and tariffs on Russia, just two days before they were due to take effect under a law passed by Congress. The law would have allowed tariffs of up to 500% on Russian goods and up to 100% on major buyers of Russian oil and gas, such as China and India. Trump said the move was in the national interest as he negotiates an end to the war in Ukraine, but Ukrainian President Volodymyr Zelensky called it \"wrong\" and said it mainly benefits Russia. Several Republicans also broke ranks, with Senator Thom Tillis calling the decision \"beyond irresponsible\" because the Senate had passed the law 86 to 11.",
+      "summary_zh": "美国总统特朗普签署了一项行政命令，暂停了一系列针对俄罗斯的新制裁和关税，而按照国会通过的法律，这些措施原定两天后生效。该法律原本允许对俄罗斯商品征收最高500%的关税，并对中国、印度等俄罗斯油气的主要买家征收最高100%的关税。特朗普表示，在他推动结束乌克兰战争谈判之际，此举符合国家利益，但乌克兰总统泽连斯基称这一决定是“错误的”，认为它主要让俄罗斯受益。多名共和党人也公开唱反调，参议员汤姆·蒂利斯称这一决定“极其不负责任”，因为参议院曾以86比11的票数通过了这项法律。",
+      "why_zh": "这项决定关系到俄乌战争的走向，也牵动中国和印度的能源进口与全球油价；“break ranks（打破队形，指党内成员公开反对本党领袖）”是政治新闻的高频说法。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNBC; US News (Reuters); Fox Business; CBS News; NBC News",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "vocab": [
+        {
+          "word": "waiving",
+          "phonetic": "/ˈweɪvɪŋ/",
+          "pos": "v.",
+          "zh": "（正式）免除；暂停执行（规定、处罚等）",
+          "example": "US President Donald Trump has signed an executive order waiving a wide range of new sanctions and tariffs on Russia, just two days before they were due to take effect under a law passed by Congress."
+        },
+        {
+          "word": "broke ranks",
+          "phonetic": "/brəʊk ræŋks/",
+          "pos": "phr.",
+          "zh": "（同一阵营的人）公开唱反调，打破一致立场",
+          "example": "Several Republicans also broke ranks, with Senator Thom Tillis calling the decision \"beyond irresponsible\" because the Senate had passed the law 86 to 11."
+        }
+      ],
+      "explain": {
+        "one_liner": "美国国会通过了一部要狠狠制裁俄罗斯的法律，但特朗普在它生效前按下了“暂停键”，说是为了和谈，结果连自己党内的人都不满意。",
+        "facts": [
+          {
+            "icon": "🇺🇸",
+            "name": "特朗普 Donald Trump",
+            "text": "美国总统，共和党人，一直说要推动俄乌停战谈判。"
+          },
+          {
+            "icon": "🇺🇦",
+            "name": "泽连斯基 Volodymyr Zelensky",
+            "text": "乌克兰总统，希望西方对俄罗斯施加更大压力。"
+          },
+          {
+            "icon": "📜",
+            "name": "行政命令 executive order",
+            "text": "美国总统不经国会、直接下达的命令，可以决定政府如何执行法律。"
+          },
+          {
+            "icon": "🚫",
+            "name": "制裁 sanctions",
+            "text": "一个国家对另一个国家的惩罚措施，比如禁止交易、冻结资产，目的是施压。"
+          },
+          {
+            "icon": "💸",
+            "name": "二级关税 secondary tariffs",
+            "text": "不只惩罚俄罗斯本身，还惩罚继续买俄罗斯石油天然气的国家，比如中国、印度。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "蒂利斯 Thom Tillis",
+            "text": "北卡罗来纳州的共和党参议员，这次公开批评了同党的特朗普。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "特朗普",
+            "b": "俄罗斯",
+            "type": "neutral",
+            "label": "暂停新制裁，称为和谈留余地"
+          },
+          {
+            "a": "泽连斯基",
+            "b": "特朗普",
+            "type": "bad",
+            "label": "批评决定“错误”"
+          },
+          {
+            "a": "部分共和党议员",
+            "b": "特朗普",
+            "type": "bad",
+            "label": "公开唱反调"
+          },
+          {
+            "a": "暂停制裁",
+            "b": "中国、印度买俄油",
+            "type": "cause",
+            "label": "暂时免于高关税"
+          }
+        ],
+        "points": [
+          "新制裁原定两天后生效，被特朗普暂停。",
+          "法律允许对俄商品征最高500%关税、对主要买家征最高100%。",
+          "泽连斯基称决定“错误”，主要让俄罗斯受益。",
+          "多名共和党人批评，参议院曾以86比11通过该法。"
+        ],
+        "relevance": "制裁和关税会影响全球油价，进而影响澳洲的油价、运费和物价；油价高时消费者更省钱，营销预算和促销策略也要随之调整。",
+        "phrase": {
+          "en": "break ranks",
+          "zh": "公开唱反调；打破统一立场"
+        }
+      }
+    }
+  ]
+}
