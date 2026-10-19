@@ -383,5 +383,195 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "animals-bugs",
+    "added": "2026-10-20",
+    "name": "动物与虫子",
+    "icon": "🐞",
+    "prompt": "这个叫什么？",
+    "items": [
+      {
+        "emoji": "🦎",
+        "w": "lizard",
+        "ph": "/ˈlɪzəd/",
+        "pos": "n.",
+        "zh": "蜥蜴",
+        "ex": "A little lizard was sunbaking on the back deck.",
+        "tip": "澳洲大蜥蜴叫 goanna；sunbake = 晒太阳（澳洲说法）",
+        "accept": [
+          "lizard",
+          "gecko",
+          "goanna",
+          "skink"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐊",
+        "w": "croc",
+        "ph": "/krɒk/",
+        "pos": "n.",
+        "zh": "鳄鱼（澳洲口语）",
+        "ex": "Don't swim there — there are crocs in that river.",
+        "tip": "crocodile 的口语简称；北领地常见警示牌 Beware of crocs",
+        "accept": [
+          "croc",
+          "crocodile",
+          "alligator"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦇",
+        "w": "bat",
+        "ph": "/bæt/",
+        "pos": "n.",
+        "zh": "蝙蝠",
+        "ex": "Huge bats fly over the Botanic Gardens at dusk.",
+        "tip": "澳洲常见的大蝙蝠叫 flying fox（狐蝠）",
+        "accept": [
+          "bat",
+          "flying fox",
+          "fruit bat"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪳",
+        "w": "cockroach",
+        "ph": "/ˈkɒkrəʊtʃ/",
+        "pos": "n.",
+        "zh": "蟑螂",
+        "ex": "I saw a cockroach in the kitchen — call pest control!",
+        "tip": "口语说 roach；pest control = 灭虫公司",
+        "accept": [
+          "cockroach",
+          "roach",
+          "cockie"
+        ],
+        "near": [
+          "beetle"
+        ]
+      },
+      {
+        "emoji": "🦂",
+        "w": "scorpion",
+        "ph": "/ˈskɔːpiən/",
+        "pos": "n.",
+        "zh": "蝎子",
+        "ex": "Shake out your boots in case there's a scorpion inside.",
+        "tip": "",
+        "accept": [
+          "scorpion"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪲",
+        "w": "beetle",
+        "ph": "/ˈbiːtl/",
+        "pos": "n.",
+        "zh": "甲虫",
+        "ex": "There's a big black beetle on the window.",
+        "tip": "大众甲壳虫汽车也叫 Beetle",
+        "accept": [
+          "beetle",
+          "bug"
+        ],
+        "near": [
+          "cockroach",
+          "ladybird"
+        ]
+      },
+      {
+        "emoji": "🐞",
+        "w": "ladybird",
+        "ph": "/ˈleɪdibɜːd/",
+        "pos": "n.",
+        "zh": "瓢虫",
+        "ex": "A ladybird landed on my arm.",
+        "tip": "澳洲/英国说 ladybird，美国说 ladybug",
+        "accept": [
+          "ladybird",
+          "ladybug"
+        ],
+        "near": [
+          "beetle"
+        ]
+      },
+      {
+        "emoji": "🦗",
+        "w": "grasshopper",
+        "ph": "/ˈɡrɑːshɒpə(r)/",
+        "pos": "n.",
+        "zh": "蚱蜢",
+        "ex": "The kids were catching grasshoppers in the paddock.",
+        "tip": "paddock = 围起来的田地、牧场（澳洲常用）",
+        "accept": [
+          "grasshopper",
+          "locust"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐛",
+        "w": "caterpillar",
+        "ph": "/ˈkætəpɪlə(r)/",
+        "pos": "n.",
+        "zh": "毛毛虫",
+        "ex": "The caterpillars have eaten all my basil.",
+        "tip": "会变成 butterfly（蝴蝶）或 moth（飞蛾）",
+        "accept": [
+          "caterpillar",
+          "grub",
+          "worm"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦜",
+        "w": "cockatoo",
+        "ph": "/ˌkɒkəˈtuː/",
+        "pos": "n.",
+        "zh": "凤头鹦鹉",
+        "ex": "The cockatoos wake me up screeching every morning.",
+        "tip": "澳洲到处是 cockatoo 和 galah（粉红凤头鹦鹉）；一般鹦鹉是 parrot",
+        "accept": [
+          "cockatoo",
+          "parrot",
+          "galah",
+          "cocky"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐧",
+        "w": "penguin",
+        "ph": "/ˈpeŋɡwɪn/",
+        "pos": "n.",
+        "zh": "企鹅",
+        "ex": "You can watch little penguins come ashore at Phillip Island.",
+        "tip": "Phillip Island 的 little penguins 是墨尔本周边热门景点",
+        "accept": [
+          "penguin"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦢",
+        "w": "swan",
+        "ph": "/swɒn/",
+        "pos": "n.",
+        "zh": "天鹅",
+        "ex": "Black swans are the symbol of Western Australia.",
+        "tip": "澳洲的天鹅是黑色的 black swan；「黑天鹅事件」也是金融常用词",
+        "accept": [
+          "swan",
+          "black swan"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
