@@ -1,285 +1,290 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T02:10:00+11:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T02:15:00+11:00",
   "items": [
     {
-      "category": "australia",
-      "title_en": "Independent MP Helen Haines critically injured in 'deliberate' car attack",
-      "title_zh": "独立议员海伦·海恩斯在选区办公室外遭汽车撞击，伤势危重，总理称“绝非意外”",
-      "search_zh": "海伦·海恩斯 议员 汽车撞击 旺加拉塔",
-      "summary_en": "Independent federal MP Helen Haines was critically injured on Monday afternoon when a four-wheel drive struck her outside her electorate office in Wangaratta, in north-east Victoria. Police arrested a 43-year-old man at the scene, and officers said they found and seized a knife from inside the Toyota LandCruiser. Prime Minister Anthony Albanese told the ABC that \"this wasn't an accident\" and that it appeared to be a deliberate act, although the motive is still unknown. The national counter-terrorism team has been activated, and Albanese warned that the \"temperature\" of political debate in Australia had risen in recent times.",
-      "summary_zh": "周一下午，联邦独立议员海伦·海恩斯在维多利亚州东北部旺加拉塔的选区办公室外被一辆四驱车撞倒，伤势危重。警方在现场逮捕了一名43岁男子，并表示在这辆丰田陆地巡洋舰车内发现并扣押了一把刀。总理阿尔巴尼斯对ABC表示，“这不是意外”，看起来是蓄意行为，但动机目前仍不清楚。全国反恐小组已经启动，阿尔巴尼斯也警告说，近来澳洲政治辩论的“温度”有所升高。",
-      "why_zh": "在澳洲，政治人物遭到蓄意袭击非常罕见，这件事会引发关于议员安全和社会对立情绪的大讨论；“electorate office（选区办公室）”“deliberate（蓄意的）”都是澳洲新闻常用词。",
-      "image": "",
-      "image_credit": "",
-      "source": "NPR (AP); Al Jazeera; Newsweek (citing ABC); The Nightly",
-      "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming",
-      "vocab": [
-        {
-          "word": "electorate office",
-          "phonetic": "/ɪˈlektərət ˈɒfɪs/",
-          "pos": "n.",
-          "zh": "（议员的）选区办公室",
-          "example": "Independent federal MP Helen Haines was critically injured on Monday afternoon when a four-wheel drive struck her outside her electorate office in Wangaratta, in north-east Victoria."
-        },
-        {
-          "word": "motive",
-          "phonetic": "/ˈməʊtɪv/",
-          "pos": "n.",
-          "zh": "动机",
-          "example": "Prime Minister Anthony Albanese told the ABC that \"this wasn't an accident\" and that it appeared to be a deliberate act, although the motive is still unknown."
-        }
-      ],
-      "explain": {
-        "one_liner": "一位很受选民欢迎的联邦独立议员在自己办公室门口被车撞成重伤，警方怀疑是故意的，案件动机还在调查中。",
-        "facts": [
-          {
-            "icon": "👩‍⚕️",
-            "name": "海伦·海恩斯 Helen Haines",
-            "text": "维州Indi选区的联邦众议员，2019年起当选，不属于任何政党（独立议员），目前是第三个任期。"
-          },
-          {
-            "icon": "🏘️",
-            "name": "旺加拉塔 Wangaratta",
-            "text": "维多利亚州东北部的乡镇，在墨尔本东北方向约250公里，属于海恩斯的选区。"
-          },
-          {
-            "icon": "🧑‍💼",
-            "name": "阿尔巴尼斯 Anthony Albanese",
-            "text": "澳大利亚总理，工党领袖。"
-          },
-          {
-            "icon": "🙋",
-            "name": "独立议员 independent MP",
-            "text": "不属于工党、自由党等大党的议员，近年在澳洲越来越多，常被称为“crossbench（交叉席）”。"
-          },
-          {
-            "icon": "🛡️",
-            "name": "反恐小组 counter-terrorism team",
-            "text": "由警方和情报部门组成的专门团队，遇到可能针对公众人物或带政治目的的袭击时会介入调查，启动不代表已认定是恐怖袭击。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "嫌疑司机",
-            "b": "海恩斯议员",
-            "type": "bad",
-            "label": "驾车撞击"
-          },
-          {
-            "a": "警方",
-            "b": "嫌疑司机",
-            "type": "neutral",
-            "label": "当场逮捕、调查动机"
-          },
-          {
-            "a": "政治对立情绪升温",
-            "b": "议员安全担忧",
-            "type": "cause",
-            "label": "引发"
-          }
-        ],
-        "points": [
-          "海恩斯在选区办公室外被四驱车撞倒，伤势危重。",
-          "43岁男子当场被捕，车内发现一把刀。",
-          "总理称这“不是意外”，但动机未明。",
-          "反恐小组已介入，议员安全问题受到关注。"
-        ],
-        "relevance": "像这样的重大社会事件发生后，公众情绪会比较沉重，品牌在社交媒体上的发帖语气和时机要特别注意，避免显得轻浮或“蹭热点”。",
-        "phrase": {
-          "en": "This wasn't an accident.",
-          "zh": "这不是意外。"
-        }
-      }
-    },
-    {
-      "category": "china",
-      "title_en": "China's economy grows 4.5% in third quarter, slightly beating forecasts",
-      "title_zh": "中国三季度GDP同比增长4.5%，略超预期，但房地产投资仍下滑两成",
-      "search_zh": "国家统计局 三季度 GDP 4.5% 2026",
-      "summary_en": "China's economy grew 4.5% in the third quarter from a year earlier, the National Bureau of Statistics said on Monday, slightly beating the 4.4% forecast in a Reuters poll. That was an improvement on the 4.3% pace recorded in the second quarter, and it lifted growth for the first nine months of the year to 4.6%, within the government's 2026 target of 4.5% to 5%. Strong exports and factory output did most of the work, with industrial production rising 5.5% in September and retail sales growing 1.1%, faster than expected. However, the property slump deepened, as investment in real estate development fell 20.6% in the first nine months, and overall fixed-asset investment dropped 7.2%.",
-      "summary_zh": "中国国家统计局周一公布，第三季度经济同比增长4.5%，略高于路透社调查预测的4.4%。这一增速比第二季度的4.3%有所回升，并使今年前九个月的增长达到4.6%，处于政府设定的2026年4.5%至5%目标范围内。强劲的出口和工厂生产是主要动力，9月工业增加值增长5.5%，社会消费品零售总额增长1.1%，好于预期。不过，房地产低迷进一步加深，前九个月房地产开发投资下降20.6%，全国固定资产投资下降7.2%。",
-      "why_zh": "上周我们看了预测，今天“成绩单”出来了：略好于预期。中国经济是澳洲铁矿石出口和澳元的重要风向标，“beat forecasts（超出预期）”是财经新闻最常见的说法之一。",
-      "image": "",
-      "image_credit": "",
-      "source": "Xinhua; CNBC; The Star (Reuters); National Bureau of Statistics via gov.cn",
-      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-      "vocab": [
-        {
-          "word": "slump",
-          "phonetic": "/slʌmp/",
-          "pos": "n.",
-          "zh": "（经济、市场的）低迷，暴跌",
-          "example": "However, the property slump deepened, as investment in real estate development fell 20.6% in the first nine months, and overall fixed-asset investment dropped 7.2%."
-        },
-        {
-          "word": "did most of the work",
-          "phonetic": "/dɪd məʊst əv ðə wɜːk/",
-          "pos": "phr.",
-          "zh": "出了大部分力；起主要作用",
-          "example": "Strong exports and factory output did most of the work, with industrial production rising 5.5% in September and retail sales growing 1.1%, faster than expected."
-        }
-      ],
-      "explain": {
-        "one_liner": "中国三季度经济增长4.5%，比大家预想的好一点点，主要靠出口和工厂，但老百姓消费和房地产依然疲软。",
-        "facts": [
-          {
-            "icon": "📊",
-            "name": "GDP 同比增长",
-            "text": "“同比”是跟去年同一时期比。4.5%的意思是今年7–9月的经济总量比去年7–9月多了4.5%。"
-          },
-          {
-            "icon": "🏢",
-            "name": "国家统计局 NBS",
-            "text": "中国负责发布官方经济数据的政府部门。"
-          },
-          {
-            "icon": "🏭",
-            "name": "工业增加值 industrial production",
-            "text": "衡量工厂、矿山、电力等行业生产了多少东西的指标。"
-          },
-          {
-            "icon": "🛍️",
-            "name": "社会消费品零售总额 retail sales",
-            "text": "衡量老百姓在商店、网上买东西花了多少钱，是看消费强弱的关键数据。"
-          },
-          {
-            "icon": "🏗️",
-            "name": "固定资产投资 fixed-asset investment",
-            "text": "企业和政府在厂房、基础设施、房地产等方面的投资，今年前九个月下降了7.2%。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "出口强劲",
-            "b": "GDP增速回升",
-            "type": "cause",
-            "label": "推动"
-          },
-          {
-            "a": "房地产低迷",
-            "b": "投资下降",
-            "type": "cause",
-            "label": "拖累"
-          },
-          {
-            "a": "中国经济",
-            "b": "澳洲铁矿石出口",
-            "type": "neutral",
-            "label": "紧密相连"
-          }
-        ],
-        "points": [
-          "三季度增长4.5%，高于预期的4.4%和二季度的4.3%。",
-          "前九个月增长4.6%，在全年目标范围内。",
-          "9月工业增长5.5%，零售增长1.1%。",
-          "房地产开发投资前九个月下降20.6%。"
-        ],
-        "relevance": "中国消费仍偏弱，说明中国家庭花钱谨慎；如果你的品牌面向中国游客、留学生或代购市场，定价和促销信息要更突出“性价比”。",
-        "phrase": {
-          "en": "beat forecasts",
-          "zh": "超出预期"
-        }
-      }
-    },
-    {
       "category": "world",
-      "title_en": "Trump waives tough new Russia sanctions, sparking backlash from Republicans and Zelensky",
-      "title_zh": "特朗普暂停对俄罗斯新一轮严厉制裁，共和党人与泽连斯基齐声批评",
-      "search_zh": "特朗普 暂停 对俄制裁 格雷厄姆法案 泽连斯基",
-      "summary_en": "US President Donald Trump has signed an executive order waiving a wide range of new sanctions and tariffs on Russia, just two days before they were due to take effect under a law passed by Congress. The law would have allowed tariffs of up to 500% on Russian goods and up to 100% on major buyers of Russian oil and gas, such as China and India. Trump said the move was in the national interest as he negotiates an end to the war in Ukraine, but Ukrainian President Volodymyr Zelensky called it \"wrong\" and said it mainly benefits Russia. Several Republicans also broke ranks, with Senator Thom Tillis calling the decision \"beyond irresponsible\" because the Senate had passed the law 86 to 11.",
-      "summary_zh": "美国总统特朗普签署了一项行政命令，暂停了一系列针对俄罗斯的新制裁和关税，而按照国会通过的法律，这些措施原定两天后生效。该法律原本允许对俄罗斯商品征收最高500%的关税，并对中国、印度等俄罗斯油气的主要买家征收最高100%的关税。特朗普表示，在他推动结束乌克兰战争谈判之际，此举符合国家利益，但乌克兰总统泽连斯基称这一决定是“错误的”，认为它主要让俄罗斯受益。多名共和党人也公开唱反调，参议员汤姆·蒂利斯称这一决定“极其不负责任”，因为参议院曾以86比11的票数通过了这项法律。",
-      "why_zh": "这项决定关系到俄乌战争的走向，也牵动中国和印度的能源进口与全球油价；“break ranks（打破队形，指党内成员公开反对本党领袖）”是政治新闻的高频说法。",
+      "title_en": "Zelensky meets Trump envoy in Oslo as US-Ukraine rift deepens over Patriot missiles",
+      "title_zh": "美乌关系降至冰点：泽连斯基在奥斯陆会见特朗普特使，称美制“爱国者”拦截弹几乎耗尽",
+      "search_zh": "泽连斯基 奥斯陆 威特科夫 爱国者 拦截弹",
+      "summary_en": "Ukrainian President Volodymyr Zelensky met US special envoy Steve Witkoff in Oslo on Tuesday, as relations between Kyiv and the Trump administration hit one of their lowest points of the war. Norway's Prime Minister Jonas Gahr Støre, whose government confirmed the talks, said the aim was to move peace efforts onto a more constructive path, and Finnish President Alexander Stubb also took part. The meeting comes after Zelensky told US senators that Ukraine has almost no American-made Patriot interceptors left, while Kyiv accuses Washington of using military aid to pressure it into halting strikes on Russian oil refineries. Trump, whose administration recently struck a deal to import Russian diesel, has called Zelensky \"not a good guy for us to deal with\", and Witkoff is reportedly expected to travel on to Moscow to meet Vladimir Putin.",
+      "summary_zh": "乌克兰总统泽连斯基周二在挪威奥斯陆会见了美国特使史蒂夫·威特科夫，此时基辅与特朗普政府的关系正处于战争以来的最低点之一。挪威首相斯特勒的政府确认了这次会谈，他表示目的是让和平努力走上更有建设性的道路，芬兰总统斯图布也参加了会谈。会谈之前，泽连斯基对美国参议员表示，乌克兰手中美制“爱国者”拦截弹几乎已经用完，同时基辅指责华盛顿利用军事援助施压，要求乌克兰停止袭击俄罗斯炼油厂。特朗普政府最近刚与俄罗斯达成进口柴油的协议，特朗普还称泽连斯基“不是一个好打交道的人”，另据报道，威特科夫随后预计将前往莫斯科会见普京。",
+      "why_zh": "接着前几天“特朗普暂停对俄制裁”的新闻，美乌矛盾进一步公开化；战争走向直接影响全球油价和欧洲局势。“hit a low point（跌到低谷）”“constructive（建设性的）”是外交新闻的常用表达。",
       "image": "",
       "image_credit": "",
-      "source": "CNBC; US News (Reuters); Fox Business; CBS News; NBC News",
-      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "source": "Euronews; Al Jazeera; CNBC; Kyiv Independent; The Hill; CNN",
+      "url": "https://www.euronews.com/2026/10/20/trump-envoy-witkoff-to-meet-zelenskyy-in-oslo-before-planned-putin-talks-in-moscow",
       "vocab": [
         {
-          "word": "waiving",
-          "phonetic": "/ˈweɪvɪŋ/",
-          "pos": "v.",
-          "zh": "（正式）免除；暂停执行（规定、处罚等）",
-          "example": "US President Donald Trump has signed an executive order waiving a wide range of new sanctions and tariffs on Russia, just two days before they were due to take effect under a law passed by Congress."
+          "word": "constructive",
+          "phonetic": "/kənˈstrʌktɪv/",
+          "pos": "adj.",
+          "zh": "建设性的；有帮助的",
+          "example": "Norway's Prime Minister Jonas Gahr Støre, whose government confirmed the talks, said the aim was to move peace efforts onto a more constructive path, and Finnish President Alexander Stubb also took part."
         },
         {
-          "word": "broke ranks",
-          "phonetic": "/brəʊk ræŋks/",
-          "pos": "phr.",
-          "zh": "（同一阵营的人）公开唱反调，打破一致立场",
-          "example": "Several Republicans also broke ranks, with Senator Thom Tillis calling the decision \"beyond irresponsible\" because the Senate had passed the law 86 to 11."
+          "word": "interceptors",
+          "phonetic": "/ˌɪntəˈseptəz/",
+          "pos": "n.",
+          "zh": "拦截弹（用来在空中击落来袭导弹的导弹）",
+          "example": "The meeting comes after Zelensky told US senators that Ukraine has almost no American-made Patriot interceptors left, while Kyiv accuses Washington of using military aid to pressure it into halting strikes on Russian oil refineries."
         }
       ],
       "explain": {
-        "one_liner": "美国国会通过了一部要狠狠制裁俄罗斯的法律，但特朗普在它生效前按下了“暂停键”，说是为了和谈，结果连自己党内的人都不满意。",
+        "one_liner": "乌克兰快没有防空导弹了，美国却在和俄罗斯做生意、还公开批评泽连斯基；双方派人在挪威见面，想把和谈拉回正轨。",
         "facts": [
-          {
-            "icon": "🇺🇸",
-            "name": "特朗普 Donald Trump",
-            "text": "美国总统，共和党人，一直说要推动俄乌停战谈判。"
-          },
           {
             "icon": "🇺🇦",
             "name": "泽连斯基 Volodymyr Zelensky",
-            "text": "乌克兰总统，希望西方对俄罗斯施加更大压力。"
+            "text": "乌克兰总统，自2022年俄罗斯全面入侵以来一直领导乌克兰抗战。"
           },
           {
-            "icon": "📜",
-            "name": "行政命令 executive order",
-            "text": "美国总统不经国会、直接下达的命令，可以决定政府如何执行法律。"
+            "icon": "🤝",
+            "name": "威特科夫 Steve Witkoff",
+            "text": "特朗普任命的特使，负责替美国去和俄罗斯、乌克兰等方面谈判。"
           },
           {
-            "icon": "🚫",
-            "name": "制裁 sanctions",
-            "text": "一个国家对另一个国家的惩罚措施，比如禁止交易、冻结资产，目的是施压。"
+            "icon": "🛡️",
+            "name": "“爱国者”导弹 Patriot",
+            "text": "美国制造的防空系统，能在空中拦截俄罗斯发射的弹道导弹，是乌克兰保护城市的关键武器。"
           },
           {
-            "icon": "💸",
-            "name": "二级关税 secondary tariffs",
-            "text": "不只惩罚俄罗斯本身，还惩罚继续买俄罗斯石油天然气的国家，比如中国、印度。"
+            "icon": "🛢️",
+            "name": "袭击炼油厂 refinery strikes",
+            "text": "乌克兰用无人机等打击俄罗斯的炼油厂，想削减俄罗斯靠卖油赚的战争经费；美国希望乌克兰停手。"
           },
           {
-            "icon": "🏛️",
-            "name": "蒂利斯 Thom Tillis",
-            "text": "北卡罗来纳州的共和党参议员，这次公开批评了同党的特朗普。"
+            "icon": "🇳🇴",
+            "name": "挪威与芬兰 Norway & Finland",
+            "text": "挪威首相斯特勒和芬兰总统斯图布都支持乌克兰，这次在奥斯陆帮忙促成会谈。"
           }
         ],
         "relations": [
           {
             "a": "特朗普",
+            "b": "泽连斯基",
+            "type": "bad",
+            "label": "公开批评，关系紧张"
+          },
+          {
+            "a": "美国",
             "b": "俄罗斯",
             "type": "neutral",
-            "label": "暂停新制裁，称为和谈留余地"
+            "label": "达成进口柴油协议"
           },
           {
-            "a": "泽连斯基",
-            "b": "特朗普",
-            "type": "bad",
-            "label": "批评决定“错误”"
-          },
-          {
-            "a": "部分共和党议员",
-            "b": "特朗普",
-            "type": "bad",
-            "label": "公开唱反调"
-          },
-          {
-            "a": "暂停制裁",
-            "b": "中国、印度买俄油",
+            "a": "乌克兰袭击炼油厂",
+            "b": "美乌矛盾",
             "type": "cause",
-            "label": "暂时免于高关税"
+            "label": "引发"
+          },
+          {
+            "a": "挪威、芬兰",
+            "b": "乌克兰",
+            "type": "good",
+            "label": "支持并促成会谈"
           }
         ],
         "points": [
-          "新制裁原定两天后生效，被特朗普暂停。",
-          "法律允许对俄商品征最高500%关税、对主要买家征最高100%。",
-          "泽连斯基称决定“错误”，主要让俄罗斯受益。",
-          "多名共和党人批评，参议院曾以86比11通过该法。"
+          "泽连斯基周二在奥斯陆会见美国特使威特科夫。",
+          "乌克兰称美制“爱国者”拦截弹几乎用完。",
+          "乌方指责美国用军援施压，要求停止打击俄炼油厂。",
+          "特朗普批评泽连斯基，威特科夫据报随后将去莫斯科见普京。"
         ],
-        "relevance": "制裁和关税会影响全球油价，进而影响澳洲的油价、运费和物价；油价高时消费者更省钱，营销预算和促销策略也要随之调整。",
+        "relevance": "战争和炼油厂遭袭会推高国际油价，进而抬高澳洲的油价、运费和物价；消费者手头紧时，营销信息更要突出实惠和价值感。",
         "phrase": {
-          "en": "break ranks",
-          "zh": "公开唱反调；打破统一立场"
+          "en": "move onto a more constructive path",
+          "zh": "走上更有建设性的道路"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "NAB to cut up to 2,500 jobs in major restructure",
+      "title_zh": "澳洲四大行之一NAB宣布裁员最多2500人，约占员工总数6%",
+      "search_zh": "澳大利亚国民银行 NAB 裁员 2500",
+      "summary_en": "National Australia Bank (NAB) announced on Tuesday that it will cut up to 2,500 jobs, or about 6% of its workforce, in a major restructure. Up to 1,500 roles will go before the end of this year, with the rest expected by the end of September 2027, and the biggest reductions will fall on corporate functions and senior management rather than customer-facing staff. The bank blamed tougher economic conditions, strong competition and changing technology, and it expects a pre-tax restructuring charge of about A$300 million in the 2027 financial year. NAB shares fell about 2.7% in morning trade, while the Finance Sector Union called the timing \"disgraceful\" because it comes so close to Christmas.",
+      "summary_zh": "澳大利亚国民银行（NAB）周二宣布，将在一次大规模重组中裁减最多2500个岗位，约占员工总数的6%。其中最多1500个岗位将在今年年底前裁撤，其余预计在2027年9月底前完成，裁员主要集中在公司职能部门和高级管理层，而不是直接面对客户的员工。银行将原因归结为经济环境更艰难、竞争激烈以及技术变化，并预计在2027财年产生约3亿澳元的税前重组费用。NAB股价早盘下跌约2.7%，金融业工会则批评裁员时机“可耻”，因为离圣诞节太近。",
+      "why_zh": "澳洲大企业裁员的消息越来越多，NAB这次的重点是“公司职能部门”，市场营销正属于这一类，对在澳洲做白领工作的你很有参考意义。“restructure（重组）”“customer-facing（面向客户的）”是职场常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Capital Brief; Investing.com; Yahoo Finance",
+      "url": "https://www.abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316",
+      "vocab": [
+        {
+          "word": "restructure",
+          "phonetic": "/ˌriːˈstrʌktʃə/",
+          "pos": "n.",
+          "zh": "（公司的）重组，结构调整",
+          "example": "National Australia Bank (NAB) announced on Tuesday that it will cut up to 2,500 jobs, or about 6% of its workforce, in a major restructure."
+        },
+        {
+          "word": "customer-facing",
+          "phonetic": "/ˈkʌstəmə ˌfeɪsɪŋ/",
+          "pos": "adj.",
+          "zh": "直接面对客户的（岗位）",
+          "example": "Up to 1,500 roles will go before the end of this year, with the rest expected by the end of September 2027, and the biggest reductions will fall on corporate functions and senior management rather than customer-facing staff."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲大银行NAB要裁掉最多2500人，主要是办公室后台和管理层，理由是经济变差、竞争激烈和新技术。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "澳大利亚国民银行 NAB",
+            "text": "National Australia Bank，澳洲“四大银行”之一（另外三家是联邦银行CBA、西太平洋银行Westpac和澳新银行ANZ）。"
+          },
+          {
+            "icon": "👔",
+            "name": "公司职能部门 corporate functions",
+            "text": "不直接服务客户的后台部门，比如人力资源、财务、市场营销、法务等。"
+          },
+          {
+            "icon": "💰",
+            "name": "重组费用 restructuring charge",
+            "text": "公司裁员、调整架构时要花的一次性成本，比如遣散费，会计入当年财报。"
+          },
+          {
+            "icon": "📅",
+            "name": "财年 financial year",
+            "text": "公司做账用的“年度”，不一定和日历年一样；NAB的财年截止到每年9月30日。"
+          },
+          {
+            "icon": "✊",
+            "name": "金融业工会 Finance Sector Union",
+            "text": "代表澳洲银行、保险等金融行业员工权益的工会。"
+          },
+          {
+            "icon": "📉",
+            "name": "股市当天表现",
+            "text": "澳股ASX 200指数周二收跌0.33%，报8816.9点，能源和矿业股领跌。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "经济变差、竞争与新技术",
+            "b": "NAB裁员",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "金融业工会",
+            "b": "NAB",
+            "type": "bad",
+            "label": "批评裁员时机"
+          },
+          {
+            "a": "裁员消息",
+            "b": "NAB股价",
+            "type": "cause",
+            "label": "早盘下跌约2.7%"
+          }
+        ],
+        "points": [
+          "NAB将裁员最多2500人，约占员工6%。",
+          "最多1500人年底前裁撤，其余到2027年9月底完成。",
+          "主要裁后台部门和高管，不是一线客服岗位。",
+          "预计约3亿澳元税前重组费用，工会称时机“可耻”。"
+        ],
+        "relevance": "大企业削减“公司职能部门”意味着市场营销等白领岗位竞争更激烈；会用数据和AI工具证明自己的营销成果，会让你在职场更有优势。",
+        "phrase": {
+          "en": "the biggest reductions will fall on…",
+          "zh": "裁减最多的将是……"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's central bank eyes overnight rate as main policy tool; loan rates held for 17th month",
+      "title_zh": "央行行长潘功胜：研究将隔夜利率作为主要政策利率；LPR连续17个月不变",
+      "search_zh": "潘功胜 金融街论坛 隔夜利率 主要政策利率 LPR",
+      "summary_en": "China's central bank governor, Pan Gongsheng, said on Monday that the People's Bank of China (PBOC) will study making the overnight interest rate its main policy rate, in place of the seven-day rate it currently uses. Speaking at the Financial Street Forum in Beijing, he gave no timeline, but said the old benchmark deposit and lending rates would be phased out. A day later, China kept its one-year loan prime rate at 3.0% and its five-year rate, the reference for mortgages, at 3.5%, leaving them unchanged for the 17th month in a row. Bloomberg reported that the shift could eventually push down borrowing costs and bring China closer to other major central banks, although some analysts stress that it is not a rate cut in itself.",
+      "summary_zh": "中国人民银行行长潘功胜周一表示，央行将研究把隔夜利率作为主要政策利率，取代目前使用的7天期利率。他在北京金融街论坛上发言时没有给出时间表，但表示将逐步退出原有的存贷款基准利率。一天之后，中国一年期贷款市场报价利率（LPR）维持在3.0%，作为房贷参考的五年期利率维持在3.5%，已连续17个月保持不变。彭博社报道称，这一转变最终可能降低借贷成本，并让中国的做法更接近其他主要央行，不过也有分析人士强调，这本身并不等于降息。",
+      "why_zh": "这是中国利率体系的一次重要“改规则”，会影响房贷、企业贷款和人民币；“benchmark（基准）”“in a row（连续）”是财经新闻的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Caixin Global; US News (Reuters); Bloomberg; China Daily; People's Daily",
+      "url": "https://www.caixinglobal.com/2026-10-20/chinas-central-bank-plans-shift-to-overnight-rate-as-key-policy-benchmark-102495256.html",
+      "vocab": [
+        {
+          "word": "benchmark",
+          "phonetic": "/ˈbentʃmɑːk/",
+          "pos": "adj./n.",
+          "zh": "基准（的）；参照标准",
+          "example": "Speaking at the Financial Street Forum in Beijing, he gave no timeline, but said the old benchmark deposit and lending rates would be phased out."
+        },
+        {
+          "word": "in a row",
+          "phonetic": "/ɪn ə rəʊ/",
+          "pos": "phr.",
+          "zh": "连续地",
+          "example": "A day later, China kept its one-year loan prime rate at 3.0% and its five-year rate, the reference for mortgages, at 3.5%, leaving them unchanged for the 17th month in a row."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国央行准备换一个“指挥棒”利率，从7天期改成隔夜（一天）期，同时这个月的贷款利率继续不动。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "中国人民银行 PBOC",
+            "text": "中国的中央银行，负责制定货币政策、管理利率和人民币。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "潘功胜 Pan Gongsheng",
+            "text": "中国人民银行行长。"
+          },
+          {
+            "icon": "🎯",
+            "name": "政策利率 policy rate",
+            "text": "央行用来“发信号”的核心利率，它一变，银行之间借钱和贷款给企业、个人的利率都会跟着变。"
+          },
+          {
+            "icon": "🌙",
+            "name": "隔夜利率 overnight rate",
+            "text": "银行之间只借一天的钱的利率；美联储等很多央行都以短期利率为主要目标。"
+          },
+          {
+            "icon": "🏠",
+            "name": "贷款市场报价利率 LPR",
+            "text": "Loan Prime Rate，银行给贷款定价的参考利率；一年期主要影响企业和个人贷款，五年期以上是房贷的参考。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "金融街论坛 Financial Street Forum",
+            "text": "每年在北京金融街举办的金融大会，央行和监管部门常在这里宣布政策方向。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "潘功胜",
+            "b": "政策利率改革",
+            "type": "neutral",
+            "label": "宣布研究改用隔夜利率"
+          },
+          {
+            "a": "三季度经济好于预期",
+            "b": "LPR不变",
+            "type": "cause",
+            "label": "央行不急于降息"
+          },
+          {
+            "a": "利率改革",
+            "b": "借贷成本",
+            "type": "cause",
+            "label": "未来可能降低"
+          }
+        ],
+        "points": [
+          "央行将研究把隔夜利率作为主要政策利率，没有时间表。",
+          "原有的存贷款基准利率将逐步退出。",
+          "一年期LPR 3.0%、五年期3.5%，连续17个月不变。",
+          "改革本身不是降息，但长期可能降低借贷成本。"
+        ],
+        "relevance": "中国的利率和房贷成本影响家庭消费能力和人民币汇率，进而影响中国游客、留学生在澳洲的消费；做面向华人市场的营销时值得留意。",
+        "phrase": {
+          "en": "phase out",
+          "zh": "逐步淘汰；逐步退出"
         }
       }
     }

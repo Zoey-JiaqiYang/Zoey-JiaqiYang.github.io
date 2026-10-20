@@ -1,0 +1,292 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T02:15:00+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Zelensky meets Trump envoy in Oslo as US-Ukraine rift deepens over Patriot missiles",
+      "title_zh": "美乌关系降至冰点：泽连斯基在奥斯陆会见特朗普特使，称美制“爱国者”拦截弹几乎耗尽",
+      "search_zh": "泽连斯基 奥斯陆 威特科夫 爱国者 拦截弹",
+      "summary_en": "Ukrainian President Volodymyr Zelensky met US special envoy Steve Witkoff in Oslo on Tuesday, as relations between Kyiv and the Trump administration hit one of their lowest points of the war. Norway's Prime Minister Jonas Gahr Støre, whose government confirmed the talks, said the aim was to move peace efforts onto a more constructive path, and Finnish President Alexander Stubb also took part. The meeting comes after Zelensky told US senators that Ukraine has almost no American-made Patriot interceptors left, while Kyiv accuses Washington of using military aid to pressure it into halting strikes on Russian oil refineries. Trump, whose administration recently struck a deal to import Russian diesel, has called Zelensky \"not a good guy for us to deal with\", and Witkoff is reportedly expected to travel on to Moscow to meet Vladimir Putin.",
+      "summary_zh": "乌克兰总统泽连斯基周二在挪威奥斯陆会见了美国特使史蒂夫·威特科夫，此时基辅与特朗普政府的关系正处于战争以来的最低点之一。挪威首相斯特勒的政府确认了这次会谈，他表示目的是让和平努力走上更有建设性的道路，芬兰总统斯图布也参加了会谈。会谈之前，泽连斯基对美国参议员表示，乌克兰手中美制“爱国者”拦截弹几乎已经用完，同时基辅指责华盛顿利用军事援助施压，要求乌克兰停止袭击俄罗斯炼油厂。特朗普政府最近刚与俄罗斯达成进口柴油的协议，特朗普还称泽连斯基“不是一个好打交道的人”，另据报道，威特科夫随后预计将前往莫斯科会见普京。",
+      "why_zh": "接着前几天“特朗普暂停对俄制裁”的新闻，美乌矛盾进一步公开化；战争走向直接影响全球油价和欧洲局势。“hit a low point（跌到低谷）”“constructive（建设性的）”是外交新闻的常用表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "Euronews; Al Jazeera; CNBC; Kyiv Independent; The Hill; CNN",
+      "url": "https://www.euronews.com/2026/10/20/trump-envoy-witkoff-to-meet-zelenskyy-in-oslo-before-planned-putin-talks-in-moscow",
+      "vocab": [
+        {
+          "word": "constructive",
+          "phonetic": "/kənˈstrʌktɪv/",
+          "pos": "adj.",
+          "zh": "建设性的；有帮助的",
+          "example": "Norway's Prime Minister Jonas Gahr Støre, whose government confirmed the talks, said the aim was to move peace efforts onto a more constructive path, and Finnish President Alexander Stubb also took part."
+        },
+        {
+          "word": "interceptors",
+          "phonetic": "/ˌɪntəˈseptəz/",
+          "pos": "n.",
+          "zh": "拦截弹（用来在空中击落来袭导弹的导弹）",
+          "example": "The meeting comes after Zelensky told US senators that Ukraine has almost no American-made Patriot interceptors left, while Kyiv accuses Washington of using military aid to pressure it into halting strikes on Russian oil refineries."
+        }
+      ],
+      "explain": {
+        "one_liner": "乌克兰快没有防空导弹了，美国却在和俄罗斯做生意、还公开批评泽连斯基；双方派人在挪威见面，想把和谈拉回正轨。",
+        "facts": [
+          {
+            "icon": "🇺🇦",
+            "name": "泽连斯基 Volodymyr Zelensky",
+            "text": "乌克兰总统，自2022年俄罗斯全面入侵以来一直领导乌克兰抗战。"
+          },
+          {
+            "icon": "🤝",
+            "name": "威特科夫 Steve Witkoff",
+            "text": "特朗普任命的特使，负责替美国去和俄罗斯、乌克兰等方面谈判。"
+          },
+          {
+            "icon": "🛡️",
+            "name": "“爱国者”导弹 Patriot",
+            "text": "美国制造的防空系统，能在空中拦截俄罗斯发射的弹道导弹，是乌克兰保护城市的关键武器。"
+          },
+          {
+            "icon": "🛢️",
+            "name": "袭击炼油厂 refinery strikes",
+            "text": "乌克兰用无人机等打击俄罗斯的炼油厂，想削减俄罗斯靠卖油赚的战争经费；美国希望乌克兰停手。"
+          },
+          {
+            "icon": "🇳🇴",
+            "name": "挪威与芬兰 Norway & Finland",
+            "text": "挪威首相斯特勒和芬兰总统斯图布都支持乌克兰，这次在奥斯陆帮忙促成会谈。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "特朗普",
+            "b": "泽连斯基",
+            "type": "bad",
+            "label": "公开批评，关系紧张"
+          },
+          {
+            "a": "美国",
+            "b": "俄罗斯",
+            "type": "neutral",
+            "label": "达成进口柴油协议"
+          },
+          {
+            "a": "乌克兰袭击炼油厂",
+            "b": "美乌矛盾",
+            "type": "cause",
+            "label": "引发"
+          },
+          {
+            "a": "挪威、芬兰",
+            "b": "乌克兰",
+            "type": "good",
+            "label": "支持并促成会谈"
+          }
+        ],
+        "points": [
+          "泽连斯基周二在奥斯陆会见美国特使威特科夫。",
+          "乌克兰称美制“爱国者”拦截弹几乎用完。",
+          "乌方指责美国用军援施压，要求停止打击俄炼油厂。",
+          "特朗普批评泽连斯基，威特科夫据报随后将去莫斯科见普京。"
+        ],
+        "relevance": "战争和炼油厂遭袭会推高国际油价，进而抬高澳洲的油价、运费和物价；消费者手头紧时，营销信息更要突出实惠和价值感。",
+        "phrase": {
+          "en": "move onto a more constructive path",
+          "zh": "走上更有建设性的道路"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "NAB to cut up to 2,500 jobs in major restructure",
+      "title_zh": "澳洲四大行之一NAB宣布裁员最多2500人，约占员工总数6%",
+      "search_zh": "澳大利亚国民银行 NAB 裁员 2500",
+      "summary_en": "National Australia Bank (NAB) announced on Tuesday that it will cut up to 2,500 jobs, or about 6% of its workforce, in a major restructure. Up to 1,500 roles will go before the end of this year, with the rest expected by the end of September 2027, and the biggest reductions will fall on corporate functions and senior management rather than customer-facing staff. The bank blamed tougher economic conditions, strong competition and changing technology, and it expects a pre-tax restructuring charge of about A$300 million in the 2027 financial year. NAB shares fell about 2.7% in morning trade, while the Finance Sector Union called the timing \"disgraceful\" because it comes so close to Christmas.",
+      "summary_zh": "澳大利亚国民银行（NAB）周二宣布，将在一次大规模重组中裁减最多2500个岗位，约占员工总数的6%。其中最多1500个岗位将在今年年底前裁撤，其余预计在2027年9月底前完成，裁员主要集中在公司职能部门和高级管理层，而不是直接面对客户的员工。银行将原因归结为经济环境更艰难、竞争激烈以及技术变化，并预计在2027财年产生约3亿澳元的税前重组费用。NAB股价早盘下跌约2.7%，金融业工会则批评裁员时机“可耻”，因为离圣诞节太近。",
+      "why_zh": "澳洲大企业裁员的消息越来越多，NAB这次的重点是“公司职能部门”，市场营销正属于这一类，对在澳洲做白领工作的你很有参考意义。“restructure（重组）”“customer-facing（面向客户的）”是职场常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Capital Brief; Investing.com; Yahoo Finance",
+      "url": "https://www.abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316",
+      "vocab": [
+        {
+          "word": "restructure",
+          "phonetic": "/ˌriːˈstrʌktʃə/",
+          "pos": "n.",
+          "zh": "（公司的）重组，结构调整",
+          "example": "National Australia Bank (NAB) announced on Tuesday that it will cut up to 2,500 jobs, or about 6% of its workforce, in a major restructure."
+        },
+        {
+          "word": "customer-facing",
+          "phonetic": "/ˈkʌstəmə ˌfeɪsɪŋ/",
+          "pos": "adj.",
+          "zh": "直接面对客户的（岗位）",
+          "example": "Up to 1,500 roles will go before the end of this year, with the rest expected by the end of September 2027, and the biggest reductions will fall on corporate functions and senior management rather than customer-facing staff."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲大银行NAB要裁掉最多2500人，主要是办公室后台和管理层，理由是经济变差、竞争激烈和新技术。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "澳大利亚国民银行 NAB",
+            "text": "National Australia Bank，澳洲“四大银行”之一（另外三家是联邦银行CBA、西太平洋银行Westpac和澳新银行ANZ）。"
+          },
+          {
+            "icon": "👔",
+            "name": "公司职能部门 corporate functions",
+            "text": "不直接服务客户的后台部门，比如人力资源、财务、市场营销、法务等。"
+          },
+          {
+            "icon": "💰",
+            "name": "重组费用 restructuring charge",
+            "text": "公司裁员、调整架构时要花的一次性成本，比如遣散费，会计入当年财报。"
+          },
+          {
+            "icon": "📅",
+            "name": "财年 financial year",
+            "text": "公司做账用的“年度”，不一定和日历年一样；NAB的财年截止到每年9月30日。"
+          },
+          {
+            "icon": "✊",
+            "name": "金融业工会 Finance Sector Union",
+            "text": "代表澳洲银行、保险等金融行业员工权益的工会。"
+          },
+          {
+            "icon": "📉",
+            "name": "股市当天表现",
+            "text": "澳股ASX 200指数周二收跌0.33%，报8816.9点，能源和矿业股领跌。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "经济变差、竞争与新技术",
+            "b": "NAB裁员",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "金融业工会",
+            "b": "NAB",
+            "type": "bad",
+            "label": "批评裁员时机"
+          },
+          {
+            "a": "裁员消息",
+            "b": "NAB股价",
+            "type": "cause",
+            "label": "早盘下跌约2.7%"
+          }
+        ],
+        "points": [
+          "NAB将裁员最多2500人，约占员工6%。",
+          "最多1500人年底前裁撤，其余到2027年9月底完成。",
+          "主要裁后台部门和高管，不是一线客服岗位。",
+          "预计约3亿澳元税前重组费用，工会称时机“可耻”。"
+        ],
+        "relevance": "大企业削减“公司职能部门”意味着市场营销等白领岗位竞争更激烈；会用数据和AI工具证明自己的营销成果，会让你在职场更有优势。",
+        "phrase": {
+          "en": "the biggest reductions will fall on…",
+          "zh": "裁减最多的将是……"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's central bank eyes overnight rate as main policy tool; loan rates held for 17th month",
+      "title_zh": "央行行长潘功胜：研究将隔夜利率作为主要政策利率；LPR连续17个月不变",
+      "search_zh": "潘功胜 金融街论坛 隔夜利率 主要政策利率 LPR",
+      "summary_en": "China's central bank governor, Pan Gongsheng, said on Monday that the People's Bank of China (PBOC) will study making the overnight interest rate its main policy rate, in place of the seven-day rate it currently uses. Speaking at the Financial Street Forum in Beijing, he gave no timeline, but said the old benchmark deposit and lending rates would be phased out. A day later, China kept its one-year loan prime rate at 3.0% and its five-year rate, the reference for mortgages, at 3.5%, leaving them unchanged for the 17th month in a row. Bloomberg reported that the shift could eventually push down borrowing costs and bring China closer to other major central banks, although some analysts stress that it is not a rate cut in itself.",
+      "summary_zh": "中国人民银行行长潘功胜周一表示，央行将研究把隔夜利率作为主要政策利率，取代目前使用的7天期利率。他在北京金融街论坛上发言时没有给出时间表，但表示将逐步退出原有的存贷款基准利率。一天之后，中国一年期贷款市场报价利率（LPR）维持在3.0%，作为房贷参考的五年期利率维持在3.5%，已连续17个月保持不变。彭博社报道称，这一转变最终可能降低借贷成本，并让中国的做法更接近其他主要央行，不过也有分析人士强调，这本身并不等于降息。",
+      "why_zh": "这是中国利率体系的一次重要“改规则”，会影响房贷、企业贷款和人民币；“benchmark（基准）”“in a row（连续）”是财经新闻的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Caixin Global; US News (Reuters); Bloomberg; China Daily; People's Daily",
+      "url": "https://www.caixinglobal.com/2026-10-20/chinas-central-bank-plans-shift-to-overnight-rate-as-key-policy-benchmark-102495256.html",
+      "vocab": [
+        {
+          "word": "benchmark",
+          "phonetic": "/ˈbentʃmɑːk/",
+          "pos": "adj./n.",
+          "zh": "基准（的）；参照标准",
+          "example": "Speaking at the Financial Street Forum in Beijing, he gave no timeline, but said the old benchmark deposit and lending rates would be phased out."
+        },
+        {
+          "word": "in a row",
+          "phonetic": "/ɪn ə rəʊ/",
+          "pos": "phr.",
+          "zh": "连续地",
+          "example": "A day later, China kept its one-year loan prime rate at 3.0% and its five-year rate, the reference for mortgages, at 3.5%, leaving them unchanged for the 17th month in a row."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国央行准备换一个“指挥棒”利率，从7天期改成隔夜（一天）期，同时这个月的贷款利率继续不动。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "中国人民银行 PBOC",
+            "text": "中国的中央银行，负责制定货币政策、管理利率和人民币。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "潘功胜 Pan Gongsheng",
+            "text": "中国人民银行行长。"
+          },
+          {
+            "icon": "🎯",
+            "name": "政策利率 policy rate",
+            "text": "央行用来“发信号”的核心利率，它一变，银行之间借钱和贷款给企业、个人的利率都会跟着变。"
+          },
+          {
+            "icon": "🌙",
+            "name": "隔夜利率 overnight rate",
+            "text": "银行之间只借一天的钱的利率；美联储等很多央行都以短期利率为主要目标。"
+          },
+          {
+            "icon": "🏠",
+            "name": "贷款市场报价利率 LPR",
+            "text": "Loan Prime Rate，银行给贷款定价的参考利率；一年期主要影响企业和个人贷款，五年期以上是房贷的参考。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "金融街论坛 Financial Street Forum",
+            "text": "每年在北京金融街举办的金融大会，央行和监管部门常在这里宣布政策方向。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "潘功胜",
+            "b": "政策利率改革",
+            "type": "neutral",
+            "label": "宣布研究改用隔夜利率"
+          },
+          {
+            "a": "三季度经济好于预期",
+            "b": "LPR不变",
+            "type": "cause",
+            "label": "央行不急于降息"
+          },
+          {
+            "a": "利率改革",
+            "b": "借贷成本",
+            "type": "cause",
+            "label": "未来可能降低"
+          }
+        ],
+        "points": [
+          "央行将研究把隔夜利率作为主要政策利率，没有时间表。",
+          "原有的存贷款基准利率将逐步退出。",
+          "一年期LPR 3.0%、五年期3.5%，连续17个月不变。",
+          "改革本身不是降息，但长期可能降低借贷成本。"
+        ],
+        "relevance": "中国的利率和房贷成本影响家庭消费能力和人民币汇率，进而影响中国游客、留学生在澳洲的消费；做面向华人市场的营销时值得留意。",
+        "phrase": {
+          "en": "phase out",
+          "zh": "逐步淘汰；逐步退出"
+        }
+      }
+    }
+  ]
+}
