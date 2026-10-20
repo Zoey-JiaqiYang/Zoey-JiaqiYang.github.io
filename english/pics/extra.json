@@ -573,5 +573,202 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "body-aches",
+    "added": "2026-10-21",
+    "name": "身体与不舒服",
+    "icon": "🤒",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🤒",
+        "w": "temperature",
+        "ph": "/ˈtemprətʃə(r)/",
+        "pos": "n.",
+        "zh": "发烧（口语）",
+        "ex": "I've got a bit of a temperature, so I'm working from home.",
+        "tip": "澳洲人常说 I've got a temperature 表示发烧，也可以说 fever",
+        "accept": [
+          "temperature",
+          "fever",
+          "high temperature"
+        ],
+        "near": [
+          "headache"
+        ]
+      },
+      {
+        "emoji": "🤕",
+        "w": "headache",
+        "ph": "/ˈhedeɪk/",
+        "pos": "n.",
+        "zh": "头痛",
+        "ex": "This meeting is giving me a headache.",
+        "tip": "也可以比喻「让人头疼的事」",
+        "accept": [
+          "headache",
+          "head injury",
+          "sore head"
+        ],
+        "near": [
+          "temperature"
+        ]
+      },
+      {
+        "emoji": "👃",
+        "w": "blocked nose",
+        "ph": "/ˌblɒkt ˈnəʊz/",
+        "pos": "n.",
+        "zh": "鼻塞",
+        "ex": "I can't smell anything — I've got a blocked nose.",
+        "tip": "澳洲/英国说 blocked nose，美国说 stuffy nose",
+        "accept": [
+          "blocked nose",
+          "stuffy nose",
+          "runny nose"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👂",
+        "w": "earache",
+        "ph": "/ˈɪəreɪk/",
+        "pos": "n.",
+        "zh": "耳朵疼",
+        "ex": "My son's had an earache since the swimming lesson.",
+        "tip": "-ache 结尾：toothache 牙疼、stomachache 胃疼",
+        "accept": [
+          "earache",
+          "ear infection",
+          "sore ear"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦴",
+        "w": "fracture",
+        "ph": "/ˈfræktʃə(r)/",
+        "pos": "n./v.",
+        "zh": "骨折",
+        "ex": "The x-ray showed a hairline fracture in her wrist.",
+        "tip": "hairline fracture = 细微骨裂；口语说 broken bone",
+        "accept": [
+          "fracture",
+          "broken bone",
+          "break"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💪",
+        "w": "biceps",
+        "ph": "/ˈbaɪseps/",
+        "pos": "n.",
+        "zh": "二头肌",
+        "ex": "He's been hitting the gym — look at those biceps!",
+        "tip": "单复数同形；口语也说 guns",
+        "accept": [
+          "biceps",
+          "bicep",
+          "muscle",
+          "flex"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🫁",
+        "w": "lungs",
+        "ph": "/lʌŋz/",
+        "pos": "n.",
+        "zh": "肺",
+        "ex": "Bushfire smoke is bad for your lungs.",
+        "tip": "单数 lung",
+        "accept": [
+          "lungs",
+          "lung"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥴",
+        "w": "tipsy",
+        "ph": "/ˈtɪpsi/",
+        "pos": "adj.",
+        "zh": "微醺的",
+        "ex": "Two glasses of wine and I'm already tipsy.",
+        "tip": "喝醉是 drunk；澳洲口语还说 pissed（醉了，不是生气）",
+        "accept": [
+          "tipsy",
+          "drunk",
+          "woozy"
+        ],
+        "near": [
+          "throw up"
+        ]
+      },
+      {
+        "emoji": "🤮",
+        "w": "throw up",
+        "ph": "/θrəʊ ʌp/",
+        "pos": "phr.",
+        "zh": "呕吐",
+        "ex": "The kids threw up after the theme park ride.",
+        "tip": "正式说 vomit；澳洲口语也说 chuck",
+        "accept": [
+          "throw up",
+          "vomit",
+          "be sick",
+          "chuck"
+        ],
+        "near": [
+          "tipsy"
+        ]
+      },
+      {
+        "emoji": "🦻",
+        "w": "hearing aid",
+        "ph": "/ˈhɪərɪŋ eɪd/",
+        "pos": "n.",
+        "zh": "助听器",
+        "ex": "Grandpa wears a hearing aid in his left ear.",
+        "tip": "",
+        "accept": [
+          "hearing aid"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💅",
+        "w": "manicure",
+        "ph": "/ˈmænɪkjʊə(r)/",
+        "pos": "n.",
+        "zh": "美甲",
+        "ex": "I'm getting a manicure before the wedding.",
+        "tip": "澳洲口语说 get my nails done；足部护理是 pedicure",
+        "accept": [
+          "manicure",
+          "nails",
+          "get my nails done",
+          "nail polish"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💇",
+        "w": "trim",
+        "ph": "/trɪm/",
+        "pos": "n./v.",
+        "zh": "（头发）修一修",
+        "ex": "Just a trim, please — only a couple of centimetres.",
+        "tip": "理发店常用：Just a trim, please；剪大改动是 haircut",
+        "accept": [
+          "trim",
+          "haircut",
+          "hair cut"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
