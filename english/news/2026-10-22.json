@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T02:15:00+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "House prices fall in every Australian capital for the first time in 15 years",
+      "title_zh": "15年来首次！澳洲八大首府城市房价全线下跌，季度跌幅创纪录",
+      "search_zh": "Domain 房价报告 九月季度 首府城市 房价下跌",
+      "summary_en": "House prices fell in all eight Australian capital cities in the September quarter, the first time this has happened in 15 years, according to Domain's latest House Price Report. Across the combined capitals, the median house price dropped 4.7%, or almost $60,000, to about $1.23 million, which Domain says is the steepest quarterly fall it has ever recorded. Perth suffered the sharpest decline at 7.4%, while Sydney fell 4.7% and Melbourne 3.3%, their biggest quarterly drops in four years, and unit prices across the capitals slid 3.5%. Domain economist Nicola Powell blamed higher interest rates, cost-of-living pressure and weaker buyer confidence, saying the downturn has broadened considerably.",
+      "summary_zh": "根据房产平台Domain最新的房价报告，澳大利亚全部八个首府城市的房价在9月季度都出现下跌，这是15年来第一次。在首府城市整体层面，房屋中位价下跌4.7%，即减少了近6万澳元，降至约123万澳元，Domain称这是其有记录以来最大的单季跌幅。珀斯跌幅最大，为7.4%，悉尼下跌4.7%、墨尔本下跌3.3%，均为四年来最大的单季跌幅，而首府城市的公寓（单元房）价格也下滑了3.5%。Domain经济学家妮可拉·鲍威尔将原因归结为利率上升、生活成本压力和买家信心减弱，并表示这轮下行已经明显扩大。",
+      "why_zh": "房价直接关系到在澳洲买房、租房和家庭财富，也影响大家敢不敢花钱。“steepest（最陡的、最大的）”“downturn（下行、低迷）”是财经和房产新闻的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Domain House Price Report; Capital Brief; CityNews",
+      "url": "https://www.abc.net.au/news/2026-10-22/domain-house-price-september-quarter/107289400",
+      "vocab": [
+        {
+          "word": "steepest",
+          "phonetic": "/ˈstiːpɪst/",
+          "pos": "adj.",
+          "zh": "最陡的；（下跌或上涨）幅度最大的",
+          "example": "Across the combined capitals, the median house price dropped 4.7%, or almost $60,000, to about $1.23 million, which Domain says is the steepest quarterly fall it has ever recorded."
+        },
+        {
+          "word": "downturn",
+          "phonetic": "/ˈdaʊntɜːn/",
+          "pos": "n.",
+          "zh": "（经济、市场的）下行，低迷期",
+          "example": "Domain economist Nicola Powell blamed higher interest rates, cost-of-living pressure and weaker buyer confidence, saying the downturn has broadened considerably."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲房价这一季在所有首府城市一起下跌，是15年来第一次，主要因为利率高、生活成本高、大家不敢出手买房。",
+        "facts": [
+          {
+            "icon": "🏠",
+            "name": "Domain",
+            "text": "澳洲两大房产网站之一（另一个是realestate.com.au），每个季度发布房价报告，是媒体常引用的数据来源。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "妮可拉·鲍威尔 Nicola Powell",
+            "text": "Domain的经济学家，经常在媒体上解读澳洲房价走势。"
+          },
+          {
+            "icon": "🏙️",
+            "name": "八个首府城市 capital cities",
+            "text": "指悉尼、墨尔本、布里斯班、珀斯、阿德莱德、霍巴特、达尔文和堪培拉，是各州和领地的首府。"
+          },
+          {
+            "icon": "📊",
+            "name": "中位价 median price",
+            "text": "把所有成交价从低到高排好，正中间那个价格；比平均价更不容易被少数豪宅拉高。"
+          },
+          {
+            "icon": "🗓️",
+            "name": "9月季度 September quarter",
+            "text": "指7月到9月这三个月；澳洲很多经济数据按季度公布。"
+          },
+          {
+            "icon": "🏢",
+            "name": "公寓/单元房 units",
+            "text": "澳洲把公寓、联排小单元等统称为units，和独立屋house分开统计。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "利率上升",
+            "b": "房价下跌",
+            "type": "cause",
+            "label": "贷款更贵，买家减少"
+          },
+          {
+            "a": "生活成本压力",
+            "b": "买家信心",
+            "type": "bad",
+            "label": "让人不敢出手"
+          },
+          {
+            "a": "Domain",
+            "b": "房价报告",
+            "type": "neutral",
+            "label": "每季度发布数据"
+          }
+        ],
+        "points": [
+          "八个首府城市房价在9月季度全部下跌，15年来首次。",
+          "首府城市整体房屋中位价跌4.7%，约降至123万澳元，创Domain纪录。",
+          "珀斯跌7.4%最多；悉尼跌4.7%、墨尔本跌3.3%，为四年来最大季度跌幅。",
+          "原因是高利率、生活成本压力和买家信心减弱。"
+        ],
+        "relevance": "房价下跌会让很多家庭觉得“变穷了”，消费更谨慎，房地产、家居、装修和银行相关广告预算可能收紧；营销上更要强调性价比和信任感。对首次置业的人来说，这也可能是关注市场的时机。",
+        "phrase": {
+          "en": "the downturn has broadened",
+          "zh": "下行趋势已经扩大（波及更多地区）"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Netflix shares slide as it cuts its advertising revenue forecast",
+      "title_zh": "奈飞下调广告收入预期至27亿美元，财报超预期股价仍跌约6%",
+      "search_zh": "奈飞 第三季度财报 广告收入 下调 27亿美元",
+      "summary_en": "Netflix beat profit expectations in the third quarter, reporting earnings of 87 US cents a share on revenue of about US$12.87 billion, but its shares fell about 6% in after-hours trading on Tuesday. The streaming giant cut its forecast for 2026 advertising revenue to roughly US$2.7 billion, down from about US$3 billion, blaming a slower-than-expected rollout of some of its ad products. It now expects full-year revenue of about US$51.1 billion, at the low end of its earlier range, although subscription revenue has grown faster than it expected. The results come a week after Netflix announced it would cut about 1,000 jobs, or roughly 6% of its workforce, in its biggest round of layoffs in years.",
+      "summary_zh": "奈飞第三季度利润超出预期，每股收益为0.87美元，营收约128.7亿美元，但其股价在周二盘后交易中下跌约6%。这家流媒体巨头把2026年广告收入预期下调至约27亿美元，低于此前的约30亿美元，原因是部分广告产品的推出速度比预期慢。奈飞目前预计全年营收约511亿美元，处于此前预测区间的低端，不过订阅收入的增长比它预期的更快。就在一周前，奈飞宣布将裁员约1000人，约占员工总数的6%，是多年来规模最大的一轮裁员。",
+      "why_zh": "这是和你的营销工作最相关的一条：连奈飞的广告业务都比预期慢，说明流媒体广告还在摸索期。“after-hours trading（盘后交易）”“rollout（推出、上线）”是财经和科技新闻的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNBC; Netflix Q3 2026 shareholder letter (SEC filing); TheStreet; Deadline; ABC30/AP",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "vocab": [
+        {
+          "word": "after-hours",
+          "phonetic": "/ˌɑːftər ˈaʊəz/",
+          "pos": "adj.",
+          "zh": "盘后的（股市正常收盘后进行的交易）",
+          "example": "Netflix beat profit expectations in the third quarter, reporting earnings of 87 US cents a share on revenue of about US$12.87 billion, but its shares fell about 6% in after-hours trading on Tuesday."
+        },
+        {
+          "word": "rollout",
+          "phonetic": "/ˈrəʊlaʊt/",
+          "pos": "n.",
+          "zh": "（新产品、服务的）推出，上线",
+          "example": "The streaming giant cut its forecast for 2026 advertising revenue to roughly US$2.7 billion, down from about US$3 billion, blaming a slower-than-expected rollout of some of its ad products."
+        }
+      ],
+      "explain": {
+        "one_liner": "奈飞赚钱比预期多，但广告生意没长得那么快，所以把全年广告收入目标调低了，投资者不满意，股价下跌。",
+        "facts": [
+          {
+            "icon": "🎬",
+            "name": "奈飞 Netflix",
+            "text": "全球最大的付费流媒体平台之一，过去主要靠订阅费赚钱，几年前推出了更便宜的“含广告套餐”。"
+          },
+          {
+            "icon": "📺",
+            "name": "含广告套餐 ad tier",
+            "text": "用户付更少的月费，但看剧时要看广告；奈飞靠卖这些广告位给品牌赚钱。"
+          },
+          {
+            "icon": "💵",
+            "name": "每股收益 EPS",
+            "text": "Earnings Per Share，公司净利润除以股票数量，是衡量公司赚钱能力的常用指标。"
+          },
+          {
+            "icon": "🌙",
+            "name": "盘后交易 after-hours trading",
+            "text": "美股正常交易时间结束后还能继续买卖；公司常在收盘后发财报，所以股价在盘后先反应。"
+          },
+          {
+            "icon": "🧭",
+            "name": "业绩指引 guidance",
+            "text": "公司对未来收入、利润的官方预测；下调指引通常会让股价下跌。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "广告产品推出慢",
+            "b": "广告收入预期下调",
+            "type": "cause",
+            "label": "导致"
+          },
+          {
+            "a": "下调预期",
+            "b": "奈飞股价",
+            "type": "bad",
+            "label": "盘后下跌约6%"
+          },
+          {
+            "a": "订阅收入",
+            "b": "奈飞",
+            "type": "good",
+            "label": "增长快于预期"
+          }
+        ],
+        "points": [
+          "第三季度每股收益0.87美元，营收约128.7亿美元，利润超预期。",
+          "2026年广告收入预期从约30亿美元下调到约27亿美元。",
+          "全年营收预计约511亿美元，处于原区间低端。",
+          "一周前宣布裁员约1000人，股价盘后跌约6%。"
+        ],
+        "relevance": "奈飞在澳洲也有含广告套餐，是品牌投放视频广告的新渠道之一。它的广告工具上线变慢，说明流媒体广告的定向和效果衡量还不成熟；做媒介投放时可以继续比较奈飞、Stan、BVOD（如7plus、9Now）等平台的实际效果。",
+        "phrase": {
+          "en": "at the low end of the range",
+          "zh": "处于（预测）区间的低端"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Tmall's Double 11 kicks off with a record one million brands and an AI shopping push",
+      "title_zh": "天猫双十一正式开卖：创纪录100万品牌参战，千问AI购物助手成主角",
+      "search_zh": "天猫 双十一 2026 100万品牌 千问 AI 刘博",
+      "summary_en": "Alibaba's Tmall officially kicked off the main sales of its Double 11 (Singles' Day) shopping festival at 8pm China time on Tuesday, after presales opened on October 15. The platform says a record one million brands and more than 70 million products are taking part this year, making it the biggest line-up in the event's history. Artificial intelligence is a major theme, with Alibaba building its Qwen AI model more deeply into shopping, including an assistant that helps users compare products, try on clothes virtually and pick the best discounts. Tmall president Liu Bo said AI will become part of merchants' everyday work from next year, and he called Tmall flagship stores the main place for brands to seize their biggest growth opportunity of the year.",
+      "summary_zh": "阿里巴巴旗下的天猫于北京时间周二晚上8点正式开启“双十一”购物节的现货销售，此前预售已在10月15日开始。天猫表示，今年有创纪录的100万个品牌和超过7000万件商品参与，是这个购物节历史上规模最大的一次。人工智能是今年的一大主题，阿里巴巴把通义千问（Qwen）AI大模型更深入地融入购物环节，其中包括一个能帮用户比较商品、虚拟试穿衣服并挑选最划算优惠的购物助手。天猫总裁刘博表示，从明年开始AI将进入商家的日常工作，他还称天猫旗舰店是品牌抓住全年最大增长机会的主阵地。",
+      "why_zh": "双十一是全球最大的线上购物节，也是营销人每年必看的“大考”；今年的看点是AI导购。“kick off（开始、拉开序幕）”“virtually（虚拟地）”是商业和科技新闻常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "South China Morning Post; KrASIA; RetailBoss",
+      "url": "https://www.scmp.com/tech/big-tech/article/3371048/alibaba-sets-sights-record-breaking-singles-day-1-million-brands-joining-festival",
+      "vocab": [
+        {
+          "word": "kicked off",
+          "phonetic": "/kɪkt ɒf/",
+          "pos": "phr. v.",
+          "zh": "（活动）开始，拉开序幕",
+          "example": "Alibaba's Tmall officially kicked off the main sales of its Double 11 (Singles' Day) shopping festival at 8pm China time on Tuesday, after presales opened on October 15."
+        },
+        {
+          "word": "virtually",
+          "phonetic": "/ˈvɜːtʃuəli/",
+          "pos": "adv.",
+          "zh": "虚拟地（通过电脑/AI技术）；也有“几乎”的意思",
+          "example": "Artificial intelligence is a major theme, with Alibaba building its Qwen AI model more deeply into shopping, including an assistant that helps users compare products, try on clothes virtually and pick the best discounts."
+        }
+      ],
+      "explain": {
+        "one_liner": "一年一度的双十一又来了，天猫这次拉来100万个品牌，还主推用AI帮你挑货、试衣、算优惠。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "天猫 Tmall",
+            "text": "阿里巴巴旗下的线上商城，以品牌官方旗舰店为主；淘宝则更偏向中小卖家。"
+          },
+          {
+            "icon": "🛍️",
+            "name": "双十一 Double 11 / Singles' Day",
+            "text": "每年11月11日前后的大型网购节，2009年由阿里发起，现在京东、抖音等平台也都参与，活动通常从10月就开始。"
+          },
+          {
+            "icon": "🤖",
+            "name": "通义千问 Qwen",
+            "text": "阿里巴巴自己研发的AI大模型，类似ChatGPT，现在被用在淘宝、天猫的购物和商家工具里。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "刘博 Liu Bo",
+            "text": "天猫总裁，负责天猫的业务。"
+          },
+          {
+            "icon": "⏳",
+            "name": "预售 presale",
+            "text": "先付定金锁定优惠，之后再付尾款拿货的玩法，是双十一的经典模式。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "阿里巴巴",
+            "b": "天猫",
+            "type": "neutral",
+            "label": "旗下平台"
+          },
+          {
+            "a": "千问AI",
+            "b": "消费者购物",
+            "type": "good",
+            "label": "帮忙比价、试穿、选优惠"
+          },
+          {
+            "a": "天猫",
+            "b": "品牌商家",
+            "type": "good",
+            "label": "提供旗舰店和AI工具"
+          }
+        ],
+        "points": [
+          "天猫双十一现货销售于北京时间10月20日晚8点开启，预售10月15日开始。",
+          "创纪录的100万个品牌、超过7000万件商品参与。",
+          "千问AI购物助手可以比价、虚拟试穿、挑优惠。",
+          "刘博称明年起AI将进入商家日常工作流程。"
+        ],
+        "relevance": "很多澳洲品牌（保健品、奶粉、护肤品等）通过天猫国际卖给中国消费者，双十一是它们全年最重要的销售节点；AI导购兴起意味着商品信息、评价和关键词要写得让AI也“看得懂”，这对做跨境和华人市场营销很有参考价值。",
+        "phrase": {
+          "en": "seize the biggest growth opportunity of the year",
+          "zh": "抓住全年最大的增长机会"
+        }
+      }
+    }
+  ]
+}
