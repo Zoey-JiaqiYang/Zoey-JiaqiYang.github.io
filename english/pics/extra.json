@@ -770,5 +770,194 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "cafe-brunch",
+    "added": "2026-10-22",
+    "name": "咖啡店与早午餐",
+    "icon": "☕",
+    "prompt": "在咖啡店怎么说？",
+    "items": [
+      {
+        "emoji": "☕",
+        "w": "flat white",
+        "ph": "/ˌflæt ˈwaɪt/",
+        "pos": "n.",
+        "zh": "澳白（馥芮白）",
+        "ex": "Can I grab a large flat white with oat milk?",
+        "tip": "澳洲咖啡店最常点的；Can I grab... 是点单常用说法",
+        "accept": [
+          "flat white",
+          "coffee",
+          "latte"
+        ],
+        "near": [
+          "matcha latte"
+        ]
+      },
+      {
+        "emoji": "🧋",
+        "w": "bubble tea",
+        "ph": "/ˈbʌbl tiː/",
+        "pos": "n.",
+        "zh": "珍珠奶茶",
+        "ex": "There's a new bubble tea shop opening near work.",
+        "tip": "也叫 boba；少糖 = less sugar / 50% sugar",
+        "accept": [
+          "bubble tea",
+          "boba",
+          "milk tea",
+          "pearl milk tea"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍵",
+        "w": "matcha latte",
+        "ph": "/ˈmætʃə ˌlɑːteɪ/",
+        "pos": "n.",
+        "zh": "抹茶拿铁",
+        "ex": "She's switched from coffee to matcha lattes.",
+        "tip": "",
+        "accept": [
+          "matcha latte",
+          "matcha",
+          "green tea"
+        ],
+        "near": [
+          "flat white"
+        ]
+      },
+      {
+        "emoji": "🥑",
+        "w": "smashed avo",
+        "ph": "/ˌsmæʃt ˈævəʊ/",
+        "pos": "n.",
+        "zh": "牛油果吐司（澳洲早午餐招牌）",
+        "ex": "Smashed avo on sourdough is a classic Aussie brunch.",
+        "tip": "avo = avocado；sourdough = 酸面包",
+        "accept": [
+          "smashed avo",
+          "avocado",
+          "avocado toast",
+          "avo toast"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍪",
+        "w": "biscuit",
+        "ph": "/ˈbɪskɪt/",
+        "pos": "n.",
+        "zh": "饼干",
+        "ex": "Grab a biscuit with your cuppa.",
+        "tip": "澳洲/英国说 biscuit（口语 bikkie），美国说 cookie；cuppa = 一杯茶",
+        "accept": [
+          "biscuit",
+          "bikkie",
+          "cookie"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍩",
+        "w": "doughnut",
+        "ph": "/ˈdəʊnʌt/",
+        "pos": "n.",
+        "zh": "甜甜圈",
+        "ex": "They do amazing jam doughnuts at the market.",
+        "tip": "美国拼 donut",
+        "accept": [
+          "doughnut",
+          "donut"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧁",
+        "w": "cupcake",
+        "ph": "/ˈkʌpkeɪk/",
+        "pos": "n.",
+        "zh": "纸杯蛋糕",
+        "ex": "We brought cupcakes for her birthday at work.",
+        "tip": "",
+        "accept": [
+          "cupcake",
+          "muffin"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥞",
+        "w": "pancakes",
+        "ph": "/ˈpænkeɪks/",
+        "pos": "n.",
+        "zh": "煎饼、松饼",
+        "ex": "Let's do pancakes for brunch on Sunday.",
+        "tip": "澳洲小块的厚松饼叫 pikelets",
+        "accept": [
+          "pancakes",
+          "pancake",
+          "hotcakes",
+          "pikelets"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧇",
+        "w": "waffle",
+        "ph": "/ˈwɒfl/",
+        "pos": "n.",
+        "zh": "华夫饼",
+        "ex": "I'll have the waffle with berries and ice cream.",
+        "tip": "waffle on 也指「啰嗦、说个不停」",
+        "accept": [
+          "waffle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥯",
+        "w": "bagel",
+        "ph": "/ˈbeɪɡl/",
+        "pos": "n.",
+        "zh": "贝果",
+        "ex": "A toasted bagel with cream cheese, please.",
+        "tip": "注意读音 /ˈbeɪɡl/",
+        "accept": [
+          "bagel"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🫖",
+        "w": "teapot",
+        "ph": "/ˈtiːpɒt/",
+        "pos": "n.",
+        "zh": "茶壶",
+        "ex": "Let me put the kettle on and fill the teapot.",
+        "tip": "put the kettle on = 烧水泡茶（很常用）",
+        "accept": [
+          "teapot",
+          "pot of tea",
+          "kettle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥄",
+        "w": "teaspoon",
+        "ph": "/ˈtiːspuːn/",
+        "pos": "n.",
+        "zh": "茶匙、小勺",
+        "ex": "Two teaspoons of sugar, please.",
+        "tip": "菜谱缩写 tsp；tablespoon（汤匙）缩写 tbsp",
+        "accept": [
+          "teaspoon",
+          "spoon"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
