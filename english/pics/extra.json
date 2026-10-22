@@ -959,5 +959,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "tech-phone",
+    "added": "2026-10-23",
+    "name": "手机电脑与线上会议",
+    "icon": "📱",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🔇",
+        "w": "on mute",
+        "ph": "/ɒn mjuːt/",
+        "pos": "phr.",
+        "zh": "（开会时）静音中",
+        "ex": "Sorry, you're on mute — we can't hear you.",
+        "tip": "线上会议高频句：You're on mute! / Can you unmute?",
+        "accept": [
+          "on mute",
+          "mute",
+          "muted",
+          "unmute"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📹",
+        "w": "camera on",
+        "ph": "/ˈkæmərə ɒn/",
+        "pos": "phr.",
+        "zh": "开摄像头",
+        "ex": "Could everyone turn their camera on for the intro?",
+        "tip": "turn your camera on/off；关掉也可以说 go off camera",
+        "accept": [
+          "camera on",
+          "turn camera on",
+          "video on",
+          "camera"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧑‍💻",
+        "w": "work from home",
+        "ph": "/ˌwɜːk frəm ˈhəʊm/",
+        "pos": "phr.",
+        "zh": "居家办公",
+        "ex": "I work from home on Mondays and Fridays.",
+        "tip": "缩写 WFH；hybrid = 混合办公",
+        "accept": [
+          "work from home",
+          "wfh",
+          "working from home",
+          "remote work"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📶",
+        "w": "reception",
+        "ph": "/rɪˈsepʃn/",
+        "pos": "n.",
+        "zh": "（手机）信号",
+        "ex": "Sorry, the reception's terrible in this lift.",
+        "tip": "澳洲人说 reception / signal；lift = 电梯",
+        "accept": [
+          "reception",
+          "signal",
+          "no signal",
+          "bars"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔋",
+        "w": "fully charged",
+        "ph": "/ˌfʊli ˈtʃɑːdʒd/",
+        "pos": "phr.",
+        "zh": "充满电",
+        "ex": "My phone's fully charged, so we're good for the trip.",
+        "tip": "没电是 flat；充电 = charge",
+        "accept": [
+          "fully charged",
+          "charged",
+          "full battery",
+          "battery"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤳",
+        "w": "selfie",
+        "ph": "/ˈselfi/",
+        "pos": "n.",
+        "zh": "自拍",
+        "ex": "Let's take a selfie in front of the Opera House.",
+        "tip": "自拍杆 selfie stick",
+        "accept": [
+          "selfie",
+          "self portrait"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💾",
+        "w": "save",
+        "ph": "/seɪv/",
+        "pos": "v.",
+        "zh": "保存",
+        "ex": "Don't forget to save the file before you close it.",
+        "tip": "这个软盘图标就是「保存」按钮",
+        "accept": [
+          "save",
+          "save file",
+          "saved"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🗑️",
+        "w": "bin",
+        "ph": "/bɪn/",
+        "pos": "n./v.",
+        "zh": "垃圾桶；扔掉、删除",
+        "ex": "Just bin that draft and start again.",
+        "tip": "澳洲口语 bin 也可以当动词「扔掉」；美国说 trash",
+        "accept": [
+          "bin",
+          "trash",
+          "rubbish bin",
+          "delete",
+          "recycle bin"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📥",
+        "w": "inbox",
+        "ph": "/ˈɪnbɒks/",
+        "pos": "n.",
+        "zh": "收件箱",
+        "ex": "My inbox is out of control after the long weekend.",
+        "tip": "inbox zero = 清空收件箱",
+        "accept": [
+          "inbox",
+          "in-box",
+          "email"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔄",
+        "w": "sync",
+        "ph": "/sɪŋk/",
+        "pos": "v./n.",
+        "zh": "同步；碰一下",
+        "ex": "Let's sync tomorrow about the campaign.",
+        "tip": "职场口语：Let's sync / quick sync = 简单对一下",
+        "accept": [
+          "sync",
+          "synchronise",
+          "refresh",
+          "update"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📵",
+        "w": "phones off",
+        "ph": "/fəʊnz ɒf/",
+        "pos": "phr.",
+        "zh": "请关手机",
+        "ex": "Phones off during the presentation, please.",
+        "tip": "调静音是 put your phone on silent",
+        "accept": [
+          "phones off",
+          "no phones",
+          "silent",
+          "phone off"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎧",
+        "w": "noise-cancelling headphones",
+        "ph": "/ˈnɔɪz ˌkænsəlɪŋ ˈhedfəʊnz/",
+        "pos": "n.",
+        "zh": "降噪耳机",
+        "ex": "I can't work in an open office without noise-cancelling headphones.",
+        "tip": "入耳式的叫 earbuds；澳洲拼 cancelling（两个 l）",
+        "accept": [
+          "noise-cancelling headphones",
+          "headphones",
+          "noise cancelling headphones",
+          "earphones"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
