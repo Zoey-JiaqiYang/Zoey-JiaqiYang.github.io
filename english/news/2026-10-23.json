@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:57:00+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Flash flooding hits south-east Queensland as Caboolture gets 200mm in six hours",
+      "title_zh": "昆州东南部暴雨引发山洪：卡布尔彻6小时降雨超200毫米，ABC记者游水救出被困司机",
+      "search_zh": "昆士兰 东南部 暴雨 山洪 卡布尔彻 Caboolture SES",
+      "summary_en": "Heavy rain triggered flash flooding across south-east Queensland on Thursday, with Caboolture, north of Brisbane, among the hardest-hit areas after more than 200 millimetres fell there in about six hours. The State Emergency Service responded to 277 call-outs across the state, including 152 in the Moreton Bay region, while 61 local roads were affected and residents in parts of Caboolture and Burpengary were told to prepare to leave. In nearby Morayfield, ABC reporter Will Murray and a bystander swam out to a four-wheel drive that had stalled in floodwater and pulled the driver to safety just seconds before the vehicle sank. Several schools announced they would close on Friday, and the Bureau of Meteorology warned that heavy bursts of rain could continue across southern and central Queensland over the next 24 to 72 hours.",
+      "summary_zh": "周四，强降雨在昆士兰州东南部引发山洪，布里斯班以北的卡布尔彻（Caboolture）是受灾最严重的地区之一，当地约6小时内降雨超过200毫米。州紧急服务局（SES）在全州共处理了277起求助，其中152起在莫顿湾地区，当地有61条道路受到影响，卡布尔彻和伯彭格里部分地区的居民被告知“准备撤离”。在附近的莫雷菲尔德，ABC记者威尔·默里和一名路人游到一辆在洪水中熄火的四驱车旁，在车辆沉没前几秒把司机救了出来。多所学校宣布周五停课，澳洲气象局警告，未来24到72小时内，昆州南部和中部仍可能出现强降雨。",
+      "why_zh": "这是发生在澳洲本地、直接影响出行和上学的天气新闻，也提醒大家“If it's flooded, forget it（遇到积水就别开过去）”。“triggered（引发）”“stalled（熄火、抛锚）”是新闻和日常生活都常用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; The New Daily; Moreton Daily; Yahoo News Australia; Bureau of Meteorology",
+      "url": "https://www.abc.net.au/news/2026-10-22/queensland-south-east-storm-warning-live-updates/107294406",
+      "vocab": [
+        {
+          "word": "triggered",
+          "phonetic": "/ˈtrɪɡəd/",
+          "pos": "v.",
+          "zh": "引发，触发（某事发生）",
+          "example": "Heavy rain triggered flash flooding across south-east Queensland on Thursday, with Caboolture, north of Brisbane, among the hardest-hit areas after more than 200 millimetres fell there in about six hours."
+        },
+        {
+          "word": "stalled",
+          "phonetic": "/stɔːld/",
+          "pos": "v.",
+          "zh": "（汽车发动机）熄火，抛锚；也可指（计划）停滞",
+          "example": "In nearby Morayfield, ABC reporter Will Murray and a bystander swam out to a four-wheel drive that had stalled in floodwater and pulled the driver to safety just seconds before the vehicle sank."
+        }
+      ],
+      "explain": {
+        "one_liner": "布里斯班北边一早上下了平时几个月的雨量，街道和道路瞬间被淹，救援队忙个不停，还有司机差点连车一起被冲走。",
+        "facts": [
+          {
+            "icon": "🌊",
+            "name": "山洪 flash flooding",
+            "text": "短时间内暴雨太大，排水来不及，水位在几分钟到几小时内迅速上涨，比普通河水泛滥更突然、更危险。"
+          },
+          {
+            "icon": "🦺",
+            "name": "州紧急服务局 SES",
+            "text": "State Emergency Service，澳洲各州的应急志愿者组织，负责处理洪水、风暴中的求助，比如屋顶漏水、倒树、被困等。昆州求助电话是132 500。"
+          },
+          {
+            "icon": "🌦️",
+            "name": "澳洲气象局 BoM",
+            "text": "Bureau of Meteorology，澳洲联邦政府的气象机构，负责发布天气预报和恶劣天气警报。"
+          },
+          {
+            "icon": "📍",
+            "name": "卡布尔彻 Caboolture / 莫顿湾 Moreton Bay",
+            "text": "莫顿湾是布里斯班北边的一个大区（地方政府辖区），卡布尔彻、莫雷菲尔德、伯彭格里都是这里的城镇。"
+          },
+          {
+            "icon": "🚨",
+            "name": "“准备撤离”警报 Prepare to Leave",
+            "text": "澳洲灾害警报分三级：Advice（注意）、Watch and Act（观察并行动）、Emergency Warning（紧急）。“准备撤离”属于提醒居民随时做好离开准备的警报。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "短时强降雨",
+            "b": "山洪",
+            "type": "cause",
+            "label": "几小时200多毫米雨"
+          },
+          {
+            "a": "山洪",
+            "b": "道路和学校",
+            "type": "bad",
+            "label": "封路、停课"
+          },
+          {
+            "a": "SES和路人",
+            "b": "被困居民",
+            "type": "good",
+            "label": "救援和帮助"
+          },
+          {
+            "a": "澳洲气象局",
+            "b": "昆州居民",
+            "type": "neutral",
+            "label": "发布未来72小时降雨警告"
+          }
+        ],
+        "points": [
+          "卡布尔彻约6小时降雨超过200毫米，引发山洪。",
+          "SES全州处理277起求助，其中152起在莫顿湾。",
+          "ABC记者和路人从沉没前的车里救出司机。",
+          "多所学校周五停课，未来24–72小时可能还有强降雨。"
+        ],
+        "relevance": "极端天气会直接影响门店客流、物流配送和线下活动安排；做营销时，遇到灾害要及时暂停不合时宜的广告（比如“周末出游”促销），并注意品牌在社交媒体上的语气。也可以记住应急常识：别开车涉水，需要帮助打SES电话132 500。",
+        "phrase": {
+          "en": "prepare to leave",
+          "zh": "准备撤离（澳洲灾害警报用语）"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Tesla beats forecasts but profit plunges 43% as it pours money into AI and robots",
+      "title_zh": "特斯拉三季度业绩超预期，但净利润暴跌43%：钱都砸向AI和人形机器人Optimus",
+      "search_zh": "特斯拉 第三季度财报 净利润下降43% Optimus 量产",
+      "summary_en": "Tesla reported third-quarter earnings of 48 US cents a share on an adjusted basis on Wednesday (US time), beating analysts' forecasts, while revenue was roughly flat at about US$28 billion. However, its net profit plunged 43% to US$787 million, as spending on artificial intelligence and its Optimus humanoid robot rose much faster than sales. Tesla said it had started early production of Optimus at its factory in Fremont, California, and chief executive Elon Musk said it would take at least a year to reach a capacity of 20,000 robots a week. The shares slipped in after-hours trading, as some analysts said Musk had tempered expectations for both the robot and the company's robotaxi business.",
+      "summary_zh": "特斯拉周三（美国时间）公布第三季度业绩，调整后每股收益为0.48美元，超出分析师预期，营收则基本持平，约为280亿美元。然而，由于在人工智能和人形机器人Optimus上的投入增长远快于销售额，其净利润暴跌43%，降至7.87亿美元。特斯拉表示，已在加州弗里蒙特工厂开始Optimus的早期生产，首席执行官埃隆·马斯克则称，至少需要一年时间才能达到每周生产2万台机器人的产能。特斯拉股价在盘后交易中小幅下跌，一些分析师认为马斯克降低了市场对机器人和自动驾驶出租车业务的预期。",
+      "why_zh": "特斯拉是全球最受关注的品牌之一，这份财报显示它正从“卖车公司”转型为“AI和机器人公司”。“plunged（暴跌）”“tempered（降低、缓和）”是财经新闻高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNBC; TechCrunch; Electrek; Investing.com; Quartz; Tesla Q3 2026 update (SEC filing)",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "vocab": [
+        {
+          "word": "plunged",
+          "phonetic": "/plʌndʒd/",
+          "pos": "v.",
+          "zh": "暴跌，骤降",
+          "example": "However, its net profit plunged 43% to US$787 million, as spending on artificial intelligence and its Optimus humanoid robot rose much faster than sales."
+        },
+        {
+          "word": "tempered",
+          "phonetic": "/ˈtempəd/",
+          "pos": "v.",
+          "zh": "使缓和，降低（期望、语气等）",
+          "example": "The shares slipped in after-hours trading, as some analysts said Musk had tempered expectations for both the robot and the company's robotaxi business."
+        }
+      ],
+      "explain": {
+        "one_liner": "特斯拉这季度卖车收入没怎么涨，但在AI和机器人上花了大钱，所以利润大跌；马斯克还说机器人要慢慢来，投资者有点失望。",
+        "facts": [
+          {
+            "icon": "🚗",
+            "name": "特斯拉 Tesla",
+            "text": "美国电动车公司，也做家用和电网储能电池；近年把重点放在自动驾驶、AI和机器人上。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "埃隆·马斯克 Elon Musk",
+            "text": "特斯拉的首席执行官（CEO），同时掌管火箭公司SpaceX等，是全球最受关注的商人之一。"
+          },
+          {
+            "icon": "🤖",
+            "name": "Optimus 人形机器人",
+            "text": "特斯拉研发的“像人一样有手有脚”的机器人，目标是在工厂甚至家里干重复性工作。"
+          },
+          {
+            "icon": "🚕",
+            "name": "自动驾驶出租车 Robotaxi",
+            "text": "不需要司机、用手机就能叫的无人驾驶出租车；特斯拉在美国得州奥斯汀等地试运营。"
+          },
+          {
+            "icon": "💵",
+            "name": "调整后每股收益 adjusted EPS",
+            "text": "每股收益是公司利润除以股票数量；“调整后”是去掉一些一次性或非现金项目（如股票奖励）后的数字，所以会比正式的净利润好看。"
+          },
+          {
+            "icon": "📉",
+            "name": "净利润 net profit",
+            "text": "公司收入扣除所有成本、费用和税之后真正赚到的钱。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI和机器人投入",
+            "b": "净利润",
+            "type": "cause",
+            "label": "支出大增，利润下降43%"
+          },
+          {
+            "a": "特斯拉",
+            "b": "Optimus",
+            "type": "good",
+            "label": "在弗里蒙特开始早期生产"
+          },
+          {
+            "a": "马斯克的谨慎表态",
+            "b": "特斯拉股价",
+            "type": "bad",
+            "label": "盘后小幅下跌"
+          },
+          {
+            "a": "调整后每股收益",
+            "b": "分析师预期",
+            "type": "good",
+            "label": "0.48美元，超出预期"
+          }
+        ],
+        "points": [
+          "调整后每股收益0.48美元，超预期；营收约280亿美元，基本持平。",
+          "净利润下降43%至7.87亿美元，主要因为AI和机器人支出增加。",
+          "Optimus在加州弗里蒙特开始早期生产，每周2万台的产能至少还要一年。",
+          "股价盘后小幅下跌，分析师称马斯克降低了机器人和Robotaxi的短期预期。"
+        ],
+        "relevance": "特斯拉几乎不打传统广告，靠马斯克的个人影响力和产品话题做营销，这是品牌传播的经典案例。它从“电动车品牌”转向“AI和机器人品牌”的故事讲法，也值得做品牌定位的人参考；在澳洲，特斯拉也面临比亚迪等中国电动车品牌的激烈竞争。",
+        "phrase": {
+          "en": "pour money into",
+          "zh": "大量投钱到……（某个领域）"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Chinese AI girl group's fake 'pregnancy' storyline sparks backlash",
+      "title_zh": "AI虚拟女团成员突然宣布“怀孕”暂停活动，网友炸锅：孩子爸爸是谁？创作者承认是编的",
+      "search_zh": "AI女团 BABYQUEEN 虚拟成员 怀孕 Mity",
+      "summary_en": "A Chinese AI girl group called BABYQUEEN has sparked a wave of criticism online after announcing that one of its virtual members, Mity, was pregnant and would pause her activities. The post went viral on Weibo, with many users mocking the storyline by asking who the father was, while others accused the creators of using pregnancy and childbirth as a marketing gimmick. The creators later admitted the pregnancy was invented, explaining that they were a small group of young K-pop fans who had found it stressful to manage several AI characters and wanted a way to write Mity out of the group. They said the hobby project had never made any money and that they had faced personal attacks online, but the episode has fuelled a wider debate about where the boundaries should be for virtual idols.",
+      "summary_zh": "中国一个名为BABYQUEEN的AI女团宣布，旗下虚拟成员Mity怀孕并将暂停活动，随即在网上引发一波批评。这条帖子在微博上迅速走红，许多网友调侃这个剧情，追问“孩子爸爸是谁”，也有人指责创作者把怀孕和生育当成营销噱头。创作者随后承认“怀孕”是编出来的，解释说她们是一群喜欢K-pop的年轻人，同时运营几个AI角色压力太大，想找个办法让Mity退出团体。她们表示这个兴趣项目从没赚过钱，自己还遭到了网络人身攻击，但这件事已经引发了一场关于虚拟偶像边界在哪里的更广泛讨论。",
+      "why_zh": "虚拟偶像和AI网红是营销圈的热门话题，这件事说明“人设剧情”玩过头会翻车。“gimmick（噱头）”“fuelled（加剧、助长）”在营销和娱乐新闻中很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Sixth Tone; South China Morning Post (via The Star); Shanghai Daily; IBTimes UK; Dexerto",
+      "url": "https://www.sixthtone.com/news/1019128",
+      "vocab": [
+        {
+          "word": "gimmick",
+          "phonetic": "/ˈɡɪmɪk/",
+          "pos": "n.",
+          "zh": "噱头，花招（为吸引注意而做的事）",
+          "example": "The post went viral on Weibo, with many users mocking the storyline by asking who the father was, while others accused the creators of using pregnancy and childbirth as a marketing gimmick."
+        },
+        {
+          "word": "fuelled",
+          "phonetic": "/ˈfjuːəld/",
+          "pos": "v.",
+          "zh": "加剧，助长（讨论、情绪等）",
+          "example": "They said the hobby project had never made any money and that they had faced personal attacks online, but the episode has fuelled a wider debate about where the boundaries should be for virtual idols."
+        }
+      ]
+    }
+  ]
+}
