@@ -1157,5 +1157,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "beach-outdoors",
+    "added": "2026-10-24",
+    "name": "海边与户外",
+    "icon": "🏕️",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "☂️",
+        "w": "brolly",
+        "ph": "/ˈbrɒli/",
+        "pos": "n.",
+        "zh": "雨伞（澳洲口语）",
+        "ex": "Grab a brolly, it's meant to bucket down later.",
+        "tip": "umbrella 的澳洲叫法；bucket down = 下倾盆大雨",
+        "accept": [
+          "brolly",
+          "umbrella"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⛺",
+        "w": "pitch a tent",
+        "ph": "/pɪtʃ ə tent/",
+        "pos": "phr.",
+        "zh": "搭帐篷",
+        "ex": "We pitched our tent right next to the river.",
+        "tip": "搭帐篷用动词 pitch，不说 build",
+        "accept": [
+          "pitch a tent",
+          "tent",
+          "set up a tent",
+          "put up a tent"
+        ],
+        "near": [
+          "campsite"
+        ]
+      },
+      {
+        "emoji": "🏕️",
+        "w": "campsite",
+        "ph": "/ˈkæmpsaɪt/",
+        "pos": "n.",
+        "zh": "露营地",
+        "ex": "Book a campsite early — they fill up over Easter.",
+        "tip": "",
+        "accept": [
+          "campsite",
+          "camping",
+          "camping ground",
+          "campground"
+        ],
+        "near": [
+          "pitch a tent"
+        ]
+      },
+      {
+        "emoji": "🎣",
+        "w": "go fishing",
+        "ph": "/ɡəʊ ˈfɪʃɪŋ/",
+        "pos": "phr.",
+        "zh": "去钓鱼",
+        "ex": "Dad's gone fishing off the jetty.",
+        "tip": "澳洲口语也说 throw a line in；jetty = 栈桥",
+        "accept": [
+          "go fishing",
+          "fishing",
+          "fish"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛶",
+        "w": "kayak",
+        "ph": "/ˈkaɪæk/",
+        "pos": "n./v.",
+        "zh": "皮划艇",
+        "ex": "We hired kayaks and paddled around the bay.",
+        "tip": "paddle = 划桨；canoe 是另一种独木舟",
+        "accept": [
+          "kayak",
+          "canoe",
+          "paddle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤿",
+        "w": "snorkelling",
+        "ph": "/ˈsnɔːkəlɪŋ/",
+        "pos": "n.",
+        "zh": "浮潜",
+        "ex": "The snorkelling on the Great Barrier Reef is unreal.",
+        "tip": "澳洲拼两个 l；unreal = 太棒了（澳洲口语）",
+        "accept": [
+          "snorkelling",
+          "snorkel",
+          "snorkeling",
+          "diving"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔥",
+        "w": "campfire",
+        "ph": "/ˈkæmpfaɪə(r)/",
+        "pos": "n.",
+        "zh": "篝火",
+        "ex": "We roasted marshmallows over the campfire.",
+        "tip": "澳洲夏天常有 total fire ban（全面禁火）",
+        "accept": [
+          "campfire",
+          "bonfire",
+          "fire"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏞️",
+        "w": "national park",
+        "ph": "/ˌnæʃnəl ˈpɑːk/",
+        "pos": "n.",
+        "zh": "国家公园",
+        "ex": "Royal National Park is only an hour from Sydney.",
+        "tip": "澳洲人常去国家公园 bushwalk（徒步）",
+        "accept": [
+          "national park",
+          "park"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛟",
+        "w": "lifebuoy",
+        "ph": "/ˈlaɪfbɔɪ/",
+        "pos": "n.",
+        "zh": "救生圈",
+        "ex": "Throw the lifebuoy — someone's in trouble!",
+        "tip": "海滩救生员叫 lifesaver / lifeguard",
+        "accept": [
+          "lifebuoy",
+          "life ring",
+          "life buoy",
+          "ring buoy",
+          "lifesaver"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏊",
+        "w": "do laps",
+        "ph": "/duː læps/",
+        "pos": "phr.",
+        "zh": "（泳池）游来回",
+        "ex": "I do laps at the local pool before work.",
+        "tip": "lap = 一个来回；澳洲人把游泳馆叫 the pool / aquatic centre",
+        "accept": [
+          "do laps",
+          "swim laps",
+          "swim",
+          "swimming",
+          "laps"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐚",
+        "w": "seashell",
+        "ph": "/ˈsiːʃel/",
+        "pos": "n.",
+        "zh": "贝壳",
+        "ex": "The kids collected seashells along the beach.",
+        "tip": "绕口令：She sells seashells by the seashore",
+        "accept": [
+          "seashell",
+          "shell",
+          "shells"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌅",
+        "w": "golden hour",
+        "ph": "/ˈɡəʊldən aʊə(r)/",
+        "pos": "n.",
+        "zh": "日落/日出前后的黄金光线时刻",
+        "ex": "Let's do the photo shoot at golden hour.",
+        "tip": "拍照常用词；也可以直接说 sunset / sunrise",
+        "accept": [
+          "golden hour",
+          "sunset",
+          "sunrise"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
