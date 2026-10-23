@@ -1,232 +1,304 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T01:57:00+11:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:30:00+11:00",
   "items": [
     {
       "category": "australia",
-      "title_en": "Flash flooding hits south-east Queensland as Caboolture gets 200mm in six hours",
-      "title_zh": "昆州东南部暴雨引发山洪：卡布尔彻6小时降雨超200毫米，ABC记者游水救出被困司机",
-      "search_zh": "昆士兰 东南部 暴雨 山洪 卡布尔彻 Caboolture SES",
-      "summary_en": "Heavy rain triggered flash flooding across south-east Queensland on Thursday, with Caboolture, north of Brisbane, among the hardest-hit areas after more than 200 millimetres fell there in about six hours. The State Emergency Service responded to 277 call-outs across the state, including 152 in the Moreton Bay region, while 61 local roads were affected and residents in parts of Caboolture and Burpengary were told to prepare to leave. In nearby Morayfield, ABC reporter Will Murray and a bystander swam out to a four-wheel drive that had stalled in floodwater and pulled the driver to safety just seconds before the vehicle sank. Several schools announced they would close on Friday, and the Bureau of Meteorology warned that heavy bursts of rain could continue across southern and central Queensland over the next 24 to 72 hours.",
-      "summary_zh": "周四，强降雨在昆士兰州东南部引发山洪，布里斯班以北的卡布尔彻（Caboolture）是受灾最严重的地区之一，当地约6小时内降雨超过200毫米。州紧急服务局（SES）在全州共处理了277起求助，其中152起在莫顿湾地区，当地有61条道路受到影响，卡布尔彻和伯彭格里部分地区的居民被告知“准备撤离”。在附近的莫雷菲尔德，ABC记者威尔·默里和一名路人游到一辆在洪水中熄火的四驱车旁，在车辆沉没前几秒把司机救了出来。多所学校宣布周五停课，澳洲气象局警告，未来24到72小时内，昆州南部和中部仍可能出现强降雨。",
-      "why_zh": "这是发生在澳洲本地、直接影响出行和上学的天气新闻，也提醒大家“If it's flooded, forget it（遇到积水就别开过去）”。“triggered（引发）”“stalled（熄火、抛锚）”是新闻和日常生活都常用的词。",
+      "title_en": "Australian-led trial finds personalised mRNA vaccine cuts melanoma return risk by 42%",
+      "title_zh": "澳洲主导的重磅试验：个性化mRNA癌症疫苗让黑色素瘤复发或死亡风险降低42%",
+      "search_zh": "黑色素瘤 mRNA 癌症疫苗 降低42% 澳洲黑色素瘤研究所 Georgina Long",
+      "summary_en": "An Australian-led clinical trial has found that a personalised mRNA cancer vaccine, given together with the immunotherapy drug Keytruda after surgery, cut the risk of melanoma coming back or of death by 42% compared with Keytruda alone. The late-stage trial, known as INTerpath-001, involved 1,137 patients with high-risk melanoma, and the vaccine is made individually for each person using genetic information from their own tumour. It was jointly developed by the drug companies MSD and Moderna, and the trial was led by Professor Georgina Long of Melanoma Institute Australia, with patients also treated at hospitals in Sydney, Melbourne, Brisbane and Perth. Long described the results as transformational, although experts cautioned that the vaccine has not yet been approved and that patients have so far been followed for only about two years.",
+      "summary_zh": "一项由澳洲主导的临床试验发现，手术后在免疫治疗药物Keytruda（可瑞达）的基础上加用一种个性化mRNA癌症疫苗，与只用Keytruda相比，黑色素瘤复发或死亡的风险降低了42%。这项名为INTerpath-001的后期试验共有1137名高风险黑色素瘤患者参加，疫苗是利用每位患者自己肿瘤的基因信息“一人一款”单独定制的。疫苗由制药公司默沙东（MSD）和莫德纳（Moderna）联合研发，试验由澳洲黑色素瘤研究所的乔治娜·朗教授牵头，悉尼、墨尔本、布里斯班和珀斯的医院也有患者参与。朗教授称这一结果具有“变革性”，不过专家提醒，这款疫苗尚未获批上市，而且目前对患者的跟踪时间只有约两年。",
+      "why_zh": "澳洲是全球黑色素瘤（一种皮肤癌）发病率最高的国家之一，这项突破和每个晒太阳的澳洲人都有关系。“personalised（个性化的）”“cautioned（提醒、告诫）”在健康和商业新闻里都很常用。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; The New Daily; Moreton Daily; Yahoo News Australia; Bureau of Meteorology",
-      "url": "https://www.abc.net.au/news/2026-10-22/queensland-south-east-storm-warning-live-updates/107294406",
+      "source": "ABC News; Melanoma Institute Australia (via Scimex); CNN; Nature; Targeted Oncology",
+      "url": "https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082",
       "vocab": [
         {
-          "word": "triggered",
-          "phonetic": "/ˈtrɪɡəd/",
-          "pos": "v.",
-          "zh": "引发，触发（某事发生）",
-          "example": "Heavy rain triggered flash flooding across south-east Queensland on Thursday, with Caboolture, north of Brisbane, among the hardest-hit areas after more than 200 millimetres fell there in about six hours."
+          "word": "personalised",
+          "phonetic": "/ˈpɜːsənəlaɪzd/",
+          "pos": "adj.",
+          "zh": "个性化的，为个人量身定制的",
+          "example": "An Australian-led clinical trial has found that a personalised mRNA cancer vaccine, given together with the immunotherapy drug Keytruda after surgery, cut the risk of melanoma coming back or of death by 42% compared with Keytruda alone."
         },
         {
-          "word": "stalled",
-          "phonetic": "/stɔːld/",
+          "word": "cautioned",
+          "phonetic": "/ˈkɔːʃənd/",
           "pos": "v.",
-          "zh": "（汽车发动机）熄火，抛锚；也可指（计划）停滞",
-          "example": "In nearby Morayfield, ABC reporter Will Murray and a bystander swam out to a four-wheel drive that had stalled in floodwater and pulled the driver to safety just seconds before the vehicle sank."
+          "zh": "提醒，告诫（注意风险）",
+          "example": "Long described the results as transformational, although experts cautioned that the vaccine has not yet been approved and that patients have so far been followed for only about two years."
         }
       ],
       "explain": {
-        "one_liner": "布里斯班北边一早上下了平时几个月的雨量，街道和道路瞬间被淹，救援队忙个不停，还有司机差点连车一起被冲走。",
+        "one_liner": "科学家用病人自己肿瘤的“基因密码”做成专属疫苗，教免疫系统认出并消灭残留的癌细胞，结果皮肤癌复发的风险少了四成。",
         "facts": [
           {
-            "icon": "🌊",
-            "name": "山洪 flash flooding",
-            "text": "短时间内暴雨太大，排水来不及，水位在几分钟到几小时内迅速上涨，比普通河水泛滥更突然、更危险。"
+            "icon": "☀️",
+            "name": "黑色素瘤 melanoma",
+            "text": "一种最危险的皮肤癌，和紫外线（晒太阳）关系很大。澳洲是全世界黑色素瘤发病率最高的国家之一。"
           },
           {
-            "icon": "🦺",
-            "name": "州紧急服务局 SES",
-            "text": "State Emergency Service，澳洲各州的应急志愿者组织，负责处理洪水、风暴中的求助，比如屋顶漏水、倒树、被困等。昆州求助电话是132 500。"
+            "icon": "💉",
+            "name": "mRNA疫苗",
+            "text": "mRNA像一份“说明书”，告诉身体细胞做出某种蛋白，让免疫系统学会识别目标。新冠疫苗就用了这项技术；这次是用来识别癌细胞。"
           },
           {
-            "icon": "🌦️",
-            "name": "澳洲气象局 BoM",
-            "text": "Bureau of Meteorology，澳洲联邦政府的气象机构，负责发布天气预报和恶劣天气警报。"
+            "icon": "🧬",
+            "name": "个性化癌症疫苗 intismeran",
+            "text": "先分析病人切下来的肿瘤，找出它独有的基因变化，再为这个人单独制作疫苗，所以每个人的疫苗都不一样。"
           },
           {
-            "icon": "📍",
-            "name": "卡布尔彻 Caboolture / 莫顿湾 Moreton Bay",
-            "text": "莫顿湾是布里斯班北边的一个大区（地方政府辖区），卡布尔彻、莫雷菲尔德、伯彭格里都是这里的城镇。"
+            "icon": "💊",
+            "name": "Keytruda（可瑞达）",
+            "text": "一种常用的癌症免疫治疗药，作用是“松开免疫系统的刹车”，让它更积极地攻击癌细胞。这次试验把它和疫苗一起用。"
           },
           {
-            "icon": "🚨",
-            "name": "“准备撤离”警报 Prepare to Leave",
-            "text": "澳洲灾害警报分三级：Advice（注意）、Watch and Act（观察并行动）、Emergency Warning（紧急）。“准备撤离”属于提醒居民随时做好离开准备的警报。"
+            "icon": "🏢",
+            "name": "默沙东 MSD / 莫德纳 Moderna",
+            "text": "MSD是大型制药公司（在美国叫Merck），Keytruda就是它的药；Moderna是美国生物科技公司，因新冠mRNA疫苗出名。两家一起研发这款疫苗。"
+          },
+          {
+            "icon": "👩‍⚕️",
+            "name": "乔治娜·朗 Georgina Long",
+            "text": "悉尼的澳洲黑色素瘤研究所（Melanoma Institute Australia）联合医学主任，和同事Richard Scolyer一起获评2024年“澳大利亚年度人物”。"
           }
         ],
         "relations": [
           {
-            "a": "短时强降雨",
-            "b": "山洪",
-            "type": "cause",
-            "label": "几小时200多毫米雨"
-          },
-          {
-            "a": "山洪",
-            "b": "道路和学校",
-            "type": "bad",
-            "label": "封路、停课"
-          },
-          {
-            "a": "SES和路人",
-            "b": "被困居民",
+            "a": "个性化疫苗+Keytruda",
+            "b": "黑色素瘤复发",
             "type": "good",
-            "label": "救援和帮助"
+            "label": "复发或死亡风险降低42%"
           },
           {
-            "a": "澳洲气象局",
-            "b": "昆州居民",
+            "a": "MSD和Moderna",
+            "b": "疫苗",
             "type": "neutral",
-            "label": "发布未来72小时降雨警告"
+            "label": "联合研发"
+          },
+          {
+            "a": "澳洲黑色素瘤研究所",
+            "b": "INTerpath-001试验",
+            "type": "good",
+            "label": "牵头试验"
+          },
+          {
+            "a": "跟踪时间短、未获批",
+            "b": "上市时间",
+            "type": "bad",
+            "label": "还需要更多数据和审批"
           }
         ],
         "points": [
-          "卡布尔彻约6小时降雨超过200毫米，引发山洪。",
-          "SES全州处理277起求助，其中152起在莫顿湾。",
-          "ABC记者和路人从沉没前的车里救出司机。",
-          "多所学校周五停课，未来24–72小时可能还有强降雨。"
+          "试验有1137名做完手术的高风险黑色素瘤患者参加。",
+          "疫苗+Keytruda比只用Keytruda，复发或死亡风险低42%。",
+          "疫苗根据每位患者自己的肿瘤基因“一人一款”定制。",
+          "疫苗还没获批，目前只跟踪了约两年，长期效果还要再看。"
         ],
-        "relevance": "极端天气会直接影响门店客流、物流配送和线下活动安排；做营销时，遇到灾害要及时暂停不合时宜的广告（比如“周末出游”促销），并注意品牌在社交媒体上的语气。也可以记住应急常识：别开车涉水，需要帮助打SES电话132 500。",
+        "relevance": "澳洲人对防晒和皮肤癌非常敏感，这类医学突破会推高大众对健康、防晒和医疗科技的关注，健康类、防晒产品和保险品牌常借势做内容。写营销文案时也要注意：药品还没获批，不能夸大成“癌症已被治愈”，澳洲对健康类广告的宣传要求很严格。",
         "phrase": {
-          "en": "prepare to leave",
-          "zh": "准备撤离（澳洲灾害警报用语）"
+          "en": "cut the risk of",
+          "zh": "降低……的风险"
         }
       }
     },
     {
       "category": "markets",
-      "title_en": "Tesla beats forecasts but profit plunges 43% as it pours money into AI and robots",
-      "title_zh": "特斯拉三季度业绩超预期，但净利润暴跌43%：钱都砸向AI和人形机器人Optimus",
-      "search_zh": "特斯拉 第三季度财报 净利润下降43% Optimus 量产",
-      "summary_en": "Tesla reported third-quarter earnings of 48 US cents a share on an adjusted basis on Wednesday (US time), beating analysts' forecasts, while revenue was roughly flat at about US$28 billion. However, its net profit plunged 43% to US$787 million, as spending on artificial intelligence and its Optimus humanoid robot rose much faster than sales. Tesla said it had started early production of Optimus at its factory in Fremont, California, and chief executive Elon Musk said it would take at least a year to reach a capacity of 20,000 robots a week. The shares slipped in after-hours trading, as some analysts said Musk had tempered expectations for both the robot and the company's robotaxi business.",
-      "summary_zh": "特斯拉周三（美国时间）公布第三季度业绩，调整后每股收益为0.48美元，超出分析师预期，营收则基本持平，约为280亿美元。然而，由于在人工智能和人形机器人Optimus上的投入增长远快于销售额，其净利润暴跌43%，降至7.87亿美元。特斯拉表示，已在加州弗里蒙特工厂开始Optimus的早期生产，首席执行官埃隆·马斯克则称，至少需要一年时间才能达到每周生产2万台机器人的产能。特斯拉股价在盘后交易中小幅下跌，一些分析师认为马斯克降低了市场对机器人和自动驾驶出租车业务的预期。",
-      "why_zh": "特斯拉是全球最受关注的品牌之一，这份财报显示它正从“卖车公司”转型为“AI和机器人公司”。“plunged（暴跌）”“tempered（降低、缓和）”是财经新闻高频词。",
+      "title_en": "Gucci owner Kering's shares tumble over 10% as Gucci sales keep falling",
+      "title_zh": "Gucci销售继续下滑、中国客流走弱，母公司开云集团股价暴跌超10%",
+      "search_zh": "开云集团 Kering 股价暴跌 古驰 Gucci 第三季度 销售下滑",
+      "summary_en": "Shares in Kering, the French owner of Gucci, tumbled by more than 10% in Paris on Friday, sinking to their lowest level since mid-2025, after Gucci's sales fell again in the third quarter. Gucci's sales dropped 6% on a comparable basis to about €1.29 billion, a slightly bigger fall than analysts had expected, with weaker customer traffic in Asia, especially mainland China and Japan. Kering's overall revenue was roughly flat at about €3.35 billion, as growth at Saint Laurent, Bottega Veneta and its jewellery and eyewear businesses helped offset the slump at its biggest brand. Chief executive Luca de Meo said the group would stick to his turnaround plan and speed up store closures, but analysts at Deutsche Bank said Gucci had not shown convincing signs of stabilisation.",
+      "summary_zh": "由于古驰（Gucci）第三季度销售再次下滑，其法国母公司开云集团（Kering）的股价周五在巴黎暴跌超过10%，跌至2025年年中以来的最低水平。按可比口径计算，Gucci销售额下降6%，至约12.9亿欧元，跌幅略大于分析师预期，其中亚洲尤其是中国大陆和日本的进店客流明显减少。开云集团整体营收基本持平，约为33.5亿欧元，旗下圣罗兰（Saint Laurent）、葆蝶家（Bottega Veneta）以及珠宝和眼镜业务的增长，帮助抵消了最大品牌的颓势。首席执行官卢卡·德梅奥表示，集团将坚持他的扭亏计划，并加快关闭门店，但德意志银行的分析师认为，Gucci还没有显示出令人信服的企稳迹象。",
+      "why_zh": "Gucci是全球最知名的奢侈品牌之一，它的困境反映了中国消费者对奢侈品“降温”。“tumbled（暴跌）”“offset（抵消）”是财经新闻高频词。",
       "image": "",
       "image_credit": "",
-      "source": "CNBC; TechCrunch; Electrek; Investing.com; Quartz; Tesla Q3 2026 update (SEC filing)",
-      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "France 24 (AFP); Reuters (via Investing.com); Yahoo Finance; WWD",
+      "url": "https://www.france24.com/en/live-news/20261023-kering-shares-tumble-as-gucci-fails-to-reassure-investors",
       "vocab": [
         {
-          "word": "plunged",
-          "phonetic": "/plʌndʒd/",
+          "word": "tumbled",
+          "phonetic": "/ˈtʌmbəld/",
           "pos": "v.",
-          "zh": "暴跌，骤降",
-          "example": "However, its net profit plunged 43% to US$787 million, as spending on artificial intelligence and its Optimus humanoid robot rose much faster than sales."
+          "zh": "（价格、股价）暴跌，骤降",
+          "example": "Shares in Kering, the French owner of Gucci, tumbled by more than 10% in Paris on Friday, sinking to their lowest level since mid-2025, after Gucci's sales fell again in the third quarter."
         },
         {
-          "word": "tempered",
-          "phonetic": "/ˈtempəd/",
+          "word": "offset",
+          "phonetic": "/ˌɒfˈset/",
           "pos": "v.",
-          "zh": "使缓和，降低（期望、语气等）",
-          "example": "The shares slipped in after-hours trading, as some analysts said Musk had tempered expectations for both the robot and the company's robotaxi business."
+          "zh": "抵消，弥补",
+          "example": "Kering's overall revenue was roughly flat at about €3.35 billion, as growth at Saint Laurent, Bottega Veneta and its jewellery and eyewear businesses helped offset the slump at its biggest brand."
         }
       ],
       "explain": {
-        "one_liner": "特斯拉这季度卖车收入没怎么涨，但在AI和机器人上花了大钱，所以利润大跌；马斯克还说机器人要慢慢来，投资者有点失望。",
+        "one_liner": "Gucci这几年越来越不好卖，特别是在中国；这次成绩单又不及格，投资者失去耐心，母公司股价一天跌了一成多。",
         "facts": [
           {
-            "icon": "🚗",
-            "name": "特斯拉 Tesla",
-            "text": "美国电动车公司，也做家用和电网储能电池；近年把重点放在自动驾驶、AI和机器人上。"
+            "icon": "👜",
+            "name": "开云集团 Kering",
+            "text": "法国奢侈品集团，旗下有Gucci、圣罗兰（Saint Laurent）、葆蝶家（Bottega Veneta）、巴黎世家（Balenciaga）等品牌。Gucci是它最赚钱、最重要的品牌。"
+          },
+          {
+            "icon": "🐍",
+            "name": "古驰 Gucci",
+            "text": "意大利奢侈品牌，前几年靠张扬的设计在年轻人和中国消费者中大火，近几年人气下滑，销售连续多个季度下降。"
           },
           {
             "icon": "👨‍💼",
-            "name": "埃隆·马斯克 Elon Musk",
-            "text": "特斯拉的首席执行官（CEO），同时掌管火箭公司SpaceX等，是全球最受关注的商人之一。"
+            "name": "卢卡·德梅奥 Luca de Meo",
+            "text": "开云集团首席执行官，2025年从法国车企雷诺（Renault）跳槽过来，任务就是帮Gucci和集团“扭亏为盈”。"
           },
           {
-            "icon": "🤖",
-            "name": "Optimus 人形机器人",
-            "text": "特斯拉研发的“像人一样有手有脚”的机器人，目标是在工厂甚至家里干重复性工作。"
+            "icon": "📊",
+            "name": "可比口径 comparable basis",
+            "text": "去掉汇率变化、收购或出售业务等因素后计算的增长率，更能看出品牌本身卖得好不好。"
           },
           {
-            "icon": "🚕",
-            "name": "自动驾驶出租车 Robotaxi",
-            "text": "不需要司机、用手机就能叫的无人驾驶出租车；特斯拉在美国得州奥斯汀等地试运营。"
-          },
-          {
-            "icon": "💵",
-            "name": "调整后每股收益 adjusted EPS",
-            "text": "每股收益是公司利润除以股票数量；“调整后”是去掉一些一次性或非现金项目（如股票奖励）后的数字，所以会比正式的净利润好看。"
-          },
-          {
-            "icon": "📉",
-            "name": "净利润 net profit",
-            "text": "公司收入扣除所有成本、费用和税之后真正赚到的钱。"
+            "icon": "🏦",
+            "name": "德意志银行 Deutsche Bank",
+            "text": "德国最大的银行之一，它的分析师会研究上市公司并给投资者写报告。"
           }
         ],
         "relations": [
           {
-            "a": "AI和机器人投入",
-            "b": "净利润",
+            "a": "中国和日本客流减少",
+            "b": "Gucci销售",
             "type": "cause",
-            "label": "支出大增，利润下降43%"
+            "label": "可比口径下降6%"
           },
           {
-            "a": "特斯拉",
-            "b": "Optimus",
-            "type": "good",
-            "label": "在弗里蒙特开始早期生产"
-          },
-          {
-            "a": "马斯克的谨慎表态",
-            "b": "特斯拉股价",
+            "a": "Gucci销售下滑",
+            "b": "开云股价",
             "type": "bad",
-            "label": "盘后小幅下跌"
+            "label": "巴黎股价暴跌超10%"
           },
           {
-            "a": "调整后每股收益",
-            "b": "分析师预期",
+            "a": "圣罗兰、葆蝶家等",
+            "b": "集团营收",
             "type": "good",
-            "label": "0.48美元，超出预期"
+            "label": "增长抵消部分下滑"
+          },
+          {
+            "a": "德梅奥",
+            "b": "门店",
+            "type": "neutral",
+            "label": "坚持扭亏计划，加快关店"
           }
         ],
         "points": [
-          "调整后每股收益0.48美元，超预期；营收约280亿美元，基本持平。",
-          "净利润下降43%至7.87亿美元，主要因为AI和机器人支出增加。",
-          "Optimus在加州弗里蒙特开始早期生产，每周2万台的产能至少还要一年。",
-          "股价盘后小幅下跌，分析师称马斯克降低了机器人和Robotaxi的短期预期。"
+          "开云股价在巴黎暴跌超10%，创2025年年中以来新低。",
+          "Gucci销售按可比口径下降6%，约12.9亿欧元，比预期略差。",
+          "中国大陆和日本的进店客流走弱是重要原因。",
+          "集团营收约33.5亿欧元基本持平，CEO将加快关店。"
         ],
-        "relevance": "特斯拉几乎不打传统广告，靠马斯克的个人影响力和产品话题做营销，这是品牌传播的经典案例。它从“电动车品牌”转向“AI和机器人品牌”的故事讲法，也值得做品牌定位的人参考；在澳洲，特斯拉也面临比亚迪等中国电动车品牌的激烈竞争。",
+        "relevance": "Gucci是“品牌热度过后如何翻身”的典型案例：曾经靠网红式设计爆红，热度一退销售就下滑。在澳洲做营销，也会看到奢侈品牌在悉尼、墨尔本的门店和中国游客、华人消费者的关系；理解中国消费者对奢侈品“降温”的趋势，对做高端品牌和面向华人市场的营销都很有用。",
         "phrase": {
-          "en": "pour money into",
-          "zh": "大量投钱到……（某个领域）"
+          "en": "turnaround plan",
+          "zh": "扭亏计划，（让企业）好转的计划"
         }
       }
     },
     {
-      "category": "entertainment",
-      "title_en": "Chinese AI girl group's fake 'pregnancy' storyline sparks backlash",
-      "title_zh": "AI虚拟女团成员突然宣布“怀孕”暂停活动，网友炸锅：孩子爸爸是谁？创作者承认是编的",
-      "search_zh": "AI女团 BABYQUEEN 虚拟成员 怀孕 Mity",
-      "summary_en": "A Chinese AI girl group called BABYQUEEN has sparked a wave of criticism online after announcing that one of its virtual members, Mity, was pregnant and would pause her activities. The post went viral on Weibo, with many users mocking the storyline by asking who the father was, while others accused the creators of using pregnancy and childbirth as a marketing gimmick. The creators later admitted the pregnancy was invented, explaining that they were a small group of young K-pop fans who had found it stressful to manage several AI characters and wanted a way to write Mity out of the group. They said the hobby project had never made any money and that they had faced personal attacks online, but the episode has fuelled a wider debate about where the boundaries should be for virtual idols.",
-      "summary_zh": "中国一个名为BABYQUEEN的AI女团宣布，旗下虚拟成员Mity怀孕并将暂停活动，随即在网上引发一波批评。这条帖子在微博上迅速走红，许多网友调侃这个剧情，追问“孩子爸爸是谁”，也有人指责创作者把怀孕和生育当成营销噱头。创作者随后承认“怀孕”是编出来的，解释说她们是一群喜欢K-pop的年轻人，同时运营几个AI角色压力太大，想找个办法让Mity退出团体。她们表示这个兴趣项目从没赚过钱，自己还遭到了网络人身攻击，但这件事已经引发了一场关于虚拟偶像边界在哪里的更广泛讨论。",
-      "why_zh": "虚拟偶像和AI网红是营销圈的热门话题，这件事说明“人设剧情”玩过头会翻车。“gimmick（噱头）”“fuelled（加剧、助长）”在营销和娱乐新闻中很常见。",
+      "category": "china",
+      "title_en": "Smart glasses sales more than double in China as AI gadgets boom",
+      "title_zh": "中国智能眼镜销售额前三季度同比大涨110%，AI眼镜火了，但偷拍隐私担忧也来了",
+      "search_zh": "智能眼镜 销售额 增长110% 商务部 前三季度 科技赋能商贸",
+      "summary_en": "Sales of smart glasses on China's major online shopping platforms more than doubled in value in the first nine months of 2026, rising 110% year on year, according to the Ministry of Commerce. The figures, reported by the official Xinhua news agency on Friday, also showed strong growth in sales of exoskeleton walking aids and humanoid-style robots, while spending on services grew faster than spending on goods. The boom has been helped by government subsidies of 15% of the price, capped at 500 yuan per item, and this week nine government departments issued 18 measures to bring AI, robots and smart devices into shops and online retail. However, the rapid spread of camera-equipped glasses has raised privacy concerns about secret filming, and overall retail sales are still growing only slowly, by 2.6% in the first three quarters.",
+      "summary_zh": "据商务部数据，2026年前九个月，中国主要电商平台的智能眼镜销售额同比增长110%，翻了一倍多。官方通讯社新华社周五公布的这些数据还显示，外骨骼助行设备和具身智能机器人的销售也增长强劲，而服务消费的增速快于商品消费。这股热潮得益于政府按售价15%给予的补贴（每件最高500元），本周九个部门还联合发布了18条措施，推动人工智能、机器人和智能设备进入商店和网络零售。不过，带摄像头的眼镜快速普及也引发了对偷拍的隐私担忧，而且整体消费增长依然缓慢，前三季度社会消费品零售总额只增长了2.6%。",
+      "why_zh": "AI眼镜是今年最火的消费电子新品类之一，中国品牌也在向海外扩张。“year on year（同比）”“capped（设上限）”是看数据、看促销规则时必会的表达。",
       "image": "",
       "image_credit": "",
-      "source": "Sixth Tone; South China Morning Post (via The Star); Shanghai Daily; IBTimes UK; Dexerto",
-      "url": "https://www.sixthtone.com/news/1019128",
+      "source": "Xinhua; People's Daily Online; State Council Information Office; CGTN; NewsBytes",
+      "url": "https://english.news.cn/20261023/8d8fd21d39d9456da0b58e54625630b6/c.html",
       "vocab": [
         {
-          "word": "gimmick",
-          "phonetic": "/ˈɡɪmɪk/",
-          "pos": "n.",
-          "zh": "噱头，花招（为吸引注意而做的事）",
-          "example": "The post went viral on Weibo, with many users mocking the storyline by asking who the father was, while others accused the creators of using pregnancy and childbirth as a marketing gimmick."
+          "word": "year on year",
+          "phonetic": "/ˌjɪər ɒn ˈjɪə/",
+          "pos": "adv.",
+          "zh": "同比（和去年同一时期相比）",
+          "example": "Sales of smart glasses on China's major online shopping platforms more than doubled in value in the first nine months of 2026, rising 110% year on year, according to the Ministry of Commerce."
         },
         {
-          "word": "fuelled",
-          "phonetic": "/ˈfjuːəld/",
+          "word": "capped",
+          "phonetic": "/kæpt/",
           "pos": "v.",
-          "zh": "加剧，助长（讨论、情绪等）",
-          "example": "They said the hobby project had never made any money and that they had faced personal attacks online, but the episode has fuelled a wider debate about where the boundaries should be for virtual idols."
+          "zh": "设上限，封顶",
+          "example": "The boom has been helped by government subsidies of 15% of the price, capped at 500 yuan per item, and this week nine government departments issued 18 measures to bring AI, robots and smart devices into shops and online retail."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "在中国，能拍照、能听歌、能和AI聊天的智能眼镜今年卖疯了，政府还发补贴、出政策推动“AI+购物”，不过大家也担心被偷拍。",
+        "facts": [
+          {
+            "icon": "🕶️",
+            "name": "智能眼镜 / AI眼镜",
+            "text": "看起来像普通眼镜，但内置摄像头、麦克风和扬声器，可以拍照录像、听音乐、语音问AI、实时翻译等。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "商务部 Ministry of Commerce",
+            "text": "中国负责国内贸易、消费和对外贸易的政府部门，会定期公布各大电商平台的销售监测数据。"
+          },
+          {
+            "icon": "📰",
+            "name": "新华社 Xinhua",
+            "text": "中国官方通讯社，政府发布的数据和政策常通过它对外报道。"
+          },
+          {
+            "icon": "💰",
+            "name": "以旧换新补贴 subsidies",
+            "text": "2026年智能眼镜被列入国家补贴的数码产品，买一件可补贴售价的15%，最多500元。"
+          },
+          {
+            "icon": "🤖",
+            "name": "科技赋能商贸 18条措施",
+            "text": "商务部等九部门联合发布的政策文件，鼓励把AI、机器人、智能设备用到商品设计、营销、零售、仓储和无人配送中。"
+          },
+          {
+            "icon": "🛒",
+            "name": "社会消费品零售总额 retail sales",
+            "text": "衡量老百姓在商品和餐饮上花了多少钱的主要指标；今年前三季度只增长2.6%，说明整体消费还偏弱。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "政府补贴和新政策",
+            "b": "智能眼镜销售",
+            "type": "cause",
+            "label": "推动销售额增长110%"
+          },
+          {
+            "a": "带摄像头的眼镜",
+            "b": "个人隐私",
+            "type": "bad",
+            "label": "引发偷拍担忧"
+          },
+          {
+            "a": "服务消费",
+            "b": "商品消费",
+            "type": "neutral",
+            "label": "服务消费增速更快"
+          },
+          {
+            "a": "九部门",
+            "b": "零售商家",
+            "type": "good",
+            "label": "推广AI、机器人和智能设备"
+          }
+        ],
+        "points": [
+          "前九个月主要平台智能眼镜销售额同比增长110%。",
+          "外骨骼助行设备、机器人等智能产品也卖得很好。",
+          "政府补贴售价15%（最多500元），九部门发布18条措施推动“科技+商贸”。",
+          "隐私担忧上升，整体零售只增长2.6%。"
+        ],
+        "relevance": "AI眼镜正在成为新的“内容入口”和拍摄工具，第一视角视频、AI购物助手可能改变品牌做内容和卖货的方式。中国品牌（如小米、阿里）正在把智能眼镜推向海外，未来在澳洲市场也可能看到它们的营销投放；同时，涉及摄像头的产品在澳洲推广时要特别注意隐私方面的表述。",
+        "phrase": {
+          "en": "more than double",
+          "zh": "翻了一倍多"
+        }
+      }
     }
   ]
 }
