@@ -1355,5 +1355,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "money-bills",
+    "added": "2026-10-25",
+    "name": "钱与账单",
+    "icon": "💰",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "💰",
+        "w": "super",
+        "ph": "/ˈsuːpə(r)/",
+        "pos": "n.",
+        "zh": "养老金（澳洲 superannuation）",
+        "ex": "Your employer pays 12% into your super.",
+        "tip": "澳洲人都简称 super；换工作记得合并 super 账户",
+        "accept": [
+          "super",
+          "superannuation",
+          "pension",
+          "retirement fund"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔑",
+        "w": "bond",
+        "ph": "/bɒnd/",
+        "pos": "n.",
+        "zh": "（租房）押金",
+        "ex": "We got our full bond back when we moved out.",
+        "tip": "澳洲租房押金叫 bond，美国叫 security deposit",
+        "accept": [
+          "bond",
+          "rental bond",
+          "deposit",
+          "security deposit"
+        ],
+        "near": [
+          "mortgage"
+        ]
+      },
+      {
+        "emoji": "🏠",
+        "w": "mortgage",
+        "ph": "/ˈmɔːɡɪdʒ/",
+        "pos": "n.",
+        "zh": "房贷",
+        "ex": "Rate hikes have pushed up our mortgage repayments.",
+        "tip": "t 不发音！读 /ˈmɔːɡɪdʒ/；也叫 home loan",
+        "accept": [
+          "mortgage",
+          "home loan"
+        ],
+        "near": [
+          "bond"
+        ]
+      },
+      {
+        "emoji": "⚡",
+        "w": "power bill",
+        "ph": "/ˈpaʊə bɪl/",
+        "pos": "n.",
+        "zh": "电费账单",
+        "ex": "Our power bill doubled over winter.",
+        "tip": "澳洲口语说 power bill / electricity bill",
+        "accept": [
+          "power bill",
+          "electricity bill",
+          "energy bill"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📃",
+        "w": "invoice",
+        "ph": "/ˈɪnvɔɪs/",
+        "pos": "n./v.",
+        "zh": "发票、账单",
+        "ex": "I'll send the invoice through by end of day.",
+        "tip": "职场常用：send through an invoice；EOD = end of day",
+        "accept": [
+          "invoice",
+          "bill",
+          "receipt"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💸",
+        "w": "splurge",
+        "ph": "/splɜːdʒ/",
+        "pos": "v./n.",
+        "zh": "挥霍、大手笔花钱",
+        "ex": "I splurged on new headphones after payday.",
+        "tip": "payday = 发工资那天",
+        "accept": [
+          "splurge",
+          "spend",
+          "blow money",
+          "waste money"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤑",
+        "w": "loaded",
+        "ph": "/ˈləʊdɪd/",
+        "pos": "adj.",
+        "zh": "很有钱的（口语）",
+        "ex": "His parents are loaded — they've got a house in Byron.",
+        "tip": "口语形容人有钱；也可以说 rolling in it",
+        "accept": [
+          "loaded",
+          "rich",
+          "wealthy",
+          "minted"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏦",
+        "w": "bank transfer",
+        "ph": "/ˈbæŋk ˌtrænsfɜː(r)/",
+        "pos": "n.",
+        "zh": "银行转账",
+        "ex": "I'll do a bank transfer — what's your BSB?",
+        "tip": "澳洲转账要 BSB 和 account number；也常用 PayID",
+        "accept": [
+          "bank transfer",
+          "transfer",
+          "payid",
+          "pay id"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏧",
+        "w": "ATM",
+        "ph": "/ˌeɪ tiː ˈem/",
+        "pos": "n.",
+        "zh": "取款机",
+        "ex": "Is there an ATM nearby? I need some cash.",
+        "tip": "也叫 cash machine；取钱 = withdraw cash",
+        "accept": [
+          "ATM",
+          "cash machine",
+          "cashpoint"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💵",
+        "w": "cash",
+        "ph": "/kæʃ/",
+        "pos": "n.",
+        "zh": "现金",
+        "ex": "Sorry, we're card only — no cash.",
+        "tip": "card only = 只收刷卡；cash only = 只收现金",
+        "accept": [
+          "cash",
+          "notes",
+          "money"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "✂️",
+        "w": "cut back",
+        "ph": "/kʌt ˈbæk/",
+        "pos": "phr.",
+        "zh": "缩减开支",
+        "ex": "We're cutting back on takeaway to save for a holiday.",
+        "tip": "cut back on sth = 减少……的开销",
+        "accept": [
+          "cut back",
+          "cut costs",
+          "save money",
+          "budget"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐷",
+        "w": "piggy bank",
+        "ph": "/ˈpɪɡi bæŋk/",
+        "pos": "n.",
+        "zh": "存钱罐",
+        "ex": "My niece keeps her pocket money in a piggy bank.",
+        "tip": "pocket money = 零花钱",
+        "accept": [
+          "piggy bank",
+          "money box",
+          "savings"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
