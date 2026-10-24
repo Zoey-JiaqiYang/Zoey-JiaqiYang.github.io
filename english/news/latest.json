@@ -1,302 +1,292 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T08:30:00+11:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T01:56:43+11:00",
   "items": [
     {
-      "category": "australia",
-      "title_en": "Australian-led trial finds personalised mRNA vaccine cuts melanoma return risk by 42%",
-      "title_zh": "澳洲主导的重磅试验：个性化mRNA癌症疫苗让黑色素瘤复发或死亡风险降低42%",
-      "search_zh": "黑色素瘤 mRNA 癌症疫苗 降低42% 澳洲黑色素瘤研究所 Georgina Long",
-      "summary_en": "An Australian-led clinical trial has found that a personalised mRNA cancer vaccine, given together with the immunotherapy drug Keytruda after surgery, cut the risk of melanoma coming back or of death by 42% compared with Keytruda alone. The late-stage trial, known as INTerpath-001, involved 1,137 patients with high-risk melanoma, and the vaccine is made individually for each person using genetic information from their own tumour. It was jointly developed by the drug companies MSD and Moderna, and the trial was led by Professor Georgina Long of Melanoma Institute Australia, with patients also treated at hospitals in Sydney, Melbourne, Brisbane and Perth. Long described the results as transformational, although experts cautioned that the vaccine has not yet been approved and that patients have so far been followed for only about two years.",
-      "summary_zh": "一项由澳洲主导的临床试验发现，手术后在免疫治疗药物Keytruda（可瑞达）的基础上加用一种个性化mRNA癌症疫苗，与只用Keytruda相比，黑色素瘤复发或死亡的风险降低了42%。这项名为INTerpath-001的后期试验共有1137名高风险黑色素瘤患者参加，疫苗是利用每位患者自己肿瘤的基因信息“一人一款”单独定制的。疫苗由制药公司默沙东（MSD）和莫德纳（Moderna）联合研发，试验由澳洲黑色素瘤研究所的乔治娜·朗教授牵头，悉尼、墨尔本、布里斯班和珀斯的医院也有患者参与。朗教授称这一结果具有“变革性”，不过专家提醒，这款疫苗尚未获批上市，而且目前对患者的跟踪时间只有约两年。",
-      "why_zh": "澳洲是全球黑色素瘤（一种皮肤癌）发病率最高的国家之一，这项突破和每个晒太阳的澳洲人都有关系。“personalised（个性化的）”“cautioned（提醒、告诫）”在健康和商业新闻里都很常用。",
+      "category": "world",
+      "title_en": "Apple's first foldable iPhone goes on sale, starting at A$3,499 in Australia",
+      "title_zh": "苹果首款折叠屏iPhone Duo开卖：澳洲起价3499澳元，悉尼全球首发，货源紧张需排到明年1月",
+      "search_zh": "iPhone Duo 折叠屏 开售 3499澳元 悉尼 首发 供货紧张",
+      "summary_en": "Apple's first foldable phone, the iPhone Duo, went on sale on Friday, with Sydney the first city in the world where customers could buy it in store. The phone starts at US$1,999, or A$3,499 in Australia, which makes it A$1,400 more expensive than the iPhone 18 Pro. Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches. Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year.",
+      "summary_zh": "苹果首款折叠屏手机iPhone Duo于周五正式开售，悉尼是全球第一个可以在门店买到它的城市。这款手机起价1999美元，在澳洲为3499澳元，比iPhone 18 Pro贵1400澳元。货源非常紧张：预购一开放，几分钟内网上订单的送货时间就推迟到了明年1月下旬，门店销售也实行限购，所以首发日的排队人潮比以往iPhone发布时要短。评测者大多称赞屏幕把折痕隐藏得很好，但也有人批评手机重约254克、没有长焦镜头；研究机构IDC预计，按销售额计算，苹果今年将拿下折叠屏手机市场44%的份额。",
+      "why_zh": "苹果进入折叠屏市场是今年科技圈最大的新品之一，也是“饥饿营销”和高端定价的经典案例。“rationed（限量供应）”“criticised（批评）”在商业和产品评测新闻中很常见。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Melanoma Institute Australia (via Scimex); CNN; Nature; Targeted Oncology",
-      "url": "https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082",
+      "source": "Reuters (via Investing.com); Apple Australia; Forbes Australia; Man of Many; Macworld",
+      "url": "https://www.investing.com/news/stock-market-news/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin-4967289",
       "vocab": [
         {
-          "word": "personalised",
-          "phonetic": "/ˈpɜːsənəlaɪzd/",
-          "pos": "adj.",
-          "zh": "个性化的，为个人量身定制的",
-          "example": "An Australian-led clinical trial has found that a personalised mRNA cancer vaccine, given together with the immunotherapy drug Keytruda after surgery, cut the risk of melanoma coming back or of death by 42% compared with Keytruda alone."
+          "word": "rationed",
+          "phonetic": "/ˈræʃənd/",
+          "pos": "v.",
+          "zh": "限量供应，定量配给",
+          "example": "Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches."
         },
         {
-          "word": "cautioned",
-          "phonetic": "/ˈkɔːʃənd/",
+          "word": "criticised",
+          "phonetic": "/ˈkrɪtɪsaɪzd/",
           "pos": "v.",
-          "zh": "提醒，告诫（注意风险）",
-          "example": "Long described the results as transformational, although experts cautioned that the vaccine has not yet been approved and that patients have so far been followed for only about two years."
+          "zh": "批评，指出缺点",
+          "example": "Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year."
         }
       ],
       "explain": {
-        "one_liner": "科学家用病人自己肿瘤的“基因密码”做成专属疫苗，教免疫系统认出并消灭残留的癌细胞，结果皮肤癌复发的风险少了四成。",
+        "one_liner": "苹果终于推出了可以像书一样打开合上的iPhone，价格很贵、货也很少，想买的人得等好几个月。",
         "facts": [
           {
-            "icon": "☀️",
-            "name": "黑色素瘤 melanoma",
-            "text": "一种最危险的皮肤癌，和紫外线（晒太阳）关系很大。澳洲是全世界黑色素瘤发病率最高的国家之一。"
+            "icon": "🍎",
+            "name": "苹果 Apple",
+            "text": "美国科技公司，iPhone的制造商。每次新iPhone发布都是全球科技和营销界的大事。"
           },
           {
-            "icon": "💉",
-            "name": "mRNA疫苗",
-            "text": "mRNA像一份“说明书”，告诉身体细胞做出某种蛋白，让免疫系统学会识别目标。新冠疫苗就用了这项技术；这次是用来识别癌细胞。"
+            "icon": "📱",
+            "name": "iPhone Duo",
+            "text": "苹果第一款折叠屏手机，展开是小平板，合起来是手机。澳洲起价3499澳元（256GB），最高配置5899澳元。"
           },
           {
-            "icon": "🧬",
-            "name": "个性化癌症疫苗 intismeran",
-            "text": "先分析病人切下来的肿瘤，找出它独有的基因变化，再为这个人单独制作疫苗，所以每个人的疫苗都不一样。"
-          },
-          {
-            "icon": "💊",
-            "name": "Keytruda（可瑞达）",
-            "text": "一种常用的癌症免疫治疗药，作用是“松开免疫系统的刹车”，让它更积极地攻击癌细胞。这次试验把它和疫苗一起用。"
-          },
-          {
-            "icon": "🏢",
-            "name": "默沙东 MSD / 莫德纳 Moderna",
-            "text": "MSD是大型制药公司（在美国叫Merck），Keytruda就是它的药；Moderna是美国生物科技公司，因新冠mRNA疫苗出名。两家一起研发这款疫苗。"
-          },
-          {
-            "icon": "👩‍⚕️",
-            "name": "乔治娜·朗 Georgina Long",
-            "text": "悉尼的澳洲黑色素瘤研究所（Melanoma Institute Australia）联合医学主任，和同事Richard Scolyer一起获评2024年“澳大利亚年度人物”。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "个性化疫苗+Keytruda",
-            "b": "黑色素瘤复发",
-            "type": "good",
-            "label": "复发或死亡风险降低42%"
-          },
-          {
-            "a": "MSD和Moderna",
-            "b": "疫苗",
-            "type": "neutral",
-            "label": "联合研发"
-          },
-          {
-            "a": "澳洲黑色素瘤研究所",
-            "b": "INTerpath-001试验",
-            "type": "good",
-            "label": "牵头试验"
-          },
-          {
-            "a": "跟踪时间短、未获批",
-            "b": "上市时间",
-            "type": "bad",
-            "label": "还需要更多数据和审批"
-          }
-        ],
-        "points": [
-          "试验有1137名做完手术的高风险黑色素瘤患者参加。",
-          "疫苗+Keytruda比只用Keytruda，复发或死亡风险低42%。",
-          "疫苗根据每位患者自己的肿瘤基因“一人一款”定制。",
-          "疫苗还没获批，目前只跟踪了约两年，长期效果还要再看。"
-        ],
-        "relevance": "澳洲人对防晒和皮肤癌非常敏感，这类医学突破会推高大众对健康、防晒和医疗科技的关注，健康类、防晒产品和保险品牌常借势做内容。写营销文案时也要注意：药品还没获批，不能夸大成“癌症已被治愈”，澳洲对健康类广告的宣传要求很严格。",
-        "phrase": {
-          "en": "cut the risk of",
-          "zh": "降低……的风险"
-        }
-      }
-    },
-    {
-      "category": "markets",
-      "title_en": "Gucci owner Kering's shares tumble over 10% as Gucci sales keep falling",
-      "title_zh": "Gucci销售继续下滑、中国客流走弱，母公司开云集团股价暴跌超10%",
-      "search_zh": "开云集团 Kering 股价暴跌 古驰 Gucci 第三季度 销售下滑",
-      "summary_en": "Shares in Kering, the French owner of Gucci, tumbled by more than 10% in Paris on Friday, sinking to their lowest level since mid-2025, after Gucci's sales fell again in the third quarter. Gucci's sales dropped 6% on a comparable basis to about €1.29 billion, a slightly bigger fall than analysts had expected, with weaker customer traffic in Asia, especially mainland China and Japan. Kering's overall revenue was roughly flat at about €3.35 billion, as growth at Saint Laurent, Bottega Veneta and its jewellery and eyewear businesses helped offset the slump at its biggest brand. Chief executive Luca de Meo said the group would stick to his turnaround plan and speed up store closures, but analysts at Deutsche Bank said Gucci had not shown convincing signs of stabilisation.",
-      "summary_zh": "由于古驰（Gucci）第三季度销售再次下滑，其法国母公司开云集团（Kering）的股价周五在巴黎暴跌超过10%，跌至2025年年中以来的最低水平。按可比口径计算，Gucci销售额下降6%，至约12.9亿欧元，跌幅略大于分析师预期，其中亚洲尤其是中国大陆和日本的进店客流明显减少。开云集团整体营收基本持平，约为33.5亿欧元，旗下圣罗兰（Saint Laurent）、葆蝶家（Bottega Veneta）以及珠宝和眼镜业务的增长，帮助抵消了最大品牌的颓势。首席执行官卢卡·德梅奥表示，集团将坚持他的扭亏计划，并加快关闭门店，但德意志银行的分析师认为，Gucci还没有显示出令人信服的企稳迹象。",
-      "why_zh": "Gucci是全球最知名的奢侈品牌之一，它的困境反映了中国消费者对奢侈品“降温”。“tumbled（暴跌）”“offset（抵消）”是财经新闻高频词。",
-      "image": "",
-      "image_credit": "",
-      "source": "France 24 (AFP); Reuters (via Investing.com); Yahoo Finance; WWD",
-      "url": "https://www.france24.com/en/live-news/20261023-kering-shares-tumble-as-gucci-fails-to-reassure-investors",
-      "vocab": [
-        {
-          "word": "tumbled",
-          "phonetic": "/ˈtʌmbəld/",
-          "pos": "v.",
-          "zh": "（价格、股价）暴跌，骤降",
-          "example": "Shares in Kering, the French owner of Gucci, tumbled by more than 10% in Paris on Friday, sinking to their lowest level since mid-2025, after Gucci's sales fell again in the third quarter."
-        },
-        {
-          "word": "offset",
-          "phonetic": "/ˌɒfˈset/",
-          "pos": "v.",
-          "zh": "抵消，弥补",
-          "example": "Kering's overall revenue was roughly flat at about €3.35 billion, as growth at Saint Laurent, Bottega Veneta and its jewellery and eyewear businesses helped offset the slump at its biggest brand."
-        }
-      ],
-      "explain": {
-        "one_liner": "Gucci这几年越来越不好卖，特别是在中国；这次成绩单又不及格，投资者失去耐心，母公司股价一天跌了一成多。",
-        "facts": [
-          {
-            "icon": "👜",
-            "name": "开云集团 Kering",
-            "text": "法国奢侈品集团，旗下有Gucci、圣罗兰（Saint Laurent）、葆蝶家（Bottega Veneta）、巴黎世家（Balenciaga）等品牌。Gucci是它最赚钱、最重要的品牌。"
-          },
-          {
-            "icon": "🐍",
-            "name": "古驰 Gucci",
-            "text": "意大利奢侈品牌，前几年靠张扬的设计在年轻人和中国消费者中大火，近几年人气下滑，销售连续多个季度下降。"
-          },
-          {
-            "icon": "👨‍💼",
-            "name": "卢卡·德梅奥 Luca de Meo",
-            "text": "开云集团首席执行官，2025年从法国车企雷诺（Renault）跳槽过来，任务就是帮Gucci和集团“扭亏为盈”。"
+            "icon": "📐",
+            "name": "折叠屏 foldable",
+            "text": "屏幕可以弯折的手机。三星、华为等品牌早已推出多年，苹果是“晚到者”，但被认为可能带动整个品类。"
           },
           {
             "icon": "📊",
-            "name": "可比口径 comparable basis",
-            "text": "去掉汇率变化、收购或出售业务等因素后计算的增长率，更能看出品牌本身卖得好不好。"
+            "name": "IDC",
+            "text": "国际知名的科技市场研究机构，常发布手机、电脑等产品的出货量和市场份额数据。"
           },
           {
-            "icon": "🏦",
-            "name": "德意志银行 Deutsche Bank",
-            "text": "德国最大的银行之一，它的分析师会研究上市公司并给投资者写报告。"
+            "icon": "⏳",
+            "name": "限购 rationed sales",
+            "text": "因为货少，苹果限制每人能买的数量并减少门店现货，所以这次排通宵的人比以前少。"
           }
         ],
         "relations": [
           {
-            "a": "中国和日本客流减少",
-            "b": "Gucci销售",
-            "type": "cause",
-            "label": "可比口径下降6%"
-          },
-          {
-            "a": "Gucci销售下滑",
-            "b": "开云股价",
+            "a": "需求旺盛",
+            "b": "供货",
             "type": "bad",
-            "label": "巴黎股价暴跌超10%"
+            "label": "送货时间推迟到明年1月下旬"
           },
           {
-            "a": "圣罗兰、葆蝶家等",
-            "b": "集团营收",
-            "type": "good",
-            "label": "增长抵消部分下滑"
+            "a": "限购",
+            "b": "门店排队",
+            "type": "cause",
+            "label": "排队人群比往年短"
           },
           {
-            "a": "德梅奥",
-            "b": "门店",
+            "a": "苹果",
+            "b": "三星等折叠屏品牌",
             "type": "neutral",
-            "label": "坚持扭亏计划，加快关店"
+            "label": "进入同一市场竞争"
+          },
+          {
+            "a": "评测",
+            "b": "iPhone Duo",
+            "type": "good",
+            "label": "称赞折痕不明显，但嫌重"
           }
         ],
         "points": [
-          "开云股价在巴黎暴跌超10%，创2025年年中以来新低。",
-          "Gucci销售按可比口径下降6%，约12.9亿欧元，比预期略差。",
-          "中国大陆和日本的进店客流走弱是重要原因。",
-          "集团营收约33.5亿欧元基本持平，CEO将加快关店。"
+          "iPhone Duo是苹果第一款折叠屏手机，悉尼全球首发。",
+          "澳洲起价3499澳元，比iPhone 18 Pro贵1400澳元。",
+          "货源紧张，网上订单要等到明年1月下旬。",
+          "IDC预计苹果今年将占折叠屏市场销售额的44%。"
         ],
-        "relevance": "Gucci是“品牌热度过后如何翻身”的典型案例：曾经靠网红式设计爆红，热度一退销售就下滑。在澳洲做营销，也会看到奢侈品牌在悉尼、墨尔本的门店和中国游客、华人消费者的关系；理解中国消费者对奢侈品“降温”的趋势，对做高端品牌和面向华人市场的营销都很有用。",
+        "relevance": "苹果新品发布是“稀缺感+高端定价”营销的教科书：限量、排队、等货本身就制造话题。澳洲是全球首发地，本地电信运营商、零售商和配件品牌都会借势做促销和内容；理解这种发布节奏，对策划产品上市活动很有参考价值。",
         "phrase": {
-          "en": "turnaround plan",
-          "zh": "扭亏计划，（让企业）好转的计划"
+          "en": "go on sale",
+          "zh": "开始发售，正式开卖"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "Smart glasses sales more than double in China as AI gadgets boom",
-      "title_zh": "中国智能眼镜销售额前三季度同比大涨110%，AI眼镜火了，但偷拍隐私担忧也来了",
-      "search_zh": "智能眼镜 销售额 增长110% 商务部 前三季度 科技赋能商贸",
-      "summary_en": "Sales of smart glasses on China's major online shopping platforms more than doubled in value in the first nine months of 2026, rising 110% year on year, according to the Ministry of Commerce. The figures, reported by the official Xinhua news agency on Friday, also showed strong growth in sales of exoskeleton walking aids and humanoid-style robots, while spending on services grew faster than spending on goods. The boom has been helped by government subsidies of 15% of the price, capped at 500 yuan per item, and this week nine government departments issued 18 measures to bring AI, robots and smart devices into shops and online retail. However, the rapid spread of camera-equipped glasses has raised privacy concerns about secret filming, and overall retail sales are still growing only slowly, by 2.6% in the first three quarters.",
-      "summary_zh": "据商务部数据，2026年前九个月，中国主要电商平台的智能眼镜销售额同比增长110%，翻了一倍多。官方通讯社新华社周五公布的这些数据还显示，外骨骼助行设备和具身智能机器人的销售也增长强劲，而服务消费的增速快于商品消费。这股热潮得益于政府按售价15%给予的补贴（每件最高500元），本周九个部门还联合发布了18条措施，推动人工智能、机器人和智能设备进入商店和网络零售。不过，带摄像头的眼镜快速普及也引发了对偷拍的隐私担忧，而且整体消费增长依然缓慢，前三季度社会消费品零售总额只增长了2.6%。",
-      "why_zh": "AI眼镜是今年最火的消费电子新品类之一，中国品牌也在向海外扩张。“year on year（同比）”“capped（设上限）”是看数据、看促销规则时必会的表达。",
+      "title_en": "'China Haul' videos go viral as foreign tourists shop for drones, phones and Pop Mart toys",
+      "title_zh": "“China Haul（中国购物分享）”在海外走红：外国游客来华狂买无人机、折叠屏手机和泡泡玛特",
+      "search_zh": "China Haul 外国游客 中国购物 离境退税 泡泡玛特 商务部",
+      "summary_en": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country. In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys. The trend has been supported by easier tax refunds for departing tourists, as the minimum purchase was lowered to 200 yuan and instant \"refund upon purchase\" was expanded nationwide, helping tax refund sales jump about 60% from January to August. Visa-free policies have also played a part, with visa-free entries into China rising 24.1% year on year in the third quarter to nearly 9 million.",
+      "summary_zh": "商务部本周表示，购物已成为外国人来华旅游的主要原因之一，海外社交媒体上的“China Haul（中国购物分享）”热潮，反映出在中国购物的吸引力越来越大。在这些走红的视频里，游客们展示自己买到的东西，热门商品已经从传统的茶叶和丝绸，扩展到无人机、运动相机、折叠屏手机、美妆产品和泡泡玛特玩具。这股热潮得益于离境退税变得更方便：最低退税购物金额降到200元，“即买即退”也推广到了全国，帮助1至8月的退税商品销售额增长约60%。免签政策也起了作用，第三季度免签入境中国的人次同比增长24.1%，接近900万。",
+      "why_zh": "“haul”是社交媒体上很常见的内容形式（晒购物战利品），这个趋势和中国品牌出海、入境游都有关。“viral（走红的）”“appeal（吸引力）”是营销人必会的词。",
       "image": "",
       "image_credit": "",
-      "source": "Xinhua; People's Daily Online; State Council Information Office; CGTN; NewsBytes",
-      "url": "https://english.news.cn/20261023/8d8fd21d39d9456da0b58e54625630b6/c.html",
+      "source": "Xinhua (via China Economic Net, Beijing Review, Guangming Online, China.org.cn)",
+      "url": "http://en.ce.cn/main/latest/202610/t20261023_3268917.shtml",
       "vocab": [
         {
-          "word": "year on year",
-          "phonetic": "/ˌjɪər ɒn ˈjɪə/",
-          "pos": "adv.",
-          "zh": "同比（和去年同一时期相比）",
-          "example": "Sales of smart glasses on China's major online shopping platforms more than doubled in value in the first nine months of 2026, rising 110% year on year, according to the Ministry of Commerce."
+          "word": "appeal",
+          "phonetic": "/əˈpiːl/",
+          "pos": "n.",
+          "zh": "吸引力，魅力",
+          "example": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country."
         },
         {
-          "word": "capped",
-          "phonetic": "/kæpt/",
-          "pos": "v.",
-          "zh": "设上限，封顶",
-          "example": "The boom has been helped by government subsidies of 15% of the price, capped at 500 yuan per item, and this week nine government departments issued 18 measures to bring AI, robots and smart devices into shops and online retail."
+          "word": "viral",
+          "phonetic": "/ˈvaɪrəl/",
+          "pos": "adj.",
+          "zh": "（在网上）疯传的，爆红的",
+          "example": "In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys."
         }
       ],
       "explain": {
-        "one_liner": "在中国，能拍照、能听歌、能和AI聊天的智能眼镜今年卖疯了，政府还发补贴、出政策推动“AI+购物”，不过大家也担心被偷拍。",
+        "one_liner": "越来越多外国游客专门来中国“扫货”，回国后拍视频晒战利品，在海外社交平台火了，中国政府也乐见其成。",
         "facts": [
           {
-            "icon": "🕶️",
-            "name": "智能眼镜 / AI眼镜",
-            "text": "看起来像普通眼镜，但内置摄像头、麦克风和扬声器，可以拍照录像、听音乐、语音问AI、实时翻译等。"
+            "icon": "🛍️",
+            "name": "Haul 视频",
+            "text": "社交媒体上的一种内容形式：博主展示自己一次买回来的一大堆东西，相当于中文的“晒单”“开箱”“战利品分享”。"
           },
           {
             "icon": "🏛️",
             "name": "商务部 Ministry of Commerce",
-            "text": "中国负责国内贸易、消费和对外贸易的政府部门，会定期公布各大电商平台的销售监测数据。"
+            "text": "中国负责国内消费和对外贸易的政府部门，这次在10月22日的新闻发布会上谈到了这个趋势。"
           },
           {
-            "icon": "📰",
-            "name": "新华社 Xinhua",
-            "text": "中国官方通讯社，政府发布的数据和政策常通过它对外报道。"
+            "icon": "🧸",
+            "name": "泡泡玛特 Pop Mart",
+            "text": "中国潮流玩具公司，以盲盒和Labubu等IP形象在全球走红，也是外国游客热门的“必买”品牌。"
           },
           {
-            "icon": "💰",
-            "name": "以旧换新补贴 subsidies",
-            "text": "2026年智能眼镜被列入国家补贴的数码产品，买一件可补贴售价的15%，最多500元。"
+            "icon": "💴",
+            "name": "离境退税 tax refund",
+            "text": "外国游客在指定商店买东西后，离开中国时可以退回部分税款；“即买即退”指在店里结账时就能先拿到退税。"
           },
           {
-            "icon": "🤖",
-            "name": "科技赋能商贸 18条措施",
-            "text": "商务部等九部门联合发布的政策文件，鼓励把AI、机器人、智能设备用到商品设计、营销、零售、仓储和无人配送中。"
-          },
-          {
-            "icon": "🛒",
-            "name": "社会消费品零售总额 retail sales",
-            "text": "衡量老百姓在商品和餐饮上花了多少钱的主要指标；今年前三季度只增长2.6%，说明整体消费还偏弱。"
+            "icon": "🛂",
+            "name": "免签 visa-free",
+            "text": "中国对许多国家的游客实行免签或过境免签政策（包括澳洲护照），去中国旅游更方便。"
           }
         ],
         "relations": [
           {
-            "a": "政府补贴和新政策",
-            "b": "智能眼镜销售",
+            "a": "退税和免签政策",
+            "b": "外国游客购物",
             "type": "cause",
-            "label": "推动销售额增长110%"
+            "label": "让来华购物更方便"
           },
           {
-            "a": "带摄像头的眼镜",
-            "b": "个人隐私",
-            "type": "bad",
-            "label": "引发偷拍担忧"
-          },
-          {
-            "a": "服务消费",
-            "b": "商品消费",
-            "type": "neutral",
-            "label": "服务消费增速更快"
-          },
-          {
-            "a": "九部门",
-            "b": "零售商家",
+            "a": "China Haul视频",
+            "b": "中国品牌",
             "type": "good",
-            "label": "推广AI、机器人和智能设备"
+            "label": "免费的海外口碑宣传"
+          },
+          {
+            "a": "游客",
+            "b": "购物清单",
+            "type": "neutral",
+            "label": "从茶叶丝绸转向科技和潮玩"
+          },
+          {
+            "a": "商务部",
+            "b": "退税服务",
+            "type": "good",
+            "label": "计划扩大覆盖、改善支付"
           }
         ],
         "points": [
-          "前九个月主要平台智能眼镜销售额同比增长110%。",
-          "外骨骼助行设备、机器人等智能产品也卖得很好。",
-          "政府补贴售价15%（最多500元），九部门发布18条措施推动“科技+商贸”。",
-          "隐私担忧上升，整体零售只增长2.6%。"
+          "购物已成为外国人来华旅游的主要原因之一。",
+          "热门商品从茶叶、丝绸变成无人机、手机、美妆和泡泡玛特。",
+          "退税门槛降到200元，1至8月退税商品销售额增长约60%。",
+          "第三季度免签入境人次同比增长24.1%，接近900万。"
         ],
-        "relevance": "AI眼镜正在成为新的“内容入口”和拍摄工具，第一视角视频、AI购物助手可能改变品牌做内容和卖货的方式。中国品牌（如小米、阿里）正在把智能眼镜推向海外，未来在澳洲市场也可能看到它们的营销投放；同时，涉及摄像头的产品在澳洲推广时要特别注意隐私方面的表述。",
+        "relevance": "这是用户自发内容（UGC）改变国家形象和品牌认知的典型例子：一个个普通游客的视频，比广告更能说服人。在澳洲做营销，你会看到越来越多中国品牌（大疆、泡泡玛特、名创优品等）靠口碑出海；同时，懂中文和中国消费文化的营销人，在入境游、零售和品牌出海项目中会更有优势。",
         "phrase": {
-          "en": "more than double",
-          "zh": "翻了一倍多"
+          "en": "show off",
+          "zh": "炫耀，展示（自己的东西）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "West Australian horse Cosmic Crusader wins the first Cox Plate held at Flemington",
+      "title_zh": "考克斯盘大赛首次移师弗莱明顿：西澳赛马Cosmic Crusader后来居上夺得600万澳元大奖",
+      "search_zh": "考克斯盘 Cox Plate 2026 Cosmic Crusader 弗莱明顿 冠军",
+      "summary_en": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley. The race was moved because Moonee Valley racecourse is being rebuilt, and a crowd of 34,617 watched the West Australian horse come from behind to beat Birdman by three-quarters of a length, with the favourite Aeliana third. It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier. He became the first horse from Western Australia to win the Cox Plate since Northerly won it in 2001 and 2002, and it was the first Cox Plate win for both trainer Andrea Leek and jockey William Pike.",
+      "summary_zh": "周六，Cosmic Crusader赢得了奖金600万澳元的考克斯盘大赛（Cox Plate），这是这项澳洲著名的定磅赛首次不在传统主场穆尼谷（Moonee Valley），而是在弗莱明顿（Flemington）举行。比赛换场是因为穆尼谷赛马场正在重建，34617名观众现场见证这匹来自西澳的赛马从后方追上，以四分之三个马身的优势击败Birdman，热门马Aeliana获得第三。这是一次了不起的“逆袭”，因为就在一周前，Cosmic Crusader作为热门马在考菲尔德杯（Caulfield Cup）中只拿到第四。它成为继Northerly在2001年和2002年夺冠之后，第一匹赢得考克斯盘的西澳赛马，这也是练马师安德里亚·利克和骑师威廉·派克第一次赢得考克斯盘。",
+      "why_zh": "墨尔本春季赛马嘉年华是澳洲最重要的社交和品牌营销季之一。“remarkable（了不起的）”“comeback（逆袭、东山再起）”在体育新闻中非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "AAP; codesports.com.au; Racing News NZ; SportsNews.com.au",
+      "url": "https://aapnews.aap.com.au/news/cosmic-crusader-wins-6-million-cox-plate",
+      "vocab": [
+        {
+          "word": "remarkable",
+          "phonetic": "/rɪˈmɑːkəbl/",
+          "pos": "adj.",
+          "zh": "了不起的，非同寻常的",
+          "example": "It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier."
+        },
+        {
+          "word": "traditional",
+          "phonetic": "/trəˈdɪʃənl/",
+          "pos": "adj.",
+          "zh": "传统的",
+          "example": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲最有分量的赛马比赛之一今年第一次换了场地，冠军是一匹一周前还“失手”的西澳马，上演了漂亮的逆袭。",
+        "facts": [
+          {
+            "icon": "🏆",
+            "name": "考克斯盘 Cox Plate",
+            "text": "澳洲最重要的赛马比赛之一，被称为“澳洲赛马的冠军赛”，距离约2040米，奖金600万澳元，是墨尔本春季赛马嘉年华的重头戏。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "定磅赛 weight-for-age",
+            "text": "按马的年龄和性别规定负重，而不是按实力“让重量”，所以被认为最能比出真正的最强马。"
+          },
+          {
+            "icon": "🏟️",
+            "name": "弗莱明顿 / 穆尼谷",
+            "text": "都是墨尔本的赛马场。考克斯盘一直在穆尼谷举行，今年因穆尼谷重建改到弗莱明顿（墨尔本杯的举办地）。"
+          },
+          {
+            "icon": "🐎",
+            "name": "考菲尔德杯 Caulfield Cup",
+            "text": "墨尔本春季的另一项大赛，在考克斯盘前一周举行。Cosmic Crusader当时是热门，却只得第四。"
+          },
+          {
+            "icon": "👩",
+            "name": "安德里亚·利克 Andrea Leek",
+            "text": "Cosmic Crusader的西澳练马师（负责训练马匹的人），这是她第一次赢得考克斯盘。骑师是William Pike。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "穆尼谷重建",
+            "b": "考克斯盘",
+            "type": "cause",
+            "label": "首次移师弗莱明顿"
+          },
+          {
+            "a": "Cosmic Crusader",
+            "b": "Birdman",
+            "type": "neutral",
+            "label": "以四分之三马身胜出"
+          },
+          {
+            "a": "考菲尔德杯失利",
+            "b": "考克斯盘夺冠",
+            "type": "good",
+            "label": "一周内完成逆袭"
+          },
+          {
+            "a": "Cosmic Crusader",
+            "b": "Northerly",
+            "type": "neutral",
+            "label": "同为西澳马，相隔二十多年再夺冠"
+          }
+        ],
+        "points": [
+          "Cosmic Crusader赢得600万澳元的考克斯盘。",
+          "比赛因穆尼谷重建首次在弗莱明顿举行，现场观众34617人。",
+          "一周前它在考菲尔德杯只得第四，这次后来居上夺冠。",
+          "它是自Northerly（2001、2002年）后首匹夺冠的西澳马。"
+        ],
+        "relevance": "墨尔本春季赛马嘉年华（考克斯盘、墨尔本杯等）是澳洲时尚、酒类、汽车和博彩品牌的投放高峰，也是企业招待客户的重要场合。了解赛马季的赛程和话题，能帮你在10–11月策划更贴近本地文化的内容和活动，下一个大日子就是11月第一个星期二的墨尔本杯。",
+        "phrase": {
+          "en": "come from behind",
+          "zh": "后来居上，从落后中反超"
         }
       }
     }

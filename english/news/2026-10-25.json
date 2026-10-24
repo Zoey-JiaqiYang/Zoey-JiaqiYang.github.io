@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T01:56:43+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Apple's first foldable iPhone goes on sale, starting at A$3,499 in Australia",
+      "title_zh": "苹果首款折叠屏iPhone Duo开卖：澳洲起价3499澳元，悉尼全球首发，货源紧张需排到明年1月",
+      "search_zh": "iPhone Duo 折叠屏 开售 3499澳元 悉尼 首发 供货紧张",
+      "summary_en": "Apple's first foldable phone, the iPhone Duo, went on sale on Friday, with Sydney the first city in the world where customers could buy it in store. The phone starts at US$1,999, or A$3,499 in Australia, which makes it A$1,400 more expensive than the iPhone 18 Pro. Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches. Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year.",
+      "summary_zh": "苹果首款折叠屏手机iPhone Duo于周五正式开售，悉尼是全球第一个可以在门店买到它的城市。这款手机起价1999美元，在澳洲为3499澳元，比iPhone 18 Pro贵1400澳元。货源非常紧张：预购一开放，几分钟内网上订单的送货时间就推迟到了明年1月下旬，门店销售也实行限购，所以首发日的排队人潮比以往iPhone发布时要短。评测者大多称赞屏幕把折痕隐藏得很好，但也有人批评手机重约254克、没有长焦镜头；研究机构IDC预计，按销售额计算，苹果今年将拿下折叠屏手机市场44%的份额。",
+      "why_zh": "苹果进入折叠屏市场是今年科技圈最大的新品之一，也是“饥饿营销”和高端定价的经典案例。“rationed（限量供应）”“criticised（批评）”在商业和产品评测新闻中很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Reuters (via Investing.com); Apple Australia; Forbes Australia; Man of Many; Macworld",
+      "url": "https://www.investing.com/news/stock-market-news/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin-4967289",
+      "vocab": [
+        {
+          "word": "rationed",
+          "phonetic": "/ˈræʃənd/",
+          "pos": "v.",
+          "zh": "限量供应，定量配给",
+          "example": "Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches."
+        },
+        {
+          "word": "criticised",
+          "phonetic": "/ˈkrɪtɪsaɪzd/",
+          "pos": "v.",
+          "zh": "批评，指出缺点",
+          "example": "Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year."
+        }
+      ],
+      "explain": {
+        "one_liner": "苹果终于推出了可以像书一样打开合上的iPhone，价格很贵、货也很少，想买的人得等好几个月。",
+        "facts": [
+          {
+            "icon": "🍎",
+            "name": "苹果 Apple",
+            "text": "美国科技公司，iPhone的制造商。每次新iPhone发布都是全球科技和营销界的大事。"
+          },
+          {
+            "icon": "📱",
+            "name": "iPhone Duo",
+            "text": "苹果第一款折叠屏手机，展开是小平板，合起来是手机。澳洲起价3499澳元（256GB），最高配置5899澳元。"
+          },
+          {
+            "icon": "📐",
+            "name": "折叠屏 foldable",
+            "text": "屏幕可以弯折的手机。三星、华为等品牌早已推出多年，苹果是“晚到者”，但被认为可能带动整个品类。"
+          },
+          {
+            "icon": "📊",
+            "name": "IDC",
+            "text": "国际知名的科技市场研究机构，常发布手机、电脑等产品的出货量和市场份额数据。"
+          },
+          {
+            "icon": "⏳",
+            "name": "限购 rationed sales",
+            "text": "因为货少，苹果限制每人能买的数量并减少门店现货，所以这次排通宵的人比以前少。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "需求旺盛",
+            "b": "供货",
+            "type": "bad",
+            "label": "送货时间推迟到明年1月下旬"
+          },
+          {
+            "a": "限购",
+            "b": "门店排队",
+            "type": "cause",
+            "label": "排队人群比往年短"
+          },
+          {
+            "a": "苹果",
+            "b": "三星等折叠屏品牌",
+            "type": "neutral",
+            "label": "进入同一市场竞争"
+          },
+          {
+            "a": "评测",
+            "b": "iPhone Duo",
+            "type": "good",
+            "label": "称赞折痕不明显，但嫌重"
+          }
+        ],
+        "points": [
+          "iPhone Duo是苹果第一款折叠屏手机，悉尼全球首发。",
+          "澳洲起价3499澳元，比iPhone 18 Pro贵1400澳元。",
+          "货源紧张，网上订单要等到明年1月下旬。",
+          "IDC预计苹果今年将占折叠屏市场销售额的44%。"
+        ],
+        "relevance": "苹果新品发布是“稀缺感+高端定价”营销的教科书：限量、排队、等货本身就制造话题。澳洲是全球首发地，本地电信运营商、零售商和配件品牌都会借势做促销和内容；理解这种发布节奏，对策划产品上市活动很有参考价值。",
+        "phrase": {
+          "en": "go on sale",
+          "zh": "开始发售，正式开卖"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "'China Haul' videos go viral as foreign tourists shop for drones, phones and Pop Mart toys",
+      "title_zh": "“China Haul（中国购物分享）”在海外走红：外国游客来华狂买无人机、折叠屏手机和泡泡玛特",
+      "search_zh": "China Haul 外国游客 中国购物 离境退税 泡泡玛特 商务部",
+      "summary_en": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country. In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys. The trend has been supported by easier tax refunds for departing tourists, as the minimum purchase was lowered to 200 yuan and instant \"refund upon purchase\" was expanded nationwide, helping tax refund sales jump about 60% from January to August. Visa-free policies have also played a part, with visa-free entries into China rising 24.1% year on year in the third quarter to nearly 9 million.",
+      "summary_zh": "商务部本周表示，购物已成为外国人来华旅游的主要原因之一，海外社交媒体上的“China Haul（中国购物分享）”热潮，反映出在中国购物的吸引力越来越大。在这些走红的视频里，游客们展示自己买到的东西，热门商品已经从传统的茶叶和丝绸，扩展到无人机、运动相机、折叠屏手机、美妆产品和泡泡玛特玩具。这股热潮得益于离境退税变得更方便：最低退税购物金额降到200元，“即买即退”也推广到了全国，帮助1至8月的退税商品销售额增长约60%。免签政策也起了作用，第三季度免签入境中国的人次同比增长24.1%，接近900万。",
+      "why_zh": "“haul”是社交媒体上很常见的内容形式（晒购物战利品），这个趋势和中国品牌出海、入境游都有关。“viral（走红的）”“appeal（吸引力）”是营销人必会的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Xinhua (via China Economic Net, Beijing Review, Guangming Online, China.org.cn)",
+      "url": "http://en.ce.cn/main/latest/202610/t20261023_3268917.shtml",
+      "vocab": [
+        {
+          "word": "appeal",
+          "phonetic": "/əˈpiːl/",
+          "pos": "n.",
+          "zh": "吸引力，魅力",
+          "example": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country."
+        },
+        {
+          "word": "viral",
+          "phonetic": "/ˈvaɪrəl/",
+          "pos": "adj.",
+          "zh": "（在网上）疯传的，爆红的",
+          "example": "In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys."
+        }
+      ],
+      "explain": {
+        "one_liner": "越来越多外国游客专门来中国“扫货”，回国后拍视频晒战利品，在海外社交平台火了，中国政府也乐见其成。",
+        "facts": [
+          {
+            "icon": "🛍️",
+            "name": "Haul 视频",
+            "text": "社交媒体上的一种内容形式：博主展示自己一次买回来的一大堆东西，相当于中文的“晒单”“开箱”“战利品分享”。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "商务部 Ministry of Commerce",
+            "text": "中国负责国内消费和对外贸易的政府部门，这次在10月22日的新闻发布会上谈到了这个趋势。"
+          },
+          {
+            "icon": "🧸",
+            "name": "泡泡玛特 Pop Mart",
+            "text": "中国潮流玩具公司，以盲盒和Labubu等IP形象在全球走红，也是外国游客热门的“必买”品牌。"
+          },
+          {
+            "icon": "💴",
+            "name": "离境退税 tax refund",
+            "text": "外国游客在指定商店买东西后，离开中国时可以退回部分税款；“即买即退”指在店里结账时就能先拿到退税。"
+          },
+          {
+            "icon": "🛂",
+            "name": "免签 visa-free",
+            "text": "中国对许多国家的游客实行免签或过境免签政策（包括澳洲护照），去中国旅游更方便。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "退税和免签政策",
+            "b": "外国游客购物",
+            "type": "cause",
+            "label": "让来华购物更方便"
+          },
+          {
+            "a": "China Haul视频",
+            "b": "中国品牌",
+            "type": "good",
+            "label": "免费的海外口碑宣传"
+          },
+          {
+            "a": "游客",
+            "b": "购物清单",
+            "type": "neutral",
+            "label": "从茶叶丝绸转向科技和潮玩"
+          },
+          {
+            "a": "商务部",
+            "b": "退税服务",
+            "type": "good",
+            "label": "计划扩大覆盖、改善支付"
+          }
+        ],
+        "points": [
+          "购物已成为外国人来华旅游的主要原因之一。",
+          "热门商品从茶叶、丝绸变成无人机、手机、美妆和泡泡玛特。",
+          "退税门槛降到200元，1至8月退税商品销售额增长约60%。",
+          "第三季度免签入境人次同比增长24.1%，接近900万。"
+        ],
+        "relevance": "这是用户自发内容（UGC）改变国家形象和品牌认知的典型例子：一个个普通游客的视频，比广告更能说服人。在澳洲做营销，你会看到越来越多中国品牌（大疆、泡泡玛特、名创优品等）靠口碑出海；同时，懂中文和中国消费文化的营销人，在入境游、零售和品牌出海项目中会更有优势。",
+        "phrase": {
+          "en": "show off",
+          "zh": "炫耀，展示（自己的东西）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "West Australian horse Cosmic Crusader wins the first Cox Plate held at Flemington",
+      "title_zh": "考克斯盘大赛首次移师弗莱明顿：西澳赛马Cosmic Crusader后来居上夺得600万澳元大奖",
+      "search_zh": "考克斯盘 Cox Plate 2026 Cosmic Crusader 弗莱明顿 冠军",
+      "summary_en": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley. The race was moved because Moonee Valley racecourse is being rebuilt, and a crowd of 34,617 watched the West Australian horse come from behind to beat Birdman by three-quarters of a length, with the favourite Aeliana third. It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier. He became the first horse from Western Australia to win the Cox Plate since Northerly won it in 2001 and 2002, and it was the first Cox Plate win for both trainer Andrea Leek and jockey William Pike.",
+      "summary_zh": "周六，Cosmic Crusader赢得了奖金600万澳元的考克斯盘大赛（Cox Plate），这是这项澳洲著名的定磅赛首次不在传统主场穆尼谷（Moonee Valley），而是在弗莱明顿（Flemington）举行。比赛换场是因为穆尼谷赛马场正在重建，34617名观众现场见证这匹来自西澳的赛马从后方追上，以四分之三个马身的优势击败Birdman，热门马Aeliana获得第三。这是一次了不起的“逆袭”，因为就在一周前，Cosmic Crusader作为热门马在考菲尔德杯（Caulfield Cup）中只拿到第四。它成为继Northerly在2001年和2002年夺冠之后，第一匹赢得考克斯盘的西澳赛马，这也是练马师安德里亚·利克和骑师威廉·派克第一次赢得考克斯盘。",
+      "why_zh": "墨尔本春季赛马嘉年华是澳洲最重要的社交和品牌营销季之一。“remarkable（了不起的）”“comeback（逆袭、东山再起）”在体育新闻中非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "AAP; codesports.com.au; Racing News NZ; SportsNews.com.au",
+      "url": "https://aapnews.aap.com.au/news/cosmic-crusader-wins-6-million-cox-plate",
+      "vocab": [
+        {
+          "word": "remarkable",
+          "phonetic": "/rɪˈmɑːkəbl/",
+          "pos": "adj.",
+          "zh": "了不起的，非同寻常的",
+          "example": "It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier."
+        },
+        {
+          "word": "traditional",
+          "phonetic": "/trəˈdɪʃənl/",
+          "pos": "adj.",
+          "zh": "传统的",
+          "example": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲最有分量的赛马比赛之一今年第一次换了场地，冠军是一匹一周前还“失手”的西澳马，上演了漂亮的逆袭。",
+        "facts": [
+          {
+            "icon": "🏆",
+            "name": "考克斯盘 Cox Plate",
+            "text": "澳洲最重要的赛马比赛之一，被称为“澳洲赛马的冠军赛”，距离约2040米，奖金600万澳元，是墨尔本春季赛马嘉年华的重头戏。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "定磅赛 weight-for-age",
+            "text": "按马的年龄和性别规定负重，而不是按实力“让重量”，所以被认为最能比出真正的最强马。"
+          },
+          {
+            "icon": "🏟️",
+            "name": "弗莱明顿 / 穆尼谷",
+            "text": "都是墨尔本的赛马场。考克斯盘一直在穆尼谷举行，今年因穆尼谷重建改到弗莱明顿（墨尔本杯的举办地）。"
+          },
+          {
+            "icon": "🐎",
+            "name": "考菲尔德杯 Caulfield Cup",
+            "text": "墨尔本春季的另一项大赛，在考克斯盘前一周举行。Cosmic Crusader当时是热门，却只得第四。"
+          },
+          {
+            "icon": "👩",
+            "name": "安德里亚·利克 Andrea Leek",
+            "text": "Cosmic Crusader的西澳练马师（负责训练马匹的人），这是她第一次赢得考克斯盘。骑师是William Pike。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "穆尼谷重建",
+            "b": "考克斯盘",
+            "type": "cause",
+            "label": "首次移师弗莱明顿"
+          },
+          {
+            "a": "Cosmic Crusader",
+            "b": "Birdman",
+            "type": "neutral",
+            "label": "以四分之三马身胜出"
+          },
+          {
+            "a": "考菲尔德杯失利",
+            "b": "考克斯盘夺冠",
+            "type": "good",
+            "label": "一周内完成逆袭"
+          },
+          {
+            "a": "Cosmic Crusader",
+            "b": "Northerly",
+            "type": "neutral",
+            "label": "同为西澳马，相隔二十多年再夺冠"
+          }
+        ],
+        "points": [
+          "Cosmic Crusader赢得600万澳元的考克斯盘。",
+          "比赛因穆尼谷重建首次在弗莱明顿举行，现场观众34617人。",
+          "一周前它在考菲尔德杯只得第四，这次后来居上夺冠。",
+          "它是自Northerly（2001、2002年）后首匹夺冠的西澳马。"
+        ],
+        "relevance": "墨尔本春季赛马嘉年华（考克斯盘、墨尔本杯等）是澳洲时尚、酒类、汽车和博彩品牌的投放高峰，也是企业招待客户的重要场合。了解赛马季的赛程和话题，能帮你在10–11月策划更贴近本地文化的内容和活动，下一个大日子就是11月第一个星期二的墨尔本杯。",
+        "phrase": {
+          "en": "come from behind",
+          "zh": "后来居上，从落后中反超"
+        }
+      }
+    }
+  ]
+}
