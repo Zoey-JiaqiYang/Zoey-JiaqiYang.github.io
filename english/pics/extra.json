@@ -1553,5 +1553,204 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "home-chores",
+    "added": "2026-10-26",
+    "name": "家务与居家",
+    "icon": "🧼",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🍽️",
+        "w": "do the dishes",
+        "ph": "/duː ðə ˈdɪʃɪz/",
+        "pos": "phr.",
+        "zh": "洗碗",
+        "ex": "You cooked, so I'll do the dishes.",
+        "tip": "澳洲也常说 do the washing-up",
+        "accept": [
+          "do the dishes",
+          "wash up",
+          "washing up",
+          "dishes",
+          "wash the dishes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛏️",
+        "w": "make the bed",
+        "ph": "/meɪk ðə bed/",
+        "pos": "phr.",
+        "zh": "铺床、整理床铺",
+        "ex": "I always make the bed before I leave for work.",
+        "tip": "铺床用动词 make，不是 do",
+        "accept": [
+          "make the bed",
+          "bed"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👕",
+        "w": "fold the washing",
+        "ph": "/fəʊld ðə ˈwɒʃɪŋ/",
+        "pos": "phr.",
+        "zh": "叠衣服",
+        "ex": "Can you fold the washing while I cook?",
+        "tip": "澳洲人把洗好的衣服叫 the washing；hang out the washing = 晾衣服",
+        "accept": [
+          "fold the washing",
+          "fold clothes",
+          "fold the laundry",
+          "laundry"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧦",
+        "w": "odd socks",
+        "ph": "/ɒd sɒks/",
+        "pos": "n.",
+        "zh": "不成对的袜子",
+        "ex": "The dryer always eats one sock — now I've got a drawer of odd socks.",
+        "tip": "odd 在这里是「不成对的」，不是「奇怪」",
+        "accept": [
+          "odd socks",
+          "odd sock",
+          "mismatched socks",
+          "socks"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "♻️",
+        "w": "recycling",
+        "ph": "/riːˈsaɪklɪŋ/",
+        "pos": "n.",
+        "zh": "可回收垃圾",
+        "ex": "Put the bottles in the recycling — the yellow-lid bin.",
+        "tip": "澳洲黄盖桶是可回收，红盖是一般垃圾，绿盖是园林垃圾",
+        "accept": [
+          "recycling",
+          "recycle",
+          "recycling bin"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪴",
+        "w": "water the plants",
+        "ph": "/ˈwɔːtə ðə plɑːnts/",
+        "pos": "phr.",
+        "zh": "浇花",
+        "ex": "Could you water the plants while I'm away?",
+        "tip": "pot plant = 盆栽（澳洲说法）",
+        "accept": [
+          "water the plants",
+          "pot plant",
+          "water plants",
+          "plant"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧼",
+        "w": "scrub",
+        "ph": "/skrʌb/",
+        "pos": "v.",
+        "zh": "用力擦洗",
+        "ex": "I spent all Sunday scrubbing the shower.",
+        "tip": "比 wipe（轻轻擦）更用力",
+        "accept": [
+          "scrub",
+          "wash",
+          "clean"
+        ],
+        "near": [
+          "suds"
+        ]
+      },
+      {
+        "emoji": "🫧",
+        "w": "suds",
+        "ph": "/sʌdz/",
+        "pos": "n.",
+        "zh": "肥皂泡沫",
+        "ex": "There were suds everywhere after he put too much detergent in.",
+        "tip": "detergent = 洗涤剂",
+        "accept": [
+          "suds",
+          "bubbles",
+          "soap bubbles",
+          "lather"
+        ],
+        "near": [
+          "scrub"
+        ]
+      },
+      {
+        "emoji": "🪠",
+        "w": "plunger",
+        "ph": "/ˈplʌndʒə(r)/",
+        "pos": "n.",
+        "zh": "马桶搋子",
+        "ex": "The toilet's blocked — where's the plunger?",
+        "tip": "blocked toilet = 马桶堵了",
+        "accept": [
+          "plunger",
+          "blocked toilet"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚽",
+        "w": "loo",
+        "ph": "/luː/",
+        "pos": "n.",
+        "zh": "厕所（口语）",
+        "ex": "Back in a sec, just ducking to the loo.",
+        "tip": "澳洲口语也说 the toilet / dunny（老派）",
+        "accept": [
+          "loo",
+          "toilet",
+          "bathroom",
+          "dunny"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛁",
+        "w": "run a bath",
+        "ph": "/rʌn ə bɑːθ/",
+        "pos": "phr.",
+        "zh": "放洗澡水",
+        "ex": "I'll run a bath and have an early night.",
+        "tip": "early night = 早点睡",
+        "accept": [
+          "run a bath",
+          "bath",
+          "bathtub",
+          "have a bath"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛋️",
+        "w": "couch",
+        "ph": "/kaʊtʃ/",
+        "pos": "n.",
+        "zh": "沙发",
+        "ex": "We spent the whole weekend on the couch watching Netflix.",
+        "tip": "澳洲/美国多说 couch，英国常说 sofa；couch potato = 沙发土豆",
+        "accept": [
+          "couch",
+          "sofa",
+          "lounge"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
