@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T01:58:10+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Rain washes out MotoGP's final race at Phillip Island before the event moves to Adelaide",
+      "title_zh": "大雨搅局：菲利普岛最后一场MotoGP正赛被取消，车手绕场告别，明年赛事移师阿德莱德",
+      "search_zh": "MotoGP 菲利普岛 澳大利亚大奖赛 取消 大雨 阿德莱德 2027",
+      "summary_en": "The final Australian MotoGP race at Phillip Island was cancelled on Sunday because heavy rain and low cloud meant the medical helicopter, which must be available for riders' safety, could not fly. Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped. Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain. The Australian Grand Prix is moving to Adelaide from November 2027 under a six-year deal with the South Australian government, so Marc Marquez's win in Saturday's sprint race will go down as the last MotoGP race held at Phillip Island.",
+      "summary_zh": "周日，在菲利普岛举行的最后一场澳大利亚MotoGP正赛被取消，原因是大雨和低云导致保障车手安全所必需的医疗直升机无法起飞。主办方多次推迟发车时间，最终在下午3点35分左右宣布取消比赛，而此前Moto2和Moto3级别的比赛已经被取消。车手们没有比赛，而是跟在安全车后面绕场一圈告别，并在主直道上停下来，向冒雨等待的车迷致意。澳大利亚大奖赛将根据与南澳州政府签订的六年协议，从2027年11月起移师阿德莱德，因此马克·马奎斯在周六冲刺赛中的胜利，将成为菲利普岛史上最后一场MotoGP比赛。",
+      "why_zh": "一个举办了几十年的经典赛事以“被雨取消”的方式告别，很有话题性；也能看到各州政府如何争夺大型体育赛事。“scrapped（取消、作废）”“farewell（告别）”是新闻里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Motorsport Week; Crash.net; Visordown; Flashscore",
+      "url": "https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532",
+      "vocab": [
+        {
+          "word": "scrapped",
+          "phonetic": "/skræpt/",
+          "pos": "v.",
+          "zh": "取消，废弃（计划、活动等）",
+          "example": "Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped."
+        },
+        {
+          "word": "farewell",
+          "phonetic": "/ˌfeəˈwel/",
+          "pos": "adj. / n.",
+          "zh": "告别（的），送别",
+          "example": "Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲最著名的摩托车大赛在菲利普岛办了几十年，今年是最后一届，结果正赛却因为大雨被取消，明年起改到阿德莱德举办。",
+        "facts": [
+          {
+            "icon": "🏍️",
+            "name": "MotoGP",
+            "text": "世界顶级的摩托车公路赛事，相当于摩托车界的F1，每年在全球二十多个国家巡回比赛。Moto2和Moto3是它下面的两个较低级别。"
+          },
+          {
+            "icon": "🏝️",
+            "name": "菲利普岛 Phillip Island",
+            "text": "维多利亚州墨尔本东南方的海岛，以小企鹅归巢闻名，赛道紧邻海边，风景优美但天气多变。"
+          },
+          {
+            "icon": "🚁",
+            "name": "医疗直升机规定",
+            "text": "比赛必须有医疗直升机随时待命，以便车手受伤时能迅速送医。菲利普岛离大医院较远，救护车太慢，所以直升机飞不了就不能比赛。"
+          },
+          {
+            "icon": "🏁",
+            "name": "冲刺赛 Sprint",
+            "text": "周六举行的半程短距离比赛。本站周六冲刺赛由西班牙名将马克·马奎斯（Marc Marquez）获胜，这也成了菲利普岛最后一场MotoGP比赛。"
+          },
+          {
+            "icon": "🏙️",
+            "name": "阿德莱德 Adelaide",
+            "text": "南澳州首府。南澳州政府与MotoGP签了六年协议，从2027年11月起承办澳大利亚大奖赛；维州政府未能谈成续约。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "大雨和低云",
+            "b": "医疗直升机",
+            "type": "cause",
+            "label": "能见度太低无法起飞"
+          },
+          {
+            "a": "医疗直升机无法起飞",
+            "b": "正赛",
+            "type": "bad",
+            "label": "按安全规定只能取消"
+          },
+          {
+            "a": "南澳州政府",
+            "b": "MotoGP",
+            "type": "good",
+            "label": "签下六年承办协议"
+          },
+          {
+            "a": "维州政府",
+            "b": "MotoGP",
+            "type": "neutral",
+            "label": "未能谈成续约"
+          }
+        ],
+        "points": [
+          "菲利普岛最后一场MotoGP正赛因大雨取消，Moto2和Moto3也被取消。",
+          "关键原因是医疗直升机无法起飞，安全规定不允许比赛。",
+          "车手们以绕场一圈的方式向车迷告别。",
+          "赛事从2027年11月起移师阿德莱德，周六冲刺赛成了这里的“绝唱”。"
+        ],
+        "relevance": "大型体育赛事是各州政府争夺的“城市营销”资源，能带来游客、酒店和餐饮消费，赞助商也会围绕它做大量活动。一场比赛被天气取消，也提醒营销人做户外活动和赞助时要准备好“B计划”和应急沟通方案；明年阿德莱德接手后，南澳的旅游和品牌合作机会值得关注。",
+        "phrase": {
+          "en": "call off",
+          "zh": "取消（已计划的活动）"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Temple & Webster shares jump about 33% as fewer discounts boost its profit margins",
+      "title_zh": "少打折反而更赚钱：澳洲网上家具商Temple & Webster股价单日暴涨约33%",
+      "search_zh": "Temple & Webster 股价 暴涨 减少促销 提价 利润率 年度股东大会",
+      "summary_en": "Shares in Temple & Webster, an Australian online furniture and homewares retailer, jumped about 33% on Friday after the company gave a trading update at its annual general meeting. Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges. That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year. The retailer, now led by new chief executive Susie Sugden, expects sales to return to growth from mid-February and plans an AI-led online store in New Zealand, although its shares are still down sharply for the year.",
+      "summary_zh": "周五，澳洲网上家具和家居用品零售商Temple & Webster在年度股东大会上发布经营近况后，股价大涨约33%。7月1日至10月19日期间，公司收入同比下降8%，但公司表示这是主动选择，因为它减少了折扣力度，并提高了部分产品系列的价格。这一策略正在提升盈利能力：边际贡献金额（即销售收入扣除直接成本后剩下的钱）增长了16%，公司也重申了本财年EBITDA为3300万至4000万澳元的预测。这家由新任首席执行官苏茜·萨格登领导的零售商预计，销售额将从明年2月中旬起恢复增长，还计划在新西兰推出一个由AI主导的网上商店，不过它的股价今年以来仍然大幅下跌。",
+      "why_zh": "这是“少促销、守价格、要利润”的真实商业案例，和营销工作直接相关。“deliberate（故意的、主动的）”“reaffirmed（重申）”在公司财报新闻里非常常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Capital Brief; The Bull; Rask Media; Investing.com; Morningstar/AAP",
+      "url": "https://www.capitalbrief.com/briefing/temple-webster-shares-jump-after-reaffirming-fy27-guidance-59ad1ebe-7377-4432-bb07-8ff27cb0c152/",
+      "vocab": [
+        {
+          "word": "deliberate",
+          "phonetic": "/dɪˈlɪbərət/",
+          "pos": "adj.",
+          "zh": "故意的，有意的，经过深思熟虑的",
+          "example": "Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges."
+        },
+        {
+          "word": "reaffirmed",
+          "phonetic": "/ˌriːəˈfɜːmd/",
+          "pos": "v.",
+          "zh": "重申，再次确认",
+          "example": "That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year."
+        }
+      ],
+      "explain": {
+        "one_liner": "一家澳洲网上家具店故意少打折、小幅涨价，虽然卖得少了，但每单更赚钱，投资者很满意，股价一天涨了三成多。",
+        "facts": [
+          {
+            "icon": "🛋️",
+            "name": "Temple & Webster",
+            "text": "澳洲上市的网上家具和家居用品零售商（股票代码TPW），在网上卖沙发、床、餐桌、装饰品等，没有大型实体门店。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "年度股东大会 AGM",
+            "text": "上市公司每年召开一次的股东会议，公司常在会上公布最新经营情况和全年预测。"
+          },
+          {
+            "icon": "💰",
+            "name": "边际贡献 contribution margin",
+            "text": "卖东西的收入减去直接成本（如商品成本、运费等）后剩下的钱。它增长说明每卖一单更赚钱了。"
+          },
+          {
+            "icon": "📊",
+            "name": "EBITDA",
+            "text": "息税折旧摊销前利润，可以粗略理解为公司日常经营赚到的钱，常用来比较公司盈利能力。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "苏茜·萨格登 Susie Sugden",
+            "text": "Temple & Webster的新任首席执行官（CEO），将负责带领公司重回两位数的收入增长。"
+          },
+          {
+            "icon": "🇳🇿",
+            "name": "AI主导的网店",
+            "text": "公司计划在新西兰推出由AI代理负责商品搜索、推荐和线上陈列（在人工监督下）的网店。这一细节目前主要来自单一媒体报道。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "减少折扣、提价",
+            "b": "收入",
+            "type": "bad",
+            "label": "同比下降8%"
+          },
+          {
+            "a": "减少折扣、提价",
+            "b": "边际贡献",
+            "type": "good",
+            "label": "增长16%"
+          },
+          {
+            "a": "重申全年盈利预测",
+            "b": "股价",
+            "type": "cause",
+            "label": "单日大涨约33%"
+          },
+          {
+            "a": "明年2月中旬",
+            "b": "收入",
+            "type": "neutral",
+            "label": "预计恢复增长"
+          }
+        ],
+        "points": [
+          "Temple & Webster股价周五大涨约33%。",
+          "收入下降8%，因为公司主动减少折扣并提价。",
+          "边际贡献增长16%，全年EBITDA预测3300万至4000万澳元不变。",
+          "预计明年2月中旬恢复增长，并计划在新西兰试水AI网店。"
+        ],
+        "relevance": "这是营销人最常遇到的难题之一：要销量还是要利润？Temple & Webster证明，减少“大促式”打折、守住价格，虽然短期销量下降，但能让生意更健康，投资者也会买账。在澳洲做电商或零售营销时，这个案例可以用来说服老板：促销不是越多越好，品牌价值和利润率同样重要。",
+        "phrase": {
+          "en": "pay off",
+          "zh": "取得成效，得到回报"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Typhoon Champi brings storms to eastern China as Shanghai evacuates about 62,400 people",
+      "title_zh": "台风“蔷琵”影响华东：上海紧急转移约6.24万人，上百航班取消、部分高铁停运",
+      "search_zh": "台风蔷琵 上海 转移 6.24万人 航班取消 高铁 浙江",
+      "summary_en": "Shanghai moved about 62,400 people to safety as Typhoon Champi brought strong winds and heavy rain to China's east coast on Friday and Saturday, according to the state broadcaster CCTV. More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended. The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland. China's weather authority kept a blue typhoon warning, its lowest level, in place, and the weakening storm was expected to move north-east along the coast towards southwestern Japan.",
+      "summary_zh": "据官方媒体央视报道，台风“蔷琵”周五和周六给中国东部沿海带来强风和暴雨，上海紧急转移了约6.24万人。上海及邻近的浙江省有一百多个航班被取消，其中包括东航在上海两大机场的39个国内航班，部分高铁和轮渡服务也被暂停。这场风暴先扫过台湾，造成至少一人死亡、数百人受伤，在靠近大陆时减弱为热带风暴。中国气象部门维持最低级别的台风蓝色预警，减弱后的风暴预计将沿海岸向东北方向移动，前往日本西南部。",
+      "why_zh": "台风是中国沿海城市生活中常见的大事，会影响出行、外卖和门店营业。“suspended（暂停）”“weakened（减弱）”是天气和交通新闻中的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "South China Morning Post; CCTV (via Bastille Post); The Paper; Al Jazeera",
+      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china",
+      "vocab": [
+        {
+          "word": "suspended",
+          "phonetic": "/səˈspendɪd/",
+          "pos": "v.",
+          "zh": "暂停，中止",
+          "example": "More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended."
+        },
+        {
+          "word": "weakened",
+          "phonetic": "/ˈwiːkənd/",
+          "pos": "v.",
+          "zh": "减弱，变弱",
+          "example": "The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland."
+        }
+      ],
+      "explain": {
+        "one_liner": "今年第30号台风“蔷琵”先经过台湾，再贴近上海和浙江沿海，带来大风暴雨，上海提前转移了几万人，很多航班和高铁停了。",
+        "facts": [
+          {
+            "icon": "🌀",
+            "name": "台风“蔷琵” Champi",
+            "text": "今年西北太平洋第30号台风，国际名Champi，中文名“蔷琵”。靠近大陆时已减弱为热带风暴。"
+          },
+          {
+            "icon": "📺",
+            "name": "央视 CCTV",
+            "text": "中国中央广播电视总台，国家级官方媒体，这次的上海转移人数来自它的报道。"
+          },
+          {
+            "icon": "✈️",
+            "name": "东方航空 China Eastern",
+            "text": "总部在上海的中国三大航空公司之一，以上海浦东和虹桥两大机场为主要基地。"
+          },
+          {
+            "icon": "🔵",
+            "name": "蓝色预警",
+            "text": "中国台风预警分蓝、黄、橙、红四级，蓝色是最低一级，表示可能受影响、需要注意防范。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "台风“蔷琵”",
+            "b": "上海居民",
+            "type": "cause",
+            "label": "约6.24万人被提前转移"
+          },
+          {
+            "a": "台风“蔷琵”",
+            "b": "航班和高铁",
+            "type": "bad",
+            "label": "上百航班取消，部分高铁、轮渡暂停"
+          },
+          {
+            "a": "台风“蔷琵”",
+            "b": "台湾",
+            "type": "bad",
+            "label": "至少一人死亡、数百人受伤"
+          },
+          {
+            "a": "风暴强度",
+            "b": "预警级别",
+            "type": "neutral",
+            "label": "减弱后维持最低的蓝色预警"
+          }
+        ],
+        "points": [
+          "台风“蔷琵”周五、周六影响上海和浙江沿海。",
+          "上海转移约6.24万人，上海和浙江一百多个航班取消。",
+          "部分高铁和轮渡暂停，台湾此前已有人员伤亡。",
+          "风暴减弱为热带风暴，预计向东北方向移往日本西南部。"
+        ],
+        "relevance": "极端天气会直接打乱物流、出行和线下活动，比如双11前的快递配送、门店客流和户外推广。在澳洲做营销同样要面对暴雨、山火等天气风险；学会关注天气预警、提前调整投放和活动安排，是营销人做好风险管理的一部分。另外，如果你的家人朋友在江浙沪，也可以留意出行安全。",
+        "phrase": {
+          "en": "move people to safety",
+          "zh": "把人们转移到安全地方"
+        }
+      }
+    }
+  ]
+}

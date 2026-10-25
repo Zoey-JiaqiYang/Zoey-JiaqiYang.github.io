@@ -1,292 +1,292 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T01:56:43+11:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T01:58:10+11:00",
   "items": [
     {
-      "category": "world",
-      "title_en": "Apple's first foldable iPhone goes on sale, starting at A$3,499 in Australia",
-      "title_zh": "苹果首款折叠屏iPhone Duo开卖：澳洲起价3499澳元，悉尼全球首发，货源紧张需排到明年1月",
-      "search_zh": "iPhone Duo 折叠屏 开售 3499澳元 悉尼 首发 供货紧张",
-      "summary_en": "Apple's first foldable phone, the iPhone Duo, went on sale on Friday, with Sydney the first city in the world where customers could buy it in store. The phone starts at US$1,999, or A$3,499 in Australia, which makes it A$1,400 more expensive than the iPhone 18 Pro. Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches. Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year.",
-      "summary_zh": "苹果首款折叠屏手机iPhone Duo于周五正式开售，悉尼是全球第一个可以在门店买到它的城市。这款手机起价1999美元，在澳洲为3499澳元，比iPhone 18 Pro贵1400澳元。货源非常紧张：预购一开放，几分钟内网上订单的送货时间就推迟到了明年1月下旬，门店销售也实行限购，所以首发日的排队人潮比以往iPhone发布时要短。评测者大多称赞屏幕把折痕隐藏得很好，但也有人批评手机重约254克、没有长焦镜头；研究机构IDC预计，按销售额计算，苹果今年将拿下折叠屏手机市场44%的份额。",
-      "why_zh": "苹果进入折叠屏市场是今年科技圈最大的新品之一，也是“饥饿营销”和高端定价的经典案例。“rationed（限量供应）”“criticised（批评）”在商业和产品评测新闻中很常见。",
+      "category": "australia",
+      "title_en": "Rain washes out MotoGP's final race at Phillip Island before the event moves to Adelaide",
+      "title_zh": "大雨搅局：菲利普岛最后一场MotoGP正赛被取消，车手绕场告别，明年赛事移师阿德莱德",
+      "search_zh": "MotoGP 菲利普岛 澳大利亚大奖赛 取消 大雨 阿德莱德 2027",
+      "summary_en": "The final Australian MotoGP race at Phillip Island was cancelled on Sunday because heavy rain and low cloud meant the medical helicopter, which must be available for riders' safety, could not fly. Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped. Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain. The Australian Grand Prix is moving to Adelaide from November 2027 under a six-year deal with the South Australian government, so Marc Marquez's win in Saturday's sprint race will go down as the last MotoGP race held at Phillip Island.",
+      "summary_zh": "周日，在菲利普岛举行的最后一场澳大利亚MotoGP正赛被取消，原因是大雨和低云导致保障车手安全所必需的医疗直升机无法起飞。主办方多次推迟发车时间，最终在下午3点35分左右宣布取消比赛，而此前Moto2和Moto3级别的比赛已经被取消。车手们没有比赛，而是跟在安全车后面绕场一圈告别，并在主直道上停下来，向冒雨等待的车迷致意。澳大利亚大奖赛将根据与南澳州政府签订的六年协议，从2027年11月起移师阿德莱德，因此马克·马奎斯在周六冲刺赛中的胜利，将成为菲利普岛史上最后一场MotoGP比赛。",
+      "why_zh": "一个举办了几十年的经典赛事以“被雨取消”的方式告别，很有话题性；也能看到各州政府如何争夺大型体育赛事。“scrapped（取消、作废）”“farewell（告别）”是新闻里的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "Reuters (via Investing.com); Apple Australia; Forbes Australia; Man of Many; Macworld",
-      "url": "https://www.investing.com/news/stock-market-news/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin-4967289",
+      "source": "ABC News; Motorsport Week; Crash.net; Visordown; Flashscore",
+      "url": "https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532",
       "vocab": [
         {
-          "word": "rationed",
-          "phonetic": "/ˈræʃənd/",
+          "word": "scrapped",
+          "phonetic": "/skræpt/",
           "pos": "v.",
-          "zh": "限量供应，定量配给",
-          "example": "Supply is very tight, since delivery dates for online orders slipped to late January within minutes of pre-orders opening, and sales were rationed, so the launch-day queues were shorter than at past iPhone launches."
+          "zh": "取消，废弃（计划、活动等）",
+          "example": "Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped."
         },
         {
-          "word": "criticised",
-          "phonetic": "/ˈkrɪtɪsaɪzd/",
-          "pos": "v.",
-          "zh": "批评，指出缺点",
-          "example": "Reviewers mostly praised how well the screen hides the fold, but some criticised the phone's weight of about 254 grams and the lack of a telephoto camera, while the research firm IDC expects Apple to take 44% of the foldable market by value this year."
+          "word": "farewell",
+          "phonetic": "/ˌfeəˈwel/",
+          "pos": "adj. / n.",
+          "zh": "告别（的），送别",
+          "example": "Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain."
         }
       ],
       "explain": {
-        "one_liner": "苹果终于推出了可以像书一样打开合上的iPhone，价格很贵、货也很少，想买的人得等好几个月。",
+        "one_liner": "澳洲最著名的摩托车大赛在菲利普岛办了几十年，今年是最后一届，结果正赛却因为大雨被取消，明年起改到阿德莱德举办。",
         "facts": [
           {
-            "icon": "🍎",
-            "name": "苹果 Apple",
-            "text": "美国科技公司，iPhone的制造商。每次新iPhone发布都是全球科技和营销界的大事。"
+            "icon": "🏍️",
+            "name": "MotoGP",
+            "text": "世界顶级的摩托车公路赛事，相当于摩托车界的F1，每年在全球二十多个国家巡回比赛。Moto2和Moto3是它下面的两个较低级别。"
           },
           {
-            "icon": "📱",
-            "name": "iPhone Duo",
-            "text": "苹果第一款折叠屏手机，展开是小平板，合起来是手机。澳洲起价3499澳元（256GB），最高配置5899澳元。"
+            "icon": "🏝️",
+            "name": "菲利普岛 Phillip Island",
+            "text": "维多利亚州墨尔本东南方的海岛，以小企鹅归巢闻名，赛道紧邻海边，风景优美但天气多变。"
           },
           {
-            "icon": "📐",
-            "name": "折叠屏 foldable",
-            "text": "屏幕可以弯折的手机。三星、华为等品牌早已推出多年，苹果是“晚到者”，但被认为可能带动整个品类。"
+            "icon": "🚁",
+            "name": "医疗直升机规定",
+            "text": "比赛必须有医疗直升机随时待命，以便车手受伤时能迅速送医。菲利普岛离大医院较远，救护车太慢，所以直升机飞不了就不能比赛。"
           },
           {
-            "icon": "📊",
-            "name": "IDC",
-            "text": "国际知名的科技市场研究机构，常发布手机、电脑等产品的出货量和市场份额数据。"
+            "icon": "🏁",
+            "name": "冲刺赛 Sprint",
+            "text": "周六举行的半程短距离比赛。本站周六冲刺赛由西班牙名将马克·马奎斯（Marc Marquez）获胜，这也成了菲利普岛最后一场MotoGP比赛。"
           },
           {
-            "icon": "⏳",
-            "name": "限购 rationed sales",
-            "text": "因为货少，苹果限制每人能买的数量并减少门店现货，所以这次排通宵的人比以前少。"
+            "icon": "🏙️",
+            "name": "阿德莱德 Adelaide",
+            "text": "南澳州首府。南澳州政府与MotoGP签了六年协议，从2027年11月起承办澳大利亚大奖赛；维州政府未能谈成续约。"
           }
         ],
         "relations": [
           {
-            "a": "需求旺盛",
-            "b": "供货",
-            "type": "bad",
-            "label": "送货时间推迟到明年1月下旬"
-          },
-          {
-            "a": "限购",
-            "b": "门店排队",
+            "a": "大雨和低云",
+            "b": "医疗直升机",
             "type": "cause",
-            "label": "排队人群比往年短"
+            "label": "能见度太低无法起飞"
           },
           {
-            "a": "苹果",
-            "b": "三星等折叠屏品牌",
-            "type": "neutral",
-            "label": "进入同一市场竞争"
+            "a": "医疗直升机无法起飞",
+            "b": "正赛",
+            "type": "bad",
+            "label": "按安全规定只能取消"
           },
           {
-            "a": "评测",
-            "b": "iPhone Duo",
+            "a": "南澳州政府",
+            "b": "MotoGP",
             "type": "good",
-            "label": "称赞折痕不明显，但嫌重"
+            "label": "签下六年承办协议"
+          },
+          {
+            "a": "维州政府",
+            "b": "MotoGP",
+            "type": "neutral",
+            "label": "未能谈成续约"
           }
         ],
         "points": [
-          "iPhone Duo是苹果第一款折叠屏手机，悉尼全球首发。",
-          "澳洲起价3499澳元，比iPhone 18 Pro贵1400澳元。",
-          "货源紧张，网上订单要等到明年1月下旬。",
-          "IDC预计苹果今年将占折叠屏市场销售额的44%。"
+          "菲利普岛最后一场MotoGP正赛因大雨取消，Moto2和Moto3也被取消。",
+          "关键原因是医疗直升机无法起飞，安全规定不允许比赛。",
+          "车手们以绕场一圈的方式向车迷告别。",
+          "赛事从2027年11月起移师阿德莱德，周六冲刺赛成了这里的“绝唱”。"
         ],
-        "relevance": "苹果新品发布是“稀缺感+高端定价”营销的教科书：限量、排队、等货本身就制造话题。澳洲是全球首发地，本地电信运营商、零售商和配件品牌都会借势做促销和内容；理解这种发布节奏，对策划产品上市活动很有参考价值。",
+        "relevance": "大型体育赛事是各州政府争夺的“城市营销”资源，能带来游客、酒店和餐饮消费，赞助商也会围绕它做大量活动。一场比赛被天气取消，也提醒营销人做户外活动和赞助时要准备好“B计划”和应急沟通方案；明年阿德莱德接手后，南澳的旅游和品牌合作机会值得关注。",
         "phrase": {
-          "en": "go on sale",
-          "zh": "开始发售，正式开卖"
+          "en": "call off",
+          "zh": "取消（已计划的活动）"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Temple & Webster shares jump about 33% as fewer discounts boost its profit margins",
+      "title_zh": "少打折反而更赚钱：澳洲网上家具商Temple & Webster股价单日暴涨约33%",
+      "search_zh": "Temple & Webster 股价 暴涨 减少促销 提价 利润率 年度股东大会",
+      "summary_en": "Shares in Temple & Webster, an Australian online furniture and homewares retailer, jumped about 33% on Friday after the company gave a trading update at its annual general meeting. Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges. That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year. The retailer, now led by new chief executive Susie Sugden, expects sales to return to growth from mid-February and plans an AI-led online store in New Zealand, although its shares are still down sharply for the year.",
+      "summary_zh": "周五，澳洲网上家具和家居用品零售商Temple & Webster在年度股东大会上发布经营近况后，股价大涨约33%。7月1日至10月19日期间，公司收入同比下降8%，但公司表示这是主动选择，因为它减少了折扣力度，并提高了部分产品系列的价格。这一策略正在提升盈利能力：边际贡献金额（即销售收入扣除直接成本后剩下的钱）增长了16%，公司也重申了本财年EBITDA为3300万至4000万澳元的预测。这家由新任首席执行官苏茜·萨格登领导的零售商预计，销售额将从明年2月中旬起恢复增长，还计划在新西兰推出一个由AI主导的网上商店，不过它的股价今年以来仍然大幅下跌。",
+      "why_zh": "这是“少促销、守价格、要利润”的真实商业案例，和营销工作直接相关。“deliberate（故意的、主动的）”“reaffirmed（重申）”在公司财报新闻里非常常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Capital Brief; The Bull; Rask Media; Investing.com; Morningstar/AAP",
+      "url": "https://www.capitalbrief.com/briefing/temple-webster-shares-jump-after-reaffirming-fy27-guidance-59ad1ebe-7377-4432-bb07-8ff27cb0c152/",
+      "vocab": [
+        {
+          "word": "deliberate",
+          "phonetic": "/dɪˈlɪbərət/",
+          "pos": "adj.",
+          "zh": "故意的，有意的，经过深思熟虑的",
+          "example": "Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges."
+        },
+        {
+          "word": "reaffirmed",
+          "phonetic": "/ˌriːəˈfɜːmd/",
+          "pos": "v.",
+          "zh": "重申，再次确认",
+          "example": "That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year."
+        }
+      ],
+      "explain": {
+        "one_liner": "一家澳洲网上家具店故意少打折、小幅涨价，虽然卖得少了，但每单更赚钱，投资者很满意，股价一天涨了三成多。",
+        "facts": [
+          {
+            "icon": "🛋️",
+            "name": "Temple & Webster",
+            "text": "澳洲上市的网上家具和家居用品零售商（股票代码TPW），在网上卖沙发、床、餐桌、装饰品等，没有大型实体门店。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "年度股东大会 AGM",
+            "text": "上市公司每年召开一次的股东会议，公司常在会上公布最新经营情况和全年预测。"
+          },
+          {
+            "icon": "💰",
+            "name": "边际贡献 contribution margin",
+            "text": "卖东西的收入减去直接成本（如商品成本、运费等）后剩下的钱。它增长说明每卖一单更赚钱了。"
+          },
+          {
+            "icon": "📊",
+            "name": "EBITDA",
+            "text": "息税折旧摊销前利润，可以粗略理解为公司日常经营赚到的钱，常用来比较公司盈利能力。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "苏茜·萨格登 Susie Sugden",
+            "text": "Temple & Webster的新任首席执行官（CEO），将负责带领公司重回两位数的收入增长。"
+          },
+          {
+            "icon": "🇳🇿",
+            "name": "AI主导的网店",
+            "text": "公司计划在新西兰推出由AI代理负责商品搜索、推荐和线上陈列（在人工监督下）的网店。这一细节目前主要来自单一媒体报道。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "减少折扣、提价",
+            "b": "收入",
+            "type": "bad",
+            "label": "同比下降8%"
+          },
+          {
+            "a": "减少折扣、提价",
+            "b": "边际贡献",
+            "type": "good",
+            "label": "增长16%"
+          },
+          {
+            "a": "重申全年盈利预测",
+            "b": "股价",
+            "type": "cause",
+            "label": "单日大涨约33%"
+          },
+          {
+            "a": "明年2月中旬",
+            "b": "收入",
+            "type": "neutral",
+            "label": "预计恢复增长"
+          }
+        ],
+        "points": [
+          "Temple & Webster股价周五大涨约33%。",
+          "收入下降8%，因为公司主动减少折扣并提价。",
+          "边际贡献增长16%，全年EBITDA预测3300万至4000万澳元不变。",
+          "预计明年2月中旬恢复增长，并计划在新西兰试水AI网店。"
+        ],
+        "relevance": "这是营销人最常遇到的难题之一：要销量还是要利润？Temple & Webster证明，减少“大促式”打折、守住价格，虽然短期销量下降，但能让生意更健康，投资者也会买账。在澳洲做电商或零售营销时，这个案例可以用来说服老板：促销不是越多越好，品牌价值和利润率同样重要。",
+        "phrase": {
+          "en": "pay off",
+          "zh": "取得成效，得到回报"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "'China Haul' videos go viral as foreign tourists shop for drones, phones and Pop Mart toys",
-      "title_zh": "“China Haul（中国购物分享）”在海外走红：外国游客来华狂买无人机、折叠屏手机和泡泡玛特",
-      "search_zh": "China Haul 外国游客 中国购物 离境退税 泡泡玛特 商务部",
-      "summary_en": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country. In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys. The trend has been supported by easier tax refunds for departing tourists, as the minimum purchase was lowered to 200 yuan and instant \"refund upon purchase\" was expanded nationwide, helping tax refund sales jump about 60% from January to August. Visa-free policies have also played a part, with visa-free entries into China rising 24.1% year on year in the third quarter to nearly 9 million.",
-      "summary_zh": "商务部本周表示，购物已成为外国人来华旅游的主要原因之一，海外社交媒体上的“China Haul（中国购物分享）”热潮，反映出在中国购物的吸引力越来越大。在这些走红的视频里，游客们展示自己买到的东西，热门商品已经从传统的茶叶和丝绸，扩展到无人机、运动相机、折叠屏手机、美妆产品和泡泡玛特玩具。这股热潮得益于离境退税变得更方便：最低退税购物金额降到200元，“即买即退”也推广到了全国，帮助1至8月的退税商品销售额增长约60%。免签政策也起了作用，第三季度免签入境中国的人次同比增长24.1%，接近900万。",
-      "why_zh": "“haul”是社交媒体上很常见的内容形式（晒购物战利品），这个趋势和中国品牌出海、入境游都有关。“viral（走红的）”“appeal（吸引力）”是营销人必会的词。",
+      "title_en": "Typhoon Champi brings storms to eastern China as Shanghai evacuates about 62,400 people",
+      "title_zh": "台风“蔷琵”影响华东：上海紧急转移约6.24万人，上百航班取消、部分高铁停运",
+      "search_zh": "台风蔷琵 上海 转移 6.24万人 航班取消 高铁 浙江",
+      "summary_en": "Shanghai moved about 62,400 people to safety as Typhoon Champi brought strong winds and heavy rain to China's east coast on Friday and Saturday, according to the state broadcaster CCTV. More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended. The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland. China's weather authority kept a blue typhoon warning, its lowest level, in place, and the weakening storm was expected to move north-east along the coast towards southwestern Japan.",
+      "summary_zh": "据官方媒体央视报道，台风“蔷琵”周五和周六给中国东部沿海带来强风和暴雨，上海紧急转移了约6.24万人。上海及邻近的浙江省有一百多个航班被取消，其中包括东航在上海两大机场的39个国内航班，部分高铁和轮渡服务也被暂停。这场风暴先扫过台湾，造成至少一人死亡、数百人受伤，在靠近大陆时减弱为热带风暴。中国气象部门维持最低级别的台风蓝色预警，减弱后的风暴预计将沿海岸向东北方向移动，前往日本西南部。",
+      "why_zh": "台风是中国沿海城市生活中常见的大事，会影响出行、外卖和门店营业。“suspended（暂停）”“weakened（减弱）”是天气和交通新闻中的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "Xinhua (via China Economic Net, Beijing Review, Guangming Online, China.org.cn)",
-      "url": "http://en.ce.cn/main/latest/202610/t20261023_3268917.shtml",
+      "source": "South China Morning Post; CCTV (via Bastille Post); The Paper; Al Jazeera",
+      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china",
       "vocab": [
         {
-          "word": "appeal",
-          "phonetic": "/əˈpiːl/",
-          "pos": "n.",
-          "zh": "吸引力，魅力",
-          "example": "Shopping has become one of the main reasons foreigners visit China, according to the Ministry of Commerce, which said this week that the \"China Haul\" trend on overseas social media reflects the growing appeal of shopping in the country."
+          "word": "suspended",
+          "phonetic": "/səˈspendɪd/",
+          "pos": "v.",
+          "zh": "暂停，中止",
+          "example": "More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended."
         },
         {
-          "word": "viral",
-          "phonetic": "/ˈvaɪrəl/",
-          "pos": "adj.",
-          "zh": "（在网上）疯传的，爆红的",
-          "example": "In these viral videos, visitors show off what they bought, and popular items now go beyond traditional tea and silk to include drones, action cameras, foldable phones, beauty products and Pop Mart toys."
+          "word": "weakened",
+          "phonetic": "/ˈwiːkənd/",
+          "pos": "v.",
+          "zh": "减弱，变弱",
+          "example": "The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland."
         }
       ],
       "explain": {
-        "one_liner": "越来越多外国游客专门来中国“扫货”，回国后拍视频晒战利品，在海外社交平台火了，中国政府也乐见其成。",
+        "one_liner": "今年第30号台风“蔷琵”先经过台湾，再贴近上海和浙江沿海，带来大风暴雨，上海提前转移了几万人，很多航班和高铁停了。",
         "facts": [
           {
-            "icon": "🛍️",
-            "name": "Haul 视频",
-            "text": "社交媒体上的一种内容形式：博主展示自己一次买回来的一大堆东西，相当于中文的“晒单”“开箱”“战利品分享”。"
+            "icon": "🌀",
+            "name": "台风“蔷琵” Champi",
+            "text": "今年西北太平洋第30号台风，国际名Champi，中文名“蔷琵”。靠近大陆时已减弱为热带风暴。"
           },
           {
-            "icon": "🏛️",
-            "name": "商务部 Ministry of Commerce",
-            "text": "中国负责国内消费和对外贸易的政府部门，这次在10月22日的新闻发布会上谈到了这个趋势。"
+            "icon": "📺",
+            "name": "央视 CCTV",
+            "text": "中国中央广播电视总台，国家级官方媒体，这次的上海转移人数来自它的报道。"
           },
           {
-            "icon": "🧸",
-            "name": "泡泡玛特 Pop Mart",
-            "text": "中国潮流玩具公司，以盲盒和Labubu等IP形象在全球走红，也是外国游客热门的“必买”品牌。"
+            "icon": "✈️",
+            "name": "东方航空 China Eastern",
+            "text": "总部在上海的中国三大航空公司之一，以上海浦东和虹桥两大机场为主要基地。"
           },
           {
-            "icon": "💴",
-            "name": "离境退税 tax refund",
-            "text": "外国游客在指定商店买东西后，离开中国时可以退回部分税款；“即买即退”指在店里结账时就能先拿到退税。"
-          },
-          {
-            "icon": "🛂",
-            "name": "免签 visa-free",
-            "text": "中国对许多国家的游客实行免签或过境免签政策（包括澳洲护照），去中国旅游更方便。"
+            "icon": "🔵",
+            "name": "蓝色预警",
+            "text": "中国台风预警分蓝、黄、橙、红四级，蓝色是最低一级，表示可能受影响、需要注意防范。"
           }
         ],
         "relations": [
           {
-            "a": "退税和免签政策",
-            "b": "外国游客购物",
+            "a": "台风“蔷琵”",
+            "b": "上海居民",
             "type": "cause",
-            "label": "让来华购物更方便"
+            "label": "约6.24万人被提前转移"
           },
           {
-            "a": "China Haul视频",
-            "b": "中国品牌",
-            "type": "good",
-            "label": "免费的海外口碑宣传"
+            "a": "台风“蔷琵”",
+            "b": "航班和高铁",
+            "type": "bad",
+            "label": "上百航班取消，部分高铁、轮渡暂停"
           },
           {
-            "a": "游客",
-            "b": "购物清单",
+            "a": "台风“蔷琵”",
+            "b": "台湾",
+            "type": "bad",
+            "label": "至少一人死亡、数百人受伤"
+          },
+          {
+            "a": "风暴强度",
+            "b": "预警级别",
             "type": "neutral",
-            "label": "从茶叶丝绸转向科技和潮玩"
-          },
-          {
-            "a": "商务部",
-            "b": "退税服务",
-            "type": "good",
-            "label": "计划扩大覆盖、改善支付"
+            "label": "减弱后维持最低的蓝色预警"
           }
         ],
         "points": [
-          "购物已成为外国人来华旅游的主要原因之一。",
-          "热门商品从茶叶、丝绸变成无人机、手机、美妆和泡泡玛特。",
-          "退税门槛降到200元，1至8月退税商品销售额增长约60%。",
-          "第三季度免签入境人次同比增长24.1%，接近900万。"
+          "台风“蔷琵”周五、周六影响上海和浙江沿海。",
+          "上海转移约6.24万人，上海和浙江一百多个航班取消。",
+          "部分高铁和轮渡暂停，台湾此前已有人员伤亡。",
+          "风暴减弱为热带风暴，预计向东北方向移往日本西南部。"
         ],
-        "relevance": "这是用户自发内容（UGC）改变国家形象和品牌认知的典型例子：一个个普通游客的视频，比广告更能说服人。在澳洲做营销，你会看到越来越多中国品牌（大疆、泡泡玛特、名创优品等）靠口碑出海；同时，懂中文和中国消费文化的营销人，在入境游、零售和品牌出海项目中会更有优势。",
+        "relevance": "极端天气会直接打乱物流、出行和线下活动，比如双11前的快递配送、门店客流和户外推广。在澳洲做营销同样要面对暴雨、山火等天气风险；学会关注天气预警、提前调整投放和活动安排，是营销人做好风险管理的一部分。另外，如果你的家人朋友在江浙沪，也可以留意出行安全。",
         "phrase": {
-          "en": "show off",
-          "zh": "炫耀，展示（自己的东西）"
-        }
-      }
-    },
-    {
-      "category": "australia",
-      "title_en": "West Australian horse Cosmic Crusader wins the first Cox Plate held at Flemington",
-      "title_zh": "考克斯盘大赛首次移师弗莱明顿：西澳赛马Cosmic Crusader后来居上夺得600万澳元大奖",
-      "search_zh": "考克斯盘 Cox Plate 2026 Cosmic Crusader 弗莱明顿 冠军",
-      "summary_en": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley. The race was moved because Moonee Valley racecourse is being rebuilt, and a crowd of 34,617 watched the West Australian horse come from behind to beat Birdman by three-quarters of a length, with the favourite Aeliana third. It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier. He became the first horse from Western Australia to win the Cox Plate since Northerly won it in 2001 and 2002, and it was the first Cox Plate win for both trainer Andrea Leek and jockey William Pike.",
-      "summary_zh": "周六，Cosmic Crusader赢得了奖金600万澳元的考克斯盘大赛（Cox Plate），这是这项澳洲著名的定磅赛首次不在传统主场穆尼谷（Moonee Valley），而是在弗莱明顿（Flemington）举行。比赛换场是因为穆尼谷赛马场正在重建，34617名观众现场见证这匹来自西澳的赛马从后方追上，以四分之三个马身的优势击败Birdman，热门马Aeliana获得第三。这是一次了不起的“逆袭”，因为就在一周前，Cosmic Crusader作为热门马在考菲尔德杯（Caulfield Cup）中只拿到第四。它成为继Northerly在2001年和2002年夺冠之后，第一匹赢得考克斯盘的西澳赛马，这也是练马师安德里亚·利克和骑师威廉·派克第一次赢得考克斯盘。",
-      "why_zh": "墨尔本春季赛马嘉年华是澳洲最重要的社交和品牌营销季之一。“remarkable（了不起的）”“comeback（逆袭、东山再起）”在体育新闻中非常常用。",
-      "image": "",
-      "image_credit": "",
-      "source": "AAP; codesports.com.au; Racing News NZ; SportsNews.com.au",
-      "url": "https://aapnews.aap.com.au/news/cosmic-crusader-wins-6-million-cox-plate",
-      "vocab": [
-        {
-          "word": "remarkable",
-          "phonetic": "/rɪˈmɑːkəbl/",
-          "pos": "adj.",
-          "zh": "了不起的，非同寻常的",
-          "example": "It was a remarkable comeback, because Cosmic Crusader had finished only fourth as the favourite in the Caulfield Cup just a week earlier."
-        },
-        {
-          "word": "traditional",
-          "phonetic": "/trəˈdɪʃənl/",
-          "pos": "adj.",
-          "zh": "传统的",
-          "example": "Cosmic Crusader won the A$6 million Cox Plate on Saturday, in the first running of Australia's famous weight-for-age race at Flemington instead of its traditional home, Moonee Valley."
-        }
-      ],
-      "explain": {
-        "one_liner": "澳洲最有分量的赛马比赛之一今年第一次换了场地，冠军是一匹一周前还“失手”的西澳马，上演了漂亮的逆袭。",
-        "facts": [
-          {
-            "icon": "🏆",
-            "name": "考克斯盘 Cox Plate",
-            "text": "澳洲最重要的赛马比赛之一，被称为“澳洲赛马的冠军赛”，距离约2040米，奖金600万澳元，是墨尔本春季赛马嘉年华的重头戏。"
-          },
-          {
-            "icon": "⚖️",
-            "name": "定磅赛 weight-for-age",
-            "text": "按马的年龄和性别规定负重，而不是按实力“让重量”，所以被认为最能比出真正的最强马。"
-          },
-          {
-            "icon": "🏟️",
-            "name": "弗莱明顿 / 穆尼谷",
-            "text": "都是墨尔本的赛马场。考克斯盘一直在穆尼谷举行，今年因穆尼谷重建改到弗莱明顿（墨尔本杯的举办地）。"
-          },
-          {
-            "icon": "🐎",
-            "name": "考菲尔德杯 Caulfield Cup",
-            "text": "墨尔本春季的另一项大赛，在考克斯盘前一周举行。Cosmic Crusader当时是热门，却只得第四。"
-          },
-          {
-            "icon": "👩",
-            "name": "安德里亚·利克 Andrea Leek",
-            "text": "Cosmic Crusader的西澳练马师（负责训练马匹的人），这是她第一次赢得考克斯盘。骑师是William Pike。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "穆尼谷重建",
-            "b": "考克斯盘",
-            "type": "cause",
-            "label": "首次移师弗莱明顿"
-          },
-          {
-            "a": "Cosmic Crusader",
-            "b": "Birdman",
-            "type": "neutral",
-            "label": "以四分之三马身胜出"
-          },
-          {
-            "a": "考菲尔德杯失利",
-            "b": "考克斯盘夺冠",
-            "type": "good",
-            "label": "一周内完成逆袭"
-          },
-          {
-            "a": "Cosmic Crusader",
-            "b": "Northerly",
-            "type": "neutral",
-            "label": "同为西澳马，相隔二十多年再夺冠"
-          }
-        ],
-        "points": [
-          "Cosmic Crusader赢得600万澳元的考克斯盘。",
-          "比赛因穆尼谷重建首次在弗莱明顿举行，现场观众34617人。",
-          "一周前它在考菲尔德杯只得第四，这次后来居上夺冠。",
-          "它是自Northerly（2001、2002年）后首匹夺冠的西澳马。"
-        ],
-        "relevance": "墨尔本春季赛马嘉年华（考克斯盘、墨尔本杯等）是澳洲时尚、酒类、汽车和博彩品牌的投放高峰，也是企业招待客户的重要场合。了解赛马季的赛程和话题，能帮你在10–11月策划更贴近本地文化的内容和活动，下一个大日子就是11月第一个星期二的墨尔本杯。",
-        "phrase": {
-          "en": "come from behind",
-          "zh": "后来居上，从落后中反超"
+          "en": "move people to safety",
+          "zh": "把人们转移到安全地方"
         }
       }
     }
