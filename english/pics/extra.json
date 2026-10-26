@@ -1752,5 +1752,200 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "sports",
+    "added": "2026-10-27",
+    "name": "运动与比赛",
+    "icon": "🏆",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "⚽",
+        "w": "soccer",
+        "ph": "/ˈsɒkə(r)/",
+        "pos": "n.",
+        "zh": "足球",
+        "ex": "My son plays soccer every Saturday morning.",
+        "tip": "澳洲人说 football/footy 多指橄榄球，足球一般叫 soccer",
+        "accept": [
+          "soccer",
+          "football"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏆",
+        "w": "grand final",
+        "ph": "/ˌɡrænd ˈfaɪnl/",
+        "pos": "n.",
+        "zh": "总决赛（澳洲说法）",
+        "ex": "The whole office takes the day off for the grand final.",
+        "tip": "澳洲联赛的决赛叫 grand final，AFL 总决赛前一天维州放公假",
+        "accept": [
+          "grand final",
+          "final",
+          "finals"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏇",
+        "w": "the races",
+        "ph": "/ðə ˈreɪsɪz/",
+        "pos": "n.",
+        "zh": "赛马（活动）",
+        "ex": "We're going to the races for the Melbourne Cup.",
+        "tip": "Melbourne Cup = 「让全国停下来的比赛」，维州放假",
+        "accept": [
+          "the races",
+          "horse racing",
+          "races",
+          "melbourne cup"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏋️",
+        "w": "hit the gym",
+        "ph": "/hɪt ðə dʒɪm/",
+        "pos": "phr.",
+        "zh": "去健身房",
+        "ex": "I try to hit the gym three times a week.",
+        "tip": "lift weights = 举铁",
+        "accept": [
+          "hit the gym",
+          "go to the gym",
+          "gym",
+          "lift weights",
+          "weightlifting"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏃",
+        "w": "go for a run",
+        "ph": "/ɡəʊ fər ə rʌn/",
+        "pos": "phr.",
+        "zh": "去跑步",
+        "ex": "I'll go for a run before it gets too hot.",
+        "tip": "",
+        "accept": [
+          "go for a run",
+          "run",
+          "jog",
+          "go jogging",
+          "running"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚴",
+        "w": "go for a ride",
+        "ph": "/ɡəʊ fər ə raɪd/",
+        "pos": "phr.",
+        "zh": "去骑车",
+        "ex": "We went for a ride along the bay trail.",
+        "tip": "澳洲人说骑车常用 ride；cycling 也行",
+        "accept": [
+          "go for a ride",
+          "cycling",
+          "ride",
+          "bike ride",
+          "cycle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⛳",
+        "w": "hole in one",
+        "ph": "/ˌhəʊl ɪn ˈwʌn/",
+        "pos": "n.",
+        "zh": "（高尔夫）一杆进洞",
+        "ex": "He got a hole in one at the company golf day!",
+        "tip": "",
+        "accept": [
+          "hole in one",
+          "golf"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏓",
+        "w": "table tennis",
+        "ph": "/ˈteɪbl ˌtenɪs/",
+        "pos": "n.",
+        "zh": "乒乓球",
+        "ex": "There's a table tennis table in the office break room.",
+        "tip": "口语也说 ping pong",
+        "accept": [
+          "table tennis",
+          "ping pong",
+          "ping-pong"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥊",
+        "w": "boxing",
+        "ph": "/ˈbɒksɪŋ/",
+        "pos": "n.",
+        "zh": "拳击",
+        "ex": "She does a boxing class before work.",
+        "tip": "Boxing Day（12 月 26 日）跟拳击无关",
+        "accept": [
+          "boxing",
+          "box",
+          "boxing gloves"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎳",
+        "w": "tenpin bowling",
+        "ph": "/ˌtenpɪn ˈbəʊlɪŋ/",
+        "pos": "n.",
+        "zh": "保龄球",
+        "ex": "Let's do tenpin bowling for the team outing.",
+        "tip": "澳洲说 tenpin bowling；lawn bowls 是草地滚球",
+        "accept": [
+          "tenpin bowling",
+          "bowling",
+          "ten-pin bowling",
+          "ten pin bowling"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧗",
+        "w": "bouldering",
+        "ph": "/ˈbəʊldərɪŋ/",
+        "pos": "n.",
+        "zh": "抱石（攀岩的一种）",
+        "ex": "Bouldering gyms are popping up everywhere in Sydney.",
+        "tip": "不用绳子的矮墙攀岩；rock climbing 是攀岩",
+        "accept": [
+          "bouldering",
+          "rock climbing",
+          "climbing"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥇",
+        "w": "gold medal",
+        "ph": "/ˌɡəʊld ˈmedl/",
+        "pos": "n.",
+        "zh": "金牌",
+        "ex": "She won a gold medal in the pool at the Olympics.",
+        "tip": "银牌 silver，铜牌 bronze；口语 take gold = 夺冠",
+        "accept": [
+          "gold medal",
+          "gold",
+          "first place"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
