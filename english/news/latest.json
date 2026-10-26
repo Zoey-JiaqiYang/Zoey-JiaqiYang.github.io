@@ -1,294 +1,232 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T01:58:10+11:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:57:24+11:00",
   "items": [
     {
-      "category": "australia",
-      "title_en": "Rain washes out MotoGP's final race at Phillip Island before the event moves to Adelaide",
-      "title_zh": "大雨搅局：菲利普岛最后一场MotoGP正赛被取消，车手绕场告别，明年赛事移师阿德莱德",
-      "search_zh": "MotoGP 菲利普岛 澳大利亚大奖赛 取消 大雨 阿德莱德 2027",
-      "summary_en": "The final Australian MotoGP race at Phillip Island was cancelled on Sunday because heavy rain and low cloud meant the medical helicopter, which must be available for riders' safety, could not fly. Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped. Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain. The Australian Grand Prix is moving to Adelaide from November 2027 under a six-year deal with the South Australian government, so Marc Marquez's win in Saturday's sprint race will go down as the last MotoGP race held at Phillip Island.",
-      "summary_zh": "周日，在菲利普岛举行的最后一场澳大利亚MotoGP正赛被取消，原因是大雨和低云导致保障车手安全所必需的医疗直升机无法起飞。主办方多次推迟发车时间，最终在下午3点35分左右宣布取消比赛，而此前Moto2和Moto3级别的比赛已经被取消。车手们没有比赛，而是跟在安全车后面绕场一圈告别，并在主直道上停下来，向冒雨等待的车迷致意。澳大利亚大奖赛将根据与南澳州政府签订的六年协议，从2027年11月起移师阿德莱德，因此马克·马奎斯在周六冲刺赛中的胜利，将成为菲利普岛史上最后一场MotoGP比赛。",
-      "why_zh": "一个举办了几十年的经典赛事以“被雨取消”的方式告别，很有话题性；也能看到各州政府如何争夺大型体育赛事。“scrapped（取消、作废）”“farewell（告别）”是新闻里的高频词。",
-      "image": "",
-      "image_credit": "",
-      "source": "ABC News; Motorsport Week; Crash.net; Visordown; Flashscore",
-      "url": "https://www.abc.net.au/news/2026-10-25/motogp-canceled-due-to-weather/107156532",
-      "vocab": [
-        {
-          "word": "scrapped",
-          "phonetic": "/skræpt/",
-          "pos": "v.",
-          "zh": "取消，废弃（计划、活动等）",
-          "example": "Organisers delayed the start several times before calling off the race at about 3:35pm, after the Moto2 and Moto3 races had already been scrapped."
-        },
-        {
-          "word": "farewell",
-          "phonetic": "/ˌfeəˈwel/",
-          "pos": "adj. / n.",
-          "zh": "告别（的），送别",
-          "example": "Instead of racing, the riders did a farewell lap behind the safety car and stopped on the main straight to greet the fans who had waited in the rain."
-        }
-      ],
-      "explain": {
-        "one_liner": "澳洲最著名的摩托车大赛在菲利普岛办了几十年，今年是最后一届，结果正赛却因为大雨被取消，明年起改到阿德莱德举办。",
-        "facts": [
-          {
-            "icon": "🏍️",
-            "name": "MotoGP",
-            "text": "世界顶级的摩托车公路赛事，相当于摩托车界的F1，每年在全球二十多个国家巡回比赛。Moto2和Moto3是它下面的两个较低级别。"
-          },
-          {
-            "icon": "🏝️",
-            "name": "菲利普岛 Phillip Island",
-            "text": "维多利亚州墨尔本东南方的海岛，以小企鹅归巢闻名，赛道紧邻海边，风景优美但天气多变。"
-          },
-          {
-            "icon": "🚁",
-            "name": "医疗直升机规定",
-            "text": "比赛必须有医疗直升机随时待命，以便车手受伤时能迅速送医。菲利普岛离大医院较远，救护车太慢，所以直升机飞不了就不能比赛。"
-          },
-          {
-            "icon": "🏁",
-            "name": "冲刺赛 Sprint",
-            "text": "周六举行的半程短距离比赛。本站周六冲刺赛由西班牙名将马克·马奎斯（Marc Marquez）获胜，这也成了菲利普岛最后一场MotoGP比赛。"
-          },
-          {
-            "icon": "🏙️",
-            "name": "阿德莱德 Adelaide",
-            "text": "南澳州首府。南澳州政府与MotoGP签了六年协议，从2027年11月起承办澳大利亚大奖赛；维州政府未能谈成续约。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "大雨和低云",
-            "b": "医疗直升机",
-            "type": "cause",
-            "label": "能见度太低无法起飞"
-          },
-          {
-            "a": "医疗直升机无法起飞",
-            "b": "正赛",
-            "type": "bad",
-            "label": "按安全规定只能取消"
-          },
-          {
-            "a": "南澳州政府",
-            "b": "MotoGP",
-            "type": "good",
-            "label": "签下六年承办协议"
-          },
-          {
-            "a": "维州政府",
-            "b": "MotoGP",
-            "type": "neutral",
-            "label": "未能谈成续约"
-          }
-        ],
-        "points": [
-          "菲利普岛最后一场MotoGP正赛因大雨取消，Moto2和Moto3也被取消。",
-          "关键原因是医疗直升机无法起飞，安全规定不允许比赛。",
-          "车手们以绕场一圈的方式向车迷告别。",
-          "赛事从2027年11月起移师阿德莱德，周六冲刺赛成了这里的“绝唱”。"
-        ],
-        "relevance": "大型体育赛事是各州政府争夺的“城市营销”资源，能带来游客、酒店和餐饮消费，赞助商也会围绕它做大量活动。一场比赛被天气取消，也提醒营销人做户外活动和赞助时要准备好“B计划”和应急沟通方案；明年阿德莱德接手后，南澳的旅游和品牌合作机会值得关注。",
-        "phrase": {
-          "en": "call off",
-          "zh": "取消（已计划的活动）"
-        }
-      }
-    },
-    {
       "category": "markets",
-      "title_en": "Temple & Webster shares jump about 33% as fewer discounts boost its profit margins",
-      "title_zh": "少打折反而更赚钱：澳洲网上家具商Temple & Webster股价单日暴涨约33%",
-      "search_zh": "Temple & Webster 股价 暴涨 减少促销 提价 利润率 年度股东大会",
-      "summary_en": "Shares in Temple & Webster, an Australian online furniture and homewares retailer, jumped about 33% on Friday after the company gave a trading update at its annual general meeting. Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges. That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year. The retailer, now led by new chief executive Susie Sugden, expects sales to return to growth from mid-February and plans an AI-led online store in New Zealand, although its shares are still down sharply for the year.",
-      "summary_zh": "周五，澳洲网上家具和家居用品零售商Temple & Webster在年度股东大会上发布经营近况后，股价大涨约33%。7月1日至10月19日期间，公司收入同比下降8%，但公司表示这是主动选择，因为它减少了折扣力度，并提高了部分产品系列的价格。这一策略正在提升盈利能力：边际贡献金额（即销售收入扣除直接成本后剩下的钱）增长了16%，公司也重申了本财年EBITDA为3300万至4000万澳元的预测。这家由新任首席执行官苏茜·萨格登领导的零售商预计，销售额将从明年2月中旬起恢复增长，还计划在新西兰推出一个由AI主导的网上商店，不过它的股价今年以来仍然大幅下跌。",
-      "why_zh": "这是“少促销、守价格、要利润”的真实商业案例，和营销工作直接相关。“deliberate（故意的、主动的）”“reaffirmed（重申）”在公司财报新闻里非常常见。",
+      "title_en": "Claude maker Anthropic files publicly for a Nasdaq IPO, revealing US$16.3 billion in half-year revenue",
+      "title_zh": "Claude母公司Anthropic公开递交上市文件：半年收入163亿美元，计划以代码“ANT”登陆纳斯达克",
+      "search_zh": "Anthropic 上市 IPO S-1 纳斯达克 ANT 收入163亿美元",
+      "summary_en": "Anthropic, the US company behind the AI assistant Claude, made its stock market listing documents public on Monday, setting up one of the most anticipated share sales in the tech world. The filing shows revenue of about US$16.3 billion in the first half of 2026, up from roughly US$1.2 billion a year earlier, with most of it coming from customers who pay based on how much they use its AI models. However, it also reported a huge net loss of US$80.7 billion, although most of that came from a US$72.4 billion accounting charge linked to the company's rising value, while its operating loss was US$693 million. The company plans to list on the Nasdaq under the ticker \"ANT\", but the share price and valuation have not been set yet, and trading is widely expected to begin in mid-November.",
+      "summary_zh": "周一，开发AI助手Claude的美国公司Anthropic公开了上市申请文件，这将成为科技界最受期待的股票发行之一。文件显示，公司2026年上半年收入约163亿美元，而去年同期只有约12亿美元，其中大部分收入来自按使用量付费使用其AI模型的客户。不过，公司同时报告了高达807亿美元的净亏损，但其中大部分来自一笔与公司估值上升有关的724亿美元会计费用，经营亏损为6.93亿美元。公司计划在纳斯达克上市，股票代码为“ANT”，但股价和估值尚未确定，外界普遍预计将在11月中旬开始交易。",
+      "why_zh": "AI公司上市是今年全球最受关注的商业新闻之一，营销工作也越来越离不开AI工具。“anticipated（备受期待的）”“ticker（股票代码）”是财经新闻常用词。",
       "image": "",
       "image_credit": "",
-      "source": "Capital Brief; The Bull; Rask Media; Investing.com; Morningstar/AAP",
-      "url": "https://www.capitalbrief.com/briefing/temple-webster-shares-jump-after-reaffirming-fy27-guidance-59ad1ebe-7377-4432-bb07-8ff27cb0c152/",
+      "source": "Fortune; Bloomberg; CNBC; NBC News; SEC (Anthropic S-1)",
+      "url": "https://fortune.com/2026/10/26/anthropics-s-1/",
       "vocab": [
         {
-          "word": "deliberate",
-          "phonetic": "/dɪˈlɪbərət/",
+          "word": "anticipated",
+          "phonetic": "/ænˈtɪsɪpeɪtɪd/",
           "pos": "adj.",
-          "zh": "故意的，有意的，经过深思熟虑的",
-          "example": "Revenue fell 8% from a year earlier between 1 July and 19 October, but the company said this was a deliberate choice, because it had cut back on discounts and raised prices on some product ranges."
+          "zh": "备受期待的，预期中的",
+          "example": "Anthropic, the US company behind the AI assistant Claude, made its stock market listing documents public on Monday, setting up one of the most anticipated share sales in the tech world."
         },
         {
-          "word": "reaffirmed",
-          "phonetic": "/ˌriːəˈfɜːmd/",
-          "pos": "v.",
-          "zh": "重申，再次确认",
-          "example": "That strategy is paying off in profitability, as contribution margin dollars, the money left from sales after direct costs, rose 16%, and the company reaffirmed its forecast of A$33 million to A$40 million in EBITDA for this financial year."
+          "word": "ticker",
+          "phonetic": "/ˈtɪkə(r)/",
+          "pos": "n.",
+          "zh": "股票代码（ticker symbol）",
+          "example": "The company plans to list on the Nasdaq under the ticker \"ANT\", but the share price and valuation have not been set yet, and trading is widely expected to begin in mid-November."
         }
       ],
       "explain": {
-        "one_liner": "一家澳洲网上家具店故意少打折、小幅涨价，虽然卖得少了，但每单更赚钱，投资者很满意，股价一天涨了三成多。",
+        "one_liner": "做Claude的AI公司Anthropic正式公开了上市“说明书”，第一次让外界看到它赚多少、亏多少，准备11月中旬在美国纳斯达克挂牌。",
         "facts": [
           {
-            "icon": "🛋️",
-            "name": "Temple & Webster",
-            "text": "澳洲上市的网上家具和家居用品零售商（股票代码TPW），在网上卖沙发、床、餐桌、装饰品等，没有大型实体门店。"
+            "icon": "🤖",
+            "name": "Anthropic",
+            "text": "美国人工智能公司，总部在旧金山，开发了AI助手Claude，和OpenAI（ChatGPT的开发者）是主要竞争对手。"
+          },
+          {
+            "icon": "📄",
+            "name": "S-1文件",
+            "text": "公司在美国申请上市时，必须向美国证券交易委员会（SEC）提交的招股说明书，里面要公开收入、亏损、风险等财务信息。"
+          },
+          {
+            "icon": "🔔",
+            "name": "IPO 首次公开募股",
+            "text": "公司第一次把股票卖给公众投资者并在交易所挂牌，之后普通人也能买卖它的股票。"
           },
           {
             "icon": "🏛️",
-            "name": "年度股东大会 AGM",
-            "text": "上市公司每年召开一次的股东会议，公司常在会上公布最新经营情况和全年预测。"
+            "name": "纳斯达克 Nasdaq",
+            "text": "美国主要的股票交易所之一，苹果、微软、英伟达等很多科技公司都在这里上市。"
           },
           {
-            "icon": "💰",
-            "name": "边际贡献 contribution margin",
-            "text": "卖东西的收入减去直接成本（如商品成本、运费等）后剩下的钱。它增长说明每卖一单更赚钱了。"
+            "icon": "🧾",
+            "name": "会计费用 vs 经营亏损",
+            "text": "这次巨额净亏损主要是一笔“账面”费用：公司估值上涨后，早年发行的可转换债券等金融工具按规定要重新估值并记为费用，并不是真的花掉了这么多现金。经营亏损（日常业务的亏损）只有6.93亿美元。"
           },
           {
-            "icon": "📊",
-            "name": "EBITDA",
-            "text": "息税折旧摊销前利润，可以粗略理解为公司日常经营赚到的钱，常用来比较公司盈利能力。"
-          },
-          {
-            "icon": "👩‍💼",
-            "name": "苏茜·萨格登 Susie Sugden",
-            "text": "Temple & Webster的新任首席执行官（CEO），将负责带领公司重回两位数的收入增长。"
-          },
-          {
-            "icon": "🇳🇿",
-            "name": "AI主导的网店",
-            "text": "公司计划在新西兰推出由AI代理负责商品搜索、推荐和线上陈列（在人工监督下）的网店。这一细节目前主要来自单一媒体报道。"
+            "icon": "💲",
+            "name": "估值 valuation",
+            "text": "市场认为一家公司整体值多少钱。这次上市的股价和估值要在和投资者路演之后才会确定。"
           }
         ],
         "relations": [
           {
-            "a": "减少折扣、提价",
-            "b": "收入",
-            "type": "bad",
-            "label": "同比下降8%"
-          },
-          {
-            "a": "减少折扣、提价",
-            "b": "边际贡献",
+            "a": "企业客户",
+            "b": "Anthropic",
             "type": "good",
-            "label": "增长16%"
+            "label": "按使用量付费，推动收入猛增"
           },
           {
-            "a": "重申全年盈利预测",
-            "b": "股价",
+            "a": "公司估值上升",
+            "b": "净亏损",
             "type": "cause",
-            "label": "单日大涨约33%"
+            "label": "带来724亿美元账面费用"
           },
           {
-            "a": "明年2月中旬",
-            "b": "收入",
+            "a": "Anthropic",
+            "b": "纳斯达克",
             "type": "neutral",
-            "label": "预计恢复增长"
+            "label": "计划以“ANT”代码上市"
+          },
+          {
+            "a": "Anthropic",
+            "b": "OpenAI",
+            "type": "bad",
+            "label": "AI领域的主要竞争对手"
           }
         ],
         "points": [
-          "Temple & Webster股价周五大涨约33%。",
-          "收入下降8%，因为公司主动减少折扣并提价。",
-          "边际贡献增长16%，全年EBITDA预测3300万至4000万澳元不变。",
-          "预计明年2月中旬恢复增长，并计划在新西兰试水AI网店。"
+          "Anthropic公开了上市文件S-1，计划在纳斯达克上市，代码“ANT”。",
+          "2026年上半年收入约163亿美元，比去年同期的约12亿美元暴涨。",
+          "807亿美元净亏损大部分是账面会计费用，经营亏损只有6.93亿美元。",
+          "股价和估值尚未确定，预计11月中旬开始交易。"
         ],
-        "relevance": "这是营销人最常遇到的难题之一：要销量还是要利润？Temple & Webster证明，减少“大促式”打折、守住价格，虽然短期销量下降，但能让生意更健康，投资者也会买账。在澳洲做电商或零售营销时，这个案例可以用来说服老板：促销不是越多越好，品牌价值和利润率同样重要。",
+        "relevance": "AI工具正在改变营销行业：写文案、做图、分析数据、做客户服务都在用AI。Anthropic上市说明企业愿意为AI花大钱，也意味着未来AI工具会更普及、竞争更激烈。作为在澳洲的营销人，了解主要AI公司的动向，有助于判断该学哪些工具、公司预算会往哪里投。",
         "phrase": {
-          "en": "pay off",
-          "zh": "取得成效，得到回报"
+          "en": "go public",
+          "zh": "（公司）上市"
         }
       }
     },
     {
-      "category": "china",
-      "title_en": "Typhoon Champi brings storms to eastern China as Shanghai evacuates about 62,400 people",
-      "title_zh": "台风“蔷琵”影响华东：上海紧急转移约6.24万人，上百航班取消、部分高铁停运",
-      "search_zh": "台风蔷琵 上海 转移 6.24万人 航班取消 高铁 浙江",
-      "summary_en": "Shanghai moved about 62,400 people to safety as Typhoon Champi brought strong winds and heavy rain to China's east coast on Friday and Saturday, according to the state broadcaster CCTV. More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended. The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland. China's weather authority kept a blue typhoon warning, its lowest level, in place, and the weakening storm was expected to move north-east along the coast towards southwestern Japan.",
-      "summary_zh": "据官方媒体央视报道，台风“蔷琵”周五和周六给中国东部沿海带来强风和暴雨，上海紧急转移了约6.24万人。上海及邻近的浙江省有一百多个航班被取消，其中包括东航在上海两大机场的39个国内航班，部分高铁和轮渡服务也被暂停。这场风暴先扫过台湾，造成至少一人死亡、数百人受伤，在靠近大陆时减弱为热带风暴。中国气象部门维持最低级别的台风蓝色预警，减弱后的风暴预计将沿海岸向东北方向移动，前往日本西南部。",
-      "why_zh": "台风是中国沿海城市生活中常见的大事，会影响出行、外卖和门店营业。“suspended（暂停）”“weakened（减弱）”是天气和交通新闻中的高频词。",
+      "category": "australia",
+      "title_en": "Foodbank report finds 3.6 million Australian households went hungry in the past year",
+      "title_zh": "Foodbank饥饿报告：澳洲约360万户家庭过去一年吃不饱，中等收入和租房家庭也“中招”",
+      "search_zh": "Foodbank 饥饿报告 2026 澳洲 360万户 粮食不安全 租房 中等收入",
+      "summary_en": "About 3.6 million Australian households, roughly one in three, experienced food insecurity in the past year, according to Foodbank's annual Hunger Report released on Monday. That is about 100,000 more households than last year, although the overall rate stayed steady because the total number of households in Australia has grown. The problem is spreading beyond the poorest families, with 37% of middle-income households and about half of all renting households affected, and nearly seven in ten food-insecure households going through it for the first time. Foodbank says the high cost of food, housing, fuel and energy, along with difficulties with work, are the main drivers.",
+      "summary_zh": "根据周一发布的Foodbank年度《饥饿报告》，过去一年约有360万个澳大利亚家庭（大约三分之一）经历过粮食不安全，也就是吃不饱或吃不上足够的食物。这比去年多了约10万户，不过整体比例保持稳定，因为澳大利亚的家庭总数增加了。这个问题正从最贫困的家庭向外蔓延：37%的中等收入家庭和大约一半的租房家庭受到影响，而在粮食不安全的家庭中，近七成是第一次遇到这种情况。Foodbank表示，食品、住房、燃油和能源价格高企，再加上工作方面的困难，是主要原因。",
+      "why_zh": "这是和澳洲生活成本直接相关的新闻，连中等收入家庭和租房者都受影响。“insecurity（不安全、没保障）”“drivers（驱动因素）”在社会和经济报道里很常见。",
       "image": "",
       "image_credit": "",
-      "source": "South China Morning Post; CCTV (via Bastille Post); The Paper; Al Jazeera",
-      "url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china",
+      "source": "ABC News; Foodbank Australia; Food & Drink Business; The Point",
+      "url": "https://www.abc.net.au/news/2026-10-26/australian-households-experienced-food-insecurity/107299796",
       "vocab": [
         {
-          "word": "suspended",
-          "phonetic": "/səˈspendɪd/",
-          "pos": "v.",
-          "zh": "暂停，中止",
-          "example": "More than 100 flights were cancelled in Shanghai and nearby Zhejiang province, including 39 China Eastern domestic flights at Shanghai's two main airports, while some high-speed train and ferry services were suspended."
+          "word": "insecurity",
+          "phonetic": "/ˌɪnsɪˈkjʊərəti/",
+          "pos": "n.",
+          "zh": "不安全，缺乏保障（food insecurity 指粮食没有保障、吃不饱）",
+          "example": "About 3.6 million Australian households, roughly one in three, experienced food insecurity in the past year, according to Foodbank's annual Hunger Report released on Monday."
         },
         {
-          "word": "weakened",
-          "phonetic": "/ˈwiːkənd/",
-          "pos": "v.",
-          "zh": "减弱，变弱",
-          "example": "The storm had swept past Taiwan first, where at least one person died and hundreds were injured, before it weakened to a tropical storm as it approached the mainland."
+          "word": "drivers",
+          "phonetic": "/ˈdraɪvəz/",
+          "pos": "n.",
+          "zh": "驱动因素，主要原因",
+          "example": "Foodbank says the high cost of food, housing, fuel and energy, along with difficulties with work, are the main drivers."
         }
       ],
       "explain": {
-        "one_liner": "今年第30号台风“蔷琵”先经过台湾，再贴近上海和浙江沿海，带来大风暴雨，上海提前转移了几万人，很多航班和高铁停了。",
+        "one_liner": "澳洲最大的食物救济机构Foodbank发布年度报告：大约每三户人家就有一户在过去一年里有过吃不饱的经历，而且越来越多普通上班族和租房者也加入了这个行列。",
         "facts": [
           {
-            "icon": "🌀",
-            "name": "台风“蔷琵” Champi",
-            "text": "今年西北太平洋第30号台风，国际名Champi，中文名“蔷琵”。靠近大陆时已减弱为热带风暴。"
+            "icon": "🥫",
+            "name": "Foodbank",
+            "text": "澳大利亚最大的食物救济慈善机构，从农场、超市和食品公司收集多余食物，分发给慈善团体和学校，帮助吃不饱的人。"
           },
           {
-            "icon": "📺",
-            "name": "央视 CCTV",
-            "text": "中国中央广播电视总台，国家级官方媒体，这次的上海转移人数来自它的报道。"
+            "icon": "📋",
+            "name": "饥饿报告 Hunger Report",
+            "text": "Foodbank每年发布的调查报告，统计澳洲有多少家庭吃不饱、是谁在挨饿、原因是什么。"
           },
           {
-            "icon": "✈️",
-            "name": "东方航空 China Eastern",
-            "text": "总部在上海的中国三大航空公司之一，以上海浦东和虹桥两大机场为主要基地。"
+            "icon": "🍽️",
+            "name": "粮食不安全 food insecurity",
+            "text": "指一个家庭没有稳定、足够的钱或渠道买到吃的，比如减少餐数、吃更便宜没营养的食物，严重时整天没东西吃。"
           },
           {
-            "icon": "🔵",
-            "name": "蓝色预警",
-            "text": "中国台风预警分蓝、黄、橙、红四级，蓝色是最低一级，表示可能受影响、需要注意防范。"
+            "icon": "💼",
+            "name": "中等收入家庭",
+            "text": "报告中指年收入约33,800至90,999澳元的家庭，其中37%经历过粮食不安全。"
+          },
+          {
+            "icon": "🏠",
+            "name": "租房家庭",
+            "text": "约51%的租房家庭经历过粮食不安全，而房子完全还清贷款的家庭只有约12%，可见房租压力影响很大。"
           }
         ],
         "relations": [
           {
-            "a": "台风“蔷琵”",
-            "b": "上海居民",
+            "a": "食品、房租、油价、电费上涨",
+            "b": "家庭餐桌",
             "type": "cause",
-            "label": "约6.24万人被提前转移"
+            "label": "挤压买食物的预算"
           },
           {
-            "a": "台风“蔷琵”",
-            "b": "航班和高铁",
+            "a": "Foodbank",
+            "b": "吃不饱的家庭",
+            "type": "good",
+            "label": "提供食物救济"
+          },
+          {
+            "a": "租房家庭",
+            "b": "粮食不安全",
             "type": "bad",
-            "label": "上百航班取消，部分高铁、轮渡暂停"
+            "label": "约一半受影响"
           },
           {
-            "a": "台风“蔷琵”",
-            "b": "台湾",
-            "type": "bad",
-            "label": "至少一人死亡、数百人受伤"
-          },
-          {
-            "a": "风暴强度",
-            "b": "预警级别",
+            "a": "家庭总数增长",
+            "b": "比例",
             "type": "neutral",
-            "label": "减弱后维持最低的蓝色预警"
+            "label": "人数增加但比例持平"
           }
         ],
         "points": [
-          "台风“蔷琵”周五、周六影响上海和浙江沿海。",
-          "上海转移约6.24万人，上海和浙江一百多个航班取消。",
-          "部分高铁和轮渡暂停，台湾此前已有人员伤亡。",
-          "风暴减弱为热带风暴，预计向东北方向移往日本西南部。"
+          "约360万户澳洲家庭（三分之一）过去一年经历粮食不安全，比去年多约10万户。",
+          "37%的中等收入家庭、约一半的租房家庭受影响。",
+          "近七成受影响家庭是第一次遇到这种情况。",
+          "主要原因是食品、住房、燃油、能源成本高，以及工作困难。"
         ],
-        "relevance": "极端天气会直接打乱物流、出行和线下活动，比如双11前的快递配送、门店客流和户外推广。在澳洲做营销同样要面对暴雨、山火等天气风险；学会关注天气预警、提前调整投放和活动安排，是营销人做好风险管理的一部分。另外，如果你的家人朋友在江浙沪，也可以留意出行安全。",
+        "relevance": "这说明很多澳洲消费者的钱包非常紧，连中等收入人群都在省吃俭用。做营销时要注意消费者对价格更敏感，超市自有品牌、折扣、“性价比”信息会更受欢迎；同时，品牌参与食物救济等公益合作，也是在澳洲建立好口碑的常见方式。",
         "phrase": {
-          "en": "move people to safety",
-          "zh": "把人们转移到安全地方"
+          "en": "put food on the table",
+          "zh": "养家糊口，让家里有饭吃"
         }
       }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "JJ Lin and Yang Mi keep a year-old online promise with a 'Jasmine Rain' stage at the Honor of Kings gala",
+      "title_zh": "一年前的评论区约定兑现！林俊杰唱《茉莉雨》，杨幂撑伞伴舞刷屏",
+      "search_zh": "林俊杰 杨幂 茉莉雨 王者荣耀共创之夜 撑伞",
+      "summary_en": "At the Honor of Kings \"Co-creation Night\" in Shenzhen on Sunday evening, singer JJ Lin performed his song \"Jasmine Rain\" while actress Yang Mi walked onto the stage holding an umbrella and danced along. The moment quickly went viral because it fulfilled a promise from a year ago, when Yang Mi requested the song in JJ Lin's comment section and he replied that they should sing it together on stage next time. Yang Mi did not actually sing, but JJ Lin later said in an interview that her performance completed the whole picture. On the same night, JJ Lin and Zhou Shen, who both promote the game, sang JJ Lin's classic \"Cao Cao\" together on stage for the first time as Tencent's hit mobile game celebrated its 11th anniversary.",
+      "summary_zh": "周日晚上，在深圳举行的王者荣耀“共创之夜”上，歌手林俊杰演唱了《茉莉雨》，演员杨幂撑着伞走上舞台，随歌起舞。这一幕迅速刷屏，因为它兑现了一年前的约定：当时杨幂在林俊杰的评论区点歌，林俊杰回复说下次一起在台上唱。杨幂其实并没有开口唱，但林俊杰后来在采访中说，她的表演让整个画面变得完整。同一晚，同为游戏代言人的林俊杰和周深首次同台合唱林俊杰的经典歌曲《曹操》，庆祝腾讯这款热门手游11周年。",
+      "why_zh": "评论区一句互动变成大型舞台“名场面”，是很典型的社交媒体营销案例。“fulfilled（兑现、实现）”“promote（推广、代言）”在品牌和娱乐新闻里很常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Sina Entertainment; Weibo; Sohu",
+      "url": "https://k.sina.cn/article_7879923118_1d5ae15ae06801pz9w.html",
+      "vocab": [
+        {
+          "word": "fulfilled",
+          "phonetic": "/fʊlˈfɪld/",
+          "pos": "v.",
+          "zh": "履行，兑现（承诺）",
+          "example": "The moment quickly went viral because it fulfilled a promise from a year ago, when Yang Mi requested the song in JJ Lin's comment section and he replied that they should sing it together on stage next time."
+        },
+        {
+          "word": "promote",
+          "phonetic": "/prəˈməʊt/",
+          "pos": "v.",
+          "zh": "推广，宣传（为品牌代言）",
+          "example": "On the same night, JJ Lin and Zhou Shen, who both promote the game, sang JJ Lin's classic \"Cao Cao\" together on stage for the first time as Tencent's hit mobile game celebrated its 11th anniversary."
+        }
+      ]
     }
   ]
 }
