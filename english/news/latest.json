@@ -1,232 +1,283 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T01:57:24+11:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T01:59:24+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "Claude maker Anthropic files publicly for a Nasdaq IPO, revealing US$16.3 billion in half-year revenue",
-      "title_zh": "Claude母公司Anthropic公开递交上市文件：半年收入163亿美元，计划以代码“ANT”登陆纳斯达克",
-      "search_zh": "Anthropic 上市 IPO S-1 纳斯达克 ANT 收入163亿美元",
-      "summary_en": "Anthropic, the US company behind the AI assistant Claude, made its stock market listing documents public on Monday, setting up one of the most anticipated share sales in the tech world. The filing shows revenue of about US$16.3 billion in the first half of 2026, up from roughly US$1.2 billion a year earlier, with most of it coming from customers who pay based on how much they use its AI models. However, it also reported a huge net loss of US$80.7 billion, although most of that came from a US$72.4 billion accounting charge linked to the company's rising value, while its operating loss was US$693 million. The company plans to list on the Nasdaq under the ticker \"ANT\", but the share price and valuation have not been set yet, and trading is widely expected to begin in mid-November.",
-      "summary_zh": "周一，开发AI助手Claude的美国公司Anthropic公开了上市申请文件，这将成为科技界最受期待的股票发行之一。文件显示，公司2026年上半年收入约163亿美元，而去年同期只有约12亿美元，其中大部分收入来自按使用量付费使用其AI模型的客户。不过，公司同时报告了高达807亿美元的净亏损，但其中大部分来自一笔与公司估值上升有关的724亿美元会计费用，经营亏损为6.93亿美元。公司计划在纳斯达克上市，股票代码为“ANT”，但股价和估值尚未确定，外界普遍预计将在11月中旬开始交易。",
-      "why_zh": "AI公司上市是今年全球最受关注的商业新闻之一，营销工作也越来越离不开AI工具。“anticipated（备受期待的）”“ticker（股票代码）”是财经新闻常用词。",
+      "category": "china",
+      "title_en": "Mbappé apologises after a meme about Mao Zedong costs him Chinese sponsors and LaLiga loses TV coverage in China",
+      "title_zh": "姆巴佩因毛泽东表情包言论道歉：东鹏、蒙牛、妙可蓝多解约，央视暂停转播西甲",
+      "search_zh": "姆巴佩 道歉 表情包 东鹏 蒙牛 妙可蓝多 解约 西甲 停播",
+      "summary_en": "French football star Kylian Mbappé apologised on Tuesday after a resurfaced video, in which he picked a meme showing his face on the body of former Chinese leader Mao Zedong as his favourite, caused a huge backlash on Chinese social media. Three Chinese brands, the drinks maker Dongpeng, the dairy giant Mengniu and the cheese company Milkground, ended their sponsorship deals with him, saying they oppose anything that hurts national sentiment. China's state broadcaster also suspended broadcasts of Spain's LaLiga matches and other content featuring the Real Madrid forward, and LaLiga apologised, saying the comments were made in a personal capacity. In a statement in French, Chinese and English, Mbappé said his comment was ill-judged and that he now understood it had hurt many people in China and in Chinese communities around the world.",
+      "summary_zh": "法国足球明星基利安·姆巴佩周二公开道歉，起因是一段被重新翻出的视频：他在视频中把一张把自己的脸P到中国前领导人毛泽东身上的表情包选为“最喜欢的表情包”，在中国社交媒体上引发强烈反弹。东鹏饮料、乳业巨头蒙牛和奶酪品牌妙可蓝多三家中国品牌宣布与他解除赞助合作，表示反对任何伤害民族感情的言行。中国国家广播电视机构还暂停转播西班牙足球甲级联赛（西甲）比赛以及与这位皇马前锋有关的内容，西甲也发表道歉，称这些言论只代表球员个人。姆巴佩用法语、中文和英语发表声明，说自己的言论考虑不周，现在明白这伤害了中国以及世界各地华人社区的很多人。",
+      "why_zh": "这是今年最典型的“明星代言翻车”案例之一，一段几个月前的视频就能让多个品牌同时解约。“backlash（强烈反弹）”“sponsorship（赞助）”是品牌和公关新闻里的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "Fortune; Bloomberg; CNBC; NBC News; SEC (Anthropic S-1)",
-      "url": "https://fortune.com/2026/10/26/anthropics-s-1/",
+      "source": "Al Jazeera; Forbes; RTÉ; Yahoo Sports; Global Times",
+      "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans",
       "vocab": [
         {
-          "word": "anticipated",
-          "phonetic": "/ænˈtɪsɪpeɪtɪd/",
-          "pos": "adj.",
-          "zh": "备受期待的，预期中的",
-          "example": "Anthropic, the US company behind the AI assistant Claude, made its stock market listing documents public on Monday, setting up one of the most anticipated share sales in the tech world."
+          "word": "backlash",
+          "phonetic": "/ˈbæklæʃ/",
+          "pos": "n.",
+          "zh": "（公众的）强烈反对，反弹",
+          "example": "French football star Kylian Mbappé apologised on Tuesday after a resurfaced video, in which he picked a meme showing his face on the body of former Chinese leader Mao Zedong as his favourite, caused a huge backlash on Chinese social media."
         },
         {
-          "word": "ticker",
-          "phonetic": "/ˈtɪkə(r)/",
+          "word": "sponsorship",
+          "phonetic": "/ˈspɒnsəʃɪp/",
           "pos": "n.",
-          "zh": "股票代码（ticker symbol）",
-          "example": "The company plans to list on the Nasdaq under the ticker \"ANT\", but the share price and valuation have not been set yet, and trading is widely expected to begin in mid-November."
+          "zh": "赞助（合作）",
+          "example": "Three Chinese brands, the drinks maker Dongpeng, the dairy giant Mengniu and the cheese company Milkground, ended their sponsorship deals with him, saying they oppose anything that hurts national sentiment."
         }
       ],
       "explain": {
-        "one_liner": "做Claude的AI公司Anthropic正式公开了上市“说明书”，第一次让外界看到它赚多少、亏多少，准备11月中旬在美国纳斯达克挂牌。",
+        "one_liner": "法国球星姆巴佩一段旧视频里拿毛泽东表情包开玩笑，被中国网友翻出后引发众怒，中国品牌纷纷解约、电视台停播西甲，他本人最终道歉。",
         "facts": [
           {
-            "icon": "🤖",
-            "name": "Anthropic",
-            "text": "美国人工智能公司，总部在旧金山，开发了AI助手Claude，和OpenAI（ChatGPT的开发者）是主要竞争对手。"
+            "icon": "⚽",
+            "name": "基利安·姆巴佩 Kylian Mbappé",
+            "text": "法国国家队足球运动员，现在效力西班牙的皇家马德里俱乐部（皇马），是全球最有名、商业价值最高的球星之一。"
           },
           {
-            "icon": "📄",
-            "name": "S-1文件",
-            "text": "公司在美国申请上市时，必须向美国证券交易委员会（SEC）提交的招股说明书，里面要公开收入、亏损、风险等财务信息。"
+            "icon": "🇪🇸",
+            "name": "西甲 LaLiga",
+            "text": "西班牙足球甲级联赛，皇马、巴萨等豪门都在这个联赛，在中国有大量球迷和转播观众。"
           },
           {
-            "icon": "🔔",
-            "name": "IPO 首次公开募股",
-            "text": "公司第一次把股票卖给公众投资者并在交易所挂牌，之后普通人也能买卖它的股票。"
+            "icon": "🥤",
+            "name": "东鹏、蒙牛、妙可蓝多",
+            "text": "三家中国消费品公司：东鹏主要做功能饮料，蒙牛是大型乳业公司，妙可蓝多主要做奶酪。它们此前都和姆巴佩有代言或赞助合作。"
           },
           {
-            "icon": "🏛️",
-            "name": "纳斯达克 Nasdaq",
-            "text": "美国主要的股票交易所之一，苹果、微软、英伟达等很多科技公司都在这里上市。"
+            "icon": "📺",
+            "name": "中央广播电视总台",
+            "text": "中国的国家级广播电视机构（央视属于它），宣布暂停转播西甲比赛和含有姆巴佩的节目，并撤下有他的广告。"
           },
           {
-            "icon": "🧾",
-            "name": "会计费用 vs 经营亏损",
-            "text": "这次巨额净亏损主要是一笔“账面”费用：公司估值上涨后，早年发行的可转换债券等金融工具按规定要重新估值并记为费用，并不是真的花掉了这么多现金。经营亏损（日常业务的亏损）只有6.93亿美元。"
-          },
-          {
-            "icon": "💲",
-            "name": "估值 valuation",
-            "text": "市场认为一家公司整体值多少钱。这次上市的股价和估值要在和投资者路演之后才会确定。"
+            "icon": "🖼️",
+            "name": "表情包 meme",
+            "text": "网上流传的搞笑图片。据报道，视频大约拍于2026年4月，节目中问他最喜欢自己的哪张表情包，他选了一张把他的脸P在毛泽东身上的图。"
           }
         ],
         "relations": [
           {
-            "a": "企业客户",
-            "b": "Anthropic",
-            "type": "good",
-            "label": "按使用量付费，推动收入猛增"
-          },
-          {
-            "a": "公司估值上升",
-            "b": "净亏损",
+            "a": "旧视频被翻出",
+            "b": "中国网友",
             "type": "cause",
-            "label": "带来724亿美元账面费用"
+            "label": "引发强烈不满"
           },
           {
-            "a": "Anthropic",
-            "b": "纳斯达克",
-            "type": "neutral",
-            "label": "计划以“ANT”代码上市"
-          },
-          {
-            "a": "Anthropic",
-            "b": "OpenAI",
+            "a": "东鹏、蒙牛、妙可蓝多",
+            "b": "姆巴佩",
             "type": "bad",
-            "label": "AI领域的主要竞争对手"
+            "label": "终止赞助合作"
+          },
+          {
+            "a": "中央广播电视总台",
+            "b": "西甲",
+            "type": "bad",
+            "label": "暂停转播"
+          },
+          {
+            "a": "西甲",
+            "b": "中国球迷",
+            "type": "neutral",
+            "label": "道歉并称言论属个人行为"
           }
         ],
         "points": [
-          "Anthropic公开了上市文件S-1，计划在纳斯达克上市，代码“ANT”。",
-          "2026年上半年收入约163亿美元，比去年同期的约12亿美元暴涨。",
-          "807亿美元净亏损大部分是账面会计费用，经营亏损只有6.93亿美元。",
-          "股价和估值尚未确定，预计11月中旬开始交易。"
+          "姆巴佩在旧视频里选了一张P成毛泽东的表情包作为“最爱”，视频近期被翻出。",
+          "东鹏、蒙牛、妙可蓝多三家中国品牌与他解约。",
+          "中国国家广播电视机构暂停转播西甲及相关内容，西甲道歉。",
+          "姆巴佩用法、中、英三种语言发声明道歉，承认言论考虑不周。"
         ],
-        "relevance": "AI工具正在改变营销行业：写文案、做图、分析数据、做客户服务都在用AI。Anthropic上市说明企业愿意为AI花大钱，也意味着未来AI工具会更普及、竞争更激烈。作为在澳洲的营销人，了解主要AI公司的动向，有助于判断该学哪些工具、公司预算会往哪里投。",
+        "relevance": "对营销人来说，这是一个关于“代言人风险”的真实案例：明星的一句话、甚至几个月前的视频，都可能让品牌一夜之间陷入舆论危机。在澳洲做面向华人或中国市场的营销时，选代言人、写文案、做设计都要特别注意文化和情感上的敏感点，并提前准备好危机公关方案。",
         "phrase": {
-          "en": "go public",
-          "zh": "（公司）上市"
+          "en": "cut ties with",
+          "zh": "与……断绝关系，解除合作"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Labubu maker Pop Mart says third-quarter revenue fell 45% to 50% as the craze cools",
+      "title_zh": "Labubu热潮降温：泡泡玛特第三季度收入同比下降45%至50%，美洲市场跌幅最大",
+      "search_zh": "泡泡玛特 第三季度 收入 下降 45%-50% Labubu 降温",
+      "summary_en": "Pop Mart, the Chinese toy company behind the hugely popular Labubu dolls, said on Tuesday that its revenue fell by 45% to 50% in the third quarter compared with a year earlier. The drop was steepest overseas, with sales in the Americas down 70% to 75%, while revenue in mainland China fell 25% to 30%. The company is being compared with a very high base from last year, when the global Labubu craze pushed its quarterly revenue up by about 250%, and demand has since cooled. Its chief operating officer said the Chinese market remains relatively steady and healthy for the full year, and that the company will try to capture sales in the traditional peak season.",
+      "summary_zh": "推出超人气Labubu玩偶的中国潮玩公司泡泡玛特周二表示，第三季度收入同比下降45%至50%。海外市场跌幅最大，美洲销售额下降70%至75%，而中国内地收入下降25%至30%。公司正面对去年的极高基数：当时全球Labubu热潮让它的季度收入增长了约250%，而如今需求已经降温。公司首席运营官表示，中国市场全年依然相对稳定健康，公司将努力抓住传统旺季的销售机会。",
+      "why_zh": "Labubu是近两年最火的“爆款IP”之一，它的降温是观察潮流消费周期的好案例。“craze（一时的狂热）”“steepest（最陡的，跌幅最大的）”在财经和潮流报道中很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Bloomberg; Nikkei Asia; South China Morning Post; The Standard (Hong Kong)",
+      "url": "https://asia.nikkei.com/business/consumer/pop-mart-s-revenue-halves-in-q3-as-labubu-craze-cools",
+      "vocab": [
+        {
+          "word": "steepest",
+          "phonetic": "/ˈstiːpɪst/",
+          "pos": "adj.",
+          "zh": "最陡的；（下跌）幅度最大的",
+          "example": "The drop was steepest overseas, with sales in the Americas down 70% to 75%, while revenue in mainland China fell 25% to 30%."
+        },
+        {
+          "word": "craze",
+          "phonetic": "/kreɪz/",
+          "pos": "n.",
+          "zh": "（一时的）狂热，热潮",
+          "example": "The company is being compared with a very high base from last year, when the global Labubu craze pushed its quarterly revenue up by about 250%, and demand has since cooled."
+        }
+      ],
+      "explain": {
+        "one_liner": "靠Labubu火遍全球的泡泡玛特，第三季度收入几乎腰斩，海外尤其是美洲卖得少了很多，说明这股热潮正在降温。",
+        "facts": [
+          {
+            "icon": "🧸",
+            "name": "泡泡玛特 Pop Mart",
+            "text": "中国潮流玩具公司，以“盲盒”和收藏玩偶出名，在香港上市，在全球（包括澳洲）都有门店。"
+          },
+          {
+            "icon": "🐰",
+            "name": "Labubu",
+            "text": "泡泡玛特旗下一个长着尖牙、笑容调皮的毛绒玩偶形象，2024–2025年因明星带货在全球爆红，一度一“娃”难求。"
+          },
+          {
+            "icon": "📉",
+            "name": "同比 year on year",
+            "text": "和去年同一时期相比。这次是拿2026年第三季度和2025年第三季度比较。"
+          },
+          {
+            "icon": "📊",
+            "name": "高基数效应 high base",
+            "text": "如果去年同期的数字特别高（当时收入增长约250%），今年就很难再超过，增长率看起来就会很差。"
+          },
+          {
+            "icon": "👔",
+            "name": "首席运营官 COO",
+            "text": "负责公司日常运营的高管。泡泡玛特COO司德表示中国市场全年仍相对稳定健康。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Labubu热潮降温",
+            "b": "泡泡玛特收入",
+            "type": "cause",
+            "label": "第三季度下降45%–50%"
+          },
+          {
+            "a": "去年的高基数",
+            "b": "同比数据",
+            "type": "cause",
+            "label": "让下降幅度看起来更大"
+          },
+          {
+            "a": "美洲市场",
+            "b": "泡泡玛特",
+            "type": "bad",
+            "label": "销售下降70%–75%"
+          },
+          {
+            "a": "中国内地市场",
+            "b": "泡泡玛特",
+            "type": "neutral",
+            "label": "下降25%–30%，相对稳定"
+          }
+        ],
+        "points": [
+          "泡泡玛特第三季度收入同比下降45%至50%。",
+          "海外跌幅最大，美洲下降70%至75%，中国内地下降25%至30%。",
+          "去年同期Labubu热潮带来约250%的增长，今年面对很高的基数。",
+          "公司希望在年底传统旺季挽回部分销售。"
+        ],
+        "relevance": "Labubu在悉尼、墨尔本也曾引发排队抢购。它的大起大落提醒营销人：靠单一爆款IP和“稀缺感”带来的热度来得快、去得也快，品牌需要持续推出新IP、经营长期粉丝关系，而不能只依赖一阵风潮。",
+        "phrase": {
+          "en": "the craze cools",
+          "zh": "热潮降温"
         }
       }
     },
     {
       "category": "australia",
-      "title_en": "Foodbank report finds 3.6 million Australian households went hungry in the past year",
-      "title_zh": "Foodbank饥饿报告：澳洲约360万户家庭过去一年吃不饱，中等收入和租房家庭也“中招”",
-      "search_zh": "Foodbank 饥饿报告 2026 澳洲 360万户 粮食不安全 租房 中等收入",
-      "summary_en": "About 3.6 million Australian households, roughly one in three, experienced food insecurity in the past year, according to Foodbank's annual Hunger Report released on Monday. That is about 100,000 more households than last year, although the overall rate stayed steady because the total number of households in Australia has grown. The problem is spreading beyond the poorest families, with 37% of middle-income households and about half of all renting households affected, and nearly seven in ten food-insecure households going through it for the first time. Foodbank says the high cost of food, housing, fuel and energy, along with difficulties with work, are the main drivers.",
-      "summary_zh": "根据周一发布的Foodbank年度《饥饿报告》，过去一年约有360万个澳大利亚家庭（大约三分之一）经历过粮食不安全，也就是吃不饱或吃不上足够的食物。这比去年多了约10万户，不过整体比例保持稳定，因为澳大利亚的家庭总数增加了。这个问题正从最贫困的家庭向外蔓延：37%的中等收入家庭和大约一半的租房家庭受到影响，而在粮食不安全的家庭中，近七成是第一次遇到这种情况。Foodbank表示，食品、住房、燃油和能源价格高企，再加上工作方面的困难，是主要原因。",
-      "why_zh": "这是和澳洲生活成本直接相关的新闻，连中等收入家庭和租房者都受影响。“insecurity（不安全、没保障）”“drivers（驱动因素）”在社会和经济报道里很常见。",
+      "title_en": "Meghan, Duchess of Sussex, to appear on Junior MasterChef Australia when it returns in 2027",
+      "title_zh": "梅根将亮相《少年厨神澳大利亚》：停播六年后2027年回归，与Poh Ling Yeow同台",
+      "search_zh": "梅根 Junior MasterChef Australia 少年厨神 2027 Network 10 Poh Ling Yeow",
+      "summary_en": "Meghan, Duchess of Sussex, will appear on a new season of Network 10's Junior MasterChef Australia, which returns in 2027 after a six-year break. The network described her as a \"special guest\" who will appear alongside chef and presenter Poh Ling Yeow, although some media outlets have called her a co-host. Meghan said she had an incredible time as a guest judge on the adult version of MasterChef Australia in April, so coming back to work with the young cooks was \"an easy yes\". According to media reports, her earlier appearance helped the show draw its largest Sunday audience since 2023, as the network now revives the children's cooking competition.",
+      "summary_zh": "萨塞克斯公爵夫人梅根将出现在Network 10电视台新一季的《少年厨神澳大利亚》（Junior MasterChef Australia）中，这档节目在停播六年后将于2027年回归。电视台称她为“特别嘉宾”，将与厨师兼主持人Poh Ling Yeow一同出镜，不过也有一些媒体称她为联合主持人。梅根表示，今年4月她在成人版《厨艺大师澳大利亚》担任客座评委时度过了一段美好时光，所以回来和小厨师们合作是“很容易做出的决定”。据媒体报道，她上次的亮相让该节目创下2023年以来周日最高收视，而现在电视台正要让这档儿童烹饪比赛重新回归。",
+      "why_zh": "名人效应是电视台和品牌常用的营销手段，这条新闻也是澳洲本地娱乐圈的热门话题。“alongside（与……一起）”“revives（使复兴、重新推出）”在新闻里很常用。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Foodbank Australia; Food & Drink Business; The Point",
-      "url": "https://www.abc.net.au/news/2026-10-26/australian-households-experienced-food-insecurity/107299796",
+      "source": "ABC News; Variety; Deadline; NewsNation",
+      "url": "https://www.abc.net.au/news/2026-10-27/meghan-markle-to-judge-junior-masterchef-australia/107313300",
       "vocab": [
         {
-          "word": "insecurity",
-          "phonetic": "/ˌɪnsɪˈkjʊərəti/",
-          "pos": "n.",
-          "zh": "不安全，缺乏保障（food insecurity 指粮食没有保障、吃不饱）",
-          "example": "About 3.6 million Australian households, roughly one in three, experienced food insecurity in the past year, according to Foodbank's annual Hunger Report released on Monday."
+          "word": "alongside",
+          "phonetic": "/əˌlɒŋˈsaɪd/",
+          "pos": "prep.",
+          "zh": "与……一起，在……旁边",
+          "example": "The network described her as a \"special guest\" who will appear alongside chef and presenter Poh Ling Yeow, although some media outlets have called her a co-host."
         },
         {
-          "word": "drivers",
-          "phonetic": "/ˈdraɪvəz/",
-          "pos": "n.",
-          "zh": "驱动因素，主要原因",
-          "example": "Foodbank says the high cost of food, housing, fuel and energy, along with difficulties with work, are the main drivers."
+          "word": "revives",
+          "phonetic": "/rɪˈvaɪvz/",
+          "pos": "v.",
+          "zh": "使复兴，重新推出",
+          "example": "According to media reports, her earlier appearance helped the show draw its largest Sunday audience since 2023, as the network now revives the children's cooking competition."
         }
       ],
       "explain": {
-        "one_liner": "澳洲最大的食物救济机构Foodbank发布年度报告：大约每三户人家就有一户在过去一年里有过吃不饱的经历，而且越来越多普通上班族和租房者也加入了这个行列。",
+        "one_liner": "英国哈里王子的妻子梅根继今年4月当过《厨艺大师澳大利亚》客座评委后，将再次回到这个节目，参与2027年回归的少儿版。",
         "facts": [
           {
-            "icon": "🥫",
-            "name": "Foodbank",
-            "text": "澳大利亚最大的食物救济慈善机构，从农场、超市和食品公司收集多余食物，分发给慈善团体和学校，帮助吃不饱的人。"
+            "icon": "👑",
+            "name": "梅根 Meghan, Duchess of Sussex",
+            "text": "美国前演员，嫁给英国哈里王子后获得“萨塞克斯公爵夫人”头衔，夫妇二人现在住在美国加州。"
           },
           {
-            "icon": "📋",
-            "name": "饥饿报告 Hunger Report",
-            "text": "Foodbank每年发布的调查报告，统计澳洲有多少家庭吃不饱、是谁在挨饿、原因是什么。"
+            "icon": "📺",
+            "name": "Network 10",
+            "text": "澳大利亚主要的免费电视台之一（也叫Channel 10），负责播出《厨艺大师澳大利亚》系列节目。"
           },
           {
-            "icon": "🍽️",
-            "name": "粮食不安全 food insecurity",
-            "text": "指一个家庭没有稳定、足够的钱或渠道买到吃的，比如减少餐数、吃更便宜没营养的食物，严重时整天没东西吃。"
+            "icon": "🍳",
+            "name": "Junior MasterChef Australia",
+            "text": "《厨艺大师澳大利亚》的少儿版，让小朋友比拼厨艺，上一季在2020年播出，2027年将回归。"
           },
           {
-            "icon": "💼",
-            "name": "中等收入家庭",
-            "text": "报告中指年收入约33,800至90,999澳元的家庭，其中37%经历过粮食不安全。"
-          },
-          {
-            "icon": "🏠",
-            "name": "租房家庭",
-            "text": "约51%的租房家庭经历过粮食不安全，而房子完全还清贷款的家庭只有约12%，可见房租压力影响很大。"
+            "icon": "👩‍🍳",
+            "name": "Poh Ling Yeow",
+            "text": "马来西亚出生的澳洲厨师、画家和电视主持人，最早因参加第一季《厨艺大师澳大利亚》走红，现在是节目的评委之一。"
           }
         ],
         "relations": [
           {
-            "a": "食品、房租、油价、电费上涨",
-            "b": "家庭餐桌",
-            "type": "cause",
-            "label": "挤压买食物的预算"
-          },
-          {
-            "a": "Foodbank",
-            "b": "吃不饱的家庭",
+            "a": "梅根",
+            "b": "Network 10",
             "type": "good",
-            "label": "提供食物救济"
+            "label": "作为“特别嘉宾”参与新一季"
           },
           {
-            "a": "租房家庭",
-            "b": "粮食不安全",
-            "type": "bad",
-            "label": "约一半受影响"
+            "a": "梅根",
+            "b": "Poh Ling Yeow",
+            "type": "good",
+            "label": "再次同台合作"
           },
           {
-            "a": "家庭总数增长",
-            "b": "比例",
-            "type": "neutral",
-            "label": "人数增加但比例持平"
+            "a": "梅根4月客座评委",
+            "b": "收视率",
+            "type": "cause",
+            "label": "带来2023年以来最高周日收视（据报道）"
           }
         ],
         "points": [
-          "约360万户澳洲家庭（三分之一）过去一年经历粮食不安全，比去年多约10万户。",
-          "37%的中等收入家庭、约一半的租房家庭受影响。",
-          "近七成受影响家庭是第一次遇到这种情况。",
-          "主要原因是食品、住房、燃油、能源成本高，以及工作困难。"
+          "梅根将以“特别嘉宾”身份参与2027年回归的《少年厨神澳大利亚》。",
+          "她将与评委兼主持人Poh Ling Yeow一起出镜。",
+          "她今年4月曾在成人版节目当客座评委，据报道带来很高收视。",
+          "少儿版节目停播六年，最近一季在2020年播出。"
         ],
-        "relevance": "这说明很多澳洲消费者的钱包非常紧，连中等收入人群都在省吃俭用。做营销时要注意消费者对价格更敏感，超市自有品牌、折扣、“性价比”信息会更受欢迎；同时，品牌参与食物救济等公益合作，也是在澳洲建立好口碑的常见方式。",
+        "relevance": "这是典型的“名人+老IP”组合：电视台用国际名人为一档回归节目制造话题和收视，也为广告商带来更多曝光。了解澳洲电视节目的话题人物和收视情况，有助于判断广告投放和品牌合作的时机。",
         "phrase": {
-          "en": "put food on the table",
-          "zh": "养家糊口，让家里有饭吃"
+          "en": "an easy yes",
+          "zh": "毫不犹豫就答应的事"
         }
       }
-    },
-    {
-      "category": "entertainment",
-      "title_en": "JJ Lin and Yang Mi keep a year-old online promise with a 'Jasmine Rain' stage at the Honor of Kings gala",
-      "title_zh": "一年前的评论区约定兑现！林俊杰唱《茉莉雨》，杨幂撑伞伴舞刷屏",
-      "search_zh": "林俊杰 杨幂 茉莉雨 王者荣耀共创之夜 撑伞",
-      "summary_en": "At the Honor of Kings \"Co-creation Night\" in Shenzhen on Sunday evening, singer JJ Lin performed his song \"Jasmine Rain\" while actress Yang Mi walked onto the stage holding an umbrella and danced along. The moment quickly went viral because it fulfilled a promise from a year ago, when Yang Mi requested the song in JJ Lin's comment section and he replied that they should sing it together on stage next time. Yang Mi did not actually sing, but JJ Lin later said in an interview that her performance completed the whole picture. On the same night, JJ Lin and Zhou Shen, who both promote the game, sang JJ Lin's classic \"Cao Cao\" together on stage for the first time as Tencent's hit mobile game celebrated its 11th anniversary.",
-      "summary_zh": "周日晚上，在深圳举行的王者荣耀“共创之夜”上，歌手林俊杰演唱了《茉莉雨》，演员杨幂撑着伞走上舞台，随歌起舞。这一幕迅速刷屏，因为它兑现了一年前的约定：当时杨幂在林俊杰的评论区点歌，林俊杰回复说下次一起在台上唱。杨幂其实并没有开口唱，但林俊杰后来在采访中说，她的表演让整个画面变得完整。同一晚，同为游戏代言人的林俊杰和周深首次同台合唱林俊杰的经典歌曲《曹操》，庆祝腾讯这款热门手游11周年。",
-      "why_zh": "评论区一句互动变成大型舞台“名场面”，是很典型的社交媒体营销案例。“fulfilled（兑现、实现）”“promote（推广、代言）”在品牌和娱乐新闻里很常用。",
-      "image": "",
-      "image_credit": "",
-      "source": "Sina Entertainment; Weibo; Sohu",
-      "url": "https://k.sina.cn/article_7879923118_1d5ae15ae06801pz9w.html",
-      "vocab": [
-        {
-          "word": "fulfilled",
-          "phonetic": "/fʊlˈfɪld/",
-          "pos": "v.",
-          "zh": "履行，兑现（承诺）",
-          "example": "The moment quickly went viral because it fulfilled a promise from a year ago, when Yang Mi requested the song in JJ Lin's comment section and he replied that they should sing it together on stage next time."
-        },
-        {
-          "word": "promote",
-          "phonetic": "/prəˈməʊt/",
-          "pos": "v.",
-          "zh": "推广，宣传（为品牌代言）",
-          "example": "On the same night, JJ Lin and Zhou Shen, who both promote the game, sang JJ Lin's classic \"Cao Cao\" together on stage for the first time as Tencent's hit mobile game celebrated its 11th anniversary."
-        }
-      ]
     }
   ]
 }
