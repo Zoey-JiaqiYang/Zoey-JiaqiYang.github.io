@@ -1947,5 +1947,207 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "party-celebrations",
+    "added": "2026-10-28",
+    "name": "派对与节日",
+    "icon": "🎉",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🎃",
+        "w": "carve a pumpkin",
+        "ph": "/kɑːv ə ˈpʌmpkɪn/",
+        "pos": "phr.",
+        "zh": "雕南瓜灯",
+        "ex": "The kids want to carve a pumpkin for Halloween.",
+        "tip": "南瓜灯叫 jack-o'-lantern；carve = 雕刻",
+        "accept": [
+          "carve a pumpkin",
+          "pumpkin",
+          "jack o lantern",
+          "jack-o'-lantern"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👻",
+        "w": "trick or treat",
+        "ph": "/ˌtrɪk ɔː ˈtriːt/",
+        "pos": "phr.",
+        "zh": "不给糖就捣蛋",
+        "ex": "More Aussie kids go trick or treating every year.",
+        "tip": "10 月 31 日万圣节，在澳洲越来越流行",
+        "accept": [
+          "trick or treat",
+          "trick-or-treat",
+          "halloween",
+          "trick or treating"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍬",
+        "w": "lollies",
+        "ph": "/ˈlɒliz/",
+        "pos": "n.",
+        "zh": "糖果（澳洲说法）",
+        "ex": "Grab a bag of lollies for the trick-or-treaters.",
+        "tip": "澳洲说 lollies，美国说 candy，英国说 sweets",
+        "accept": [
+          "lollies",
+          "lolly",
+          "candy",
+          "sweets"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎂",
+        "w": "blow out the candles",
+        "ph": "/bləʊ aʊt ðə ˈkændlz/",
+        "pos": "phr.",
+        "zh": "吹蜡烛",
+        "ex": "Make a wish and blow out the candles!",
+        "tip": "make a wish = 许愿",
+        "accept": [
+          "blow out the candles",
+          "candles",
+          "blow out candles",
+          "birthday cake"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥂",
+        "w": "make a toast",
+        "ph": "/meɪk ə təʊst/",
+        "pos": "phr.",
+        "zh": "敬酒、举杯致辞",
+        "ex": "I'd like to make a toast to the happy couple.",
+        "tip": "toast 也是「吐司面包」；干杯直接说 Cheers!",
+        "accept": [
+          "make a toast",
+          "toast",
+          "cheers",
+          "propose a toast"
+        ],
+        "near": [
+          "bubbly"
+        ]
+      },
+      {
+        "emoji": "🍾",
+        "w": "bubbly",
+        "ph": "/ˈbʌbli/",
+        "pos": "n.",
+        "zh": "香槟、起泡酒（口语）",
+        "ex": "Let's crack open the bubbly — we hit our target!",
+        "tip": "crack open = 开（一瓶酒）",
+        "accept": [
+          "bubbly",
+          "champagne",
+          "prosecco",
+          "sparkling wine"
+        ],
+        "near": [
+          "make a toast"
+        ]
+      },
+      {
+        "emoji": "🎁",
+        "w": "wrap a present",
+        "ph": "/ræp ə ˈpreznt/",
+        "pos": "phr.",
+        "zh": "包礼物",
+        "ex": "Can you help me wrap a present for Mum?",
+        "tip": "wrapping paper = 包装纸；w 不发音",
+        "accept": [
+          "wrap a present",
+          "wrap a gift",
+          "present",
+          "gift"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎆",
+        "w": "fireworks",
+        "ph": "/ˈfaɪəwɜːks/",
+        "pos": "n.",
+        "zh": "烟花",
+        "ex": "Sydney's New Year's Eve fireworks are world-famous.",
+        "tip": "",
+        "accept": [
+          "fireworks",
+          "firework",
+          "fireworks display"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎄",
+        "w": "Chrissy",
+        "ph": "/ˈkrɪsi/",
+        "pos": "n.",
+        "zh": "圣诞节（澳洲口语）",
+        "ex": "What are you doing for Chrissy this year?",
+        "tip": "Christmas 的澳洲简称；Chrissy pressie = 圣诞礼物",
+        "accept": [
+          "Chrissy",
+          "christmas",
+          "xmas",
+          "christmas tree"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪅",
+        "w": "piñata",
+        "ph": "/pɪnˈjɑːtə/",
+        "pos": "n.",
+        "zh": "皮纳塔（打糖果的彩罐）",
+        "ex": "The kids took turns whacking the piñata.",
+        "tip": "whack = 用力打",
+        "accept": [
+          "piñata",
+          "pinata"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎤",
+        "w": "karaoke",
+        "ph": "/ˌkæriˈəʊki/",
+        "pos": "n.",
+        "zh": "卡拉 OK",
+        "ex": "We ended the work party with karaoke.",
+        "tip": "英文读音和中文差很多：/ˌkæriˈəʊki/",
+        "accept": [
+          "karaoke",
+          "ktv",
+          "sing",
+          "microphone"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪩",
+        "w": "disco ball",
+        "ph": "/ˈdɪskəʊ bɔːl/",
+        "pos": "n.",
+        "zh": "迪斯科球",
+        "ex": "There was a giant disco ball above the dance floor.",
+        "tip": "也叫 mirror ball",
+        "accept": [
+          "disco ball",
+          "mirror ball",
+          "dance floor",
+          "disco"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
