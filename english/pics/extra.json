@@ -2149,5 +2149,207 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "workplace",
+    "added": "2026-10-29",
+    "name": "职场日常",
+    "icon": "🏢",
+    "prompt": "上班时怎么说？",
+    "items": [
+      {
+        "emoji": "✅",
+        "w": "tick",
+        "ph": "/tɪk/",
+        "pos": "n./v.",
+        "zh": "打勾、勾选",
+        "ex": "Just tick the box if you agree.",
+        "tip": "澳洲/英国说 tick，美国说 check mark",
+        "accept": [
+          "tick",
+          "check",
+          "check mark",
+          "tick the box"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📝",
+        "w": "minutes",
+        "ph": "/ˈmɪnɪts/",
+        "pos": "n.",
+        "zh": "会议纪要",
+        "ex": "Can someone take the minutes for today's meeting?",
+        "tip": "take the minutes = 做会议记录；注意和「分钟」同形",
+        "accept": [
+          "minutes",
+          "meeting minutes",
+          "notes",
+          "take notes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📊",
+        "w": "bar chart",
+        "ph": "/ˈbɑː tʃɑːt/",
+        "pos": "n.",
+        "zh": "柱状图",
+        "ex": "A bar chart would make this data much easier to read.",
+        "tip": "饼图 pie chart，折线图 line graph",
+        "accept": [
+          "bar chart",
+          "chart",
+          "graph",
+          "bar graph"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⏰",
+        "w": "deadline",
+        "ph": "/ˈdedlaɪn/",
+        "pos": "n.",
+        "zh": "截止时间",
+        "ex": "The deadline for the proposal is COB Friday.",
+        "tip": "COB = close of business（下班前）",
+        "accept": [
+          "deadline",
+          "due date",
+          "due"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎯",
+        "w": "target",
+        "ph": "/ˈtɑːɡɪt/",
+        "pos": "n.",
+        "zh": "目标、指标",
+        "ex": "We smashed our sales target this quarter.",
+        "tip": "smash a target = 大幅超额完成",
+        "accept": [
+          "target",
+          "goal",
+          "kpi",
+          "objective"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💡",
+        "w": "brainstorm",
+        "ph": "/ˈbreɪnstɔːm/",
+        "pos": "v./n.",
+        "zh": "头脑风暴",
+        "ex": "Let's brainstorm some ideas for the campaign.",
+        "tip": "idea 也可以说 have a lightbulb moment",
+        "accept": [
+          "brainstorm",
+          "idea",
+          "ideas",
+          "brainstorming"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📣",
+        "w": "announcement",
+        "ph": "/əˈnaʊnsmənt/",
+        "pos": "n.",
+        "zh": "公告、宣布",
+        "ex": "There's a big announcement at the all-hands meeting.",
+        "tip": "all-hands = 全员大会",
+        "accept": [
+          "announcement",
+          "announce",
+          "news"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔔",
+        "w": "reminder",
+        "ph": "/rɪˈmaɪndə(r)/",
+        "pos": "n.",
+        "zh": "提醒",
+        "ex": "Just a friendly reminder that timesheets are due today.",
+        "tip": "Just a friendly reminder… 是职场邮件超常用开头",
+        "accept": [
+          "reminder",
+          "notification",
+          "alert"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏢",
+        "w": "head office",
+        "ph": "/ˌhed ˈɒfɪs/",
+        "pos": "n.",
+        "zh": "总部",
+        "ex": "I have to go into head office in the CBD on Tuesdays.",
+        "tip": "CBD = 市中心商业区（澳洲常用）",
+        "accept": [
+          "head office",
+          "headquarters",
+          "hq",
+          "office"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪑",
+        "w": "hot desk",
+        "ph": "/ˈhɒt desk/",
+        "pos": "n./v.",
+        "zh": "共享工位（不固定座位）",
+        "ex": "We hot desk now, so get in early to grab a spot.",
+        "tip": "hot desking = 不设固定座位的办公方式",
+        "accept": [
+          "hot desk",
+          "hot desking",
+          "desk"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏖️",
+        "w": "annual leave",
+        "ph": "/ˌænjuəl ˈliːv/",
+        "pos": "n.",
+        "zh": "年假",
+        "ex": "I'm on annual leave next week — back on the 10th.",
+        "tip": "澳洲说 annual leave，美国说 vacation；请假 = take leave",
+        "accept": [
+          "annual leave",
+          "leave",
+          "holiday",
+          "vacation",
+          "on leave"
+        ],
+        "near": [
+          "sickie"
+        ]
+      },
+      {
+        "emoji": "🛌",
+        "w": "sickie",
+        "ph": "/ˈsɪki/",
+        "pos": "n.",
+        "zh": "（装病）请病假",
+        "ex": "He chucked a sickie the day after the grand final.",
+        "tip": "chuck a sickie = 澳洲俚语「请病假（常暗示装病）」",
+        "accept": [
+          "sickie",
+          "sick day",
+          "sick leave",
+          "chuck a sickie"
+        ],
+        "near": [
+          "annual leave"
+        ]
+      }
+    ]
   }
 ]
