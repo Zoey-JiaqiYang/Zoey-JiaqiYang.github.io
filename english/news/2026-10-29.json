@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T01:56:13+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Australia's inflation rises to 4.3% as housing and fuel costs climb, raising bets on a rate rise next week",
+      "title_zh": "澳洲9月通胀升至4.3%：住房和油价推高物价，市场押注央行下周加息",
+      "search_zh": "澳大利亚 9月 通胀 4.3% CPI 住房 油价 澳联储 加息 11月3日",
+      "summary_en": "Australia's annual inflation rate rose to 4.3% in the 12 months to September, up from 4.0% in August and slightly above what economists had expected, according to the Australian Bureau of Statistics. Housing was the largest contributor, with prices up 5.2% over the year, as builders passed on higher costs for materials and labour and households paid more for electricity. Transport costs also jumped because of higher petrol prices, while the trimmed mean, a measure of underlying inflation that removes the biggest price swings, rose to 3.6%. The figures have strengthened market expectations that the Reserve Bank will raise interest rates at its next meeting on Tuesday, 3 November, which is Melbourne Cup Day.",
+      "summary_zh": "澳大利亚统计局数据显示，截至9月的12个月里，澳洲年度通胀率升至4.3%，高于8月的4.0%，也略高于经济学家的预期。住房是最大的推动因素，价格一年内上涨5.2%，原因是建筑商把材料和人工上涨的成本转嫁出去，家庭的电费支出也增加了。由于汽油价格上涨，交通费用也大幅上升；而“截尾均值”这一剔除最大价格波动后的核心通胀指标升至3.6%。这些数据加强了市场的预期：澳洲储备银行将在11月3日星期二（也就是墨尔本杯赛马日）的下一次会议上加息。",
+      "why_zh": "通胀和利率直接影响房贷、房租和日常开销，也影响消费者愿不愿意花钱。“contributor（促成因素）”“expectations（预期）”是读经济新闻时最常见的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Australian Bureau of Statistics; ABC News; Yahoo News Australia; Savings.com.au",
+      "url": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382",
+      "vocab": [
+        {
+          "word": "contributor",
+          "phonetic": "/kənˈtrɪbjətə(r)/",
+          "pos": "n.",
+          "zh": "促成因素；贡献者",
+          "example": "Housing was the largest contributor, with prices up 5.2% over the year, as builders passed on higher costs for materials and labour and households paid more for electricity."
+        },
+        {
+          "word": "expectations",
+          "phonetic": "/ˌekspekˈteɪʃnz/",
+          "pos": "n.",
+          "zh": "预期，期望",
+          "example": "The figures have strengthened market expectations that the Reserve Bank will raise interest rates at its next meeting on Tuesday, 3 November, which is Melbourne Cup Day."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲物价涨得比预想的还快，尤其是住房和汽油，所以大家普遍认为澳联储下周二会再次加息来给经济“降温”。",
+        "facts": [
+          {
+            "icon": "📊",
+            "name": "澳大利亚统计局 ABS",
+            "text": "澳洲官方的统计机构，负责公布通胀、就业、人口等数据。这次的数据在10月28日发布。"
+          },
+          {
+            "icon": "🛒",
+            "name": "通胀 / CPI",
+            "text": "CPI是“消费者物价指数”，衡量一篮子日常商品和服务的价格变化。通胀4.3%，大致意思是同样的东西比一年前贵了4.3%。"
+          },
+          {
+            "icon": "✂️",
+            "name": "截尾均值 trimmed mean",
+            "text": "一种“核心通胀”指标：把涨跌最极端的那部分商品（这次包括汽油）去掉后再算平均涨幅，更能反映物价的整体趋势，是央行最看重的数字之一。"
+          },
+          {
+            "icon": "🏦",
+            "name": "澳洲储备银行 RBA",
+            "text": "澳大利亚的中央银行，通过调整“现金利率”来控制通胀。加息会让贷款更贵，从而让大家少花钱、物价涨得慢一些。"
+          },
+          {
+            "icon": "🏇",
+            "name": "墨尔本杯日 Melbourne Cup Day",
+            "text": "每年11月第一个星期二的著名赛马日，维州放假。澳联储常在这一天公布利率决定。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "建材、人工成本和电费上涨",
+            "b": "住房价格",
+            "type": "cause",
+            "label": "一年上涨5.2%"
+          },
+          {
+            "a": "油价上涨",
+            "b": "交通费用",
+            "type": "cause",
+            "label": "推高整体通胀"
+          },
+          {
+            "a": "通胀升至4.3%",
+            "b": "澳联储",
+            "type": "cause",
+            "label": "加息压力变大"
+          },
+          {
+            "a": "加息",
+            "b": "房贷家庭",
+            "type": "bad",
+            "label": "每月还款增加"
+          }
+        ],
+        "points": [
+          "截至9月的一年里，澳洲通胀从4.0%升到4.3%，略高于预期。",
+          "住房是最大推手（+5.2%），汽油涨价也推高了交通费用。",
+          "核心通胀指标“截尾均值”升至3.6%。",
+          "市场普遍预计澳联储将在11月3日（墨尔本杯日）加息。"
+        ],
+        "relevance": "通胀高、利率上升时，消费者会更精打细算，冲动消费减少，对价格和优惠更敏感。做营销时可以更强调“性价比”“省钱”“实用”，并留意年底购物季预算可能缩水；同时你自己的房租、房贷和日常开销也会受影响。",
+        "phrase": {
+          "en": "pass on costs",
+          "zh": "把（上涨的）成本转嫁（给顾客）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's car sales are forecast to fall 22% this year as subsidies shrink and buyers hold back",
+      "title_zh": "中国乘用车零售预计今年下滑22%：补贴退坡、消费者观望，跌破疫情首年水平",
+      "search_zh": "乘联会 崔东树 2026 乘用车零售 1850万辆 下降22% 以旧换新 补贴退坡",
+      "summary_en": "China's passenger car sales are expected to drop by about 22% to 18.5 million vehicles in 2026, according to a forecast from the China Passenger Car Association. That would be below the level seen in 2020, the first year of the pandemic, and far lower than the record of about 23.7 million cars sold in 2025. Retail sales fell 21.7% in the first nine months of the year, as smaller government trade-in subsidies and the reduction of tax breaks for electric vehicles made buyers more hesitant. With demand weak at home, Chinese carmakers are relying more heavily on overseas markets, and exports have become an increasingly important part of their sales.",
+      "summary_zh": "根据中国汽车流通协会乘用车市场信息联席分会（乘联会）的预测，2026年中国乘用车销量预计下降约22%，降至1850万辆。这将低于疫情第一年2020年的水平，也远低于2025年约2370万辆的历史纪录。今年前九个月零售销量下降21.7%，原因是政府以旧换新补贴减少、电动车购置税优惠缩减，让消费者买车更加犹豫。由于国内需求疲软，中国车企越来越依赖海外市场，出口在它们的销量中占比越来越重要。",
+      "why_zh": "汽车是中国最重要的消费品之一，车市冷热能反映老百姓的消费信心。“forecast（预测）”“hesitant（犹豫的）”在商业新闻里非常常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Caixin Global; Gasgoo; Tekedia; Automotive World",
+      "url": "https://www.caixinglobal.com/2026-10-28/china-passenger-car-sales-forecast-to-fall-22-in-2026-102498017.html",
+      "vocab": [
+        {
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "n.",
+          "zh": "预测，预报",
+          "example": "China's passenger car sales are expected to drop by about 22% to 18.5 million vehicles in 2026, according to a forecast from the China Passenger Car Association."
+        },
+        {
+          "word": "hesitant",
+          "phonetic": "/ˈhezɪtənt/",
+          "pos": "adj.",
+          "zh": "犹豫的，迟疑的",
+          "example": "Retail sales fell 21.7% in the first nine months of the year, as smaller government trade-in subsidies and the reduction of tax breaks for electric vehicles made buyers more hesitant."
+        }
+      ],
+      "explain": {
+        "one_liner": "前两年政府补贴让很多人提前买了车，今年补贴变少、大家不急着买，中国国内车市明显降温，车企只好更多往海外卖。",
+        "facts": [
+          {
+            "icon": "🚗",
+            "name": "乘联会 CPCA",
+            "text": "中国汽车流通协会乘用车市场信息联席分会，定期发布中国乘用车（私家车类）销量数据和预测，秘书长崔东树经常对车市发表看法。"
+          },
+          {
+            "icon": "♻️",
+            "name": "以旧换新补贴 trade-in subsidies",
+            "text": "政府给报废或置换旧车、购买新车的消费者发补贴。2026年补贴金额比之前减少，买车的吸引力下降。"
+          },
+          {
+            "icon": "🔋",
+            "name": "新能源车购置税优惠",
+            "text": "以前买电动车等新能源车可以免购置税，从2026年起改为减半征收，买车成本相应上升。"
+          },
+          {
+            "icon": "📉",
+            "name": "提前消费 pull-forward",
+            "text": "当大家知道优惠快结束时，会抢在之前买车，导致之后一段时间需求变少。乘联会也把“政策透支效应”列为今年车市疲软的原因之一。"
+          },
+          {
+            "icon": "🚢",
+            "name": "汽车出口",
+            "text": "国内卖不动时，比亚迪、长城、奇瑞、上汽名爵等中国品牌把更多车卖到海外，澳洲也是它们的重要市场之一。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "补贴和税收优惠减少",
+            "b": "中国消费者",
+            "type": "cause",
+            "label": "买车更犹豫"
+          },
+          {
+            "a": "国内需求疲软",
+            "b": "中国车企",
+            "type": "bad",
+            "label": "国内销量大幅下滑"
+          },
+          {
+            "a": "中国车企",
+            "b": "海外市场",
+            "type": "good",
+            "label": "加大出口力度"
+          },
+          {
+            "a": "乘联会",
+            "b": "2026年车市",
+            "type": "neutral",
+            "label": "预测全年下降约22%"
+          }
+        ],
+        "points": [
+          "乘联会预计2026年中国乘用车零售约1850万辆，下降约22%。",
+          "这将低于疫情第一年2020年的水平，远低于2025年约2370万辆的纪录。",
+          "前九个月销量已下降21.7%，补贴和税收优惠缩减是主要原因之一。",
+          "国内需求弱，车企更依赖出口。"
+        ],
+        "relevance": "中国车企在国内压力大，会更积极地开拓海外市场，澳洲是重点之一：可以预期比亚迪、奇瑞、长城等品牌在澳洲加大广告投放、推出更多车型和优惠，汽车行业的营销竞争会更激烈，也可能带来更多相关的市场营销工作机会。",
+        "phrase": {
+          "en": "hold back",
+          "zh": "（因犹豫而）暂不行动，观望"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Tencent Video unveils its 2027 line-up, including 'The Three-Body Problem: The Dark Forest', as Yang Yang and Chen Duling reunite",
+      "title_zh": "腾讯视频公布2027片单：《三体：黑暗森林》《庆余年3》在列，杨洋陈都灵时隔11年再合作",
+      "search_zh": "腾讯视频 2027片单 三体黑暗森林 庆余年3 杨洋 陈都灵 等风热吻你",
+      "summary_en": "Chinese streaming platform Tencent Video announced a list of more than 100 films and series for 2027 on Wednesday, and several titles quickly became trending topics on Weibo. The line-up includes 'The Three-Body Problem: The Dark Forest', a TV adaptation of Liu Cixin's science-fiction novel, as well as the third season of the popular costume drama 'Joy of Life'. Fans were also excited that actors Yang Yang and Chen Duling were confirmed as the leads of the romance drama 'Waiting for the Wind to Kiss You', their first project together since the 2015 film 'Left Ear'. Yang will reportedly play a reserved forensic doctor, while Chen will play a glamorous top celebrity who meets him again seven years after their teenage romance.",
+      "summary_zh": "中国视频平台腾讯视频周三公布了2027年的100多部影视作品片单，其中多部作品很快登上微博热搜。片单包括改编自刘慈欣科幻小说的电视剧《三体：黑暗森林》，以及热门古装剧《庆余年》第三季。粉丝们还很兴奋地看到，杨洋和陈都灵被官宣为都市爱情剧《等风热吻你》的主演，这是两人继2015年电影《左耳》之后首次再度合作。据报道，杨洋将饰演一位冷淡的天才法医，陈都灵则饰演一位明艳的顶流女星，两人在少年时期的恋情七年后再次重逢。",
+      "why_zh": "视频平台发布年度片单是中国娱乐圈的大事，也决定了明年追什么剧。“line-up（阵容，节目单）”“adaptation（改编作品）”是娱乐新闻的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); IT Home (IT之家); Sina Entertainment (新浪娱乐)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34352043",
+      "vocab": [
+        {
+          "word": "line-up",
+          "phonetic": "/ˈlaɪn ʌp/",
+          "pos": "n.",
+          "zh": "阵容；（节目、作品）清单",
+          "example": "The line-up includes 'The Three-Body Problem: The Dark Forest', a TV adaptation of Liu Cixin's science-fiction novel, as well as the third season of the popular costume drama 'Joy of Life'."
+        },
+        {
+          "word": "reserved",
+          "phonetic": "/rɪˈzɜːvd/",
+          "pos": "adj.",
+          "zh": "矜持的，内敛的，不爱表露感情的",
+          "example": "Yang will reportedly play a reserved forensic doctor, while Chen will play a glamorous top celebrity who meets him again seven years after their teenage romance."
+        }
+      ]
+    }
+  ]
+}
