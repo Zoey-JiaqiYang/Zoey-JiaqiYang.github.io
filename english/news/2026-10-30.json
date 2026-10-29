@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:23:56+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Alphabet shares fall about 10% after Google's parent misses profit forecasts, even as its cloud business doubles",
+      "title_zh": "谷歌母公司Alphabet利润不及预期，盘后股价跌约10%；云业务收入翻倍，搜索广告增速放缓",
+      "search_zh": "Alphabet 谷歌 第三季度 财报 2026 盘后 下跌10% 谷歌云 搜索广告 资本支出",
+      "summary_en": "Shares in Alphabet, the parent company of Google, fell about 10% in after-hours trading on Wednesday, US time, after its third-quarter profit came in well below Wall Street's expectations. Revenue rose 25% to about US$127.6 billion, but earnings per share were US$2.12, compared with forecasts of around US$3, partly because of a paper loss on the company's stake in SpaceX. Google Cloud was the standout, with revenue more than doubling to US$30.7 billion as businesses spent heavily on artificial intelligence, while search advertising grew a slower 12% to US$63.3 billion. Investors are also worried about the huge amounts Alphabet is spending on AI data centres, and the company said it expects this spending to increase significantly again in 2027.",
+      "summary_zh": "谷歌的母公司Alphabet第三季度利润远低于华尔街预期，美国时间周三盘后交易中股价下跌约10%。公司营收增长25%，达到约1276亿美元，但每股收益只有2.12美元，而市场预期约为3美元，部分原因是它持有的SpaceX股份出现了账面亏损。谷歌云是最亮眼的业务，由于企业大举投入人工智能，其收入翻了一倍多，达到307亿美元；而搜索广告收入增速放缓至12%，为633亿美元。投资者还担心Alphabet在AI数据中心上的巨额支出，公司表示预计2027年这方面的支出还将再次大幅增加。",
+      "why_zh": "谷歌搜索广告和YouTube是很多品牌最主要的投放渠道，谷歌的业绩和AI投入方向会影响整个数字营销行业。“stake（股份）”“standout（最突出的）”在财经新闻里很常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Alphabet Q3 2026 earnings release; CNBC; Investing.com; 9to5Google; Benzinga",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "vocab": [
+        {
+          "word": "stake",
+          "phonetic": "/steɪk/",
+          "pos": "n.",
+          "zh": "（在公司中持有的）股份",
+          "example": "Revenue rose 25% to about US$127.6 billion, but earnings per share were US$2.12, compared with forecasts of around US$3, partly because of a paper loss on the company's stake in SpaceX."
+        },
+        {
+          "word": "standout",
+          "phonetic": "/ˈstændaʊt/",
+          "pos": "n.",
+          "zh": "最突出的人或事物；亮点",
+          "example": "Google Cloud was the standout, with revenue more than doubling to US$30.7 billion as businesses spent heavily on artificial intelligence, while search advertising grew a slower 12% to US$63.3 billion."
+        }
+      ],
+      "explain": {
+        "one_liner": "谷歌赚的钱（营收）还在快速增长，但利润没达到投资者的预期，再加上AI烧钱太多，股价应声大跌。",
+        "facts": [
+          {
+            "icon": "🔍",
+            "name": "Alphabet",
+            "text": "谷歌（Google）的母公司，旗下有谷歌搜索、YouTube、安卓、谷歌云和AI助手Gemini等，是全球最大的广告公司之一。"
+          },
+          {
+            "icon": "☁️",
+            "name": "谷歌云 Google Cloud",
+            "text": "把服务器、存储和AI模型“租”给企业使用的业务。现在很多公司在开发AI产品，需要大量算力，所以这块业务增长很快。"
+          },
+          {
+            "icon": "💵",
+            "name": "每股收益 EPS",
+            "text": "公司利润除以股票数量，表示每一股赚了多少钱。如果低于分析师预期，股价通常会下跌。"
+          },
+          {
+            "icon": "🌙",
+            "name": "盘后交易 after-hours trading",
+            "text": "股市正式收盘后仍可进行的交易。很多美国公司在收盘后公布财报，所以股价的第一反应常出现在盘后。"
+          },
+          {
+            "icon": "🚀",
+            "name": "SpaceX",
+            "text": "马斯克创办的太空火箭公司。谷歌很早就投资了它，SpaceX的估值涨跌会让Alphabet的账面利润随之变化，即使谷歌并没有卖出股份。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "资本支出 capex",
+            "text": "公司用来买设备、建数据中心等长期投入的钱。AI需要大量芯片和数据中心，所以科技巨头的这笔支出越来越大。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "企业大举投入AI",
+            "b": "谷歌云",
+            "type": "cause",
+            "label": "收入翻倍至307亿美元"
+          },
+          {
+            "a": "SpaceX股份账面亏损",
+            "b": "Alphabet利润",
+            "type": "bad",
+            "label": "拉低每股收益"
+          },
+          {
+            "a": "利润不及预期",
+            "b": "Alphabet股价",
+            "type": "cause",
+            "label": "盘后下跌约10%"
+          },
+          {
+            "a": "Alphabet",
+            "b": "AI数据中心",
+            "type": "neutral",
+            "label": "2027年支出预计再大幅增加"
+          }
+        ],
+        "points": [
+          "第三季度营收增长25%，约1276亿美元，但每股收益2.12美元，远低于约3美元的预期。",
+          "谷歌云收入翻倍多，达到307亿美元，是最大亮点。",
+          "搜索广告收入增长12%，达633亿美元，增速有所放缓。",
+          "投资者担心AI支出过大，股价盘后跌约10%。"
+        ],
+        "relevance": "谷歌搜索和YouTube是澳洲品牌最重要的投放渠道之一。谷歌正把AI深度融入搜索和广告产品，未来广告的形式、竞价和效果衡量方式都可能改变；做营销的人要关注AI搜索对流量和关键词投放的影响，提前学习相关新工具。",
+        "phrase": {
+          "en": "come in below expectations",
+          "zh": "（业绩、数据）低于预期"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Woolworths warns of a 'tighter Christmas' for many families as sales rise but cost-of-living pressure bites",
+      "title_zh": "伍尔沃斯季度销售增长4.7%，但警告很多家庭今年要过一个“更紧巴的圣诞”",
+      "search_zh": "Woolworths 伍尔沃斯 第一季度 销售额 194亿澳元 圣诞 生活成本 Amanda Bardwell Big W",
+      "summary_en": "Woolworths, Australia's biggest supermarket chain, has warned that many families face a tighter Christmas this year as rising costs squeeze household budgets. The company said on Wednesday that group sales rose 4.7% to A$19.4 billion in the 14 weeks to 4 October, with its Australian food business growing 6.9%. Average prices, excluding tobacco, fell 0.7%, helped by its 'Lower Shelf Price' range, while online sales jumped 16% to A$3.1 billion as more shoppers ordered groceries from home. However, chief executive Amanda Bardwell said fuel, electricity and insurance costs were rising faster than food, and sales at discount department store Big W fell 0.9% as people cut back on non-essential items.",
+      "summary_zh": "澳洲最大的连锁超市伍尔沃斯（Woolworths）警告说，由于各种成本上涨挤压家庭预算，今年很多家庭将过一个更紧巴的圣诞节。公司周三表示，在截至10月4日的14周里，集团销售额增长4.7%，达到194亿澳元，其中澳洲食品业务增长6.9%。在“Lower Shelf Price（长期低价）”系列的带动下，不含烟草的平均价格下降了0.7%；同时，越来越多顾客在家网购食品杂货，网上销售额大涨16%，达到31亿澳元。不过，首席执行官阿曼达·巴德韦尔表示，燃油、电费和保险费的上涨速度比食品更快，而由于人们减少了非必需品的购买，旗下折扣百货店Big W的销售额下降了0.9%。",
+      "why_zh": "超市的销售数据最能反映普通澳洲家庭的真实消费情况，也是年底购物季的风向标。“squeeze（挤压）”“non-essential（非必需的）”是讨论生活成本时的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Woolworths Group ASX announcement; Yahoo Finance Australia; AAP; Retail Insight Network; Capital Brief",
+      "url": "https://www.retail-insight-network.com/news/woolworths-first-quarter-sales-rise-4-7/",
+      "vocab": [
+        {
+          "word": "squeeze",
+          "phonetic": "/skwiːz/",
+          "pos": "v.",
+          "zh": "挤压；使（钱、预算）紧张",
+          "example": "Woolworths, Australia's biggest supermarket chain, has warned that many families face a tighter Christmas this year as rising costs squeeze household budgets."
+        },
+        {
+          "word": "non-essential",
+          "phonetic": "/ˌnɒn ɪˈsenʃl/",
+          "pos": "adj.",
+          "zh": "非必需的",
+          "example": "However, chief executive Amanda Bardwell said fuel, electricity and insurance costs were rising faster than food, and sales at discount department store Big W fell 0.9% as people cut back on non-essential items."
+        }
+      ],
+      "explain": {
+        "one_liner": "大家还得买菜，所以超市生意不错；但油费、电费、保险都在涨，人们在其他东西上越来越省，圣诞节花钱也会更谨慎。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "伍尔沃斯 Woolworths",
+            "text": "澳洲最大的连锁超市集团（大家常叫它Woolies），和Coles是两大超市巨头，旗下还有折扣百货Big W等业务。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "阿曼达·巴德韦尔 Amanda Bardwell",
+            "text": "伍尔沃斯集团的首席执行官（CEO），负责公司的整体经营。"
+          },
+          {
+            "icon": "🏷️",
+            "name": "Lower Shelf Price",
+            "text": "伍尔沃斯推出的长期低价商品系列，目前超过1000种商品，用来吸引对价格敏感的顾客。"
+          },
+          {
+            "icon": "🏬",
+            "name": "Big W",
+            "text": "伍尔沃斯旗下的折扣百货店，卖衣服、玩具、家居用品等。它卖的多是“可买可不买”的东西，所以经济紧张时最先受影响。"
+          },
+          {
+            "icon": "📅",
+            "name": "第一季度 first quarter",
+            "text": "伍尔沃斯的财年从7月左右开始，所以“第一季度”指的是今年7月初到10月4日这14周。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "燃油、电费、保险上涨",
+            "b": "家庭预算",
+            "type": "bad",
+            "label": "钱越来越紧"
+          },
+          {
+            "a": "家庭预算紧张",
+            "b": "Big W",
+            "type": "cause",
+            "label": "非必需品销售下降0.9%"
+          },
+          {
+            "a": "Lower Shelf Price低价系列",
+            "b": "平均价格",
+            "type": "cause",
+            "label": "下降0.7%"
+          },
+          {
+            "a": "顾客",
+            "b": "伍尔沃斯网上购物",
+            "type": "good",
+            "label": "网上销售增长16%"
+          }
+        ],
+        "points": [
+          "截至10月4日的14周，集团销售额增长4.7%，达194亿澳元。",
+          "澳洲食品业务增长6.9%，不含烟草的平均价格下降0.7%。",
+          "网上销售额大增16%，达31亿澳元。",
+          "CEO警告很多家庭圣诞节会更拮据，Big W销售额下降0.9%。"
+        ],
+        "relevance": "这说明澳洲消费者在“必需品”和“非必需品”之间分化明显：日常食品照买，但在服装、玩具、家居等方面明显节省。做年底和圣诞营销时，可以强调性价比、会员积分和实用价值；网购持续增长也说明线上渠道和电商广告越来越重要。",
+        "phrase": {
+          "en": "cost-of-living pressure bites",
+          "zh": "生活成本压力开始真正让人感到吃力"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's new autumn school holidays spark a boom in family travel during the usual off-season",
+      "title_zh": "多地中小学首推秋假：亲子错峰游升温，11月机票、酒店预订大涨",
+      "search_zh": "中小学秋假 2026 亲子游 错峰出游 美团 机票搜索量 增长136% 三亚 海口 淡季门票",
+      "summary_en": "Many parts of China are introducing a new autumn school break for primary and secondary students this year, and it is creating a boom in family travel during what is usually a quiet season. The breaks, typically two to four weekdays joined to a weekend, mostly fall in mid-November, after spring and autumn holidays were included in the government's annual work report for the first time in 2026. According to data from the platform Meituan, searches for November flights rose 136% and hotel bookings jumped 175% in the week after cities such as Shenzhen announced their plans. Popular destinations include Sanya and Haikou, but some parents have complained online that flight and hotel prices are rising, and others have asked scenic spots to start their cheaper off-season ticket prices earlier.",
+      "summary_zh": "今年中国多地为中小学生新设了秋假，这在通常比较冷清的旅游淡季里带动了一波亲子出游热潮。秋假一般是把2到4个工作日和周末连在一起，大多安排在11月中旬；2026年，中小学春秋假首次被写入政府工作报告。美团平台数据显示，在深圳等城市公布秋假安排后的一周内，11月出行的机票搜索量增长136%，住宿预订量增长175%。三亚、海口等地成为热门目的地，但也有家长在网上抱怨机票和酒店价格上涨，还有网友呼吁景区提前执行更便宜的淡季门票价格。",
+      "why_zh": "秋假是中国今年新出现的社会现象，改变了家庭出游和旅游行业的节奏。“boom（热潮）”“off-season（淡季的）”是旅游和商业报道中的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); China.com (中华网); Sina Finance (新浪财经); Guangming Online (光明网)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34358573",
+      "vocab": [
+        {
+          "word": "boom",
+          "phonetic": "/buːm/",
+          "pos": "n.",
+          "zh": "（突然的）繁荣，热潮",
+          "example": "Many parts of China are introducing a new autumn school break for primary and secondary students this year, and it is creating a boom in family travel during what is usually a quiet season."
+        },
+        {
+          "word": "off-season",
+          "phonetic": "/ˈɒf siːzn/",
+          "pos": "adj.",
+          "zh": "淡季的",
+          "example": "Popular destinations include Sanya and Haikou, but some parents have complained online that flight and hotel prices are rising, and others have asked scenic spots to start their cheaper off-season ticket prices earlier."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国很多地方今年开始给中小学生放几天“秋假”，家长趁机带孩子错峰出游，原本冷清的11月旅游市场一下子热闹起来。",
+        "facts": [
+          {
+            "icon": "🍂",
+            "name": "秋假 autumn break",
+            "text": "在国庆假期之后、寒假之前，给中小学生额外放的几天假，一般把2到4个工作日和周末连起来，组成4到6天的小长假，而且不需要调休补课。"
+          },
+          {
+            "icon": "📄",
+            "name": "政府工作报告",
+            "text": "中国政府每年春天发布的工作计划。2026年首次提到推行中小学春秋假，各地随后陆续出台具体方案。"
+          },
+          {
+            "icon": "🛵",
+            "name": "美团 Meituan",
+            "text": "中国大型生活服务平台，提供外卖、酒店、机票和景点门票预订等服务，它的预订数据常被用来观察消费趋势。"
+          },
+          {
+            "icon": "🏝️",
+            "name": "三亚、海口",
+            "text": "海南省的两个城市，冬天也很温暖，是中国人很喜欢的海岛度假目的地。"
+          },
+          {
+            "icon": "🎟️",
+            "name": "淡季票价 off-season prices",
+            "text": "很多景区在游客少的月份会降低门票价格。秋假让11月不再“淡”，网友希望淡季优惠能提前开始。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "各地推出秋假",
+            "b": "亲子家庭",
+            "type": "cause",
+            "label": "带孩子错峰出游"
+          },
+          {
+            "a": "出游需求增加",
+            "b": "机票和酒店",
+            "type": "cause",
+            "label": "预订大涨、价格上升"
+          },
+          {
+            "a": "旅游平台和景区",
+            "b": "秋假",
+            "type": "good",
+            "label": "淡季生意变好"
+          },
+          {
+            "a": "家长",
+            "b": "价格上涨",
+            "type": "bad",
+            "label": "抱怨出游成本变高"
+          }
+        ],
+        "points": [
+          "2026年中小学春秋假首次写入政府工作报告，多地推出秋假。",
+          "秋假多在11月中旬，一般是2到4个工作日连上周末。",
+          "美团数据：公布安排后一周，11月机票搜索量增长136%，住宿预订量增长175%。",
+          "三亚、海口等地很热门，但机票酒店涨价也引发抱怨。"
+        ],
+        "relevance": "中国家庭出游时间正在变化，旅游、酒店和亲子品牌会出现新的“11月小高峰”。如果你做旅游、教育或面向华人家庭的营销，可以关注这个新节点；中国游客的出行节奏变化，也可能影响到澳洲旅游业针对中国市场的推广时间。",
+        "phrase": {
+          "en": "travel during the off-season",
+          "zh": "错峰（在淡季）出游"
+        }
+      }
+    }
+  ]
+}

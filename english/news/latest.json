@@ -1,227 +1,299 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T01:56:13+11:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:23:56+11:00",
   "items": [
     {
       "category": "markets",
-      "title_en": "Australia's inflation rises to 4.3% as housing and fuel costs climb, raising bets on a rate rise next week",
-      "title_zh": "澳洲9月通胀升至4.3%：住房和油价推高物价，市场押注央行下周加息",
-      "search_zh": "澳大利亚 9月 通胀 4.3% CPI 住房 油价 澳联储 加息 11月3日",
-      "summary_en": "Australia's annual inflation rate rose to 4.3% in the 12 months to September, up from 4.0% in August and slightly above what economists had expected, according to the Australian Bureau of Statistics. Housing was the largest contributor, with prices up 5.2% over the year, as builders passed on higher costs for materials and labour and households paid more for electricity. Transport costs also jumped because of higher petrol prices, while the trimmed mean, a measure of underlying inflation that removes the biggest price swings, rose to 3.6%. The figures have strengthened market expectations that the Reserve Bank will raise interest rates at its next meeting on Tuesday, 3 November, which is Melbourne Cup Day.",
-      "summary_zh": "澳大利亚统计局数据显示，截至9月的12个月里，澳洲年度通胀率升至4.3%，高于8月的4.0%，也略高于经济学家的预期。住房是最大的推动因素，价格一年内上涨5.2%，原因是建筑商把材料和人工上涨的成本转嫁出去，家庭的电费支出也增加了。由于汽油价格上涨，交通费用也大幅上升；而“截尾均值”这一剔除最大价格波动后的核心通胀指标升至3.6%。这些数据加强了市场的预期：澳洲储备银行将在11月3日星期二（也就是墨尔本杯赛马日）的下一次会议上加息。",
-      "why_zh": "通胀和利率直接影响房贷、房租和日常开销，也影响消费者愿不愿意花钱。“contributor（促成因素）”“expectations（预期）”是读经济新闻时最常见的词。",
+      "title_en": "Alphabet shares fall about 10% after Google's parent misses profit forecasts, even as its cloud business doubles",
+      "title_zh": "谷歌母公司Alphabet利润不及预期，盘后股价跌约10%；云业务收入翻倍，搜索广告增速放缓",
+      "search_zh": "Alphabet 谷歌 第三季度 财报 2026 盘后 下跌10% 谷歌云 搜索广告 资本支出",
+      "summary_en": "Shares in Alphabet, the parent company of Google, fell about 10% in after-hours trading on Wednesday, US time, after its third-quarter profit came in well below Wall Street's expectations. Revenue rose 25% to about US$127.6 billion, but earnings per share were US$2.12, compared with forecasts of around US$3, partly because of a paper loss on the company's stake in SpaceX. Google Cloud was the standout, with revenue more than doubling to US$30.7 billion as businesses spent heavily on artificial intelligence, while search advertising grew a slower 12% to US$63.3 billion. Investors are also worried about the huge amounts Alphabet is spending on AI data centres, and the company said it expects this spending to increase significantly again in 2027.",
+      "summary_zh": "谷歌的母公司Alphabet第三季度利润远低于华尔街预期，美国时间周三盘后交易中股价下跌约10%。公司营收增长25%，达到约1276亿美元，但每股收益只有2.12美元，而市场预期约为3美元，部分原因是它持有的SpaceX股份出现了账面亏损。谷歌云是最亮眼的业务，由于企业大举投入人工智能，其收入翻了一倍多，达到307亿美元；而搜索广告收入增速放缓至12%，为633亿美元。投资者还担心Alphabet在AI数据中心上的巨额支出，公司表示预计2027年这方面的支出还将再次大幅增加。",
+      "why_zh": "谷歌搜索广告和YouTube是很多品牌最主要的投放渠道，谷歌的业绩和AI投入方向会影响整个数字营销行业。“stake（股份）”“standout（最突出的）”在财经新闻里很常用。",
       "image": "",
       "image_credit": "",
-      "source": "Australian Bureau of Statistics; ABC News; Yahoo News Australia; Savings.com.au",
-      "url": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382",
+      "source": "Alphabet Q3 2026 earnings release; CNBC; Investing.com; 9to5Google; Benzinga",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
       "vocab": [
         {
-          "word": "contributor",
-          "phonetic": "/kənˈtrɪbjətə(r)/",
+          "word": "stake",
+          "phonetic": "/steɪk/",
           "pos": "n.",
-          "zh": "促成因素；贡献者",
-          "example": "Housing was the largest contributor, with prices up 5.2% over the year, as builders passed on higher costs for materials and labour and households paid more for electricity."
+          "zh": "（在公司中持有的）股份",
+          "example": "Revenue rose 25% to about US$127.6 billion, but earnings per share were US$2.12, compared with forecasts of around US$3, partly because of a paper loss on the company's stake in SpaceX."
         },
         {
-          "word": "expectations",
-          "phonetic": "/ˌekspekˈteɪʃnz/",
+          "word": "standout",
+          "phonetic": "/ˈstændaʊt/",
           "pos": "n.",
-          "zh": "预期，期望",
-          "example": "The figures have strengthened market expectations that the Reserve Bank will raise interest rates at its next meeting on Tuesday, 3 November, which is Melbourne Cup Day."
+          "zh": "最突出的人或事物；亮点",
+          "example": "Google Cloud was the standout, with revenue more than doubling to US$30.7 billion as businesses spent heavily on artificial intelligence, while search advertising grew a slower 12% to US$63.3 billion."
         }
       ],
       "explain": {
-        "one_liner": "澳洲物价涨得比预想的还快，尤其是住房和汽油，所以大家普遍认为澳联储下周二会再次加息来给经济“降温”。",
+        "one_liner": "谷歌赚的钱（营收）还在快速增长，但利润没达到投资者的预期，再加上AI烧钱太多，股价应声大跌。",
         "facts": [
           {
-            "icon": "📊",
-            "name": "澳大利亚统计局 ABS",
-            "text": "澳洲官方的统计机构，负责公布通胀、就业、人口等数据。这次的数据在10月28日发布。"
+            "icon": "🔍",
+            "name": "Alphabet",
+            "text": "谷歌（Google）的母公司，旗下有谷歌搜索、YouTube、安卓、谷歌云和AI助手Gemini等，是全球最大的广告公司之一。"
           },
           {
-            "icon": "🛒",
-            "name": "通胀 / CPI",
-            "text": "CPI是“消费者物价指数”，衡量一篮子日常商品和服务的价格变化。通胀4.3%，大致意思是同样的东西比一年前贵了4.3%。"
+            "icon": "☁️",
+            "name": "谷歌云 Google Cloud",
+            "text": "把服务器、存储和AI模型“租”给企业使用的业务。现在很多公司在开发AI产品，需要大量算力，所以这块业务增长很快。"
           },
           {
-            "icon": "✂️",
-            "name": "截尾均值 trimmed mean",
-            "text": "一种“核心通胀”指标：把涨跌最极端的那部分商品（这次包括汽油）去掉后再算平均涨幅，更能反映物价的整体趋势，是央行最看重的数字之一。"
+            "icon": "💵",
+            "name": "每股收益 EPS",
+            "text": "公司利润除以股票数量，表示每一股赚了多少钱。如果低于分析师预期，股价通常会下跌。"
           },
           {
-            "icon": "🏦",
-            "name": "澳洲储备银行 RBA",
-            "text": "澳大利亚的中央银行，通过调整“现金利率”来控制通胀。加息会让贷款更贵，从而让大家少花钱、物价涨得慢一些。"
+            "icon": "🌙",
+            "name": "盘后交易 after-hours trading",
+            "text": "股市正式收盘后仍可进行的交易。很多美国公司在收盘后公布财报，所以股价的第一反应常出现在盘后。"
           },
           {
-            "icon": "🏇",
-            "name": "墨尔本杯日 Melbourne Cup Day",
-            "text": "每年11月第一个星期二的著名赛马日，维州放假。澳联储常在这一天公布利率决定。"
+            "icon": "🚀",
+            "name": "SpaceX",
+            "text": "马斯克创办的太空火箭公司。谷歌很早就投资了它，SpaceX的估值涨跌会让Alphabet的账面利润随之变化，即使谷歌并没有卖出股份。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "资本支出 capex",
+            "text": "公司用来买设备、建数据中心等长期投入的钱。AI需要大量芯片和数据中心，所以科技巨头的这笔支出越来越大。"
           }
         ],
         "relations": [
           {
-            "a": "建材、人工成本和电费上涨",
-            "b": "住房价格",
+            "a": "企业大举投入AI",
+            "b": "谷歌云",
             "type": "cause",
-            "label": "一年上涨5.2%"
+            "label": "收入翻倍至307亿美元"
           },
           {
-            "a": "油价上涨",
-            "b": "交通费用",
-            "type": "cause",
-            "label": "推高整体通胀"
-          },
-          {
-            "a": "通胀升至4.3%",
-            "b": "澳联储",
-            "type": "cause",
-            "label": "加息压力变大"
-          },
-          {
-            "a": "加息",
-            "b": "房贷家庭",
+            "a": "SpaceX股份账面亏损",
+            "b": "Alphabet利润",
             "type": "bad",
-            "label": "每月还款增加"
+            "label": "拉低每股收益"
+          },
+          {
+            "a": "利润不及预期",
+            "b": "Alphabet股价",
+            "type": "cause",
+            "label": "盘后下跌约10%"
+          },
+          {
+            "a": "Alphabet",
+            "b": "AI数据中心",
+            "type": "neutral",
+            "label": "2027年支出预计再大幅增加"
           }
         ],
         "points": [
-          "截至9月的一年里，澳洲通胀从4.0%升到4.3%，略高于预期。",
-          "住房是最大推手（+5.2%），汽油涨价也推高了交通费用。",
-          "核心通胀指标“截尾均值”升至3.6%。",
-          "市场普遍预计澳联储将在11月3日（墨尔本杯日）加息。"
+          "第三季度营收增长25%，约1276亿美元，但每股收益2.12美元，远低于约3美元的预期。",
+          "谷歌云收入翻倍多，达到307亿美元，是最大亮点。",
+          "搜索广告收入增长12%，达633亿美元，增速有所放缓。",
+          "投资者担心AI支出过大，股价盘后跌约10%。"
         ],
-        "relevance": "通胀高、利率上升时，消费者会更精打细算，冲动消费减少，对价格和优惠更敏感。做营销时可以更强调“性价比”“省钱”“实用”，并留意年底购物季预算可能缩水；同时你自己的房租、房贷和日常开销也会受影响。",
+        "relevance": "谷歌搜索和YouTube是澳洲品牌最重要的投放渠道之一。谷歌正把AI深度融入搜索和广告产品，未来广告的形式、竞价和效果衡量方式都可能改变；做营销的人要关注AI搜索对流量和关键词投放的影响，提前学习相关新工具。",
         "phrase": {
-          "en": "pass on costs",
-          "zh": "把（上涨的）成本转嫁（给顾客）"
+          "en": "come in below expectations",
+          "zh": "（业绩、数据）低于预期"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Woolworths warns of a 'tighter Christmas' for many families as sales rise but cost-of-living pressure bites",
+      "title_zh": "伍尔沃斯季度销售增长4.7%，但警告很多家庭今年要过一个“更紧巴的圣诞”",
+      "search_zh": "Woolworths 伍尔沃斯 第一季度 销售额 194亿澳元 圣诞 生活成本 Amanda Bardwell Big W",
+      "summary_en": "Woolworths, Australia's biggest supermarket chain, has warned that many families face a tighter Christmas this year as rising costs squeeze household budgets. The company said on Wednesday that group sales rose 4.7% to A$19.4 billion in the 14 weeks to 4 October, with its Australian food business growing 6.9%. Average prices, excluding tobacco, fell 0.7%, helped by its 'Lower Shelf Price' range, while online sales jumped 16% to A$3.1 billion as more shoppers ordered groceries from home. However, chief executive Amanda Bardwell said fuel, electricity and insurance costs were rising faster than food, and sales at discount department store Big W fell 0.9% as people cut back on non-essential items.",
+      "summary_zh": "澳洲最大的连锁超市伍尔沃斯（Woolworths）警告说，由于各种成本上涨挤压家庭预算，今年很多家庭将过一个更紧巴的圣诞节。公司周三表示，在截至10月4日的14周里，集团销售额增长4.7%，达到194亿澳元，其中澳洲食品业务增长6.9%。在“Lower Shelf Price（长期低价）”系列的带动下，不含烟草的平均价格下降了0.7%；同时，越来越多顾客在家网购食品杂货，网上销售额大涨16%，达到31亿澳元。不过，首席执行官阿曼达·巴德韦尔表示，燃油、电费和保险费的上涨速度比食品更快，而由于人们减少了非必需品的购买，旗下折扣百货店Big W的销售额下降了0.9%。",
+      "why_zh": "超市的销售数据最能反映普通澳洲家庭的真实消费情况，也是年底购物季的风向标。“squeeze（挤压）”“non-essential（非必需的）”是讨论生活成本时的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Woolworths Group ASX announcement; Yahoo Finance Australia; AAP; Retail Insight Network; Capital Brief",
+      "url": "https://www.retail-insight-network.com/news/woolworths-first-quarter-sales-rise-4-7/",
+      "vocab": [
+        {
+          "word": "squeeze",
+          "phonetic": "/skwiːz/",
+          "pos": "v.",
+          "zh": "挤压；使（钱、预算）紧张",
+          "example": "Woolworths, Australia's biggest supermarket chain, has warned that many families face a tighter Christmas this year as rising costs squeeze household budgets."
+        },
+        {
+          "word": "non-essential",
+          "phonetic": "/ˌnɒn ɪˈsenʃl/",
+          "pos": "adj.",
+          "zh": "非必需的",
+          "example": "However, chief executive Amanda Bardwell said fuel, electricity and insurance costs were rising faster than food, and sales at discount department store Big W fell 0.9% as people cut back on non-essential items."
+        }
+      ],
+      "explain": {
+        "one_liner": "大家还得买菜，所以超市生意不错；但油费、电费、保险都在涨，人们在其他东西上越来越省，圣诞节花钱也会更谨慎。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "伍尔沃斯 Woolworths",
+            "text": "澳洲最大的连锁超市集团（大家常叫它Woolies），和Coles是两大超市巨头，旗下还有折扣百货Big W等业务。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "阿曼达·巴德韦尔 Amanda Bardwell",
+            "text": "伍尔沃斯集团的首席执行官（CEO），负责公司的整体经营。"
+          },
+          {
+            "icon": "🏷️",
+            "name": "Lower Shelf Price",
+            "text": "伍尔沃斯推出的长期低价商品系列，目前超过1000种商品，用来吸引对价格敏感的顾客。"
+          },
+          {
+            "icon": "🏬",
+            "name": "Big W",
+            "text": "伍尔沃斯旗下的折扣百货店，卖衣服、玩具、家居用品等。它卖的多是“可买可不买”的东西，所以经济紧张时最先受影响。"
+          },
+          {
+            "icon": "📅",
+            "name": "第一季度 first quarter",
+            "text": "伍尔沃斯的财年从7月左右开始，所以“第一季度”指的是今年7月初到10月4日这14周。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "燃油、电费、保险上涨",
+            "b": "家庭预算",
+            "type": "bad",
+            "label": "钱越来越紧"
+          },
+          {
+            "a": "家庭预算紧张",
+            "b": "Big W",
+            "type": "cause",
+            "label": "非必需品销售下降0.9%"
+          },
+          {
+            "a": "Lower Shelf Price低价系列",
+            "b": "平均价格",
+            "type": "cause",
+            "label": "下降0.7%"
+          },
+          {
+            "a": "顾客",
+            "b": "伍尔沃斯网上购物",
+            "type": "good",
+            "label": "网上销售增长16%"
+          }
+        ],
+        "points": [
+          "截至10月4日的14周，集团销售额增长4.7%，达194亿澳元。",
+          "澳洲食品业务增长6.9%，不含烟草的平均价格下降0.7%。",
+          "网上销售额大增16%，达31亿澳元。",
+          "CEO警告很多家庭圣诞节会更拮据，Big W销售额下降0.9%。"
+        ],
+        "relevance": "这说明澳洲消费者在“必需品”和“非必需品”之间分化明显：日常食品照买，但在服装、玩具、家居等方面明显节省。做年底和圣诞营销时，可以强调性价比、会员积分和实用价值；网购持续增长也说明线上渠道和电商广告越来越重要。",
+        "phrase": {
+          "en": "cost-of-living pressure bites",
+          "zh": "生活成本压力开始真正让人感到吃力"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "China's car sales are forecast to fall 22% this year as subsidies shrink and buyers hold back",
-      "title_zh": "中国乘用车零售预计今年下滑22%：补贴退坡、消费者观望，跌破疫情首年水平",
-      "search_zh": "乘联会 崔东树 2026 乘用车零售 1850万辆 下降22% 以旧换新 补贴退坡",
-      "summary_en": "China's passenger car sales are expected to drop by about 22% to 18.5 million vehicles in 2026, according to a forecast from the China Passenger Car Association. That would be below the level seen in 2020, the first year of the pandemic, and far lower than the record of about 23.7 million cars sold in 2025. Retail sales fell 21.7% in the first nine months of the year, as smaller government trade-in subsidies and the reduction of tax breaks for electric vehicles made buyers more hesitant. With demand weak at home, Chinese carmakers are relying more heavily on overseas markets, and exports have become an increasingly important part of their sales.",
-      "summary_zh": "根据中国汽车流通协会乘用车市场信息联席分会（乘联会）的预测，2026年中国乘用车销量预计下降约22%，降至1850万辆。这将低于疫情第一年2020年的水平，也远低于2025年约2370万辆的历史纪录。今年前九个月零售销量下降21.7%，原因是政府以旧换新补贴减少、电动车购置税优惠缩减，让消费者买车更加犹豫。由于国内需求疲软，中国车企越来越依赖海外市场，出口在它们的销量中占比越来越重要。",
-      "why_zh": "汽车是中国最重要的消费品之一，车市冷热能反映老百姓的消费信心。“forecast（预测）”“hesitant（犹豫的）”在商业新闻里非常常见。",
+      "title_en": "China's new autumn school holidays spark a boom in family travel during the usual off-season",
+      "title_zh": "多地中小学首推秋假：亲子错峰游升温，11月机票、酒店预订大涨",
+      "search_zh": "中小学秋假 2026 亲子游 错峰出游 美团 机票搜索量 增长136% 三亚 海口 淡季门票",
+      "summary_en": "Many parts of China are introducing a new autumn school break for primary and secondary students this year, and it is creating a boom in family travel during what is usually a quiet season. The breaks, typically two to four weekdays joined to a weekend, mostly fall in mid-November, after spring and autumn holidays were included in the government's annual work report for the first time in 2026. According to data from the platform Meituan, searches for November flights rose 136% and hotel bookings jumped 175% in the week after cities such as Shenzhen announced their plans. Popular destinations include Sanya and Haikou, but some parents have complained online that flight and hotel prices are rising, and others have asked scenic spots to start their cheaper off-season ticket prices earlier.",
+      "summary_zh": "今年中国多地为中小学生新设了秋假，这在通常比较冷清的旅游淡季里带动了一波亲子出游热潮。秋假一般是把2到4个工作日和周末连在一起，大多安排在11月中旬；2026年，中小学春秋假首次被写入政府工作报告。美团平台数据显示，在深圳等城市公布秋假安排后的一周内，11月出行的机票搜索量增长136%，住宿预订量增长175%。三亚、海口等地成为热门目的地，但也有家长在网上抱怨机票和酒店价格上涨，还有网友呼吁景区提前执行更便宜的淡季门票价格。",
+      "why_zh": "秋假是中国今年新出现的社会现象，改变了家庭出游和旅游行业的节奏。“boom（热潮）”“off-season（淡季的）”是旅游和商业报道中的常用词。",
       "image": "",
       "image_credit": "",
-      "source": "Caixin Global; Gasgoo; Tekedia; Automotive World",
-      "url": "https://www.caixinglobal.com/2026-10-28/china-passenger-car-sales-forecast-to-fall-22-in-2026-102498017.html",
+      "source": "The Paper (澎湃新闻); China.com (中华网); Sina Finance (新浪财经); Guangming Online (光明网)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34358573",
       "vocab": [
         {
-          "word": "forecast",
-          "phonetic": "/ˈfɔːkɑːst/",
+          "word": "boom",
+          "phonetic": "/buːm/",
           "pos": "n.",
-          "zh": "预测，预报",
-          "example": "China's passenger car sales are expected to drop by about 22% to 18.5 million vehicles in 2026, according to a forecast from the China Passenger Car Association."
+          "zh": "（突然的）繁荣，热潮",
+          "example": "Many parts of China are introducing a new autumn school break for primary and secondary students this year, and it is creating a boom in family travel during what is usually a quiet season."
         },
         {
-          "word": "hesitant",
-          "phonetic": "/ˈhezɪtənt/",
+          "word": "off-season",
+          "phonetic": "/ˈɒf siːzn/",
           "pos": "adj.",
-          "zh": "犹豫的，迟疑的",
-          "example": "Retail sales fell 21.7% in the first nine months of the year, as smaller government trade-in subsidies and the reduction of tax breaks for electric vehicles made buyers more hesitant."
+          "zh": "淡季的",
+          "example": "Popular destinations include Sanya and Haikou, but some parents have complained online that flight and hotel prices are rising, and others have asked scenic spots to start their cheaper off-season ticket prices earlier."
         }
       ],
       "explain": {
-        "one_liner": "前两年政府补贴让很多人提前买了车，今年补贴变少、大家不急着买，中国国内车市明显降温，车企只好更多往海外卖。",
+        "one_liner": "中国很多地方今年开始给中小学生放几天“秋假”，家长趁机带孩子错峰出游，原本冷清的11月旅游市场一下子热闹起来。",
         "facts": [
           {
-            "icon": "🚗",
-            "name": "乘联会 CPCA",
-            "text": "中国汽车流通协会乘用车市场信息联席分会，定期发布中国乘用车（私家车类）销量数据和预测，秘书长崔东树经常对车市发表看法。"
+            "icon": "🍂",
+            "name": "秋假 autumn break",
+            "text": "在国庆假期之后、寒假之前，给中小学生额外放的几天假，一般把2到4个工作日和周末连起来，组成4到6天的小长假，而且不需要调休补课。"
           },
           {
-            "icon": "♻️",
-            "name": "以旧换新补贴 trade-in subsidies",
-            "text": "政府给报废或置换旧车、购买新车的消费者发补贴。2026年补贴金额比之前减少，买车的吸引力下降。"
+            "icon": "📄",
+            "name": "政府工作报告",
+            "text": "中国政府每年春天发布的工作计划。2026年首次提到推行中小学春秋假，各地随后陆续出台具体方案。"
           },
           {
-            "icon": "🔋",
-            "name": "新能源车购置税优惠",
-            "text": "以前买电动车等新能源车可以免购置税，从2026年起改为减半征收，买车成本相应上升。"
+            "icon": "🛵",
+            "name": "美团 Meituan",
+            "text": "中国大型生活服务平台，提供外卖、酒店、机票和景点门票预订等服务，它的预订数据常被用来观察消费趋势。"
           },
           {
-            "icon": "📉",
-            "name": "提前消费 pull-forward",
-            "text": "当大家知道优惠快结束时，会抢在之前买车，导致之后一段时间需求变少。乘联会也把“政策透支效应”列为今年车市疲软的原因之一。"
+            "icon": "🏝️",
+            "name": "三亚、海口",
+            "text": "海南省的两个城市，冬天也很温暖，是中国人很喜欢的海岛度假目的地。"
           },
           {
-            "icon": "🚢",
-            "name": "汽车出口",
-            "text": "国内卖不动时，比亚迪、长城、奇瑞、上汽名爵等中国品牌把更多车卖到海外，澳洲也是它们的重要市场之一。"
+            "icon": "🎟️",
+            "name": "淡季票价 off-season prices",
+            "text": "很多景区在游客少的月份会降低门票价格。秋假让11月不再“淡”，网友希望淡季优惠能提前开始。"
           }
         ],
         "relations": [
           {
-            "a": "补贴和税收优惠减少",
-            "b": "中国消费者",
+            "a": "各地推出秋假",
+            "b": "亲子家庭",
             "type": "cause",
-            "label": "买车更犹豫"
+            "label": "带孩子错峰出游"
           },
           {
-            "a": "国内需求疲软",
-            "b": "中国车企",
-            "type": "bad",
-            "label": "国内销量大幅下滑"
+            "a": "出游需求增加",
+            "b": "机票和酒店",
+            "type": "cause",
+            "label": "预订大涨、价格上升"
           },
           {
-            "a": "中国车企",
-            "b": "海外市场",
+            "a": "旅游平台和景区",
+            "b": "秋假",
             "type": "good",
-            "label": "加大出口力度"
+            "label": "淡季生意变好"
           },
           {
-            "a": "乘联会",
-            "b": "2026年车市",
-            "type": "neutral",
-            "label": "预测全年下降约22%"
+            "a": "家长",
+            "b": "价格上涨",
+            "type": "bad",
+            "label": "抱怨出游成本变高"
           }
         ],
         "points": [
-          "乘联会预计2026年中国乘用车零售约1850万辆，下降约22%。",
-          "这将低于疫情第一年2020年的水平，远低于2025年约2370万辆的纪录。",
-          "前九个月销量已下降21.7%，补贴和税收优惠缩减是主要原因之一。",
-          "国内需求弱，车企更依赖出口。"
+          "2026年中小学春秋假首次写入政府工作报告，多地推出秋假。",
+          "秋假多在11月中旬，一般是2到4个工作日连上周末。",
+          "美团数据：公布安排后一周，11月机票搜索量增长136%，住宿预订量增长175%。",
+          "三亚、海口等地很热门，但机票酒店涨价也引发抱怨。"
         ],
-        "relevance": "中国车企在国内压力大，会更积极地开拓海外市场，澳洲是重点之一：可以预期比亚迪、奇瑞、长城等品牌在澳洲加大广告投放、推出更多车型和优惠，汽车行业的营销竞争会更激烈，也可能带来更多相关的市场营销工作机会。",
+        "relevance": "中国家庭出游时间正在变化，旅游、酒店和亲子品牌会出现新的“11月小高峰”。如果你做旅游、教育或面向华人家庭的营销，可以关注这个新节点；中国游客的出行节奏变化，也可能影响到澳洲旅游业针对中国市场的推广时间。",
         "phrase": {
-          "en": "hold back",
-          "zh": "（因犹豫而）暂不行动，观望"
+          "en": "travel during the off-season",
+          "zh": "错峰（在淡季）出游"
         }
       }
-    },
-    {
-      "category": "entertainment",
-      "title_en": "Tencent Video unveils its 2027 line-up, including 'The Three-Body Problem: The Dark Forest', as Yang Yang and Chen Duling reunite",
-      "title_zh": "腾讯视频公布2027片单：《三体：黑暗森林》《庆余年3》在列，杨洋陈都灵时隔11年再合作",
-      "search_zh": "腾讯视频 2027片单 三体黑暗森林 庆余年3 杨洋 陈都灵 等风热吻你",
-      "summary_en": "Chinese streaming platform Tencent Video announced a list of more than 100 films and series for 2027 on Wednesday, and several titles quickly became trending topics on Weibo. The line-up includes 'The Three-Body Problem: The Dark Forest', a TV adaptation of Liu Cixin's science-fiction novel, as well as the third season of the popular costume drama 'Joy of Life'. Fans were also excited that actors Yang Yang and Chen Duling were confirmed as the leads of the romance drama 'Waiting for the Wind to Kiss You', their first project together since the 2015 film 'Left Ear'. Yang will reportedly play a reserved forensic doctor, while Chen will play a glamorous top celebrity who meets him again seven years after their teenage romance.",
-      "summary_zh": "中国视频平台腾讯视频周三公布了2027年的100多部影视作品片单，其中多部作品很快登上微博热搜。片单包括改编自刘慈欣科幻小说的电视剧《三体：黑暗森林》，以及热门古装剧《庆余年》第三季。粉丝们还很兴奋地看到，杨洋和陈都灵被官宣为都市爱情剧《等风热吻你》的主演，这是两人继2015年电影《左耳》之后首次再度合作。据报道，杨洋将饰演一位冷淡的天才法医，陈都灵则饰演一位明艳的顶流女星，两人在少年时期的恋情七年后再次重逢。",
-      "why_zh": "视频平台发布年度片单是中国娱乐圈的大事，也决定了明年追什么剧。“line-up（阵容，节目单）”“adaptation（改编作品）”是娱乐新闻的高频词。",
-      "image": "",
-      "image_credit": "",
-      "source": "The Paper (澎湃新闻); IT Home (IT之家); Sina Entertainment (新浪娱乐)",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34352043",
-      "vocab": [
-        {
-          "word": "line-up",
-          "phonetic": "/ˈlaɪn ʌp/",
-          "pos": "n.",
-          "zh": "阵容；（节目、作品）清单",
-          "example": "The line-up includes 'The Three-Body Problem: The Dark Forest', a TV adaptation of Liu Cixin's science-fiction novel, as well as the third season of the popular costume drama 'Joy of Life'."
-        },
-        {
-          "word": "reserved",
-          "phonetic": "/rɪˈzɜːvd/",
-          "pos": "adj.",
-          "zh": "矜持的，内敛的，不爱表露感情的",
-          "example": "Yang will reportedly play a reserved forensic doctor, while Chen will play a glamorous top celebrity who meets him again seven years after their teenage romance."
-        }
-      ]
     }
   ]
 }
