@@ -2351,5 +2351,198 @@
         ]
       }
     ]
+  },
+  {
+    "id": "garden",
+    "added": "2026-10-30",
+    "name": "花园与植物",
+    "icon": "🌱",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🌱",
+        "w": "seedling",
+        "ph": "/ˈsiːdlɪŋ/",
+        "pos": "n.",
+        "zh": "幼苗",
+        "ex": "Bunnings has tomato seedlings on special this week.",
+        "tip": "Bunnings = 澳洲最大的五金园艺连锁店；on special = 打折",
+        "accept": [
+          "seedling",
+          "sprout",
+          "seedlings",
+          "shoot"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌿",
+        "w": "herbs",
+        "ph": "/hɜːbz/",
+        "pos": "n.",
+        "zh": "香草（罗勒、薄荷等）",
+        "ex": "I grow herbs on my balcony — basil, mint and parsley.",
+        "tip": "澳洲/英国 h 要发音 /hɜːbz/，美国常读 /ɜːrbz/",
+        "accept": [
+          "herbs",
+          "herb",
+          "basil",
+          "mint"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥀",
+        "w": "wilt",
+        "ph": "/wɪlt/",
+        "pos": "v.",
+        "zh": "枯萎、蔫了",
+        "ex": "The flowers wilted in the heatwave.",
+        "tip": "比喻人「没精神」也能用：I'm wilting in this heat",
+        "accept": [
+          "wilt",
+          "wilted",
+          "wither",
+          "dying"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪱",
+        "w": "worm farm",
+        "ph": "/ˈwɜːm fɑːm/",
+        "pos": "n.",
+        "zh": "蚯蚓堆肥箱",
+        "ex": "We feed our food scraps to the worm farm.",
+        "tip": "澳洲很多家庭用 worm farm / compost bin 处理厨余",
+        "accept": [
+          "worm farm",
+          "worm",
+          "earthworm",
+          "compost"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌳",
+        "w": "gum tree",
+        "ph": "/ˈɡʌm triː/",
+        "pos": "n.",
+        "zh": "桉树（澳洲口语）",
+        "ex": "Koalas live in gum trees and eat the leaves.",
+        "tip": "eucalyptus 的澳洲叫法；gumnut = 桉树果",
+        "accept": [
+          "gum tree",
+          "eucalyptus",
+          "tree"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌸",
+        "w": "blossom",
+        "ph": "/ˈblɒsəm/",
+        "pos": "n.",
+        "zh": "（果树的）花",
+        "ex": "The cherry blossom is out in the Botanic Gardens.",
+        "tip": "in full blossom = 盛开；jacaranda 紫花是悉尼春天标志",
+        "accept": [
+          "blossom",
+          "cherry blossom",
+          "flowers"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌻",
+        "w": "sunflower",
+        "ph": "/ˈsʌnflaʊə(r)/",
+        "pos": "n.",
+        "zh": "向日葵",
+        "ex": "The sunflowers are taller than me this year.",
+        "tip": "",
+        "accept": [
+          "sunflower",
+          "sunflowers"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌷",
+        "w": "tulip",
+        "ph": "/ˈtjuːlɪp/",
+        "pos": "n.",
+        "zh": "郁金香",
+        "ex": "The tulip festival in Bowral is on in spring.",
+        "tip": "",
+        "accept": [
+          "tulip",
+          "tulips"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌹",
+        "w": "prune",
+        "ph": "/pruːn/",
+        "pos": "v.",
+        "zh": "修剪（枝叶）",
+        "ex": "Prune the roses in winter for better flowers.",
+        "tip": "prune 作名词是「西梅干」",
+        "accept": [
+          "prune",
+          "trim",
+          "cut back",
+          "roses",
+          "rose"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪺",
+        "w": "bird's nest",
+        "ph": "/ˌbɜːdz ˈnest/",
+        "pos": "n.",
+        "zh": "鸟窝",
+        "ex": "There's a bird's nest in our lemon tree.",
+        "tip": "",
+        "accept": [
+          "bird's nest",
+          "nest"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪨",
+        "w": "pebbles",
+        "ph": "/ˈpeblz/",
+        "pos": "n.",
+        "zh": "鹅卵石、小石子",
+        "ex": "We put white pebbles around the pot plants.",
+        "tip": "大石头叫 rock / boulder",
+        "accept": [
+          "pebbles",
+          "pebble",
+          "stones",
+          "rocks",
+          "rock"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⛲",
+        "w": "water feature",
+        "ph": "/ˈwɔːtə ˌfiːtʃə(r)/",
+        "pos": "n.",
+        "zh": "（花园里的）喷泉水景",
+        "ex": "The café has a little water feature in the courtyard.",
+        "tip": "fountain 也可以；courtyard = 庭院",
+        "accept": [
+          "water feature",
+          "fountain"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
