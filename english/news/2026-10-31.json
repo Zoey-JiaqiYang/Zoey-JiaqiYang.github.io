@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:52:20+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Binance halts withdrawals after a US$6.3 billion hack, sending bitcoin to a six-week low",
+      "title_zh": "全球最大加密货币交易所币安遭黑客攻击、影响约63亿美元，暂停提现，比特币跌至六周低点",
+      "search_zh": "币安 Binance 黑客 63亿美元 暂停提现 何一 Richard Teng 比特币 六周低点 SAFU",
+      "summary_en": "Binance, the world's largest cryptocurrency exchange, has suspended deposits and withdrawals after a security breach that it estimates had a total impact of about US$6.3 billion, making it one of the biggest crypto thefts on record. The company said its early investigation suggested the attackers got in through a compromised laptop belonging to one of its engineers, and that about US$3 billion of the affected assets had already been frozen. Chief executive Richard Teng said customer funds were not affected and that Binance would cover the losses with its own money, including an emergency fund set up to protect users. The news rattled crypto markets, with bitcoin falling to a six-week low of about US$77,600 in Asian trading on Friday and other coins such as ether dropping even more sharply.",
+      "summary_zh": "全球最大的加密货币交易所币安（Binance）发生安全事件，公司估计总影响金额约为63亿美元，随即暂停了充值和提现，这被认为是有记录以来规模最大的加密货币盗窃案之一。公司表示，初步调查显示攻击者是通过一名工程师被入侵的笔记本电脑进入系统的，而受影响的资产中已有约30亿美元被冻结。首席执行官滕雷（Richard Teng）表示，客户资金没有受到影响，币安将用公司自有资金弥补损失，其中包括一个专门用于保护用户的应急基金。消息令加密货币市场震荡，周五亚洲交易时段比特币跌至约77,600美元的六周低点，以太币等其他币种跌幅更大。",
+      "why_zh": "这是加密货币史上最大级别的盗窃事件之一，也提醒所有企业：一台员工电脑被入侵就可能造成巨大损失。“compromised（被入侵的）”“rattle（使不安、震动）”在科技和财经新闻里很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Reuters (via Fox Business); Bloomberg; TechCrunch; Nikkei Asia; Yahoo Finance; The National",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "vocab": [
+        {
+          "word": "compromised",
+          "phonetic": "/ˈkɒmprəmaɪzd/",
+          "pos": "adj.",
+          "zh": "（电脑、账户）被入侵的；被攻破的",
+          "example": "The company said its early investigation suggested the attackers got in through a compromised laptop belonging to one of its engineers, and that about US$3 billion of the affected assets had already been frozen."
+        },
+        {
+          "word": "rattled",
+          "phonetic": "/ˈrætld/",
+          "pos": "v.",
+          "zh": "使紧张不安；使（市场）震荡（rattle的过去式）",
+          "example": "The news rattled crypto markets, with bitcoin falling to a six-week low of about US$77,600 in Asian trading on Friday and other coins such as ether dropping even more sharply."
+        }
+      ],
+      "explain": {
+        "one_liner": "全球最大的“炒币平台”被黑客偷走了巨额资产，平台说自己掏钱赔、用户不亏，但市场还是被吓到了，比特币应声下跌。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "币安 Binance",
+            "text": "全球交易量最大的加密货币交易所，用户可以在上面买卖比特币等数字货币，作用有点像“炒币的证券交易所”。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "滕雷 Richard Teng",
+            "text": "币安现任首席执行官（CEO），2023年接替创始人赵长鹏（CZ）出任这一职位。"
+          },
+          {
+            "icon": "₿",
+            "name": "比特币 bitcoin / 以太币 ether",
+            "text": "两种最知名的加密货币（数字货币），价格波动很大，常被看作加密市场的“风向标”。"
+          },
+          {
+            "icon": "💻",
+            "name": "热钱包 hot wallet",
+            "text": "交易所放在联网系统里、方便随时转账的钱包。方便但更容易被黑客盯上，这次被盗的就是热钱包里的资产。"
+          },
+          {
+            "icon": "🛡️",
+            "name": "SAFU 用户安全资产基金",
+            "text": "币安设立的应急基金，全称“Secure Asset Fund for Users”，专门用来在出现黑客等意外时赔偿用户。"
+          },
+          {
+            "icon": "🧊",
+            "name": "冻结 frozen",
+            "text": "一些被盗资产是“稳定币”（如Tether发行的USDT），发行公司可以把这些币锁住，让黑客无法转走或使用。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "工程师笔记本电脑被入侵",
+            "b": "币安系统",
+            "type": "cause",
+            "label": "黑客借此发起未经授权的转账"
+          },
+          {
+            "a": "黑客",
+            "b": "币安",
+            "type": "bad",
+            "label": "盗走约63亿美元资产"
+          },
+          {
+            "a": "币安",
+            "b": "用户",
+            "type": "good",
+            "label": "承诺用自有资金赔付损失"
+          },
+          {
+            "a": "盗窃事件",
+            "b": "比特币价格",
+            "type": "cause",
+            "label": "跌至六周低点"
+          }
+        ],
+        "points": [
+          "币安估计这次安全事件总影响约63亿美元，已暂停充值和提现。",
+          "初步调查指向一名工程师被入侵的笔记本电脑。",
+          "约30亿美元资产已被冻结，CEO称客户资金不受影响，公司会自掏腰包赔付。",
+          "比特币跌至约77,600美元的六周低点，其他币种跌得更多。"
+        ],
+        "relevance": "加密货币在澳洲年轻人中很流行，这类事件会影响大家对数字资产和相关品牌的信任。对营销人来说，这也是一次“危机公关”案例：币安第一时间表态“用户不亏、公司兜底”，就是在努力稳住信任；同时也提醒公司重视员工设备和账号安全。",
+        "phrase": {
+          "en": "rattle the markets",
+          "zh": "让市场震荡、令投资者不安"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Australians set to spend A$510 million on Halloween, even as fewer people join in",
+      "title_zh": "澳洲人今年万圣节预计花费5.1亿澳元，但参与人数减少约40万",
+      "search_zh": "澳洲 万圣节 2026 消费 5.1亿澳元 Australian Retail Council Roy Morgan 参与人数下降 生活成本",
+      "summary_en": "Australians are expected to spend about A$510 million on Halloween this year, but fewer people plan to join in, according to a survey by the Australian Retail Council and research firm Roy Morgan. Around 4.4 million adults, or 18%, plan to celebrate on 31 October, down from 21% last year, which means roughly 400,000 fewer people. Those who do celebrate are forecast to spend an average of A$117 each, up 13.6% on last year, with Victorians the biggest spenders at A$136 per person. The council linked the fall in participation to cost-of-living pressure, and total spending is rising by only about 2%, which is slower than inflation.",
+      "summary_zh": "根据澳大利亚零售业理事会（Australian Retail Council）和调研公司Roy Morgan的调查，澳洲人今年预计将在万圣节上花费约5.1亿澳元，但打算参与的人变少了。大约440万成年人（占18%）计划在10月31日过万圣节，低于去年的21%，也就是说参与人数减少了约40万。不过，参与庆祝的人预计平均每人花费117澳元，比去年增加13.6%，其中维多利亚州的人最舍得花钱，人均136澳元。该理事会认为参与人数下降与生活成本压力有关，而总消费只增长约2%，低于通货膨胀的速度。",
+      "why_zh": "今天就是万圣节！这条新闻用具体数字说明了生活成本压力下澳洲人怎么花钱：玩的人少了，但玩的人花得更多。“forecast（预测）”“participation（参与）”是市场调研报告里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Australian Retail Council & Roy Morgan; Roy Morgan Research; Ragtrader; Power Retail; Retail World",
+      "url": "https://www.roymorgan.com/findings/10367-arc-roy-morgan-halloween-spending-forecasts-2026-aussies-keep-the-halloween-spirit-alive",
+      "vocab": [
+        {
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "v.",
+          "zh": "预测，预计",
+          "example": "Those who do celebrate are forecast to spend an average of A$117 each, up 13.6% on last year, with Victorians the biggest spenders at A$136 per person."
+        },
+        {
+          "word": "participation",
+          "phonetic": "/pɑːˌtɪsɪˈpeɪʃn/",
+          "pos": "n.",
+          "zh": "参与；参与率",
+          "example": "The council linked the fall in participation to cost-of-living pressure, and total spending is rising by only about 2%, which is slower than inflation."
+        }
+      ],
+      "explain": {
+        "one_liner": "过万圣节的澳洲人变少了，但真正过节的人买糖、买服装、买装饰花得比去年更多。",
+        "facts": [
+          {
+            "icon": "🎃",
+            "name": "万圣节 Halloween",
+            "text": "每年10月31日的节日，源自欧美，孩子们会打扮成各种角色挨家挨户“trick or treat”要糖。澳洲过这个节的人不算多，但近年越来越商业化。"
+          },
+          {
+            "icon": "🛍️",
+            "name": "澳大利亚零售业理事会 Australian Retail Council",
+            "text": "代表澳洲零售商的行业组织，会发布节日消费预测，帮助商家备货和做促销计划。"
+          },
+          {
+            "icon": "📊",
+            "name": "Roy Morgan",
+            "text": "澳洲老牌的市场调研和民意调查公司。这次调查在9月29日至10月3日通过短信访问了5237名成年人。"
+          },
+          {
+            "icon": "📈",
+            "name": "通货膨胀 inflation",
+            "text": "物价整体上涨的速度。总消费只涨2%、低于通胀，说明扣除涨价因素后，大家实际买的东西可能变少了。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "生活成本压力",
+            "b": "参与人数",
+            "type": "bad",
+            "label": "从21%降到18%"
+          },
+          {
+            "a": "参与庆祝的人",
+            "b": "人均消费",
+            "type": "good",
+            "label": "增长13.6%至117澳元"
+          },
+          {
+            "a": "物价上涨",
+            "b": "总消费",
+            "type": "cause",
+            "label": "金额只增约2%，低于通胀"
+          },
+          {
+            "a": "维多利亚州",
+            "b": "人均消费",
+            "type": "neutral",
+            "label": "最高，136澳元"
+          }
+        ],
+        "points": [
+          "今年澳洲万圣节总消费预计约5.1亿澳元，增长约2%。",
+          "约440万成年人计划过节，占18%，比去年少约40万人。",
+          "过节的人平均每人花117澳元，增长13.6%。",
+          "维州人均消费最高（136澳元），参与下降与生活成本压力有关。"
+        ],
+        "relevance": "这是典型的“人群变小、单客价值变高”趋势：与其大范围撒网，不如精准找到真正爱过节的人群（比如年轻人和有孩子的家庭）。做节日营销时，糖果、服装和装饰是重点品类，强调性价比的优惠也更容易打动精打细算的消费者。",
+        "phrase": {
+          "en": "join in",
+          "zh": "参加，一起加入（活动）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "'Three-legged' AI models spark complaints as fake-looking product photos spread before Double 11",
+      "title_zh": "双十一前电商AI模特图泛滥：“三条腿”“无头”模特频现，AI标注却“隐形”",
+      "search_zh": "AI模特 双十一 三条腿 无头模特 AI标注 澎湃新闻 电商 商品图 实拍图四分之一",
+      "summary_en": "As China's huge 'Double 11' shopping festival approaches, online shoppers are noticing more and more product photos featuring AI-generated models, some with obvious mistakes such as three legs or no head. A report by The Paper found that many of these images on major e-commerce platforms carried no 'AI-generated' label, and suspected AI pictures even appeared in customer review sections, which are supposed to show real buyers' photos. Merchants are turning to AI because the images cost only about a quarter of the price of a real photo shoot, with some selling for just a few yuan each. Lawyers quoted in the report said using AI is not illegal in itself, but merchants should clearly mark AI images and make sure they match the real product, and platforms also have a duty to check.",
+      "summary_zh": "随着中国大型购物节“双十一”临近，网购者发现越来越多的商品图使用了AI生成的模特，其中一些还出现了明显错误，比如长了三条腿或者没有头。澎湃新闻的报道发现，主要电商平台上的许多此类图片都没有“AI生成”标注，疑似AI生成的图片甚至出现在本应展示真实买家照片的评论区（买家秀）里。商家之所以转用AI，是因为生成图的价格只有实拍图的大约四分之一，有些每张只要几元钱。报道中引用的律师表示，使用AI本身并不违法，但商家应当清楚标注AI图片并确保与实物相符，平台也有核查的责任。",
+      "why_zh": "AI正在快速改变电商广告和产品摄影，这条新闻展示了“省钱”与“信任”之间的矛盾，对做营销的你特别有参考价值。“label（标签、标注）”“merchant（商家）”是电商行业常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); China.com (中华网); Sing Tao (星岛); HK01",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34352856",
+      "vocab": [
+        {
+          "word": "label",
+          "phonetic": "/ˈleɪbl/",
+          "pos": "n.",
+          "zh": "标签；标注",
+          "example": "A report by The Paper found that many of these images on major e-commerce platforms carried no 'AI-generated' label, and suspected AI pictures even appeared in customer review sections, which are supposed to show real buyers' photos."
+        },
+        {
+          "word": "merchants",
+          "phonetic": "/ˈmɜːtʃənts/",
+          "pos": "n.",
+          "zh": "商家，商人（merchant的复数）",
+          "example": "Lawyers quoted in the report said using AI is not illegal in itself, but merchants should clearly mark AI images and make sure they match the real product, and platforms also have a duty to check."
+        }
+      ],
+      "explain": {
+        "one_liner": "网店为了省钱用AI生成模特照片，结果出现“三条腿”这样的离谱图，而且很多图没标明是AI做的，让消费者分不清真假。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "双十一 Double 11",
+            "text": "每年11月11日前后的中国网购节，起源于阿里巴巴的天猫，现在是全球规模最大的购物促销活动之一，预热期往往从10月就开始。"
+          },
+          {
+            "icon": "📰",
+            "name": "澎湃新闻 The Paper",
+            "text": "总部在上海的中国新闻媒体，以调查报道和社会新闻见长，这次的AI模特报道就是它发布的。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI模特 AI-generated model",
+            "text": "用人工智能直接“画”出来的模特穿搭图，不需要请真人模特和摄影师，成本低、速度快，但容易出现手指、四肢不正常等错误。"
+          },
+          {
+            "icon": "🏷️",
+            "name": "AI生成内容标识",
+            "text": "中国从2025年9月起施行《人工智能生成合成内容标识办法》，要求对AI生成的图片、视频等内容进行标识，方便公众辨别。"
+          },
+          {
+            "icon": "📸",
+            "name": "买家秀",
+            "text": "买家收货后在评论区上传的真实照片，是很多人判断商品好坏的重要参考，所以如果这里也混入AI图，问题更严重。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI图成本只有实拍约1/4",
+            "b": "商家",
+            "type": "cause",
+            "label": "大量改用AI模特图"
+          },
+          {
+            "a": "缺少AI标注",
+            "b": "消费者",
+            "type": "bad",
+            "label": "难辨真假、可能买到不符的商品"
+          },
+          {
+            "a": "律师",
+            "b": "商家和平台",
+            "type": "neutral",
+            "label": "应主动标注并核查"
+          },
+          {
+            "a": "“三条腿”离谱图",
+            "b": "品牌信任",
+            "type": "bad",
+            "label": "省下拍摄费却损失信任"
+          }
+        ],
+        "points": [
+          "双十一前，电商平台出现大量AI模特图，有的“三条腿”“无头”。",
+          "很多图片没有“AI生成”标注，买家秀里也出现疑似AI图。",
+          "AI图价格约为实拍的四分之一，每张低至几元。",
+          "律师认为用AI不违法，但必须如实标注、与实物相符，平台也要核查。"
+        ],
+        "relevance": "澳洲品牌和代理商也在大量尝试用AI做产品图和广告素材。这个案例提醒营销人：AI能降本增效，但要做好质量检查、如实标注，否则一张离谱的图片就可能在社交媒体上被放大、伤害品牌信誉。",
+        "phrase": {
+          "en": "cost a fraction of the price",
+          "zh": "只需要一小部分的价钱（便宜很多）"
+        }
+      }
+    }
+  ]
+}
