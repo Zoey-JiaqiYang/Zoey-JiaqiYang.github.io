@@ -2544,5 +2544,206 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "getting-around",
+    "added": "2026-10-31",
+    "name": "出行与旅行",
+    "icon": "🧳",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🚊",
+        "w": "tram",
+        "ph": "/træm/",
+        "pos": "n.",
+        "zh": "有轨电车",
+        "ex": "Melbourne's trams are free in the CBD.",
+        "tip": "墨尔本市中心电车免费区叫 Free Tram Zone；美国叫 streetcar",
+        "accept": [
+          "tram",
+          "streetcar",
+          "light rail"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⛴️",
+        "w": "ferry",
+        "ph": "/ˈferi/",
+        "pos": "n.",
+        "zh": "渡轮",
+        "ex": "I catch the ferry from Manly to Circular Quay every day.",
+        "tip": "坐交通工具用动词 catch：catch the bus/train/ferry",
+        "accept": [
+          "ferry",
+          "boat"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛻",
+        "w": "ute",
+        "ph": "/juːt/",
+        "pos": "n.",
+        "zh": "皮卡（澳洲叫法）",
+        "ex": "He loaded the couch into the back of his ute.",
+        "tip": "utility vehicle 的澳洲简称，美国叫 pickup truck",
+        "accept": [
+          "ute",
+          "pickup",
+          "pickup truck",
+          "pick-up"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚕",
+        "w": "rideshare",
+        "ph": "/ˈraɪdʃeə(r)/",
+        "pos": "n.",
+        "zh": "网约车",
+        "ex": "I'll just grab a rideshare home after dinner.",
+        "tip": "澳洲口语直接说 grab an Uber；出租车叫 taxi / cab",
+        "accept": [
+          "rideshare",
+          "uber",
+          "taxi",
+          "cab"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚆",
+        "w": "commute",
+        "ph": "/kəˈmjuːt/",
+        "pos": "n./v.",
+        "zh": "通勤",
+        "ex": "My commute is about 45 minutes by train.",
+        "tip": "commuter = 通勤族",
+        "accept": [
+          "commute",
+          "train",
+          "commuting"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛫",
+        "w": "take off",
+        "ph": "/ˈteɪk ɒf/",
+        "pos": "phr.",
+        "zh": "（飞机）起飞",
+        "ex": "The plane took off half an hour late.",
+        "tip": "take off 还有「（事业）腾飞、突然火起来」的意思",
+        "accept": [
+          "take off",
+          "takeoff",
+          "departure",
+          "depart"
+        ],
+        "near": [
+          "land"
+        ]
+      },
+      {
+        "emoji": "🛬",
+        "w": "land",
+        "ph": "/lænd/",
+        "pos": "v.",
+        "zh": "（飞机）降落",
+        "ex": "Text me when you land in Sydney.",
+        "tip": "「落地了给我发消息」超常用",
+        "accept": [
+          "land",
+          "landing",
+          "arrive",
+          "arrival"
+        ],
+        "near": [
+          "take off"
+        ]
+      },
+      {
+        "emoji": "🧳",
+        "w": "carry-on",
+        "ph": "/ˈkæri ɒn/",
+        "pos": "n.",
+        "zh": "随身行李",
+        "ex": "I only took a carry-on, so no checked bags.",
+        "tip": "托运行李 = checked luggage",
+        "accept": [
+          "carry-on",
+          "carry on",
+          "hand luggage",
+          "cabin bag",
+          "luggage",
+          "suitcase"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛂",
+        "w": "customs",
+        "ph": "/ˈkʌstəmz/",
+        "pos": "n.",
+        "zh": "海关",
+        "ex": "It took an hour to get through customs.",
+        "tip": "澳洲入境对食品检查很严：declare = 申报",
+        "accept": [
+          "customs",
+          "immigration",
+          "passport control",
+          "border control"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏍️",
+        "w": "motorbike",
+        "ph": "/ˈməʊtəbaɪk/",
+        "pos": "n.",
+        "zh": "摩托车",
+        "ex": "He rides his motorbike to work to avoid traffic.",
+        "tip": "澳洲/英国说 motorbike，美国说 motorcycle",
+        "accept": [
+          "motorbike",
+          "motorcycle",
+          "motorbike"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚨",
+        "w": "siren",
+        "ph": "/ˈsaɪrən/",
+        "pos": "n.",
+        "zh": "警笛",
+        "ex": "Pull over when you hear a siren behind you.",
+        "tip": "pull over = 靠边停车",
+        "accept": [
+          "siren",
+          "police lights",
+          "alarm"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🗺️",
+        "w": "directions",
+        "ph": "/dəˈrekʃnz/",
+        "pos": "n.",
+        "zh": "路线、指路",
+        "ex": "Can you give me directions to the station?",
+        "tip": "问路：How do I get to…? / Could you give me directions?",
+        "accept": [
+          "directions",
+          "map",
+          "route",
+          "way"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
