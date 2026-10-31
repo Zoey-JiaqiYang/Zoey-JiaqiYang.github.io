@@ -1,0 +1,304 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T01:57:06+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Amazon's cloud business grows 39%, but huge AI spending and weaker ad sales worry investors",
+      "title_zh": "亚马逊云业务大增39%，但AI巨额投入和广告收入不及预期令投资者担忧",
+      "search_zh": "亚马逊 第三季度财报 2026 AWS 增长39% 广告收入 自由现金流 AI资本支出 Prime会员日 股价下跌",
+      "summary_en": "Amazon reported third-quarter revenue of about US$201.9 billion, up 12% on a year earlier, while its operating margin reached 13.9%, the highest in the company's history. Its cloud computing arm, Amazon Web Services (AWS), was the standout, with sales jumping 39% to about US$46 billion, helped by strong demand for artificial intelligence. However, advertising revenue rose 12% to US$19.6 billion and fell short of analysts' expectations, partly because Amazon moved its Prime Day sale from the third quarter into the second quarter in most major markets. Investors were also worried about huge spending on AI data centres, which left Amazon with negative free cash flow of US$42.4 billion over the past 12 months, and its shares fell in extended trading after the results amid a wider sell-off in big tech stocks.",
+      "summary_zh": "亚马逊公布第三季度营收约2019亿美元，同比增长12%，营业利润率达到13.9%，创公司历史最高。其云计算部门亚马逊云科技（AWS）表现最为突出，在人工智能需求强劲的带动下，销售额大增39%，达到约460亿美元。不过，广告收入增长12%至196亿美元，低于分析师预期，部分原因是亚马逊在大多数主要市场把“Prime会员日”促销从第三季度提前到了第二季度。投资者还担心公司在AI数据中心上的巨额投入，这使亚马逊过去12个月的自由现金流为负424亿美元；财报公布后，在大型科技股普遍遭到抛售的背景下，其股价在盘后交易中下跌。",
+      "why_zh": "亚马逊既是电商巨头，也是全球增长最快的广告平台之一，它的财报能看出AI投资热潮和广告市场的走向。“standout（最突出的）”“sell-off（抛售）”是财经新闻高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNBC; Amazon 8-K filing (SEC); Quartz; Deadline; Yahoo Finance; Investing.com",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "vocab": [
+        {
+          "word": "standout",
+          "phonetic": "/ˈstændaʊt/",
+          "pos": "n.",
+          "zh": "最突出的人或事物；亮点",
+          "example": "Its cloud computing arm, Amazon Web Services (AWS), was the standout, with sales jumping 39% to about US$46 billion, helped by strong demand for artificial intelligence."
+        },
+        {
+          "word": "sell-off",
+          "phonetic": "/ˈsel ɒf/",
+          "pos": "n.",
+          "zh": "（股票等的）大量抛售",
+          "example": "Investors were also worried about huge spending on AI data centres, which left Amazon with negative free cash flow of US$42.4 billion over the past 12 months, and its shares fell in extended trading after the results amid a wider sell-off in big tech stocks."
+        }
+      ],
+      "explain": {
+        "one_liner": "亚马逊的云服务因为AI需求赚得很猛，但公司花在AI数据中心上的钱更多，加上广告收入没达标，股价反而跌了。",
+        "facts": [
+          {
+            "icon": "📦",
+            "name": "亚马逊 Amazon",
+            "text": "美国科技巨头，最出名的是网上购物，同时还做云计算、广告、Prime会员和流媒体等业务。"
+          },
+          {
+            "icon": "☁️",
+            "name": "亚马逊云科技 AWS",
+            "text": "Amazon Web Services，亚马逊的云计算部门，把服务器和计算能力“租”给企业使用，是公司最赚钱的业务之一。"
+          },
+          {
+            "icon": "📊",
+            "name": "营业利润率 operating margin",
+            "text": "每卖100块钱，扣掉经营成本后还剩多少利润。13.9%就是每100美元营收约赚13.9美元经营利润。"
+          },
+          {
+            "icon": "💸",
+            "name": "自由现金流 free cash flow",
+            "text": "公司经营赚到的现金，减去买设备、建数据中心等投资后剩下的钱。为负说明投入的钱比赚进来的现金还多。"
+          },
+          {
+            "icon": "🛒",
+            "name": "Prime会员日 Prime Day",
+            "text": "亚马逊每年为Prime会员举办的大促活动。今年在多数主要市场提前到第二季度，所以第三季度广告收入受到影响。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "资本支出 capex",
+            "text": "公司在长期资产上的投入，比如数据中心和芯片。亚马逊维持2026年约2200亿美元的资本支出计划。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI需求",
+            "b": "AWS销售额",
+            "type": "good",
+            "label": "带动增长39%"
+          },
+          {
+            "a": "Prime会员日提前",
+            "b": "第三季度广告收入",
+            "type": "cause",
+            "label": "增长放缓、低于预期"
+          },
+          {
+            "a": "AI数据中心投入",
+            "b": "自由现金流",
+            "type": "bad",
+            "label": "过去12个月为负424亿美元"
+          },
+          {
+            "a": "投资者担忧",
+            "b": "亚马逊股价",
+            "type": "bad",
+            "label": "财报后盘后下跌"
+          }
+        ],
+        "points": [
+          "第三季度营收约2019亿美元，同比增长12%，营业利润率13.9%创纪录。",
+          "AWS销售额增长39%至约460亿美元，是最大亮点。",
+          "广告收入196亿美元，增长12%但低于预期，部分因为Prime会员日提前。",
+          "AI投入巨大导致自由现金流为负，股价在财报后下跌。"
+        ],
+        "relevance": "亚马逊广告是很多品牌的重要投放渠道，广告增长放缓和促销时间的变化会影响行业的投放节奏和预算判断。同时，科技巨头在AI上的“烧钱”竞赛，会决定未来营销人用到的AI工具和平台的样子。",
+        "phrase": {
+          "en": "fall short of expectations",
+          "zh": "未达到预期，不及预期"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Coles shares suffer their steepest fall since 2020 as Woolworths wins the supermarket sales race",
+      "title_zh": "Coles季度销售落后Woolworths，股价创2020年以来最大跌幅",
+      "search_zh": "Coles 股价 暴跌 7.7% 第一季度销售 3.6% Woolworths 6.9% Ooshies 促销 Leah Weckert 圣诞 物有所值",
+      "summary_en": "Shares in Coles, one of Australia's two biggest supermarket chains, closed 7.7% lower at A$21.66 on Friday, their weakest level since March 2020, after the company reported disappointing quarterly sales. Coles' supermarket sales rose 3.6% to A$10.3 billion in the first quarter of its financial year, well behind rival Woolworths, whose Australian food sales grew 6.9% thanks partly to its popular Disney Ooshies collectables campaign. Coles also said heavier promotions from competitors had slowed its sales growth in the first four weeks of the current quarter, and it expects first-half earnings from its supermarkets to be flat at about A$1.23 billion. Chief executive Leah Weckert said online sales were very strong but in-store sales were weak, and she expects household budgets to get even tighter before Christmas, so Coles will focus even more on value for money.",
+      "summary_zh": "澳洲两大连锁超市之一Coles的股价周五收跌7.7%，报21.66澳元，创2020年3月以来最低水平，原因是公司公布的季度销售额令人失望。Coles超市业务在本财年第一季度的销售额增长3.6%，达到103亿澳元，远远落后于竞争对手Woolworths——后者的澳洲食品业务销售额增长6.9%，部分得益于广受欢迎的迪士尼Ooshies收藏玩具活动。Coles还表示，竞争对手加大促销力度，拖慢了本季度头四周的销售增长，公司预计上半财年超市业务的利润将持平，约为12.3亿澳元。首席执行官Leah Weckert表示，线上销售非常强劲，但门店销售疲软；她预计圣诞节前家庭预算会更加紧张，因此Coles将更加专注于“物有所值”。",
+      "why_zh": "你每周都可能去Coles或Woolworths买东西，这条新闻展示了两大超市的营销战：一个成功的收藏品活动就能拉开销售差距。“promotions（促销）”“collectables（收藏品）”是零售营销常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Reuters (via Devdiscourse / Central Oregon Daily); The Nightly; Market Index; Investing.com; The Motley Fool Australia",
+      "url": "https://thenightly.com.au/business/coles-vows-to-doubles-down-on-value-as-sales-growth-outpaced-by-rival-woolworths-c-23091784",
+      "vocab": [
+        {
+          "word": "collectables",
+          "phonetic": "/kəˈlektəblz/",
+          "pos": "n.",
+          "zh": "收藏品（collectable的复数）",
+          "example": "Coles' supermarket sales rose 3.6% to A$10.3 billion in the first quarter of its financial year, well behind rival Woolworths, whose Australian food sales grew 6.9% thanks partly to its popular Disney Ooshies collectables campaign."
+        },
+        {
+          "word": "promotions",
+          "phonetic": "/prəˈməʊʃnz/",
+          "pos": "n.",
+          "zh": "促销活动（promotion的复数）",
+          "example": "Coles also said heavier promotions from competitors had slowed its sales growth in the first four weeks of the current quarter, and it expects first-half earnings from its supermarkets to be flat at about A$1.23 billion."
+        }
+      ],
+      "explain": {
+        "one_liner": "Woolworths靠迪士尼小玩具活动吸引了大批顾客，Coles的销售增长明显落后，还说利润会原地踏步，投资者纷纷卖出它的股票。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "Coles",
+            "text": "澳洲两大连锁超市之一（另一家是Woolworths），在全国有大量门店，同时经营酒类商店和网上购物。"
+          },
+          {
+            "icon": "🍏",
+            "name": "Woolworths",
+            "text": "澳洲最大的连锁超市（大家常叫它Woolies），是Coles最主要的竞争对手。"
+          },
+          {
+            "icon": "🧸",
+            "name": "Ooshies",
+            "text": "一种可以收集的小公仔。超市常推出“买满一定金额送一个”的活动，吸引家庭（尤其是孩子）多去购物，这次是迪士尼主题。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "Leah Weckert",
+            "text": "Coles集团首席执行官（CEO）。"
+          },
+          {
+            "icon": "📅",
+            "name": "财年第一季度 first quarter",
+            "text": "澳洲公司的财年通常从7月开始，所以这里的“第一季度”大致是7月到9月。"
+          },
+          {
+            "icon": "💰",
+            "name": "息税前利润 EBIT",
+            "text": "扣除利息和税之前的利润，常用来衡量一项业务本身赚不赚钱。Coles预计上半财年超市业务EBIT约12.3亿澳元，持平。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Woolworths",
+            "b": "Coles",
+            "type": "bad",
+            "label": "促销和收藏品活动抢走客流"
+          },
+          {
+            "a": "迪士尼Ooshies活动",
+            "b": "Woolworths销售额",
+            "type": "good",
+            "label": "带动增长6.9%"
+          },
+          {
+            "a": "销售不及预期",
+            "b": "Coles股价",
+            "type": "cause",
+            "label": "收跌7.7%，创2020年以来新低"
+          },
+          {
+            "a": "生活成本压力",
+            "b": "消费者",
+            "type": "bad",
+            "label": "预算更紧，更看重促销"
+          }
+        ],
+        "points": [
+          "Coles股价周五收跌7.7%至21.66澳元，为2020年3月以来最低。",
+          "Coles超市销售额增长3.6%，落后于Woolworths的6.9%。",
+          "竞争对手促销加码，拖慢了Coles本季度开局的销售，上半年超市利润预计持平。",
+          "CEO表示线上很强、门店偏弱，圣诞前会更加主打性价比。"
+        ],
+        "relevance": "这是一个很直观的营销案例：Woolworths用一个收藏品活动就带动了明显的销售增长。对在澳洲做营销的你来说，它说明在生活成本压力下，促销、会员积分和“孩子会催着去”的活动特别有效；也意味着圣诞季超市之间的价格和广告战会更激烈。",
+        "phrase": {
+          "en": "double down on value",
+          "zh": "加倍主打性价比、更加强调物有所值"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's first national standard for hospital escort services takes effect, spelling out what escorts can and cannot do",
+      "title_zh": "陪诊行业首个国家标准11月1日起实施：12项能做、7项不能做",
+      "search_zh": "陪诊 国家标准 社会化陪同就医服务基本要求 GB/T 47801 11月1日实施 12项 7项 儿童用品通用安全要求",
+      "summary_en": "China's first national standard for 'hospital escort' services, in which paid helpers accompany patients to medical appointments, takes effect on 1 November. Issued in July by the State Administration for Market Regulation and the Standardization Administration of China, the standard says the services should be provided by organisations and defines them as support services rather than medical care. It lists 12 things escorts can do, such as booking appointments, paying fees, collecting medicines and test results and offering emotional support, as well as seven things they should not do, including interpreting test results, giving medical advice and signing medical documents. A batch of other national standards also comes into force on the same day, including China's first mandatory safety standard covering all kinds of children's products for those under 14.",
+      "summary_zh": "中国陪诊行业首个国家标准将于11月1日起实施；所谓陪诊，就是由付费的陪诊人员陪同患者去医院看病。这项标准由国家市场监督管理总局和国家标准化管理委员会于7月发布，标准规定陪诊服务应由机构提供，并把它定位为辅助性服务，而不是医疗服务。标准列出了陪诊人员可以做的12项服务，比如预约挂号、办理缴费、代取药品和检查结果以及提供情感支持，同时列出了7项不应开展的服务，包括判读检查结果、提供医疗建议和签署医疗文书等。同一天起还有一批国家标准开始实施，其中包括我国首个覆盖14岁以下儿童用品全品类的强制性安全标准。",
+      "why_zh": "“陪诊”是近年中国兴起的新职业，和父母年纪渐长、子女不在身边的现实很贴近。“accompany（陪同）”“mandatory（强制性的）”在新闻和工作邮件里都很常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "CCTV News (央视新闻); The Paper (澎湃新闻); 21st Century Business Herald (21财经); Xinhua (新华网); CCTV.com (央视网)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34369963",
+      "vocab": [
+        {
+          "word": "accompany",
+          "phonetic": "/əˈkʌmpəni/",
+          "pos": "v.",
+          "zh": "陪同，陪伴",
+          "example": "China's first national standard for 'hospital escort' services, in which paid helpers accompany patients to medical appointments, takes effect on 1 November."
+        },
+        {
+          "word": "mandatory",
+          "phonetic": "/ˈmændətəri/",
+          "pos": "adj.",
+          "zh": "强制性的，必须遵守的",
+          "example": "A batch of other national standards also comes into force on the same day, including China's first mandatory safety standard covering all kinds of children's products for those under 14."
+        }
+      ],
+      "explain": {
+        "one_liner": "花钱请人陪自己或家人去医院看病，这个新行业终于有了国家标准：能帮忙跑腿办手续，但不能替医生看报告、给建议。",
+        "facts": [
+          {
+            "icon": "🏥",
+            "name": "陪诊 hospital escort",
+            "text": "由陪诊人员陪患者去医院，帮忙挂号、排队、缴费、取药、记医嘱等，常见于老人或家人没空陪同的患者。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "国家市场监督管理总局 SAMR",
+            "text": "中国负责市场秩序、产品质量和消费者权益等方面的政府部门。"
+          },
+          {
+            "icon": "📐",
+            "name": "国家标准化管理委员会",
+            "text": "负责制定和管理中国国家标准的机构，和市场监管总局一起发布了这项陪诊标准。"
+          },
+          {
+            "icon": "📘",
+            "name": "国家标准 GB 与 GB/T",
+            "text": "“GB”开头的是强制性标准，必须执行；“GB/T”开头的是推荐性标准。陪诊标准编号为GB/T 47801—2026。"
+          },
+          {
+            "icon": "🧸",
+            "name": "《儿童用品通用安全要求》",
+            "text": "我国首个覆盖儿童用品全品类的强制性国家标准，适用于14岁以下儿童使用、玩耍、穿戴的产品，同样11月1日起实施。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "国家标准",
+            "b": "陪诊行业",
+            "type": "good",
+            "label": "明确服务范围，规范市场"
+          },
+          {
+            "a": "陪诊人员",
+            "b": "医生",
+            "type": "neutral",
+            "label": "只辅助就医流程，不能代替诊断治疗"
+          },
+          {
+            "a": "陪诊服务",
+            "b": "患者和家属",
+            "type": "good",
+            "label": "帮忙跑腿、提供情感支持"
+          },
+          {
+            "a": "儿童用品新国标",
+            "b": "商家",
+            "type": "cause",
+            "label": "不达标产品不得生产销售"
+          }
+        ],
+        "points": [
+          "陪诊行业首个国家标准11月1日起实施，由市场监管总局和国家标准委7月发布。",
+          "陪诊被定位为辅助性服务，不属于医疗服务，应由机构提供。",
+          "列出12项可做服务（如挂号、缴费、取药、情感支持）和7项不应做的事（如判读结果、给医疗建议、签医疗文书）。",
+          "同日还有一批国标实施，包括首个儿童用品全品类强制性安全标准。"
+        ],
+        "relevance": "“陪诊”这样的新服务反映了老龄化和年轻人工作忙、离家远的社会变化——澳洲同样有类似的养老和陪护服务市场。对营销人来说，一个新兴行业有了国家标准，往往意味着它开始走向正规化，宣传时也必须守住边界（比如不能暗示提供医疗建议）；儿童用品新规则提醒做母婴产品的品牌重视合规。",
+        "phrase": {
+          "en": "come into force",
+          "zh": "（法律、规定）开始生效、正式实施"
+        }
+      }
+    }
+  ]
+}
