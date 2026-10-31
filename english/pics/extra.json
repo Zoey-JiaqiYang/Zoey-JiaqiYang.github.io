@@ -2745,5 +2745,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "school-uni",
+    "added": "2026-11-01",
+    "name": "学校与大学",
+    "icon": "🎓",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🎓",
+        "w": "graduation",
+        "ph": "/ˌɡrædʒuˈeɪʃn/",
+        "pos": "n.",
+        "zh": "毕业典礼",
+        "ex": "My parents are flying in for my graduation.",
+        "tip": "graduate 动词读 /ˈɡrædʒueɪt/，名词「毕业生」读 /ˈɡrædʒuət/",
+        "accept": [
+          "graduation",
+          "graduate",
+          "grad"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📚",
+        "w": "textbook",
+        "ph": "/ˈtekstbʊk/",
+        "pos": "n.",
+        "zh": "教科书",
+        "ex": "I bought a second-hand textbook to save money.",
+        "tip": "second-hand = 二手的",
+        "accept": [
+          "textbook",
+          "textbooks",
+          "books"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎒",
+        "w": "schoolbag",
+        "ph": "/ˈskuːlbæɡ/",
+        "pos": "n.",
+        "zh": "书包",
+        "ex": "Don't forget to pack your hat in your schoolbag.",
+        "tip": "澳洲学校 No hat, no play（不戴帽子不能在户外玩）",
+        "accept": [
+          "schoolbag",
+          "school bag",
+          "backpack",
+          "bag"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧑‍🏫",
+        "w": "lecturer",
+        "ph": "/ˈlektʃərə(r)/",
+        "pos": "n.",
+        "zh": "（大学）讲师",
+        "ex": "My lecturer posted the slides on Moodle.",
+        "tip": "大课叫 lecture，小组讨论课叫 tutorial（口语 tute）",
+        "accept": [
+          "lecturer",
+          "teacher",
+          "professor",
+          "tutor"
+        ],
+        "near": [
+          "undergrad"
+        ]
+      },
+      {
+        "emoji": "🧑‍🎓",
+        "w": "undergrad",
+        "ph": "/ˌʌndəˈɡræd/",
+        "pos": "n.",
+        "zh": "本科生",
+        "ex": "She's an undergrad studying commerce at Monash.",
+        "tip": "研究生 postgrad；澳洲本科 commerce = 商科",
+        "accept": [
+          "undergrad",
+          "undergraduate",
+          "uni student",
+          "student"
+        ],
+        "near": [
+          "lecturer"
+        ]
+      },
+      {
+        "emoji": "📐",
+        "w": "set square",
+        "ph": "/ˈset skweə(r)/",
+        "pos": "n.",
+        "zh": "三角尺",
+        "ex": "You'll need a ruler and a set square for the maths exam.",
+        "tip": "澳洲说 maths（有 s），美国说 math",
+        "accept": [
+          "set square",
+          "triangle ruler"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔬",
+        "w": "lab",
+        "ph": "/læb/",
+        "pos": "n.",
+        "zh": "实验室",
+        "ex": "We've got a chemistry lab on Thursday afternoon.",
+        "tip": "laboratory 的简称；读音 /læb/",
+        "accept": [
+          "lab",
+          "laboratory",
+          "microscope"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧪",
+        "w": "experiment",
+        "ph": "/ɪkˈsperɪmənt/",
+        "pos": "n.",
+        "zh": "实验",
+        "ex": "The science experiment didn't go to plan.",
+        "tip": "",
+        "accept": [
+          "experiment",
+          "test tube",
+          "science"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💯",
+        "w": "full marks",
+        "ph": "/ˌfʊl ˈmɑːks/",
+        "pos": "n.",
+        "zh": "满分",
+        "ex": "He got full marks on the spelling test.",
+        "tip": "澳洲/英国说 marks，美国说 grades / score",
+        "accept": [
+          "full marks",
+          "100",
+          "perfect score",
+          "hundred"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🅰️",
+        "w": "high distinction",
+        "ph": "/ˌhaɪ dɪˈstɪŋkʃn/",
+        "pos": "n.",
+        "zh": "（澳洲大学）最高等级成绩 HD",
+        "ex": "She got a high distinction for her marketing assignment.",
+        "tip": "澳洲大学成绩：HD > D > Credit > Pass > Fail",
+        "accept": [
+          "high distinction",
+          "hd",
+          "distinction",
+          "a"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚸",
+        "w": "school zone",
+        "ph": "/ˈskuːl zəʊn/",
+        "pos": "n.",
+        "zh": "学校区域（限速 40）",
+        "ex": "Slow down — it's a 40 km/h school zone.",
+        "tip": "上下学时段超速会被重罚",
+        "accept": [
+          "school zone",
+          "school crossing",
+          "crossing"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥪",
+        "w": "packed lunch",
+        "ph": "/ˌpækt ˈlʌntʃ/",
+        "pos": "n.",
+        "zh": "自带午饭",
+        "ex": "I bring a packed lunch to save money.",
+        "tip": "澳洲小学上午小休叫 recess，午餐叫 lunch；也可以说 bring lunch from home",
+        "accept": [
+          "packed lunch",
+          "lunchbox",
+          "sandwich",
+          "sanga"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
