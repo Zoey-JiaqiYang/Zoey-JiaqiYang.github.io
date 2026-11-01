@@ -2943,5 +2943,197 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "fruit-veg",
+    "added": "2026-11-02",
+    "name": "蔬菜水果（澳洲叫法）",
+    "icon": "🥬",
+    "prompt": "在澳洲超市叫什么？",
+    "items": [
+      {
+        "emoji": "🫑",
+        "w": "capsicum",
+        "ph": "/ˈkæpsɪkəm/",
+        "pos": "n.",
+        "zh": "彩椒、甜椒",
+        "ex": "Slice up a red capsicum for the stir-fry.",
+        "tip": "澳洲说 capsicum，美国说 bell pepper",
+        "accept": [
+          "capsicum",
+          "bell pepper",
+          "pepper"
+        ],
+        "near": [
+          "chilli"
+        ]
+      },
+      {
+        "emoji": "🍈",
+        "w": "rockmelon",
+        "ph": "/ˈrɒkmelən/",
+        "pos": "n.",
+        "zh": "哈密瓜（澳洲叫法）",
+        "ex": "Rockmelon is cheap in summer.",
+        "tip": "澳洲说 rockmelon，美国说 cantaloupe",
+        "accept": [
+          "rockmelon",
+          "cantaloupe",
+          "melon"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥔",
+        "w": "spud",
+        "ph": "/spʌd/",
+        "pos": "n.",
+        "zh": "土豆（口语）",
+        "ex": "Throw a few spuds in the oven for dinner.",
+        "tip": "potato 的口语说法",
+        "accept": [
+          "spud",
+          "potato",
+          "potatoes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌶️",
+        "w": "chilli",
+        "ph": "/ˈtʃɪli/",
+        "pos": "n.",
+        "zh": "辣椒",
+        "ex": "Go easy on the chilli — I can't handle spicy food.",
+        "tip": "澳洲拼 chilli，美国拼 chili；go easy on = 少放点",
+        "accept": [
+          "chilli",
+          "chili",
+          "hot pepper"
+        ],
+        "near": [
+          "capsicum"
+        ]
+      },
+      {
+        "emoji": "🧄",
+        "w": "clove of garlic",
+        "ph": "/ˌkləʊv əv ˈɡɑːlɪk/",
+        "pos": "n.",
+        "zh": "一瓣蒜",
+        "ex": "Crush two cloves of garlic for the sauce.",
+        "tip": "一整头蒜叫 a bulb of garlic；crush = 拍碎",
+        "accept": [
+          "clove of garlic",
+          "garlic",
+          "clove"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🫚",
+        "w": "ginger",
+        "ph": "/ˈdʒɪndʒə(r)/",
+        "pos": "n.",
+        "zh": "姜",
+        "ex": "Add a thumb of fresh ginger to the soup.",
+        "tip": "a thumb of ginger = 拇指大小的一块姜；ginger 也指红头发的人",
+        "accept": [
+          "ginger",
+          "ginger root"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥬",
+        "w": "bok choy",
+        "ph": "/ˌbɒk ˈtʃɔɪ/",
+        "pos": "n.",
+        "zh": "小白菜、上海青",
+        "ex": "Woolies sells baby bok choy in bunches.",
+        "tip": "Woolies = Woolworths 的昵称；澳洲超市常见亚洲蔬菜",
+        "accept": [
+          "bok choy",
+          "pak choy",
+          "pak choi",
+          "asian greens"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌽",
+        "w": "corn on the cob",
+        "ph": "/ˌkɔːn ɒn ðə ˈkɒb/",
+        "pos": "n.",
+        "zh": "玉米棒",
+        "ex": "We grilled corn on the cob on the barbie.",
+        "tip": "",
+        "accept": [
+          "corn on the cob",
+          "corn",
+          "sweetcorn"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥝",
+        "w": "kiwifruit",
+        "ph": "/ˈkiːwiːfruːt/",
+        "pos": "n.",
+        "zh": "猕猴桃",
+        "ex": "Kiwifruit is packed with vitamin C.",
+        "tip": "Kiwi 单独说时多指新西兰人",
+        "accept": [
+          "kiwifruit",
+          "kiwi",
+          "kiwi fruit"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥭",
+        "w": "mango",
+        "ph": "/ˈmæŋɡəʊ/",
+        "pos": "n.",
+        "zh": "芒果",
+        "ex": "Nothing says Aussie summer like a tray of mangoes.",
+        "tip": "澳洲人圣诞前后买一整箱 mango",
+        "accept": [
+          "mango",
+          "mangoes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🫛",
+        "w": "snow peas",
+        "ph": "/ˈsnəʊ piːz/",
+        "pos": "n.",
+        "zh": "荷兰豆",
+        "ex": "Toss some snow peas into the noodles.",
+        "tip": "澳洲说 snow peas，英国说 mangetout",
+        "accept": [
+          "snow peas",
+          "snow pea",
+          "peas",
+          "sugar snap peas"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧅",
+        "w": "brown onion",
+        "ph": "/ˌbraʊn ˈʌnjən/",
+        "pos": "n.",
+        "zh": "洋葱（黄皮）",
+        "ex": "Dice a brown onion and fry it in olive oil.",
+        "tip": "澳洲菜谱常写 brown onion / red onion；dice = 切丁",
+        "accept": [
+          "brown onion",
+          "onion"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
