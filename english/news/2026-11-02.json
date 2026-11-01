@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T01:57:25+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Australian home values fall for a seventh straight month in the fastest downturn in 40 years",
+      "title_zh": "澳洲房价连跌七个月，下跌速度创40年来最快",
+      "search_zh": "Cotality 澳洲房价 10月 下跌1.2% 连续七个月 40年最快 布里斯班 珀斯 悉尼 拍卖清空率 澳联储 加息 11月3日",
+      "summary_en": "Australian home values fell for a seventh month in a row in October, dropping 1.2% nationally, according to property data firm Cotality. Cotality says the downturn is moving faster than any other housing decline in the past 40 years, with Brisbane recording the steepest monthly fall at 2.0%, followed by Perth at 1.7% and Sydney at 1.6%. Buyers are also more cautious, as the number of home sales over the past three months was 23% lower than a year earlier and auction clearance rates across the capital cities stayed below 50%. The figures were released just before the Reserve Bank of Australia's meeting on Tuesday, when many economists expect another interest rate rise that could put further pressure on prices.",
+      "summary_zh": "据房产数据公司Cotality统计，澳洲房价10月全国下跌1.2%，已连续第七个月下跌。Cotality表示，这轮房价下跌的速度比过去40年里任何一次楼市下行都快，其中布里斯班单月跌幅最大，为2.0%，其次是珀斯（1.7%）和悉尼（1.6%）。买家也变得更加谨慎：过去三个月的房屋成交量比一年前少了23%，各首府城市的整体拍卖清空率一直低于50%。这组数据恰好在澳洲储备银行周二议息会议前公布，许多经济学家预计央行将再次加息，这可能给房价带来更大压力。",
+      "why_zh": "住房是澳洲人最关心的话题之一，房价涨跌直接影响大家的“钱包感受”和消费意愿。“downturn（下行、衰退）”“cautious（谨慎的）”是财经和职场里都很常用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Capital Brief; Property Update; MacroBusiness; The Private Banker (citing Bloomberg)",
+      "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
+      "vocab": [
+        {
+          "word": "downturn",
+          "phonetic": "/ˈdaʊntɜːn/",
+          "pos": "n.",
+          "zh": "（经济、市场的）下行，衰退",
+          "example": "Cotality says the downturn is moving faster than any other housing decline in the past 40 years, with Brisbane recording the steepest monthly fall at 2.0%, followed by Perth at 1.7% and Sydney at 1.6%."
+        },
+        {
+          "word": "cautious",
+          "phonetic": "/ˈkɔːʃəs/",
+          "pos": "adj.",
+          "zh": "谨慎的，小心的",
+          "example": "Buyers are also more cautious, as the number of home sales over the past three months was 23% lower than a year earlier and auction clearance rates across the capital cities stayed below 50%."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲房价已经连续跌了七个月，而且跌得比过去40年任何一次都快；周二央行可能还要加息，房贷更贵，买房的人就更犹豫了。",
+        "facts": [
+          {
+            "icon": "🏠",
+            "name": "Cotality",
+            "text": "澳洲最常被引用的房产数据公司之一（以前叫CoreLogic），每月初发布“房屋价值指数”，媒体经常用它来报道房价涨跌。"
+          },
+          {
+            "icon": "🏦",
+            "name": "澳洲储备银行 RBA",
+            "text": "澳洲的中央银行，负责决定基准利率（现金利率）。利率上调后，银行房贷利息通常也会跟着变贵。"
+          },
+          {
+            "icon": "📈",
+            "name": "加息 rate rise",
+            "text": "央行提高利率。目的是给经济“降温”、压低通胀，但会让贷款、尤其是房贷的还款变多。"
+          },
+          {
+            "icon": "🔨",
+            "name": "拍卖清空率 clearance rate",
+            "text": "在拍卖中成功卖出的房子占比。澳洲很多房子通过拍卖出售，清空率低于50%说明一半以上的房子没拍出去，市场偏冷。"
+          },
+          {
+            "icon": "🗺️",
+            "name": "首府城市 capital cities",
+            "text": "指悉尼、墨尔本、布里斯班、珀斯、阿德莱德等各州/领地的首府，是澳洲房价统计的重点。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "加息预期",
+            "b": "房价",
+            "type": "bad",
+            "label": "房贷更贵，压低买家出价能力"
+          },
+          {
+            "a": "买家谨慎",
+            "b": "成交量",
+            "type": "cause",
+            "label": "三个月成交量同比减少23%"
+          },
+          {
+            "a": "RBA",
+            "b": "房贷利率",
+            "type": "cause",
+            "label": "周二议息，可能再次加息"
+          },
+          {
+            "a": "房价下跌",
+            "b": "消费信心",
+            "type": "bad",
+            "label": "家庭觉得“变穷了”，花钱更谨慎"
+          }
+        ],
+        "points": [
+          "10月全国房价下跌1.2%，已连续第七个月下跌。",
+          "Cotality称这是过去40年来最快的一轮房价下跌。",
+          "布里斯班跌2.0%最多，其次是珀斯1.7%和悉尼1.6%。",
+          "成交量同比少23%，拍卖清空率低于50%；周二RBA可能再加息。"
+        ],
+        "relevance": "房子是很多澳洲家庭最大的资产，房价下跌加上加息，人们往往会减少非必要消费，这会影响圣诞季的广告预算和促销策略。如果你服务房地产、银行、家装或零售类客户，营销信息可能要更强调性价比、灵活付款和“让人安心”。",
+        "phrase": {
+          "en": "in a row",
+          "zh": "连续地，一个接一个"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "China's factory activity slips back into contraction in October as holiday and weak demand weigh",
+      "title_zh": "中国10月制造业PMI降至49.3，重回收缩区间",
+      "search_zh": "国家统计局 10月 制造业PMI 49.3 非制造业PMI 49.7 国庆假期 高技术制造业 51.3 消费品行业 2026",
+      "summary_en": "China's factory activity shrank in October, as the official manufacturing purchasing managers' index (PMI) fell to 49.3 from 50.1 in September, according to the National Bureau of Statistics. A reading below 50 means activity is contracting, and the non-manufacturing PMI, which covers services and construction, also slipped 0.5 points to 49.7. The statistics bureau said the decline was partly linked to the week-long National Day holiday at the start of the month and a complex international environment, while a sub-index for consumer goods makers dropped 1.9 points. There were some bright spots, however, as high-tech manufacturing stayed in expansion at 51.3 and large companies remained just above the 50 mark at 50.2.",
+      "summary_zh": "据国家统计局数据，中国10月官方制造业采购经理指数（PMI）从9月的50.1降至49.3，工厂活动出现收缩。PMI低于50意味着经济活动在收缩；涵盖服务业和建筑业的非制造业PMI也下降0.5个点，至49.7。国家统计局表示，这次回落部分与月初为期一周的国庆长假以及复杂的国际环境有关，同时消费品行业的分项指数下降了1.9个点。不过也有一些亮点：高技术制造业PMI为51.3，继续保持扩张，大型企业PMI为50.2，仍略高于50的分界线。",
+      "why_zh": "中国是澳洲最大的贸易伙伴，中国经济冷热会影响澳洲的出口、澳元和不少品牌的生意。“contracting（收缩的）”“bright spots（亮点）”是经济新闻里的高频表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "National Bureau of Statistics of China (via Xinhua); China Daily; Global Times; People's Daily; Business Today (Malaysia)",
+      "url": "https://english.news.cn/20261031/b8bbe3a5855e496882fa8cad79a57fe4/c.html",
+      "vocab": [
+        {
+          "word": "contracting",
+          "phonetic": "/kənˈtræktɪŋ/",
+          "pos": "v. (-ing)",
+          "zh": "收缩，萎缩",
+          "example": "A reading below 50 means activity is contracting, and the non-manufacturing PMI, which covers services and construction, also slipped 0.5 points to 49.7."
+        },
+        {
+          "word": "bright spots",
+          "phonetic": "/braɪt spɒts/",
+          "pos": "n.",
+          "zh": "亮点，好的方面",
+          "example": "There were some bright spots, however, as high-tech manufacturing stayed in expansion at 51.3 and large companies remained just above the 50 mark at 50.2."
+        }
+      ],
+      "explain": {
+        "one_liner": "10月中国工厂的生意比9月差了，PMI跌破50这条“荣枯线”；不过高科技制造和大企业还算撑得住。",
+        "facts": [
+          {
+            "icon": "📊",
+            "name": "采购经理指数 PMI",
+            "text": "通过问卷调查企业采购经理，了解订单、生产、用工等情况，是反映经济冷热最快的指标之一。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "50荣枯线",
+            "text": "PMI高于50表示经济活动在扩张，低于50表示在收缩。49.3就是比上个月“变差了一点”。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "国家统计局 NBS",
+            "text": "中国负责发布官方经济数据的政府部门，每月最后一天左右发布官方PMI。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "非制造业PMI",
+            "text": "衡量服务业（如零售、交通、金融）和建筑业的景气程度，10月为49.7。"
+          },
+          {
+            "icon": "🎆",
+            "name": "国庆假期 National Day holiday",
+            "text": "每年10月初的七天长假（“黄金周”），工厂停工天数多，常会拉低当月生产数据。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "国庆长假",
+            "b": "工厂生产",
+            "type": "cause",
+            "label": "工作日减少，生产回落"
+          },
+          {
+            "a": "消费需求偏弱",
+            "b": "消费品行业",
+            "type": "bad",
+            "label": "分项指数下降1.9个点"
+          },
+          {
+            "a": "高技术制造业",
+            "b": "中国经济",
+            "type": "good",
+            "label": "PMI 51.3，保持扩张"
+          },
+          {
+            "a": "中国经济",
+            "b": "澳洲出口",
+            "type": "neutral",
+            "label": "中国是澳洲最大贸易伙伴"
+          }
+        ],
+        "points": [
+          "10月制造业PMI从50.1降至49.3，跌破50荣枯线。",
+          "非制造业PMI下降0.5个点至49.7。",
+          "统计局称部分与国庆长假和复杂的国际环境有关，消费品行业指数下降1.9个点。",
+          "高技术制造业（51.3）和大型企业（50.2）仍在扩张区间。"
+        ],
+        "relevance": "中国经济的冷热会通过铁矿石、教育、旅游和澳洲品牌在中国的销售影响到澳洲。对营销人来说，消费品指数走弱提示中国消费者仍然比较谨慎；如果你的工作涉及面向中国市场或华人消费者的品牌，这类数据能帮助判断投放节奏和促销力度。",
+        "phrase": {
+          "en": "slip back into",
+          "zh": "（又）滑回、重新陷入（某种状态）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Milk tea chain Moli Naibai pulls its Chiikawa Halloween glass cup after a customer is reportedly injured",
+      "title_zh": "茉莉奶白Chiikawa联名玻璃杯被曝炸裂伤人，品牌全渠道下架并统一退款",
+      "search_zh": "茉莉奶白 chiikawa 联名 万圣节 玻璃杯 炸裂 受伤 全渠道下架 统一退款 第三方检测",
+      "summary_en": "Chinese milk tea chain Moli Naibai has pulled a Halloween glass cup made in collaboration with the Japanese cartoon brand Chiikawa from all its sales channels after a customer was reportedly injured. On 29 October, a social media user said a friend's cup suddenly shattered while being rinsed with cold water, cutting the friend's hand badly enough to need surgery in hospital. The brand said it would refund every order that included the glass cup, take full responsibility for the reported injury and seal off the remaining stock from the same batch. Although the company said the cup had passed quality inspections, it has asked an independent testing agency to recheck the product urgently and promised to publish the results.",
+      "summary_zh": "中国茶饮品牌茉莉奶白与日本卡通品牌Chiikawa联名推出的万圣节玻璃杯，在有消费者据称受伤后，已在全渠道下架。10月29日，一名网友在社交平台发帖称，朋友的杯子在用冷水冲洗时突然炸裂，手部被割伤，严重到需要住院做手术。品牌方表示，所有购买玻璃杯套餐的订单将统一退款，对网传的受伤情况全权负责，并将同批次库存隔离封存。公司称这款杯子具备合格的质检证明，但仍已安排专业第三方检测机构加急复检，并承诺第一时间公布结果。",
+      "why_zh": "“联名周边”是中国新茶饮最常用的营销手段，这次事件说明周边的质量和安全同样代表品牌形象。“collaboration（合作、联名）”“refund（退款）”是营销和客服工作中的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Jiemian (界面新闻); Sina Finance (新浪财经); Beijing Business Today (北京商报, via Sohu); MyDrivers (快科技)",
+      "url": "https://www.jiemian.com/article/15271592.html",
+      "vocab": [
+        {
+          "word": "collaboration",
+          "phonetic": "/kəˌlæbəˈreɪʃn/",
+          "pos": "n.",
+          "zh": "合作；（品牌）联名",
+          "example": "Chinese milk tea chain Moli Naibai has pulled a Halloween glass cup made in collaboration with the Japanese cartoon brand Chiikawa from all its sales channels after a customer was reportedly injured."
+        },
+        {
+          "word": "refund",
+          "phonetic": "/rɪˈfʌnd/",
+          "pos": "v.",
+          "zh": "退款，退还（钱款）",
+          "example": "The brand said it would refund every order that included the glass cup, take full responsibility for the reported injury and seal off the remaining stock from the same batch."
+        }
+      ],
+      "explain": {
+        "one_liner": "奶茶店和热门卡通IP联名卖玻璃杯，结果有人说杯子一冲水就炸了、手被割伤，品牌赶紧下架、退款，并找第三方重新检测。",
+        "facts": [
+          {
+            "icon": "🧋",
+            "name": "茉莉奶白",
+            "text": "中国的新式茶饮（奶茶）连锁品牌，以茉莉花茶底的奶茶为特色，经常推出联名产品和周边。"
+          },
+          {
+            "icon": "🐹",
+            "name": "Chiikawa",
+            "text": "日本插画家创作的一组可爱小动物卡通角色，在中国年轻人中非常受欢迎，常和各种品牌联名。"
+          },
+          {
+            "icon": "🤝",
+            "name": "联名 co-branding",
+            "text": "两个品牌合作推出限定产品，借对方的粉丝和热度吸引顾客，是奶茶、咖啡等行业最常见的营销玩法之一。"
+          },
+          {
+            "icon": "🥛",
+            "name": "高硼硅玻璃",
+            "text": "一种比较耐热、耐温差的玻璃，常用于水杯和厨具。据报道这款杯子的包装标注适用温度为0℃至100℃。"
+          },
+          {
+            "icon": "🔬",
+            "name": "第三方检测",
+            "text": "由与买卖双方都没有利益关系的独立机构来检验产品，结果更容易让公众信服。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "茉莉奶白",
+            "b": "Chiikawa",
+            "type": "neutral",
+            "label": "联名推出万圣节玻璃杯"
+          },
+          {
+            "a": "网传杯子炸裂",
+            "b": "品牌声誉",
+            "type": "bad",
+            "label": "引发消费者担忧和热议"
+          },
+          {
+            "a": "品牌回应",
+            "b": "消费者",
+            "type": "good",
+            "label": "全渠道下架、统一退款、全权负责"
+          },
+          {
+            "a": "第三方复检",
+            "b": "事件原因",
+            "type": "cause",
+            "label": "结果尚未公布"
+          }
+        ],
+        "points": [
+          "10月29日有网友称朋友的联名玻璃杯冷水冲洗时炸裂，手部受伤需手术。",
+          "茉莉奶白已在全渠道下架该周边，并隔离封存同批次库存。",
+          "所有玻璃杯套餐订单统一退款，品牌承诺对网传受伤情况全权负责。",
+          "品牌称杯子有合格质检证明，已安排第三方加急复检，结果还未公布。"
+        ],
+        "relevance": "联名周边能带来巨大的流量和销量，但一旦出现安全问题，伤害的是两个品牌的口碑。这是一个很好的危机公关案例：快速下架、主动退款、承诺负责、引入第三方检测。在澳洲做营销同样要重视周边和赠品的安全合规（澳洲有ACCC负责产品安全和召回）。",
+        "phrase": {
+          "en": "take full responsibility",
+          "zh": "全权负责，承担全部责任"
+        }
+      }
+    }
+  ]
+}
