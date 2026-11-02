@@ -3135,5 +3135,216 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "reactions",
+    "added": "2026-11-03",
+    "name": "表情与反应",
+    "icon": "🤯",
+    "prompt": "这个反应怎么说？",
+    "items": [
+      {
+        "emoji": "😴",
+        "w": "power nap",
+        "ph": "/ˈpaʊə næp/",
+        "pos": "n.",
+        "zh": "小憩（短暂午睡）",
+        "ex": "I had a quick power nap in my lunch break.",
+        "tip": "nap = 打盹；doze off = 不小心睡着",
+        "accept": [
+          "power nap",
+          "nap",
+          "sleep",
+          "doze"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😭",
+        "w": "cry my eyes out",
+        "ph": "/kraɪ maɪ aɪz aʊt/",
+        "pos": "phr.",
+        "zh": "哭得稀里哗啦",
+        "ex": "I cried my eyes out at the end of that movie.",
+        "tip": "也可以说 bawl my eyes out",
+        "accept": [
+          "cry my eyes out",
+          "bawl",
+          "sob",
+          "cry"
+        ],
+        "near": [
+          "gasp"
+        ]
+      },
+      {
+        "emoji": "🤯",
+        "w": "mind-blown",
+        "ph": "/ˌmaɪnd ˈbləʊn/",
+        "pos": "adj.",
+        "zh": "震惊、脑子炸了",
+        "ex": "I was mind-blown when I saw the final numbers.",
+        "tip": "口语：That blew my mind!",
+        "accept": [
+          "mind-blown",
+          "mind blown",
+          "blown away",
+          "shocked"
+        ],
+        "near": [
+          "starstruck"
+        ]
+      },
+      {
+        "emoji": "🥺",
+        "w": "puppy-dog eyes",
+        "ph": "/ˌpʌpi dɒɡ ˈaɪz/",
+        "pos": "n.",
+        "zh": "可怜巴巴的眼神",
+        "ex": "The kids gave me puppy-dog eyes until I bought ice cream.",
+        "tip": "",
+        "accept": [
+          "puppy-dog eyes",
+          "puppy eyes",
+          "pleading"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😏",
+        "w": "smirk",
+        "ph": "/smɜːk/",
+        "pos": "v./n.",
+        "zh": "得意地笑、坏笑",
+        "ex": "He smirked when he heard he'd won the bet.",
+        "tip": "smile 是正常笑，smirk 带点得意或嘲讽",
+        "accept": [
+          "smirk",
+          "smug",
+          "grin"
+        ],
+        "near": [
+          "unimpressed"
+        ]
+      },
+      {
+        "emoji": "😑",
+        "w": "unimpressed",
+        "ph": "/ˌʌnɪmˈprest/",
+        "pos": "adj.",
+        "zh": "无动于衷的、不以为然的",
+        "ex": "The boss looked pretty unimpressed with the first draft.",
+        "tip": "",
+        "accept": [
+          "unimpressed",
+          "not impressed",
+          "meh",
+          "deadpan"
+        ],
+        "near": [
+          "smirk"
+        ]
+      },
+      {
+        "emoji": "🤩",
+        "w": "starstruck",
+        "ph": "/ˈstɑːstrʌk/",
+        "pos": "adj.",
+        "zh": "见到明星激动不已",
+        "ex": "I was totally starstruck when I met Kylie.",
+        "tip": "",
+        "accept": [
+          "starstruck",
+          "star struck",
+          "amazed",
+          "excited"
+        ],
+        "near": [
+          "mind-blown"
+        ]
+      },
+      {
+        "emoji": "😱",
+        "w": "freak out",
+        "ph": "/ˌfriːk ˈaʊt/",
+        "pos": "phr.",
+        "zh": "吓坏了、抓狂",
+        "ex": "Don't freak out, but I think I deleted the file.",
+        "tip": "口语超常用；名词 freak-out",
+        "accept": [
+          "freak out",
+          "freaked out",
+          "panic",
+          "scream"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😮",
+        "w": "gasp",
+        "ph": "/ɡɑːsp/",
+        "pos": "v./n.",
+        "zh": "倒吸一口气",
+        "ex": "The whole room gasped when she announced she was leaving.",
+        "tip": "",
+        "accept": [
+          "gasp",
+          "shocked",
+          "surprised",
+          "wow"
+        ],
+        "near": [
+          "cry my eyes out"
+        ]
+      },
+      {
+        "emoji": "🫣",
+        "w": "peek",
+        "ph": "/piːk/",
+        "pos": "v.",
+        "zh": "偷看",
+        "ex": "I couldn't watch the scary bit, so I peeked through my fingers.",
+        "tip": "sneak peek = 抢先看（营销常用）",
+        "accept": [
+          "peek",
+          "peep",
+          "can't look",
+          "sneak peek"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤐",
+        "w": "my lips are sealed",
+        "ph": "/maɪ lɪps ə ˈsiːld/",
+        "pos": "phr.",
+        "zh": "我保证不说出去",
+        "ex": "Don't worry about the surprise party — my lips are sealed.",
+        "tip": "也可以说 I won't tell a soul / zip it",
+        "accept": [
+          "my lips are sealed",
+          "zip it",
+          "lips are sealed",
+          "keep a secret"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😇",
+        "w": "innocent",
+        "ph": "/ˈɪnəsnt/",
+        "pos": "adj.",
+        "zh": "无辜的、乖巧的",
+        "ex": "Don't look so innocent — I know you ate the last Tim Tam!",
+        "tip": "Tim Tam = 澳洲国民巧克力饼干",
+        "accept": [
+          "innocent",
+          "angel",
+          "angelic",
+          "who me"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
