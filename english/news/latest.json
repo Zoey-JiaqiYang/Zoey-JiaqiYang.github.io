@@ -1,292 +1,297 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T01:57:25+11:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T02:47:40+11:00",
   "items": [
     {
-      "category": "australia",
-      "title_en": "Australian home values fall for a seventh straight month in the fastest downturn in 40 years",
-      "title_zh": "澳洲房价连跌七个月，下跌速度创40年来最快",
-      "search_zh": "Cotality 澳洲房价 10月 下跌1.2% 连续七个月 40年最快 布里斯班 珀斯 悉尼 拍卖清空率 澳联储 加息 11月3日",
-      "summary_en": "Australian home values fell for a seventh month in a row in October, dropping 1.2% nationally, according to property data firm Cotality. Cotality says the downturn is moving faster than any other housing decline in the past 40 years, with Brisbane recording the steepest monthly fall at 2.0%, followed by Perth at 1.7% and Sydney at 1.6%. Buyers are also more cautious, as the number of home sales over the past three months was 23% lower than a year earlier and auction clearance rates across the capital cities stayed below 50%. The figures were released just before the Reserve Bank of Australia's meeting on Tuesday, when many economists expect another interest rate rise that could put further pressure on prices.",
-      "summary_zh": "据房产数据公司Cotality统计，澳洲房价10月全国下跌1.2%，已连续第七个月下跌。Cotality表示，这轮房价下跌的速度比过去40年里任何一次楼市下行都快，其中布里斯班单月跌幅最大，为2.0%，其次是珀斯（1.7%）和悉尼（1.6%）。买家也变得更加谨慎：过去三个月的房屋成交量比一年前少了23%，各首府城市的整体拍卖清空率一直低于50%。这组数据恰好在澳洲储备银行周二议息会议前公布，许多经济学家预计央行将再次加息，这可能给房价带来更大压力。",
-      "why_zh": "住房是澳洲人最关心的话题之一，房价涨跌直接影响大家的“钱包感受”和消费意愿。“downturn（下行、衰退）”“cautious（谨慎的）”是财经和职场里都很常用的词。",
+      "category": "markets",
+      "title_en": "RBA widely tipped to lift interest rates to an 18-year high in today's decision",
+      "title_zh": "澳联储今天公布利率决定，市场普遍预计加息至4.85%、创18年新高",
+      "search_zh": "澳洲储备银行 RBA 11月3日 利率决议 预计加息 4.85% 路透调查 31位经济学家 通胀 截尾均值 18年新高",
+      "summary_en": "The Reserve Bank of Australia will announce its interest rate decision at 2:30pm Sydney time today, and most economists expect it to raise the cash rate by 0.25 percentage points to 4.85%. In a Reuters poll, 31 of 32 economists forecast a rise, while money markets were pricing in a roughly 80% chance of a hike. The main reason is stubborn inflation, as official figures released last week showed that underlying price growth was faster than the central bank had projected. If the hike goes ahead, the cash rate would reach its highest level in about 18 years, adding to the pressure on borrowers at a time when home values are already falling.",
+      "summary_zh": "澳洲储备银行将于今天悉尼时间下午2:30公布利率决定，大多数经济学家预计央行会把现金利率上调0.25个百分点，至4.85%。在路透社的调查中，32位经济学家里有31位预测会加息，而货币市场认为加息的概率约为80%。主要原因是通胀居高不下：上周公布的官方数据显示，核心物价涨幅比央行此前预测的更快。如果这次真的加息，现金利率将升至约18年来的最高水平，在房价已经下跌的时候，给贷款人带来更大压力。",
+      "why_zh": "利率决定直接影响房贷、消费和企业广告预算，是今天澳洲最重要的经济新闻（结果下午才公布，本文只是预测）。“stubborn（顽固的、居高不下的）”“borrowers（借款人）”是财经新闻高频词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Capital Brief; Property Update; MacroBusiness; The Private Banker (citing Bloomberg)",
-      "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
+      "source": "Bloomberg; Reuters poll (via investingLive); Finder RBA survey; The Adviser; CommBank Newsroom",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-set-for-fifth-rate-hike-as-inflation-fight-intensifies",
       "vocab": [
         {
-          "word": "downturn",
-          "phonetic": "/ˈdaʊntɜːn/",
-          "pos": "n.",
-          "zh": "（经济、市场的）下行，衰退",
-          "example": "Cotality says the downturn is moving faster than any other housing decline in the past 40 years, with Brisbane recording the steepest monthly fall at 2.0%, followed by Perth at 1.7% and Sydney at 1.6%."
+          "word": "stubborn",
+          "phonetic": "/ˈstʌbən/",
+          "pos": "adj.",
+          "zh": "顽固的；（问题）难以消除的",
+          "example": "The main reason is stubborn inflation, as official figures released last week showed that underlying price growth was faster than the central bank had projected."
         },
         {
-          "word": "cautious",
-          "phonetic": "/ˈkɔːʃəs/",
-          "pos": "adj.",
-          "zh": "谨慎的，小心的",
-          "example": "Buyers are also more cautious, as the number of home sales over the past three months was 23% lower than a year earlier and auction clearance rates across the capital cities stayed below 50%."
+          "word": "borrowers",
+          "phonetic": "/ˈbɒrəʊəz/",
+          "pos": "n.",
+          "zh": "借款人，贷款人（借钱的一方）",
+          "example": "If the hike goes ahead, the cash rate would reach its highest level in about 18 years, adding to the pressure on borrowers at a time when home values are already falling."
         }
       ],
       "explain": {
-        "one_liner": "澳洲房价已经连续跌了七个月，而且跌得比过去40年任何一次都快；周二央行可能还要加息，房贷更贵，买房的人就更犹豫了。",
+        "one_liner": "今天下午澳联储要宣布利率，几乎所有经济学家都猜会再加息一次，因为物价还是涨得太快；结果要到下午2:30才揭晓。",
         "facts": [
-          {
-            "icon": "🏠",
-            "name": "Cotality",
-            "text": "澳洲最常被引用的房产数据公司之一（以前叫CoreLogic），每月初发布“房屋价值指数”，媒体经常用它来报道房价涨跌。"
-          },
           {
             "icon": "🏦",
             "name": "澳洲储备银行 RBA",
-            "text": "澳洲的中央银行，负责决定基准利率（现金利率）。利率上调后，银行房贷利息通常也会跟着变贵。"
+            "text": "澳洲的中央银行，负责设定基准利率（现金利率），目标是把通胀控制在2%–3%之间。"
+          },
+          {
+            "icon": "💵",
+            "name": "现金利率 cash rate",
+            "text": "银行之间隔夜借钱的利率，是澳洲的“基准利率”。它一变，银行的房贷、存款利率通常也会跟着变。"
           },
           {
             "icon": "📈",
-            "name": "加息 rate rise",
-            "text": "央行提高利率。目的是给经济“降温”、压低通胀，但会让贷款、尤其是房贷的还款变多。"
+            "name": "通胀 inflation",
+            "text": "物价整体上涨的速度。通胀太高，钱就“不值钱”，央行常用加息来给经济降温。"
           },
           {
-            "icon": "🔨",
-            "name": "拍卖清空率 clearance rate",
-            "text": "在拍卖中成功卖出的房子占比。澳洲很多房子通过拍卖出售，清空率低于50%说明一半以上的房子没拍出去，市场偏冷。"
+            "icon": "🧮",
+            "name": "核心通胀（截尾均值）trimmed mean",
+            "text": "去掉涨跌最极端的商品后算出的物价涨幅，更能看出“真实的”通胀趋势，是RBA最看重的指标之一。"
           },
           {
-            "icon": "🗺️",
-            "name": "首府城市 capital cities",
-            "text": "指悉尼、墨尔本、布里斯班、珀斯、阿德莱德等各州/领地的首府，是澳洲房价统计的重点。"
+            "icon": "📊",
+            "name": "路透调查 Reuters poll",
+            "text": "路透社在重大决定前询问一批经济学家的预测，用来反映专业人士的主流看法。"
+          },
+          {
+            "icon": "💹",
+            "name": "货币市场定价 market pricing",
+            "text": "根据交易员的交易价格推算出“市场认为某件事发生的概率”，这次约为80%。"
           }
         ],
         "relations": [
           {
-            "a": "加息预期",
+            "a": "通胀偏高",
+            "b": "RBA",
+            "type": "cause",
+            "label": "促使央行考虑加息"
+          },
+          {
+            "a": "RBA加息",
+            "b": "房贷借款人",
+            "type": "bad",
+            "label": "每月还款增加"
+          },
+          {
+            "a": "RBA加息",
             "b": "房价",
             "type": "bad",
-            "label": "房贷更贵，压低买家出价能力"
+            "label": "买家可借的钱变少"
           },
           {
-            "a": "买家谨慎",
-            "b": "成交量",
-            "type": "cause",
-            "label": "三个月成交量同比减少23%"
-          },
-          {
-            "a": "RBA",
-            "b": "房贷利率",
-            "type": "cause",
-            "label": "周二议息，可能再次加息"
-          },
-          {
-            "a": "房价下跌",
-            "b": "消费信心",
-            "type": "bad",
-            "label": "家庭觉得“变穷了”，花钱更谨慎"
+            "a": "经济学家",
+            "b": "RBA决定",
+            "type": "neutral",
+            "label": "32人中31人预测加息"
           }
         ],
         "points": [
-          "10月全国房价下跌1.2%，已连续第七个月下跌。",
-          "Cotality称这是过去40年来最快的一轮房价下跌。",
-          "布里斯班跌2.0%最多，其次是珀斯1.7%和悉尼1.6%。",
-          "成交量同比少23%，拍卖清空率低于50%；周二RBA可能再加息。"
+          "RBA今天下午2:30（悉尼时间）公布利率决定，结果尚未公布。",
+          "主流预期是加息0.25个百分点，从4.60%升至4.85%。",
+          "路透调查中32位经济学家有31位预测加息，市场认为概率约80%。",
+          "原因是上周公布的通胀数据高于央行预期；若加息，利率将创约18年新高。"
         ],
-        "relevance": "房子是很多澳洲家庭最大的资产，房价下跌加上加息，人们往往会减少非必要消费，这会影响圣诞季的广告预算和促销策略。如果你服务房地产、银行、家装或零售类客户，营销信息可能要更强调性价比、灵活付款和“让人安心”。",
+        "relevance": "加息会让有房贷的家庭每月少很多可支配收入，零售、餐饮、旅游等行业的消费往往会更谨慎，客户也可能收紧广告预算。作为营销人，可以提前准备强调“性价比”“省钱”“分期免息”的信息，并留意下午公布的结果对圣诞季消费的影响。",
         "phrase": {
-          "en": "in a row",
-          "zh": "连续地，一个接一个"
+          "en": "widely tipped to",
+          "zh": "被普遍预计会……"
         }
       }
     },
     {
-      "category": "markets",
-      "title_en": "China's factory activity slips back into contraction in October as holiday and weak demand weigh",
-      "title_zh": "中国10月制造业PMI降至49.3，重回收缩区间",
-      "search_zh": "国家统计局 10月 制造业PMI 49.3 非制造业PMI 49.7 国庆假期 高技术制造业 51.3 消费品行业 2026",
-      "summary_en": "China's factory activity shrank in October, as the official manufacturing purchasing managers' index (PMI) fell to 49.3 from 50.1 in September, according to the National Bureau of Statistics. A reading below 50 means activity is contracting, and the non-manufacturing PMI, which covers services and construction, also slipped 0.5 points to 49.7. The statistics bureau said the decline was partly linked to the week-long National Day holiday at the start of the month and a complex international environment, while a sub-index for consumer goods makers dropped 1.9 points. There were some bright spots, however, as high-tech manufacturing stayed in expansion at 51.3 and large companies remained just above the 50 mark at 50.2.",
-      "summary_zh": "据国家统计局数据，中国10月官方制造业采购经理指数（PMI）从9月的50.1降至49.3，工厂活动出现收缩。PMI低于50意味着经济活动在收缩；涵盖服务业和建筑业的非制造业PMI也下降0.5个点，至49.7。国家统计局表示，这次回落部分与月初为期一周的国庆长假以及复杂的国际环境有关，同时消费品行业的分项指数下降了1.9个点。不过也有一些亮点：高技术制造业PMI为51.3，继续保持扩张，大型企业PMI为50.2，仍略高于50的分界线。",
-      "why_zh": "中国是澳洲最大的贸易伙伴，中国经济冷热会影响澳洲的出口、澳元和不少品牌的生意。“contracting（收缩的）”“bright spots（亮点）”是经济新闻里的高频表达。",
+      "category": "australia",
+      "title_en": "Australians set to bet A$351 million on Melbourne Cup Day",
+      "title_zh": "墨尔本杯赛马日：澳洲人预计今天下注3.51亿澳元",
+      "search_zh": "墨尔本杯 2026 Finder 调查 下注 3.51亿澳元 平均115澳元 310万人 Flemington 下午3点 Point Of Law 热门",
+      "summary_en": "Australians are expected to bet about A$351 million on the Melbourne Cup today, according to a survey by comparison website Finder. The survey of 1,006 people found that 14% of Australians, or almost 3.1 million people, plan to place a bet, with an average planned spend of A$115. Men are much more likely than women to have a flutter, with at least 18% of men planning to bet compared with 10% of women. The 3,200-metre race at Melbourne's Flemington Racecourse starts at 3pm local time and offers about A$10 million in prize money, with Point Of Law going in as the betting favourite.",
+      "summary_zh": "据比价网站Finder的调查，澳洲人预计今天将在墨尔本杯上下注约3.51亿澳元。这项针对1,006人的调查发现，14%的澳洲人（接近310万人）打算下注，平均计划花费115澳元。男性比女性更喜欢“小赌一把”，至少18%的男性计划下注，而女性只有10%。这场3,200米的比赛在墨尔本Flemington赛马场举行，当地时间下午3点开跑，奖金约1,000万澳元，赛前投注中最热门的马是Point Of Law。",
+      "why_zh": "墨尔本杯被称为“让全国停下来的比赛”，墨尔本当天放公众假期，全澳办公室都会办派对、抽签小赌。“have a flutter（小赌一把）”是很地道的英澳口语。",
       "image": "",
       "image_credit": "",
-      "source": "National Bureau of Statistics of China (via Xinhua); China Daily; Global Times; People's Daily; Business Today (Malaysia)",
-      "url": "https://english.news.cn/20261031/b8bbe3a5855e496882fa8cad79a57fe4/c.html",
+      "source": "Finder; news.com.au; Starts at 60; ESPN; Victoria Racing Club",
+      "url": "https://www.finder.com.au/news/melbourne-cup-betting-2026",
       "vocab": [
         {
-          "word": "contracting",
-          "phonetic": "/kənˈtræktɪŋ/",
-          "pos": "v. (-ing)",
-          "zh": "收缩，萎缩",
-          "example": "A reading below 50 means activity is contracting, and the non-manufacturing PMI, which covers services and construction, also slipped 0.5 points to 49.7."
+          "word": "flutter",
+          "phonetic": "/ˈflʌtə/",
+          "pos": "n.",
+          "zh": "（口语）小赌一把（常用 have a flutter）",
+          "example": "Men are much more likely than women to have a flutter, with at least 18% of men planning to bet compared with 10% of women."
         },
         {
-          "word": "bright spots",
-          "phonetic": "/braɪt spɒts/",
+          "word": "favourite",
+          "phonetic": "/ˈfeɪvərɪt/",
           "pos": "n.",
-          "zh": "亮点，好的方面",
-          "example": "There were some bright spots, however, as high-tech manufacturing stayed in expansion at 51.3 and large companies remained just above the 50 mark at 50.2."
+          "zh": "（比赛中）最被看好的选手/马，热门",
+          "example": "The 3,200-metre race at Melbourne's Flemington Racecourse starts at 3pm local time and offers about A$10 million in prize money, with Point Of Law going in as the betting favourite."
         }
       ],
       "explain": {
-        "one_liner": "10月中国工厂的生意比9月差了，PMI跌破50这条“荣枯线”；不过高科技制造和大企业还算撑得住。",
+        "one_liner": "今天是墨尔本杯赛马日，很多澳洲人会小赌一把；调查估计全国总共会下注约3.51亿澳元。",
         "facts": [
           {
-            "icon": "📊",
-            "name": "采购经理指数 PMI",
-            "text": "通过问卷调查企业采购经理，了解订单、生产、用工等情况，是反映经济冷热最快的指标之一。"
+            "icon": "🏇",
+            "name": "墨尔本杯 Melbourne Cup",
+            "text": "澳洲最有名的赛马比赛，每年11月第一个星期二举行，被称为“让全国停下来的比赛”（the race that stops a nation）。墨尔本当天是公众假期。"
           },
           {
-            "icon": "⚖️",
-            "name": "50荣枯线",
-            "text": "PMI高于50表示经济活动在扩张，低于50表示在收缩。49.3就是比上个月“变差了一点”。"
+            "icon": "🏟️",
+            "name": "Flemington 赛马场",
+            "text": "位于墨尔本的著名赛马场，墨尔本杯每年都在这里举行。"
           },
           {
-            "icon": "🏛️",
-            "name": "国家统计局 NBS",
-            "text": "中国负责发布官方经济数据的政府部门，每月最后一天左右发布官方PMI。"
+            "icon": "🔎",
+            "name": "Finder",
+            "text": "澳洲的比价和个人理财网站，经常做消费者调查，媒体常引用它的数据。"
           },
           {
-            "icon": "🏗️",
-            "name": "非制造业PMI",
-            "text": "衡量服务业（如零售、交通、金融）和建筑业的景气程度，10月为49.7。"
+            "icon": "🎟️",
+            "name": "Sweep 抽签小赌",
+            "text": "澳洲办公室常见的玩法：大家各出一点钱随机抽一匹马，抽到冠军马的人赢走奖池。"
           },
           {
-            "icon": "🎆",
-            "name": "国庆假期 National Day holiday",
-            "text": "每年10月初的七天长假（“黄金周”），工厂停工天数多，常会拉低当月生产数据。"
+            "icon": "🐎",
+            "name": "Point Of Law",
+            "text": "今年赛前投注中最被看好的马，之前赢过Geelong Cup等比赛。热门马不一定会赢。"
           }
         ],
         "relations": [
           {
-            "a": "国庆长假",
-            "b": "工厂生产",
+            "a": "墨尔本杯",
+            "b": "博彩消费",
             "type": "cause",
-            "label": "工作日减少，生产回落"
+            "label": "预计下注约3.51亿澳元"
           },
           {
-            "a": "消费需求偏弱",
-            "b": "消费品行业",
-            "type": "bad",
-            "label": "分项指数下降1.9个点"
-          },
-          {
-            "a": "高技术制造业",
-            "b": "中国经济",
-            "type": "good",
-            "label": "PMI 51.3，保持扩张"
-          },
-          {
-            "a": "中国经济",
-            "b": "澳洲出口",
+            "a": "男性",
+            "b": "下注意愿",
             "type": "neutral",
-            "label": "中国是澳洲最大贸易伙伴"
+            "label": "18%对比女性10%"
+          },
+          {
+            "a": "Finder",
+            "b": "理性消费",
+            "type": "good",
+            "label": "提醒别让下注超出预算"
+          },
+          {
+            "a": "墨尔本杯",
+            "b": "餐饮/时尚/零售",
+            "type": "good",
+            "label": "派对、服装、聚餐带动消费"
           }
         ],
         "points": [
-          "10月制造业PMI从50.1降至49.3，跌破50荣枯线。",
-          "非制造业PMI下降0.5个点至49.7。",
-          "统计局称部分与国庆长假和复杂的国际环境有关，消费品行业指数下降1.9个点。",
-          "高技术制造业（51.3）和大型企业（50.2）仍在扩张区间。"
+          "Finder调查估计澳洲人今天将下注约3.51亿澳元。",
+          "约14%的澳洲人（近310万人）打算下注，平均115澳元。",
+          "男性（至少18%）比女性（10%）更可能下注。",
+          "比赛今天下午3点开跑，赛程3,200米，奖金约1,000万澳元，Point Of Law是赛前热门。"
         ],
-        "relevance": "中国经济的冷热会通过铁矿石、教育、旅游和澳洲品牌在中国的销售影响到澳洲。对营销人来说，消费品指数走弱提示中国消费者仍然比较谨慎；如果你的工作涉及面向中国市场或华人消费者的品牌，这类数据能帮助判断投放节奏和促销力度。",
+        "relevance": "墨尔本杯是澳洲春季最大的营销节点之一，时尚、香槟、餐饮、博彩和汽车品牌都会围绕它做活动。了解“flutter”“sweep”“the race that stops a nation”这些说法，能帮你听懂同事闲聊，也能看懂相关广告创意；同时要注意澳洲对博彩广告有严格监管。",
         "phrase": {
-          "en": "slip back into",
-          "zh": "（又）滑回、重新陷入（某种状态）"
+          "en": "the race that stops a nation",
+          "zh": "让全国停下来的比赛（墨尔本杯的别称）"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "Milk tea chain Moli Naibai pulls its Chiikawa Halloween glass cup after a customer is reportedly injured",
-      "title_zh": "茉莉奶白Chiikawa联名玻璃杯被曝炸裂伤人，品牌全渠道下架并统一退款",
-      "search_zh": "茉莉奶白 chiikawa 联名 万圣节 玻璃杯 炸裂 受伤 全渠道下架 统一退款 第三方检测",
-      "summary_en": "Chinese milk tea chain Moli Naibai has pulled a Halloween glass cup made in collaboration with the Japanese cartoon brand Chiikawa from all its sales channels after a customer was reportedly injured. On 29 October, a social media user said a friend's cup suddenly shattered while being rinsed with cold water, cutting the friend's hand badly enough to need surgery in hospital. The brand said it would refund every order that included the glass cup, take full responsibility for the reported injury and seal off the remaining stock from the same batch. Although the company said the cup had passed quality inspections, it has asked an independent testing agency to recheck the product urgently and promised to publish the results.",
-      "summary_zh": "中国茶饮品牌茉莉奶白与日本卡通品牌Chiikawa联名推出的万圣节玻璃杯，在有消费者据称受伤后，已在全渠道下架。10月29日，一名网友在社交平台发帖称，朋友的杯子在用冷水冲洗时突然炸裂，手部被割伤，严重到需要住院做手术。品牌方表示，所有购买玻璃杯套餐的订单将统一退款，对网传的受伤情况全权负责，并将同批次库存隔离封存。公司称这款杯子具备合格的质检证明，但仍已安排专业第三方检测机构加急复检，并承诺第一时间公布结果。",
-      "why_zh": "“联名周边”是中国新茶饮最常用的营销手段，这次事件说明周边的质量和安全同样代表品牌形象。“collaboration（合作、联名）”“refund（退款）”是营销和客服工作中的常用词。",
+      "title_en": "At 'China's Hollywood', tourists pay to star in their own costume dramas",
+      "title_zh": "横店推出“游客拍短剧”体验：花388元当一回古装剧主角",
+      "search_zh": "横店影视城 游客 短剧拍摄体验 388元 妆造 古装 剧本 宫斗 2000人 8月上线 情绪消费 体验经济",
+      "summary_en": "Hengdian World Studios in Zhejiang province, often called \"China's Hollywood\", now lets tourists dress up and star in their own short period dramas, Reuters reported. For 388 yuan per person, visitors get hair and makeup, costumes, a 30-minute directed shoot and a 90-second edited video, choosing from more than 20 scripts mostly about palace intrigue, romance or betrayal. Hengdian said more than 2,000 people had taken part since the experience launched in August, with bookings often full at weekends and during holidays. The trend reflects a wider shift in China, where a slowing economy and a long property slump have hurt spending on big-ticket goods, but consumers keep paying for travel, entertainment and experiences.",
+      "summary_zh": "据路透社报道，位于浙江省、常被称为“中国好莱坞”的横店影视城，现在可以让游客换上古装，在自己的短剧里当主角。每人支付388元，游客就能享受妆发造型、服装、30分钟有导演指导的拍摄以及一段剪辑好的90秒视频，还可以从20多个剧本中挑选，大多是宫斗、爱情或背叛题材。横店表示，自8月推出以来已有2,000多人参与，周末和节假日经常约满。这一趋势反映出中国更大的消费变化：经济放缓和楼市长期低迷影响了大件商品的消费，但人们仍愿意为旅行、娱乐和体验花钱。",
+      "why_zh": "“为体验和情绪买单”是中国消费的新趋势，对品牌营销很有启发。“intrigue（阴谋、权谋）”“big-ticket（价格昂贵的、大件的）”都是很实用的词。",
       "image": "",
       "image_credit": "",
-      "source": "Jiemian (界面新闻); Sina Finance (新浪财经); Beijing Business Today (北京商报, via Sohu); MyDrivers (快科技)",
-      "url": "https://www.jiemian.com/article/15271592.html",
+      "source": "Reuters (via The Standard HK, AsiaOne, The News); AFP (via France 24); Global Times",
+      "url": "https://www.thestandard.com.hk/china/article/347244/At-Chinas-Hollywood-visitors-become-stars-as-consumers-spend-more-on-experiences",
       "vocab": [
         {
-          "word": "collaboration",
-          "phonetic": "/kəˌlæbəˈreɪʃn/",
+          "word": "intrigue",
+          "phonetic": "/ˈɪntriːɡ/",
           "pos": "n.",
-          "zh": "合作；（品牌）联名",
-          "example": "Chinese milk tea chain Moli Naibai has pulled a Halloween glass cup made in collaboration with the Japanese cartoon brand Chiikawa from all its sales channels after a customer was reportedly injured."
+          "zh": "阴谋，权谋（palace intrigue 宫斗）",
+          "example": "For 388 yuan per person, visitors get hair and makeup, costumes, a 30-minute directed shoot and a 90-second edited video, choosing from more than 20 scripts mostly about palace intrigue, romance or betrayal."
         },
         {
-          "word": "refund",
-          "phonetic": "/rɪˈfʌnd/",
-          "pos": "v.",
-          "zh": "退款，退还（钱款）",
-          "example": "The brand said it would refund every order that included the glass cup, take full responsibility for the reported injury and seal off the remaining stock from the same batch."
+          "word": "big-ticket",
+          "phonetic": "/ˌbɪɡ ˈtɪkɪt/",
+          "pos": "adj.",
+          "zh": "价格高昂的，大件的",
+          "example": "The trend reflects a wider shift in China, where a slowing economy and a long property slump have hurt spending on big-ticket goods, but consumers keep paying for travel, entertainment and experiences."
         }
       ],
       "explain": {
-        "one_liner": "奶茶店和热门卡通IP联名卖玻璃杯，结果有人说杯子一冲水就炸了、手被割伤，品牌赶紧下架、退款，并找第三方重新检测。",
+        "one_liner": "在横店花几百块，就能化妆换古装、跟着导演拍一段自己当主角的短剧；大家少买大件，却愿意为这种“体验”花钱。",
         "facts": [
           {
-            "icon": "🧋",
-            "name": "茉莉奶白",
-            "text": "中国的新式茶饮（奶茶）连锁品牌，以茉莉花茶底的奶茶为特色，经常推出联名产品和周边。"
+            "icon": "🎬",
+            "name": "横店影视城 Hengdian World Studios",
+            "text": "位于浙江东阳的大型影视拍摄基地，很多古装剧在这里拍摄，常被称为“中国好莱坞”，也是热门旅游景点。"
           },
           {
-            "icon": "🐹",
-            "name": "Chiikawa",
-            "text": "日本插画家创作的一组可爱小动物卡通角色，在中国年轻人中非常受欢迎，常和各种品牌联名。"
+            "icon": "📰",
+            "name": "路透社 Reuters",
+            "text": "总部在伦敦的国际通讯社，为全球媒体提供新闻稿，这篇报道被很多媒体转载。"
           },
           {
-            "icon": "🤝",
-            "name": "联名 co-branding",
-            "text": "两个品牌合作推出限定产品，借对方的粉丝和热度吸引顾客，是奶茶、咖啡等行业最常见的营销玩法之一。"
+            "icon": "📱",
+            "name": "短剧 short drama",
+            "text": "每集几分钟的竖屏网络剧，近几年在中国非常火，情节常是宫斗、逆袭、爱情。"
           },
           {
-            "icon": "🥛",
-            "name": "高硼硅玻璃",
-            "text": "一种比较耐热、耐温差的玻璃，常用于水杯和厨具。据报道这款杯子的包装标注适用温度为0℃至100℃。"
+            "icon": "✨",
+            "name": "体验经济 experience economy",
+            "text": "消费者花钱买的不是“东西”，而是一段经历和感受，比如旅行、演出、角色扮演拍照等。"
           },
           {
-            "icon": "🔬",
-            "name": "第三方检测",
-            "text": "由与买卖双方都没有利益关系的独立机构来检验产品，结果更容易让公众信服。"
+            "icon": "🏚️",
+            "name": "楼市低迷 property slump",
+            "text": "中国房地产市场几年来持续不景气，房价和成交下降，让很多家庭对买大件更谨慎。"
           }
         ],
         "relations": [
           {
-            "a": "茉莉奶白",
-            "b": "Chiikawa",
-            "type": "neutral",
-            "label": "联名推出万圣节玻璃杯"
-          },
-          {
-            "a": "网传杯子炸裂",
-            "b": "品牌声誉",
+            "a": "经济放缓与楼市低迷",
+            "b": "大件消费",
             "type": "bad",
-            "label": "引发消费者担忧和热议"
+            "label": "奢侈品、家具等购买减少"
           },
           {
-            "a": "品牌回应",
-            "b": "消费者",
+            "a": "消费者",
+            "b": "体验类消费",
             "type": "good",
-            "label": "全渠道下架、统一退款、全权负责"
+            "label": "继续为旅行、娱乐买单"
           },
           {
-            "a": "第三方复检",
-            "b": "事件原因",
+            "a": "社交媒体视频",
+            "b": "横店短剧体验",
             "type": "cause",
-            "label": "结果尚未公布"
+            "label": "网友看到视频后前来预约"
+          },
+          {
+            "a": "横店",
+            "b": "短剧热潮",
+            "type": "neutral",
+            "label": "把拍摄基地变成体验产品"
           }
         ],
         "points": [
-          "10月29日有网友称朋友的联名玻璃杯冷水冲洗时炸裂，手部受伤需手术。",
-          "茉莉奶白已在全渠道下架该周边，并隔离封存同批次库存。",
-          "所有玻璃杯套餐订单统一退款，品牌承诺对网传受伤情况全权负责。",
-          "品牌称杯子有合格质检证明，已安排第三方加急复检，结果还未公布。"
+          "横店推出游客拍古装短剧体验，8月上线。",
+          "388元套餐含妆发、服装、30分钟导演拍摄和90秒成片，可选20多个剧本。",
+          "已有2,000多人参与，周末和节假日常约满。",
+          "路透认为这反映了中国消费从“买东西”转向“买体验”。"
         ],
-        "relevance": "联名周边能带来巨大的流量和销量，但一旦出现安全问题，伤害的是两个品牌的口碑。这是一个很好的危机公关案例：快速下架、主动退款、承诺负责、引入第三方检测。在澳洲做营销同样要重视周边和赠品的安全合规（澳洲有ACCC负责产品安全和召回）。",
+        "relevance": "这是“体验营销”和“用户生成内容（UGC）”的好例子：游客拍完视频会主动发到社交媒体，替景点免费宣传。在澳洲做营销也可以借鉴，比如为华人客群设计可拍照、可分享的沉浸式体验，比单纯打折更能带来口碑。",
         "phrase": {
-          "en": "take full responsibility",
-          "zh": "全权负责，承担全部责任"
+          "en": "pay to play the lead",
+          "zh": "花钱当主角"
         }
       }
     }
