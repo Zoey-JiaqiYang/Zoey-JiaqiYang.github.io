@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T01:56:39+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "RBA lifts the cash rate to 4.85%, the highest in 18 years, in a split 6–3 vote",
+      "title_zh": "澳联储如期加息至4.85%，创18年新高，理事会6比3意见分歧",
+      "search_zh": "澳洲储备银行 RBA 11月3日 加息 4.85% 6比3 投票 第五次加息 2008年以来最高 通胀 2027年底 Canstar 50万房贷 每月多还77澳元",
+      "summary_en": "The Reserve Bank of Australia raised its cash rate by 0.25 percentage points to 4.85% on Tuesday, taking interest rates to their highest level since 2008. It was the central bank's fifth rate rise this year, but the decision was not unanimous, with six board members voting for the hike and three preferring to keep rates on hold. The board said inflation remained too high and now expects it to stay above 3%, the top of its target range, until late 2027. According to comparison website Canstar, if banks pass on the rise in full, a borrower with a A$500,000 home loan could pay about A$77 more each month.",
+      "summary_zh": "澳洲储备银行周二将现金利率上调0.25个百分点至4.85%，使利率升至2008年以来的最高水平。这是央行今年第五次加息，但这次决定并非全票通过：六名理事会成员支持加息，三名倾向于维持利率不变。理事会表示通胀仍然过高，并预计通胀将一直高于3%（即目标区间的上限），直到2027年底。据比价网站Canstar测算，如果银行把这次加息全额转嫁，一笔50万澳元房贷的借款人每月可能要多还约77澳元。",
+      "why_zh": "昨天我们预告了这次决定，今天结果揭晓：真的加息了。它会影响房贷、消费信心和圣诞季的营销预算。“unanimous（全体一致的）”“pass on（转嫁）”是财经新闻常见表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "RBA media release; SBS News; ABC News; investingLive; FXStreet; Canstar",
+      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+      "vocab": [
+        {
+          "word": "unanimous",
+          "phonetic": "/juːˈnænɪməs/",
+          "pos": "adj.",
+          "zh": "全体一致的，一致同意的",
+          "example": "It was the central bank's fifth rate rise this year, but the decision was not unanimous, with six board members voting for the hike and three preferring to keep rates on hold."
+        },
+        {
+          "word": "pass on",
+          "phonetic": "/pɑːs ɒn/",
+          "pos": "phr. v.",
+          "zh": "（把成本、加息等）转嫁给（客户）",
+          "example": "According to comparison website Canstar, if banks pass on the rise in full, a borrower with a A$500,000 home loan could pay about A$77 more each month."
+        }
+      ],
+      "explain": {
+        "one_liner": "物价还是涨得太快，澳联储昨天再次加息，利率到了18年来最高；有房贷的人每月要多还钱。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "澳洲储备银行 RBA",
+            "text": "澳洲的中央银行，负责设定基准利率，目标是把通胀控制在2%–3%之间。"
+          },
+          {
+            "icon": "💵",
+            "name": "现金利率 cash rate",
+            "text": "澳洲的“基准利率”。它一上调，银行的浮动房贷利率通常也会跟着上调。"
+          },
+          {
+            "icon": "🗳️",
+            "name": "货币政策理事会 Monetary Policy Board",
+            "text": "RBA里负责决定利率的委员会，共9人，由行长Michele Bullock主持。这次6人支持加息、3人主张不变。"
+          },
+          {
+            "icon": "📈",
+            "name": "通胀 inflation",
+            "text": "物价整体上涨的速度。通胀太高时，央行常用加息让大家少借钱、少花钱，给经济降温。"
+          },
+          {
+            "icon": "🔎",
+            "name": "Canstar",
+            "text": "澳洲的金融比价网站，常测算加息对房贷还款的影响。77澳元是它在“银行全额转嫁”假设下的估算。"
+          },
+          {
+            "icon": "📐",
+            "name": "基点 basis point",
+            "text": "1个基点=0.01个百分点。这次加息25个基点，就是0.25个百分点。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "通胀偏高",
+            "b": "RBA",
+            "type": "cause",
+            "label": "促使央行第五次加息"
+          },
+          {
+            "a": "RBA加息",
+            "b": "房贷借款人",
+            "type": "bad",
+            "label": "每月还款增加"
+          },
+          {
+            "a": "理事会成员",
+            "b": "加息决定",
+            "type": "neutral",
+            "label": "6票赞成、3票反对"
+          },
+          {
+            "a": "RBA加息",
+            "b": "家庭消费",
+            "type": "bad",
+            "label": "可支配收入减少，花钱更谨慎"
+          }
+        ],
+        "points": [
+          "现金利率从4.60%升至4.85%，是2008年以来最高。",
+          "这是2026年第五次加息，与市场预期一致。",
+          "理事会投票6比3，说明内部对是否继续加息存在分歧。",
+          "央行预计通胀要到2027年底才会回落到3%以下。"
+        ],
+        "relevance": "加息会挤压家庭预算，零售、餐饮、旅游等行业可能更谨慎，客户也可能削减广告投放。圣诞和年终促销时，强调“性价比”“分期免息”“省钱”的信息可能更有效；同时要留意票数分歧，这说明后面可能暂停加息，消费者情绪也可能随之变化。",
+        "phrase": {
+          "en": "a split vote",
+          "zh": "意见不一的投票（并非全票通过）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Favourite Point Of Law wins the Melbourne Cup as trainer Ciaron Maher makes history with the top three",
+      "title_zh": "墨尔本杯：大热门Point Of Law夺冠，练马师Maher包揽前三创历史",
+      "search_zh": "2026 墨尔本杯 冠军 Point Of Law Ethan Brown 首冠 Ciaron Maher 包揽前三 Zahrann Juja Kibo 前英王查尔斯 马匹",
+      "summary_en": "Point Of Law, the pre-race favourite, won the 166th Melbourne Cup at Flemington on Tuesday, giving jockey Ethan Brown his first win in Australia's most famous horse race. Trainer Ciaron Maher made history by training the first three horses across the line, with Zahrann finishing second and Juja Kibo third, which reports described as a first for the race. Maher had a record seven runners in the field, and it was his second Melbourne Cup win. The horse was formerly owned by King Charles III, and Maher's team bought him after he won a race at Newmarket in England earlier this year.",
+      "summary_zh": "赛前最被看好的Point Of Law周二在Flemington赛马场赢得第166届墨尔本杯，让骑师Ethan Brown首次赢得这项澳洲最著名的赛马比赛。练马师Ciaron Maher创造了历史：前三名冲线的马都由他训练，Zahrann获得第二、Juja Kibo获得第三，媒体称这在该赛事史上是第一次。Maher这次有创纪录的七匹马参赛，这也是他第二次赢得墨尔本杯。这匹马以前属于英国国王查尔斯三世，Maher的团队在它今年早些时候于英国纽马克特赢得一场比赛后把它买了下来。",
+      "why_zh": "昨天预告了墨尔本杯，今天揭晓结果：热门马真的赢了。这是周三办公室最热门的闲聊话题。“field（全体参赛者）”“formerly（以前）”都很实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Canberra Times (AAP); Yahoo News Australia; Just Horse Racing",
+      "url": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-point-of-law-wins-for-ciaron-maher/107341548",
+      "vocab": [
+        {
+          "word": "field",
+          "phonetic": "/fiːld/",
+          "pos": "n.",
+          "zh": "（一场比赛的）全体参赛者/参赛马匹",
+          "example": "Maher had a record seven runners in the field, and it was his second Melbourne Cup win."
+        },
+        {
+          "word": "formerly",
+          "phonetic": "/ˈfɔːməli/",
+          "pos": "adv.",
+          "zh": "以前，从前",
+          "example": "The horse was formerly owned by King Charles III, and Maher's team bought him after he won a race at Newmarket in England earlier this year."
+        }
+      ],
+      "explain": {
+        "one_liner": "“让全国停下来的比赛”结果出炉：最被看好的马赢了，而且前三名都出自同一位练马师之手，这在历史上是第一次。",
+        "facts": [
+          {
+            "icon": "🏇",
+            "name": "墨尔本杯 Melbourne Cup",
+            "text": "澳洲最有名的赛马，每年11月第一个星期二在墨尔本Flemington赛马场举行，赛程3,200米，墨尔本当天放公众假期。"
+          },
+          {
+            "icon": "🐎",
+            "name": "Point Of Law",
+            "text": "今年的冠军马，赛前就是投注热门。它以前属于英国王室马房，后来被Maher团队买下。"
+          },
+          {
+            "icon": "🧑‍🏫",
+            "name": "练马师 Ciaron Maher",
+            "text": "澳洲顶级练马师，负责马匹的日常训练和备赛。这次他训练的马包揽前三，是他第二座墨尔本杯。"
+          },
+          {
+            "icon": "🏆",
+            "name": "骑师 Ethan Brown",
+            "text": "比赛当天骑在马背上的人。这是他第一次赢得墨尔本杯。"
+          },
+          {
+            "icon": "👑",
+            "name": "查尔斯三世 King Charles III",
+            "text": "英国国王，王室多年来一直养赛马。Point Of Law曾是王室的马。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Ciaron Maher",
+            "b": "Point Of Law",
+            "type": "good",
+            "label": "训练冠军马"
+          },
+          {
+            "a": "英国王室",
+            "b": "Maher团队",
+            "type": "neutral",
+            "label": "把马卖给对方"
+          },
+          {
+            "a": "Ciaron Maher",
+            "b": "前三名",
+            "type": "cause",
+            "label": "七匹马参赛、包揽前三"
+          },
+          {
+            "a": "Ethan Brown",
+            "b": "墨尔本杯",
+            "type": "good",
+            "label": "首次夺冠"
+          }
+        ],
+        "points": [
+          "赛前热门Point Of Law赢得第166届墨尔本杯。",
+          "骑师Ethan Brown首次夺冠，练马师Maher第二次夺冠。",
+          "Maher训练的马包揽前三（Zahrann第二、Juja Kibo第三），据报道是史上首次。",
+          "冠军马曾属于英国国王查尔斯三世。"
+        ],
+        "relevance": "“前王室赛马在澳洲夺冠”“一人包揽前三”这样的故事很有话题性，是品牌和媒体做内容的好素材。墨尔本杯本身也是澳洲春季最大的营销节点之一；周三和同事聊天时，能聊上冠军和这些冷知识，也很有帮助。",
+        "phrase": {
+          "en": "make history",
+          "zh": "创造历史"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Apple Intelligence is coming to iPhones in China in December, powered by Alibaba's Qwen",
+      "title_zh": "苹果AI终于要进中国：12月上线，由阿里巴巴“通义千问”提供支持",
+      "search_zh": "Apple Intelligence 国行 12月上线 阿里巴巴 通义千问 Qwen iOS 27.3 开发者测试版 11月4日 Siri 写作工具 视觉智能 阿里股价 涨6%",
+      "summary_en": "Apple's AI features, known as Apple Intelligence, will finally launch on iPhones in mainland China in December, powered by Alibaba's Qwen artificial intelligence models. Testing is due to begin in a developer beta from 4 November, before a full release for Chinese users as part of the iOS 27.3 update. Qwen will power features such as Siri, Writing Tools and Visual Intelligence, and Apple said users will be asked for permission before a question, document or image is sent to Qwen. Investors welcomed the news, with Alibaba's US-listed shares rising about 6% on Monday.",
+      "summary_zh": "苹果的AI功能“Apple Intelligence”终于将于12月在中国大陆的iPhone上推出，由阿里巴巴的通义千问（Qwen）人工智能模型提供支持。测试将从11月4日起在开发者测试版中开始，之后随iOS 27.3更新向中国用户正式推出。通义千问将为Siri、写作工具和视觉智能等功能提供支持，苹果表示，在把问题、文件或图片发送给通义千问之前，会先征求用户的同意。投资者对这一消息表示欢迎，阿里巴巴在美国上市的股票周一上涨约6%。",
+      "why_zh": "国行iPhone一直没有苹果AI，这次终于落地，对果粉和整个手机市场都是大新闻。“permission（许可、同意）”“welcomed（欢迎）”都是高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Yahoo Finance; Technology.org; TechBriefly; Seoul Economic Daily; Asia News Network",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-soars-6-apple-sets-182457481.html",
+      "vocab": [
+        {
+          "word": "permission",
+          "phonetic": "/pəˈmɪʃn/",
+          "pos": "n.",
+          "zh": "许可，同意",
+          "example": "Qwen will power features such as Siri, Writing Tools and Visual Intelligence, and Apple said users will be asked for permission before a question, document or image is sent to Qwen."
+        },
+        {
+          "word": "welcomed",
+          "phonetic": "/ˈwelkəmd/",
+          "pos": "v.",
+          "zh": "欢迎；对……表示赞同（welcome 的过去式）",
+          "example": "Investors welcomed the news, with Alibaba's US-listed shares rising about 6% on Monday."
+        }
+      ],
+      "explain": {
+        "one_liner": "国行iPhone终于要有苹果AI了，但背后用的是阿里巴巴的大模型“通义千问”，12月随系统更新推出。",
+        "facts": [
+          {
+            "icon": "🍎",
+            "name": "苹果 Apple",
+            "text": "美国科技公司，iPhone的制造商。中国是它最重要的市场之一。"
+          },
+          {
+            "icon": "🧠",
+            "name": "Apple Intelligence",
+            "text": "苹果在iPhone等设备里的AI功能统称，包括帮你改写和总结文字、看图识物等。此前国行版本一直没有。"
+          },
+          {
+            "icon": "🛒",
+            "name": "阿里巴巴 Alibaba",
+            "text": "中国互联网巨头，旗下有淘宝、天猫和阿里云，股票在美国和香港上市。"
+          },
+          {
+            "icon": "🤖",
+            "name": "通义千问 Qwen",
+            "text": "阿里巴巴开发的AI大模型，类似ChatGPT背后的技术。"
+          },
+          {
+            "icon": "📱",
+            "name": "iOS 27.3 / 开发者测试版 beta",
+            "text": "iOS是iPhone的操作系统；测试版先给开发者试用，没问题后再正式推送给普通用户。据报道，只有设备所在地和Apple账号地区都设为中国的兼容iPhone才能使用。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "苹果",
+            "b": "阿里巴巴",
+            "type": "good",
+            "label": "合作：用通义千问支持国行AI"
+          },
+          {
+            "a": "合作消息",
+            "b": "阿里巴巴股价",
+            "type": "cause",
+            "label": "美股周一涨约6%"
+          },
+          {
+            "a": "通义千问",
+            "b": "Siri/写作工具/视觉智能",
+            "type": "neutral",
+            "label": "为这些功能提供AI能力"
+          },
+          {
+            "a": "苹果",
+            "b": "中国用户",
+            "type": "good",
+            "label": "发送数据前先征求同意"
+          }
+        ],
+        "points": [
+          "Apple Intelligence将于12月随iOS 27.3在中国大陆推出。",
+          "11月4日起先在开发者测试版中测试。",
+          "通义千问将支持Siri、写作工具和视觉智能等功能，发送内容前会征求用户同意。",
+          "消息公布后，阿里巴巴美股周一上涨约6%。"
+        ],
+        "relevance": "这是“国际品牌+本土伙伴”进入中国市场的典型案例：苹果借助阿里的本地技术来满足当地要求和用户习惯。做华人市场营销时可以留意：很多在澳华人也用国行或双账号手机，AI写作、翻译等功能会改变他们搜索和阅读内容的方式。",
+        "phrase": {
+          "en": "powered by",
+          "zh": "由……提供技术支持/驱动"
+        }
+      }
+    }
+  ]
+}
