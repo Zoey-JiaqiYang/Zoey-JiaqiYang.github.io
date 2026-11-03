@@ -3346,5 +3346,205 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "renting-home",
+    "added": "2026-11-04",
+    "name": "租房与住房",
+    "icon": "🏡",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🏡",
+        "w": "backyard",
+        "ph": "/ˌbækˈjɑːd/",
+        "pos": "n.",
+        "zh": "后院",
+        "ex": "We had a barbie in the backyard on Saturday.",
+        "tip": "澳洲经典：一个带后院的独立屋 the great Australian dream",
+        "accept": [
+          "backyard",
+          "back yard",
+          "yard",
+          "garden"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏘️",
+        "w": "suburb",
+        "ph": "/ˈsʌbɜːb/",
+        "pos": "n.",
+        "zh": "（城市里的）区、郊区",
+        "ex": "Which suburb do you live in?",
+        "tip": "澳洲 suburb 指城市里的每个区，不一定是郊外；口语 burbs",
+        "accept": [
+          "suburb",
+          "suburbs",
+          "neighbourhood",
+          "area"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚪",
+        "w": "inspection",
+        "ph": "/ɪnˈspekʃn/",
+        "pos": "n.",
+        "zh": "看房；（租房）检查",
+        "ex": "There were 40 people at the rental inspection on Saturday.",
+        "tip": "open for inspection = 开放看房；routine inspection = 房东定期检查",
+        "accept": [
+          "inspection",
+          "open house",
+          "open for inspection",
+          "viewing"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📦",
+        "w": "move house",
+        "ph": "/ˌmuːv ˈhaʊs/",
+        "pos": "phr.",
+        "zh": "搬家",
+        "ex": "We're moving house this weekend — wish us luck!",
+        "tip": "澳洲/英国说 move house，美国说 move",
+        "accept": [
+          "move house",
+          "move",
+          "moving",
+          "moving boxes"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚚",
+        "w": "removalist",
+        "ph": "/rɪˈmuːvəlɪst/",
+        "pos": "n.",
+        "zh": "搬家公司（澳洲叫法）",
+        "ex": "Book a removalist early — they're busy at the end of the month.",
+        "tip": "澳洲说 removalist，美国说 movers",
+        "accept": [
+          "removalist",
+          "movers",
+          "moving truck",
+          "removalists"
+        ],
+        "near": [
+          "move house"
+        ]
+      },
+      {
+        "emoji": "🏗️",
+        "w": "reno",
+        "ph": "/ˈrenəʊ/",
+        "pos": "n.",
+        "zh": "装修（澳洲口语）",
+        "ex": "Our kitchen reno is finally finished.",
+        "tip": "renovation 的澳洲简称；动词 renovate",
+        "accept": [
+          "reno",
+          "renovation",
+          "renovate",
+          "renovating"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏚️",
+        "w": "fixer-upper",
+        "ph": "/ˌfɪksər ˈʌpə(r)/",
+        "pos": "n.",
+        "zh": "需要大修的旧房",
+        "ex": "They bought a fixer-upper in the inner west.",
+        "tip": "买便宜旧房自己翻新",
+        "accept": [
+          "fixer-upper",
+          "fixer upper",
+          "old house",
+          "run-down house"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "✍️",
+        "w": "sign the lease",
+        "ph": "/saɪn ðə liːs/",
+        "pos": "phr.",
+        "zh": "签租约",
+        "ex": "We sign the lease on Monday and move in on Friday.",
+        "tip": "lease = 租约；break the lease = 提前解约",
+        "accept": [
+          "sign the lease",
+          "lease",
+          "sign",
+          "tenancy agreement"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐕",
+        "w": "pet-friendly",
+        "ph": "/ˌpet ˈfrendli/",
+        "pos": "adj.",
+        "zh": "允许养宠物的",
+        "ex": "It's really hard to find a pet-friendly rental in Sydney.",
+        "tip": "",
+        "accept": [
+          "pet-friendly",
+          "pets allowed",
+          "pet friendly"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔒",
+        "w": "locked out",
+        "ph": "/ˌlɒkt ˈaʊt/",
+        "pos": "phr.",
+        "zh": "被锁在门外",
+        "ex": "I locked myself out and had to call a locksmith.",
+        "tip": "locksmith = 开锁匠",
+        "accept": [
+          "locked out",
+          "lock",
+          "locksmith"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "❄️",
+        "w": "aircon",
+        "ph": "/ˈeəkɒn/",
+        "pos": "n.",
+        "zh": "空调（口语）",
+        "ex": "Can you turn the aircon down? It's freezing in here.",
+        "tip": "air conditioning 的口语说法；turn up/down = 调高/调低",
+        "accept": [
+          "aircon",
+          "air conditioner",
+          "air conditioning",
+          "ac"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧱",
+        "w": "brick",
+        "ph": "/brɪk/",
+        "pos": "n.",
+        "zh": "砖",
+        "ex": "They live in an old red-brick house.",
+        "tip": "澳洲房子常见 brick veneer（砖贴面）",
+        "accept": [
+          "brick",
+          "bricks",
+          "brick wall"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
