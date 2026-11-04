@@ -3546,5 +3546,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "eating-out",
+    "added": "2026-11-05",
+    "name": "外出吃喝",
+    "icon": "🍻",
+    "prompt": "在澳洲怎么说？",
+    "items": [
+      {
+        "emoji": "🍻",
+        "w": "shout",
+        "ph": "/ʃaʊt/",
+        "pos": "n./v.",
+        "zh": "请客（澳洲口语）",
+        "ex": "Put your wallet away — it's my shout.",
+        "tip": "It's my shout = 我请；shout someone a drink = 请某人喝一杯",
+        "accept": [
+          "shout",
+          "my shout",
+          "treat",
+          "i'll pay"
+        ],
+        "near": [
+          "schooner"
+        ]
+      },
+      {
+        "emoji": "🍺",
+        "w": "schooner",
+        "ph": "/ˈskuːnə(r)/",
+        "pos": "n.",
+        "zh": "（澳洲）一杯中杯啤酒",
+        "ex": "I'll grab a schooner of pale ale, thanks.",
+        "tip": "悉尼常见杯型：middy（小）< schooner（中）< pint（大）",
+        "accept": [
+          "schooner",
+          "beer",
+          "pint",
+          "middy"
+        ],
+        "near": [
+          "shout"
+        ]
+      },
+      {
+        "emoji": "🍷",
+        "w": "BYO",
+        "ph": "/ˌbiː waɪ ˈəʊ/",
+        "pos": "adj.",
+        "zh": "可自带酒水的（餐厅）",
+        "ex": "It's a BYO restaurant, so bring a bottle of red.",
+        "tip": "Bring Your Own 的缩写；有时收 corkage（开瓶费）",
+        "accept": [
+          "BYO",
+          "bring your own",
+          "corkage"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥃",
+        "w": "on the rocks",
+        "ph": "/ɒn ðə ˈrɒks/",
+        "pos": "phr.",
+        "zh": "加冰（烈酒）",
+        "ex": "A whisky on the rocks, please.",
+        "tip": "不加冰叫 neat / straight",
+        "accept": [
+          "on the rocks",
+          "with ice",
+          "neat"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍸",
+        "w": "mocktail",
+        "ph": "/ˈmɒkteɪl/",
+        "pos": "n.",
+        "zh": "无酒精鸡尾酒",
+        "ex": "I'm driving, so I'll have a mocktail.",
+        "tip": "mock（假的）+ cocktail",
+        "accept": [
+          "mocktail",
+          "cocktail",
+          "virgin cocktail",
+          "non-alcoholic"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍹",
+        "w": "happy hour",
+        "ph": "/ˈhæpi aʊə(r)/",
+        "pos": "n.",
+        "zh": "（酒吧）欢乐时光、特价时段",
+        "ex": "Happy hour is from 4 to 6 — $8 cocktails.",
+        "tip": "",
+        "accept": [
+          "happy hour",
+          "drinks special",
+          "specials"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍜",
+        "w": "slurp",
+        "ph": "/slɜːp/",
+        "pos": "v.",
+        "zh": "（吃面）吸溜、出声地吃",
+        "ex": "It's polite to slurp your ramen in Japan.",
+        "tip": "",
+        "accept": [
+          "slurp",
+          "noodles",
+          "ramen"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍣",
+        "w": "sushi train",
+        "ph": "/ˈsuːʃi treɪn/",
+        "pos": "n.",
+        "zh": "回转寿司",
+        "ex": "Let's grab lunch at the sushi train.",
+        "tip": "澳洲说 sushi train，别处常叫 conveyor belt sushi",
+        "accept": [
+          "sushi train",
+          "sushi",
+          "conveyor belt sushi"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍔",
+        "w": "the lot",
+        "ph": "/ðə lɒt/",
+        "pos": "n.",
+        "zh": "（汉堡）全加",
+        "ex": "I'll have a burger with the lot.",
+        "tip": "澳洲经典 burger with the lot：加蛋、培根、菠萝、甜菜根",
+        "accept": [
+          "the lot",
+          "everything",
+          "burger"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍟",
+        "w": "hot chips",
+        "ph": "/ˌhɒt ˈtʃɪps/",
+        "pos": "n.",
+        "zh": "炸薯条（澳洲叫法）",
+        "ex": "Can we get a bowl of hot chips for the table?",
+        "tip": "澳洲 chips 可以指薯条也可以指薯片，所以薯条常说 hot chips；美国叫 fries",
+        "accept": [
+          "hot chips",
+          "chips",
+          "fries",
+          "french fries"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍦",
+        "w": "soft serve",
+        "ph": "/ˌsɒft ˈsɜːv/",
+        "pos": "n.",
+        "zh": "软冰淇淋、甜筒",
+        "ex": "The kids wanted a soft serve from Maccas.",
+        "tip": "Maccas = 麦当劳的澳洲叫法",
+        "accept": [
+          "soft serve",
+          "ice cream",
+          "cone",
+          "soft-serve"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍝",
+        "w": "al dente",
+        "ph": "/æl ˈdenteɪ/",
+        "pos": "adj.",
+        "zh": "（意面）有嚼劲的",
+        "ex": "Cook the pasta until it's al dente.",
+        "tip": "意大利语，指煮到中间还有一点硬",
+        "accept": [
+          "al dente",
+          "pasta",
+          "spaghetti"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
