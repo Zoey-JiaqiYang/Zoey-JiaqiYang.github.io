@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T01:56:55+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Canva announces a restructure affecting 22% of its staff after its 'hardest year yet'",
+      "title_zh": "Canva宣布大重组：约22%员工受影响，CEO称今年是“最艰难的一年”",
+      "search_zh": "Canva 重组 裁员 1271名员工 22% Melanie Perkins 最艰难的一年 增长十年来首次放缓 增长预期 30%下调至20% 至少六个月工资 悉尼",
+      "summary_en": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate. Co-founder and chief executive Melanie Perkins told staff it had been the company's \"hardest year yet\", as growth slowed for the first time in a decade. In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence. Affected staff will receive at least six months' salary, and the company plans to merge several teams, remove layers of management and make Sydney the main base for more of its product roles.",
+      "summary_zh": "在悉尼创立的设计平台Canva宣布进行一次大规模重组，涉及1,271名员工，约占其全球员工总数的22%，这些员工将失去工作、调到新岗位或搬迁到其他地点。联合创始人兼首席执行官Melanie Perkins对员工表示，今年是公司“迄今最艰难的一年”，因为公司增长十年来首次放缓。今年8月，Canva把2026年的收入增长预期从30%下调至20%，部分原因是推出人工智能功能的成本不断上升。受影响的员工将获得至少六个月的工资，公司还计划合并多个团队、减少管理层级，并让悉尼成为更多产品岗位的主要基地。",
+      "why_zh": "Canva几乎是每个做营销的人都在用的工具，也是澳洲最有名的科技公司之一。这条新闻反映了AI成本和行业变化对科技公司的冲击。“restructure（重组）”“forecast（预测）”是商业新闻高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Bloomberg; Adweek; Forbes Australia; City AM; Yahoo Finance",
+      "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
+      "vocab": [
+        {
+          "word": "restructure",
+          "phonetic": "/ˌriːˈstrʌktʃə/",
+          "pos": "n.",
+          "zh": "（公司的）重组，改组",
+          "example": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate."
+        },
+        {
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "n.",
+          "zh": "预测，预期",
+          "example": "In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲明星科技公司Canva增长放慢、AI成本变高，于是大调整：约五分之一员工被裁、换岗或搬迁。",
+        "facts": [
+          {
+            "icon": "🎨",
+            "name": "Canva",
+            "text": "在悉尼创立并总部设在悉尼的在线设计平台，用模板就能做海报、社媒图、PPT和视频，全球用户很多，是澳洲最有名的科技公司之一。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "Melanie Perkins",
+            "text": "Canva的联合创始人兼CEO，来自澳洲珀斯，是澳洲最知名的女性创业者之一。"
+          },
+          {
+            "icon": "🔄",
+            "name": "重组 restructure",
+            "text": "公司重新安排部门和岗位。这次的1,271人不全是被裁：有人失业，有人换岗，有人需要搬迁，公司没说具体各有多少人。"
+          },
+          {
+            "icon": "📉",
+            "name": "增长预期 growth forecast",
+            "text": "公司对未来收入增速的估计。Canva 8月把2026年的预期从30%降到20%，收入仍在增长，只是增速变慢。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI成本",
+            "text": "开发和运行AI功能需要大量算力，费用很高；同时AI也在改变人们做设计的方式，给Canva带来新的竞争。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI成本上升",
+            "b": "Canva",
+            "type": "cause",
+            "label": "利润和增长承压"
+          },
+          {
+            "a": "增长放缓",
+            "b": "员工",
+            "type": "bad",
+            "label": "约22%受裁员、换岗或搬迁影响"
+          },
+          {
+            "a": "Canva",
+            "b": "受影响员工",
+            "type": "neutral",
+            "label": "提供至少六个月工资补偿"
+          },
+          {
+            "a": "Canva",
+            "b": "悉尼",
+            "type": "good",
+            "label": "更多产品岗位集中到悉尼"
+          }
+        ],
+        "points": [
+          "重组涉及1,271名员工，约占全球员工的22%。",
+          "CEO称今年是公司“最艰难的一年”，增长十年来首次放缓。",
+          "8月已把2026年收入增长预期从30%下调到20%，AI成本是原因之一。",
+          "公司将合并团队、减少管理层级，并把更多产品岗位放在悉尼。"
+        ],
+        "relevance": "Canva是很多营销团队每天都用的工具。它的调整说明AI正在改变设计和内容制作行业：工具会越来越“AI化”，岗位也更看重综合能力而不是单一技能。对在澳洲做营销的人来说，这也提醒大家：本地科技行业在变，多学会用AI工具、提升跨领域能力很重要。",
+        "phrase": {
+          "en": "the hardest year yet",
+          "zh": "迄今为止最艰难的一年"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Apple shares slide as new CEO John Ternus warns of soaring memory-chip costs",
+      "title_zh": "新CEO特努斯首份财报：苹果警告内存芯片成本飙升，股价下跌约4%",
+      "search_zh": "苹果 财报 2026财年第四季度 John Ternus 首次财报 营收1145亿美元 iPhone 576亿美元 毛利率 45%-46% 内存芯片 涨价 股价下跌4% 假日季 供应受限",
+      "summary_en": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins. The iPhone maker had beaten Wall Street's expectations, with quarterly revenue rising 12% to US$114.5 billion and iPhone sales reaching a September-quarter record of US$57.6 billion. However, Apple expects its gross margin to shrink to between 45% and 46% in the December quarter, down from 47.9%, as the price of memory chips soars. Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays.",
+      "summary_zh": "苹果新任首席执行官约翰·特努斯（John Ternus）上任后的首份财报给出了令人失望的利润率预期，苹果股价周二一度下跌多达4%。这家iPhone制造商的业绩其实超出了华尔街预期：季度营收增长12%至1,145亿美元，iPhone销售额达到576亿美元，创下9月季度的纪录。不过，由于内存芯片价格飙升，苹果预计12月季度的毛利率将降至45%到46%之间，低于上一季度的47.9%。特努斯形容内存成本的上涨“前所未有”，并警告芯片短缺可能限制苹果在假日季能出货的iPhone和Mac数量。",
+      "why_zh": "这说明AI热潮正在推高内存芯片价格，最终可能影响手机、电脑的价格和圣诞季供货。“outlook（前景、预期）”“unprecedented（前所未有的）”是财经新闻常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Apple Newsroom; CNBC; BNN Bloomberg; MacRumors; AppleInsider",
+      "url": "https://www.bnnbloomberg.ca/business/technology/2026/11/03/apple-shares-slide-as-higher-memory-costs-fuel-margin-concerns/",
+      "vocab": [
+        {
+          "word": "outlook",
+          "phonetic": "/ˈaʊtlʊk/",
+          "pos": "n.",
+          "zh": "前景，（对未来的）预期",
+          "example": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins."
+        },
+        {
+          "word": "unprecedented",
+          "phonetic": "/ʌnˈpresɪdentɪd/",
+          "pos": "adj.",
+          "zh": "前所未有的，空前的",
+          "example": "Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays."
+        }
+      ],
+      "explain": {
+        "one_liner": "苹果卖得不错，但内存芯片涨价太猛，未来利润会被压缩，假日季还可能缺货，所以投资者卖出了股票。",
+        "facts": [
+          {
+            "icon": "🍎",
+            "name": "苹果 Apple",
+            "text": "美国科技公司，iPhone、Mac的制造商，全球市值最高的公司之一。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "John Ternus 约翰·特努斯",
+            "text": "苹果新任CEO，接替库克（Tim Cook）。他长期在苹果负责硬件工程，这是他上任后的第一份财报。"
+          },
+          {
+            "icon": "📊",
+            "name": "财报 earnings report",
+            "text": "上市公司每季度公布的“成绩单”，包括收入、利润，以及对下一季度的预期。股价常常更看重“预期”。"
+          },
+          {
+            "icon": "💹",
+            "name": "毛利率 gross margin",
+            "text": "卖东西的收入减去直接成本后，剩下的部分占收入的比例。成本涨了、价格没涨，毛利率就会下降。"
+          },
+          {
+            "icon": "💾",
+            "name": "内存芯片 memory chips",
+            "text": "手机和电脑里存储数据的芯片。AI数据中心大量采购，导致供应紧张、价格大涨。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI数据中心需求",
+            "b": "内存芯片价格",
+            "type": "cause",
+            "label": "抢购推高价格"
+          },
+          {
+            "a": "内存涨价",
+            "b": "苹果利润率",
+            "type": "bad",
+            "label": "毛利率预计下降"
+          },
+          {
+            "a": "芯片短缺",
+            "b": "假日季供货",
+            "type": "bad",
+            "label": "iPhone和Mac可能出货受限"
+          },
+          {
+            "a": "利润预期偏弱",
+            "b": "苹果股价",
+            "type": "cause",
+            "label": "一度下跌约4%"
+          }
+        ],
+        "points": [
+          "季度营收增长12%至1,145亿美元，超出华尔街预期。",
+          "iPhone销售额576亿美元，创9月季度纪录。",
+          "12月季度毛利率预计降到45%–46%，上一季度为47.9%。",
+          "CEO称内存成本“前所未有”，假日季可能缺货。"
+        ],
+        "relevance": "芯片涨价会一路传到消费者：手机、电脑可能更贵或更难买到，圣诞季电子产品促销也可能受影响。做营销时可以留意“缺货”“限量”带来的紧迫感，以及消费者对价格更敏感的心理；客户如果是零售或科技品牌，备货和促销计划都可能要调整。",
+        "phrase": {
+          "en": "beat expectations",
+          "zh": "超出预期"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Most Chinese phone users plan to delay upgrades until 2027 as AI fails to excite buyers",
+      "title_zh": "调查：近七成中国用户打算推迟到2027年后再换手机，AI功能吸引力不足",
+      "search_zh": "彭博行业研究 调查 中国 智能手机 换机 推迟 2027年 69% AI 换机动力 8% 折叠屏 5.8% 双十一 折扣 华为 Mate 90 Pro 小米18 Pro Max",
+      "summary_en": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence. That share has roughly doubled since May, and most respondents said they plan to keep their devices for two to three years. Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone. Analysts also do not expect Singles Day discounts to meaningfully lift demand, partly because some high-end models, such as Huawei's Mate 90 Pro series and Xiaomi's 18 Pro Max, currently carry no discounts.",
+      "summary_zh": "彭博行业研究（Bloomberg Intelligence）10月的一项调查显示，大多数中国智能手机用户并不急着买新手机，69%的人表示至少要到2027年才会换机。这一比例自5月以来大约翻了一倍，大多数受访者表示打算把手机用两到三年。只有8%的购机者是被人工智能功能吸引的，低于一年前的12%，在11个换机理由中排名最后；同时只有5.8%的人正在使用或打算购买折叠屏手机。分析师还预计“双十一”的折扣不会明显带动需求，部分原因是一些高端机型，例如华为Mate 90 Pro系列和小米18 Pro Max，目前根本没有打折。",
+      "why_zh": "AI是今年手机厂商最大的卖点，但消费者似乎不买账。这对理解中国消费者心态和“双十一”很有帮助。“upgrade（升级、换新）”“motivated（激励、促使）”都很实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Bloomberg; Briefs.co (summary of Bloomberg Intelligence survey); IDC",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-and-foldables-fail-to-spark-chinese-phone-market-bi-says",
+      "vocab": [
+        {
+          "word": "upgrade",
+          "phonetic": "/ˌʌpˈɡreɪd/",
+          "pos": "v.",
+          "zh": "升级；换成更新的（设备）",
+          "example": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence."
+        },
+        {
+          "word": "motivated",
+          "phonetic": "/ˈməʊtɪveɪtɪd/",
+          "pos": "v.",
+          "zh": "激励，促使（motivate 的过去式）",
+          "example": "Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone."
+        }
+      ],
+      "explain": {
+        "one_liner": "厂商拼命宣传AI和折叠屏，但大多数中国用户觉得旧手机够用，打算等到2027年以后再换。",
+        "facts": [
+          {
+            "icon": "🔎",
+            "name": "彭博行业研究 Bloomberg Intelligence",
+            "text": "彭博（Bloomberg）旗下的研究部门，为投资者分析行业和公司，这次在10月做了中国手机用户调查。"
+          },
+          {
+            "icon": "🛍️",
+            "name": "双十一 Singles Day",
+            "text": "每年11月11日前后的中国最大网购节，现在促销期往往持续一个月左右。"
+          },
+          {
+            "icon": "📱",
+            "name": "折叠屏手机 foldable phone",
+            "text": "屏幕可以折起来的手机，价格较高，目前仍是小众产品。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI手机",
+            "text": "带有AI助手、AI修图、AI写作等功能的手机，是近两年手机厂商的主要卖点。"
+          },
+          {
+            "icon": "🏢",
+            "name": "华为、小米",
+            "text": "中国最大的两家手机品牌，Mate 90 Pro和18 Pro Max分别是它们的高端机型。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI功能",
+            "b": "消费者",
+            "type": "bad",
+            "label": "吸引力下降，换机动力仅8%"
+          },
+          {
+            "a": "消费者",
+            "b": "换机计划",
+            "type": "neutral",
+            "label": "69%推迟到2027年后"
+          },
+          {
+            "a": "双十一折扣",
+            "b": "手机需求",
+            "type": "neutral",
+            "label": "预计带动有限"
+          },
+          {
+            "a": "高端机型不打折",
+            "b": "双十一销量",
+            "type": "cause",
+            "label": "削弱促销效果"
+          }
+        ],
+        "points": [
+          "69%的受访者表示至少要到2027年才换手机，比5月翻了一倍左右。",
+          "AI在11个换机理由中排最后，只有8%的人因此购买。",
+          "折叠屏仍很小众，只有5.8%在用或打算买。",
+          "分析师预计双十一折扣难以明显带动手机销量。"
+        ],
+        "relevance": "这是一个很好的营销案例：“AI”这个卖点在消费者心中已经不新鲜，单靠技术名词很难打动人，更需要讲清楚“对我有什么用”。在澳洲做华人市场或电子产品营销时，也可以借鉴：消费者更理性、换机周期更长，耐用、性价比和实际体验可能比新概念更有说服力。",
+        "phrase": {
+          "en": "in no hurry",
+          "zh": "不着急，不急于（做某事）"
+        }
+      }
+    }
+  ]
+}

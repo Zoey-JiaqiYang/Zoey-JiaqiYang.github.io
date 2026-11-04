@@ -1,297 +1,292 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T01:56:39+11:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T01:56:55+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "RBA lifts the cash rate to 4.85%, the highest in 18 years, in a split 6–3 vote",
-      "title_zh": "澳联储如期加息至4.85%，创18年新高，理事会6比3意见分歧",
-      "search_zh": "澳洲储备银行 RBA 11月3日 加息 4.85% 6比3 投票 第五次加息 2008年以来最高 通胀 2027年底 Canstar 50万房贷 每月多还77澳元",
-      "summary_en": "The Reserve Bank of Australia raised its cash rate by 0.25 percentage points to 4.85% on Tuesday, taking interest rates to their highest level since 2008. It was the central bank's fifth rate rise this year, but the decision was not unanimous, with six board members voting for the hike and three preferring to keep rates on hold. The board said inflation remained too high and now expects it to stay above 3%, the top of its target range, until late 2027. According to comparison website Canstar, if banks pass on the rise in full, a borrower with a A$500,000 home loan could pay about A$77 more each month.",
-      "summary_zh": "澳洲储备银行周二将现金利率上调0.25个百分点至4.85%，使利率升至2008年以来的最高水平。这是央行今年第五次加息，但这次决定并非全票通过：六名理事会成员支持加息，三名倾向于维持利率不变。理事会表示通胀仍然过高，并预计通胀将一直高于3%（即目标区间的上限），直到2027年底。据比价网站Canstar测算，如果银行把这次加息全额转嫁，一笔50万澳元房贷的借款人每月可能要多还约77澳元。",
-      "why_zh": "昨天我们预告了这次决定，今天结果揭晓：真的加息了。它会影响房贷、消费信心和圣诞季的营销预算。“unanimous（全体一致的）”“pass on（转嫁）”是财经新闻常见表达。",
+      "category": "australia",
+      "title_en": "Canva announces a restructure affecting 22% of its staff after its 'hardest year yet'",
+      "title_zh": "Canva宣布大重组：约22%员工受影响，CEO称今年是“最艰难的一年”",
+      "search_zh": "Canva 重组 裁员 1271名员工 22% Melanie Perkins 最艰难的一年 增长十年来首次放缓 增长预期 30%下调至20% 至少六个月工资 悉尼",
+      "summary_en": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate. Co-founder and chief executive Melanie Perkins told staff it had been the company's \"hardest year yet\", as growth slowed for the first time in a decade. In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence. Affected staff will receive at least six months' salary, and the company plans to merge several teams, remove layers of management and make Sydney the main base for more of its product roles.",
+      "summary_zh": "在悉尼创立的设计平台Canva宣布进行一次大规模重组，涉及1,271名员工，约占其全球员工总数的22%，这些员工将失去工作、调到新岗位或搬迁到其他地点。联合创始人兼首席执行官Melanie Perkins对员工表示，今年是公司“迄今最艰难的一年”，因为公司增长十年来首次放缓。今年8月，Canva把2026年的收入增长预期从30%下调至20%，部分原因是推出人工智能功能的成本不断上升。受影响的员工将获得至少六个月的工资，公司还计划合并多个团队、减少管理层级，并让悉尼成为更多产品岗位的主要基地。",
+      "why_zh": "Canva几乎是每个做营销的人都在用的工具，也是澳洲最有名的科技公司之一。这条新闻反映了AI成本和行业变化对科技公司的冲击。“restructure（重组）”“forecast（预测）”是商业新闻高频词。",
       "image": "",
       "image_credit": "",
-      "source": "RBA media release; SBS News; ABC News; investingLive; FXStreet; Canstar",
-      "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+      "source": "ABC News; Bloomberg; Adweek; Forbes Australia; City AM; Yahoo Finance",
+      "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
       "vocab": [
         {
-          "word": "unanimous",
-          "phonetic": "/juːˈnænɪməs/",
-          "pos": "adj.",
-          "zh": "全体一致的，一致同意的",
-          "example": "It was the central bank's fifth rate rise this year, but the decision was not unanimous, with six board members voting for the hike and three preferring to keep rates on hold."
+          "word": "restructure",
+          "phonetic": "/ˌriːˈstrʌktʃə/",
+          "pos": "n.",
+          "zh": "（公司的）重组，改组",
+          "example": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate."
         },
         {
-          "word": "pass on",
-          "phonetic": "/pɑːs ɒn/",
-          "pos": "phr. v.",
-          "zh": "（把成本、加息等）转嫁给（客户）",
-          "example": "According to comparison website Canstar, if banks pass on the rise in full, a borrower with a A$500,000 home loan could pay about A$77 more each month."
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "n.",
+          "zh": "预测，预期",
+          "example": "In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence."
         }
       ],
       "explain": {
-        "one_liner": "物价还是涨得太快，澳联储昨天再次加息，利率到了18年来最高；有房贷的人每月要多还钱。",
+        "one_liner": "澳洲明星科技公司Canva增长放慢、AI成本变高，于是大调整：约五分之一员工被裁、换岗或搬迁。",
         "facts": [
           {
-            "icon": "🏦",
-            "name": "澳洲储备银行 RBA",
-            "text": "澳洲的中央银行，负责设定基准利率，目标是把通胀控制在2%–3%之间。"
+            "icon": "🎨",
+            "name": "Canva",
+            "text": "在悉尼创立并总部设在悉尼的在线设计平台，用模板就能做海报、社媒图、PPT和视频，全球用户很多，是澳洲最有名的科技公司之一。"
           },
           {
-            "icon": "💵",
-            "name": "现金利率 cash rate",
-            "text": "澳洲的“基准利率”。它一上调，银行的浮动房贷利率通常也会跟着上调。"
+            "icon": "👩‍💼",
+            "name": "Melanie Perkins",
+            "text": "Canva的联合创始人兼CEO，来自澳洲珀斯，是澳洲最知名的女性创业者之一。"
           },
           {
-            "icon": "🗳️",
-            "name": "货币政策理事会 Monetary Policy Board",
-            "text": "RBA里负责决定利率的委员会，共9人，由行长Michele Bullock主持。这次6人支持加息、3人主张不变。"
+            "icon": "🔄",
+            "name": "重组 restructure",
+            "text": "公司重新安排部门和岗位。这次的1,271人不全是被裁：有人失业，有人换岗，有人需要搬迁，公司没说具体各有多少人。"
           },
           {
-            "icon": "📈",
-            "name": "通胀 inflation",
-            "text": "物价整体上涨的速度。通胀太高时，央行常用加息让大家少借钱、少花钱，给经济降温。"
+            "icon": "📉",
+            "name": "增长预期 growth forecast",
+            "text": "公司对未来收入增速的估计。Canva 8月把2026年的预期从30%降到20%，收入仍在增长，只是增速变慢。"
           },
           {
-            "icon": "🔎",
-            "name": "Canstar",
-            "text": "澳洲的金融比价网站，常测算加息对房贷还款的影响。77澳元是它在“银行全额转嫁”假设下的估算。"
-          },
-          {
-            "icon": "📐",
-            "name": "基点 basis point",
-            "text": "1个基点=0.01个百分点。这次加息25个基点，就是0.25个百分点。"
+            "icon": "🤖",
+            "name": "AI成本",
+            "text": "开发和运行AI功能需要大量算力，费用很高；同时AI也在改变人们做设计的方式，给Canva带来新的竞争。"
           }
         ],
         "relations": [
           {
-            "a": "通胀偏高",
-            "b": "RBA",
+            "a": "AI成本上升",
+            "b": "Canva",
             "type": "cause",
-            "label": "促使央行第五次加息"
+            "label": "利润和增长承压"
           },
           {
-            "a": "RBA加息",
-            "b": "房贷借款人",
+            "a": "增长放缓",
+            "b": "员工",
             "type": "bad",
-            "label": "每月还款增加"
+            "label": "约22%受裁员、换岗或搬迁影响"
           },
           {
-            "a": "理事会成员",
-            "b": "加息决定",
+            "a": "Canva",
+            "b": "受影响员工",
             "type": "neutral",
-            "label": "6票赞成、3票反对"
+            "label": "提供至少六个月工资补偿"
           },
           {
-            "a": "RBA加息",
-            "b": "家庭消费",
-            "type": "bad",
-            "label": "可支配收入减少，花钱更谨慎"
+            "a": "Canva",
+            "b": "悉尼",
+            "type": "good",
+            "label": "更多产品岗位集中到悉尼"
           }
         ],
         "points": [
-          "现金利率从4.60%升至4.85%，是2008年以来最高。",
-          "这是2026年第五次加息，与市场预期一致。",
-          "理事会投票6比3，说明内部对是否继续加息存在分歧。",
-          "央行预计通胀要到2027年底才会回落到3%以下。"
+          "重组涉及1,271名员工，约占全球员工的22%。",
+          "CEO称今年是公司“最艰难的一年”，增长十年来首次放缓。",
+          "8月已把2026年收入增长预期从30%下调到20%，AI成本是原因之一。",
+          "公司将合并团队、减少管理层级，并把更多产品岗位放在悉尼。"
         ],
-        "relevance": "加息会挤压家庭预算，零售、餐饮、旅游等行业可能更谨慎，客户也可能削减广告投放。圣诞和年终促销时，强调“性价比”“分期免息”“省钱”的信息可能更有效；同时要留意票数分歧，这说明后面可能暂停加息，消费者情绪也可能随之变化。",
+        "relevance": "Canva是很多营销团队每天都用的工具。它的调整说明AI正在改变设计和内容制作行业：工具会越来越“AI化”，岗位也更看重综合能力而不是单一技能。对在澳洲做营销的人来说，这也提醒大家：本地科技行业在变，多学会用AI工具、提升跨领域能力很重要。",
         "phrase": {
-          "en": "a split vote",
-          "zh": "意见不一的投票（并非全票通过）"
+          "en": "the hardest year yet",
+          "zh": "迄今为止最艰难的一年"
         }
       }
     },
     {
-      "category": "australia",
-      "title_en": "Favourite Point Of Law wins the Melbourne Cup as trainer Ciaron Maher makes history with the top three",
-      "title_zh": "墨尔本杯：大热门Point Of Law夺冠，练马师Maher包揽前三创历史",
-      "search_zh": "2026 墨尔本杯 冠军 Point Of Law Ethan Brown 首冠 Ciaron Maher 包揽前三 Zahrann Juja Kibo 前英王查尔斯 马匹",
-      "summary_en": "Point Of Law, the pre-race favourite, won the 166th Melbourne Cup at Flemington on Tuesday, giving jockey Ethan Brown his first win in Australia's most famous horse race. Trainer Ciaron Maher made history by training the first three horses across the line, with Zahrann finishing second and Juja Kibo third, which reports described as a first for the race. Maher had a record seven runners in the field, and it was his second Melbourne Cup win. The horse was formerly owned by King Charles III, and Maher's team bought him after he won a race at Newmarket in England earlier this year.",
-      "summary_zh": "赛前最被看好的Point Of Law周二在Flemington赛马场赢得第166届墨尔本杯，让骑师Ethan Brown首次赢得这项澳洲最著名的赛马比赛。练马师Ciaron Maher创造了历史：前三名冲线的马都由他训练，Zahrann获得第二、Juja Kibo获得第三，媒体称这在该赛事史上是第一次。Maher这次有创纪录的七匹马参赛，这也是他第二次赢得墨尔本杯。这匹马以前属于英国国王查尔斯三世，Maher的团队在它今年早些时候于英国纽马克特赢得一场比赛后把它买了下来。",
-      "why_zh": "昨天预告了墨尔本杯，今天揭晓结果：热门马真的赢了。这是周三办公室最热门的闲聊话题。“field（全体参赛者）”“formerly（以前）”都很实用。",
+      "category": "markets",
+      "title_en": "Apple shares slide as new CEO John Ternus warns of soaring memory-chip costs",
+      "title_zh": "新CEO特努斯首份财报：苹果警告内存芯片成本飙升，股价下跌约4%",
+      "search_zh": "苹果 财报 2026财年第四季度 John Ternus 首次财报 营收1145亿美元 iPhone 576亿美元 毛利率 45%-46% 内存芯片 涨价 股价下跌4% 假日季 供应受限",
+      "summary_en": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins. The iPhone maker had beaten Wall Street's expectations, with quarterly revenue rising 12% to US$114.5 billion and iPhone sales reaching a September-quarter record of US$57.6 billion. However, Apple expects its gross margin to shrink to between 45% and 46% in the December quarter, down from 47.9%, as the price of memory chips soars. Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays.",
+      "summary_zh": "苹果新任首席执行官约翰·特努斯（John Ternus）上任后的首份财报给出了令人失望的利润率预期，苹果股价周二一度下跌多达4%。这家iPhone制造商的业绩其实超出了华尔街预期：季度营收增长12%至1,145亿美元，iPhone销售额达到576亿美元，创下9月季度的纪录。不过，由于内存芯片价格飙升，苹果预计12月季度的毛利率将降至45%到46%之间，低于上一季度的47.9%。特努斯形容内存成本的上涨“前所未有”，并警告芯片短缺可能限制苹果在假日季能出货的iPhone和Mac数量。",
+      "why_zh": "这说明AI热潮正在推高内存芯片价格，最终可能影响手机、电脑的价格和圣诞季供货。“outlook（前景、预期）”“unprecedented（前所未有的）”是财经新闻常用词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Canberra Times (AAP); Yahoo News Australia; Just Horse Racing",
-      "url": "https://www.abc.net.au/news/2026-11-03/melbourne-cup-point-of-law-wins-for-ciaron-maher/107341548",
+      "source": "Apple Newsroom; CNBC; BNN Bloomberg; MacRumors; AppleInsider",
+      "url": "https://www.bnnbloomberg.ca/business/technology/2026/11/03/apple-shares-slide-as-higher-memory-costs-fuel-margin-concerns/",
       "vocab": [
         {
-          "word": "field",
-          "phonetic": "/fiːld/",
+          "word": "outlook",
+          "phonetic": "/ˈaʊtlʊk/",
           "pos": "n.",
-          "zh": "（一场比赛的）全体参赛者/参赛马匹",
-          "example": "Maher had a record seven runners in the field, and it was his second Melbourne Cup win."
+          "zh": "前景，（对未来的）预期",
+          "example": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins."
         },
         {
-          "word": "formerly",
-          "phonetic": "/ˈfɔːməli/",
-          "pos": "adv.",
-          "zh": "以前，从前",
-          "example": "The horse was formerly owned by King Charles III, and Maher's team bought him after he won a race at Newmarket in England earlier this year."
+          "word": "unprecedented",
+          "phonetic": "/ʌnˈpresɪdentɪd/",
+          "pos": "adj.",
+          "zh": "前所未有的，空前的",
+          "example": "Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays."
         }
       ],
       "explain": {
-        "one_liner": "“让全国停下来的比赛”结果出炉：最被看好的马赢了，而且前三名都出自同一位练马师之手，这在历史上是第一次。",
+        "one_liner": "苹果卖得不错，但内存芯片涨价太猛，未来利润会被压缩，假日季还可能缺货，所以投资者卖出了股票。",
         "facts": [
           {
-            "icon": "🏇",
-            "name": "墨尔本杯 Melbourne Cup",
-            "text": "澳洲最有名的赛马，每年11月第一个星期二在墨尔本Flemington赛马场举行，赛程3,200米，墨尔本当天放公众假期。"
+            "icon": "🍎",
+            "name": "苹果 Apple",
+            "text": "美国科技公司，iPhone、Mac的制造商，全球市值最高的公司之一。"
           },
           {
-            "icon": "🐎",
-            "name": "Point Of Law",
-            "text": "今年的冠军马，赛前就是投注热门。它以前属于英国王室马房，后来被Maher团队买下。"
+            "icon": "👨‍💼",
+            "name": "John Ternus 约翰·特努斯",
+            "text": "苹果新任CEO，接替库克（Tim Cook）。他长期在苹果负责硬件工程，这是他上任后的第一份财报。"
           },
           {
-            "icon": "🧑‍🏫",
-            "name": "练马师 Ciaron Maher",
-            "text": "澳洲顶级练马师，负责马匹的日常训练和备赛。这次他训练的马包揽前三，是他第二座墨尔本杯。"
+            "icon": "📊",
+            "name": "财报 earnings report",
+            "text": "上市公司每季度公布的“成绩单”，包括收入、利润，以及对下一季度的预期。股价常常更看重“预期”。"
           },
           {
-            "icon": "🏆",
-            "name": "骑师 Ethan Brown",
-            "text": "比赛当天骑在马背上的人。这是他第一次赢得墨尔本杯。"
+            "icon": "💹",
+            "name": "毛利率 gross margin",
+            "text": "卖东西的收入减去直接成本后，剩下的部分占收入的比例。成本涨了、价格没涨，毛利率就会下降。"
           },
           {
-            "icon": "👑",
-            "name": "查尔斯三世 King Charles III",
-            "text": "英国国王，王室多年来一直养赛马。Point Of Law曾是王室的马。"
+            "icon": "💾",
+            "name": "内存芯片 memory chips",
+            "text": "手机和电脑里存储数据的芯片。AI数据中心大量采购，导致供应紧张、价格大涨。"
           }
         ],
         "relations": [
           {
-            "a": "Ciaron Maher",
-            "b": "Point Of Law",
-            "type": "good",
-            "label": "训练冠军马"
-          },
-          {
-            "a": "英国王室",
-            "b": "Maher团队",
-            "type": "neutral",
-            "label": "把马卖给对方"
-          },
-          {
-            "a": "Ciaron Maher",
-            "b": "前三名",
+            "a": "AI数据中心需求",
+            "b": "内存芯片价格",
             "type": "cause",
-            "label": "七匹马参赛、包揽前三"
+            "label": "抢购推高价格"
           },
           {
-            "a": "Ethan Brown",
-            "b": "墨尔本杯",
-            "type": "good",
-            "label": "首次夺冠"
+            "a": "内存涨价",
+            "b": "苹果利润率",
+            "type": "bad",
+            "label": "毛利率预计下降"
+          },
+          {
+            "a": "芯片短缺",
+            "b": "假日季供货",
+            "type": "bad",
+            "label": "iPhone和Mac可能出货受限"
+          },
+          {
+            "a": "利润预期偏弱",
+            "b": "苹果股价",
+            "type": "cause",
+            "label": "一度下跌约4%"
           }
         ],
         "points": [
-          "赛前热门Point Of Law赢得第166届墨尔本杯。",
-          "骑师Ethan Brown首次夺冠，练马师Maher第二次夺冠。",
-          "Maher训练的马包揽前三（Zahrann第二、Juja Kibo第三），据报道是史上首次。",
-          "冠军马曾属于英国国王查尔斯三世。"
+          "季度营收增长12%至1,145亿美元，超出华尔街预期。",
+          "iPhone销售额576亿美元，创9月季度纪录。",
+          "12月季度毛利率预计降到45%–46%，上一季度为47.9%。",
+          "CEO称内存成本“前所未有”，假日季可能缺货。"
         ],
-        "relevance": "“前王室赛马在澳洲夺冠”“一人包揽前三”这样的故事很有话题性，是品牌和媒体做内容的好素材。墨尔本杯本身也是澳洲春季最大的营销节点之一；周三和同事聊天时，能聊上冠军和这些冷知识，也很有帮助。",
+        "relevance": "芯片涨价会一路传到消费者：手机、电脑可能更贵或更难买到，圣诞季电子产品促销也可能受影响。做营销时可以留意“缺货”“限量”带来的紧迫感，以及消费者对价格更敏感的心理；客户如果是零售或科技品牌，备货和促销计划都可能要调整。",
         "phrase": {
-          "en": "make history",
-          "zh": "创造历史"
+          "en": "beat expectations",
+          "zh": "超出预期"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "Apple Intelligence is coming to iPhones in China in December, powered by Alibaba's Qwen",
-      "title_zh": "苹果AI终于要进中国：12月上线，由阿里巴巴“通义千问”提供支持",
-      "search_zh": "Apple Intelligence 国行 12月上线 阿里巴巴 通义千问 Qwen iOS 27.3 开发者测试版 11月4日 Siri 写作工具 视觉智能 阿里股价 涨6%",
-      "summary_en": "Apple's AI features, known as Apple Intelligence, will finally launch on iPhones in mainland China in December, powered by Alibaba's Qwen artificial intelligence models. Testing is due to begin in a developer beta from 4 November, before a full release for Chinese users as part of the iOS 27.3 update. Qwen will power features such as Siri, Writing Tools and Visual Intelligence, and Apple said users will be asked for permission before a question, document or image is sent to Qwen. Investors welcomed the news, with Alibaba's US-listed shares rising about 6% on Monday.",
-      "summary_zh": "苹果的AI功能“Apple Intelligence”终于将于12月在中国大陆的iPhone上推出，由阿里巴巴的通义千问（Qwen）人工智能模型提供支持。测试将从11月4日起在开发者测试版中开始，之后随iOS 27.3更新向中国用户正式推出。通义千问将为Siri、写作工具和视觉智能等功能提供支持，苹果表示，在把问题、文件或图片发送给通义千问之前，会先征求用户的同意。投资者对这一消息表示欢迎，阿里巴巴在美国上市的股票周一上涨约6%。",
-      "why_zh": "国行iPhone一直没有苹果AI，这次终于落地，对果粉和整个手机市场都是大新闻。“permission（许可、同意）”“welcomed（欢迎）”都是高频词。",
+      "title_en": "Most Chinese phone users plan to delay upgrades until 2027 as AI fails to excite buyers",
+      "title_zh": "调查：近七成中国用户打算推迟到2027年后再换手机，AI功能吸引力不足",
+      "search_zh": "彭博行业研究 调查 中国 智能手机 换机 推迟 2027年 69% AI 换机动力 8% 折叠屏 5.8% 双十一 折扣 华为 Mate 90 Pro 小米18 Pro Max",
+      "summary_en": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence. That share has roughly doubled since May, and most respondents said they plan to keep their devices for two to three years. Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone. Analysts also do not expect Singles Day discounts to meaningfully lift demand, partly because some high-end models, such as Huawei's Mate 90 Pro series and Xiaomi's 18 Pro Max, currently carry no discounts.",
+      "summary_zh": "彭博行业研究（Bloomberg Intelligence）10月的一项调查显示，大多数中国智能手机用户并不急着买新手机，69%的人表示至少要到2027年才会换机。这一比例自5月以来大约翻了一倍，大多数受访者表示打算把手机用两到三年。只有8%的购机者是被人工智能功能吸引的，低于一年前的12%，在11个换机理由中排名最后；同时只有5.8%的人正在使用或打算购买折叠屏手机。分析师还预计“双十一”的折扣不会明显带动需求，部分原因是一些高端机型，例如华为Mate 90 Pro系列和小米18 Pro Max，目前根本没有打折。",
+      "why_zh": "AI是今年手机厂商最大的卖点，但消费者似乎不买账。这对理解中国消费者心态和“双十一”很有帮助。“upgrade（升级、换新）”“motivated（激励、促使）”都很实用。",
       "image": "",
       "image_credit": "",
-      "source": "Yahoo Finance; Technology.org; TechBriefly; Seoul Economic Daily; Asia News Network",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-soars-6-apple-sets-182457481.html",
+      "source": "Bloomberg; Briefs.co (summary of Bloomberg Intelligence survey); IDC",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-and-foldables-fail-to-spark-chinese-phone-market-bi-says",
       "vocab": [
         {
-          "word": "permission",
-          "phonetic": "/pəˈmɪʃn/",
-          "pos": "n.",
-          "zh": "许可，同意",
-          "example": "Qwen will power features such as Siri, Writing Tools and Visual Intelligence, and Apple said users will be asked for permission before a question, document or image is sent to Qwen."
+          "word": "upgrade",
+          "phonetic": "/ˌʌpˈɡreɪd/",
+          "pos": "v.",
+          "zh": "升级；换成更新的（设备）",
+          "example": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence."
         },
         {
-          "word": "welcomed",
-          "phonetic": "/ˈwelkəmd/",
+          "word": "motivated",
+          "phonetic": "/ˈməʊtɪveɪtɪd/",
           "pos": "v.",
-          "zh": "欢迎；对……表示赞同（welcome 的过去式）",
-          "example": "Investors welcomed the news, with Alibaba's US-listed shares rising about 6% on Monday."
+          "zh": "激励，促使（motivate 的过去式）",
+          "example": "Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone."
         }
       ],
       "explain": {
-        "one_liner": "国行iPhone终于要有苹果AI了，但背后用的是阿里巴巴的大模型“通义千问”，12月随系统更新推出。",
+        "one_liner": "厂商拼命宣传AI和折叠屏，但大多数中国用户觉得旧手机够用，打算等到2027年以后再换。",
         "facts": [
           {
-            "icon": "🍎",
-            "name": "苹果 Apple",
-            "text": "美国科技公司，iPhone的制造商。中国是它最重要的市场之一。"
+            "icon": "🔎",
+            "name": "彭博行业研究 Bloomberg Intelligence",
+            "text": "彭博（Bloomberg）旗下的研究部门，为投资者分析行业和公司，这次在10月做了中国手机用户调查。"
           },
           {
-            "icon": "🧠",
-            "name": "Apple Intelligence",
-            "text": "苹果在iPhone等设备里的AI功能统称，包括帮你改写和总结文字、看图识物等。此前国行版本一直没有。"
-          },
-          {
-            "icon": "🛒",
-            "name": "阿里巴巴 Alibaba",
-            "text": "中国互联网巨头，旗下有淘宝、天猫和阿里云，股票在美国和香港上市。"
-          },
-          {
-            "icon": "🤖",
-            "name": "通义千问 Qwen",
-            "text": "阿里巴巴开发的AI大模型，类似ChatGPT背后的技术。"
+            "icon": "🛍️",
+            "name": "双十一 Singles Day",
+            "text": "每年11月11日前后的中国最大网购节，现在促销期往往持续一个月左右。"
           },
           {
             "icon": "📱",
-            "name": "iOS 27.3 / 开发者测试版 beta",
-            "text": "iOS是iPhone的操作系统；测试版先给开发者试用，没问题后再正式推送给普通用户。据报道，只有设备所在地和Apple账号地区都设为中国的兼容iPhone才能使用。"
+            "name": "折叠屏手机 foldable phone",
+            "text": "屏幕可以折起来的手机，价格较高，目前仍是小众产品。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI手机",
+            "text": "带有AI助手、AI修图、AI写作等功能的手机，是近两年手机厂商的主要卖点。"
+          },
+          {
+            "icon": "🏢",
+            "name": "华为、小米",
+            "text": "中国最大的两家手机品牌，Mate 90 Pro和18 Pro Max分别是它们的高端机型。"
           }
         ],
         "relations": [
           {
-            "a": "苹果",
-            "b": "阿里巴巴",
-            "type": "good",
-            "label": "合作：用通义千问支持国行AI"
+            "a": "AI功能",
+            "b": "消费者",
+            "type": "bad",
+            "label": "吸引力下降，换机动力仅8%"
           },
           {
-            "a": "合作消息",
-            "b": "阿里巴巴股价",
-            "type": "cause",
-            "label": "美股周一涨约6%"
-          },
-          {
-            "a": "通义千问",
-            "b": "Siri/写作工具/视觉智能",
+            "a": "消费者",
+            "b": "换机计划",
             "type": "neutral",
-            "label": "为这些功能提供AI能力"
+            "label": "69%推迟到2027年后"
           },
           {
-            "a": "苹果",
-            "b": "中国用户",
-            "type": "good",
-            "label": "发送数据前先征求同意"
+            "a": "双十一折扣",
+            "b": "手机需求",
+            "type": "neutral",
+            "label": "预计带动有限"
+          },
+          {
+            "a": "高端机型不打折",
+            "b": "双十一销量",
+            "type": "cause",
+            "label": "削弱促销效果"
           }
         ],
         "points": [
-          "Apple Intelligence将于12月随iOS 27.3在中国大陆推出。",
-          "11月4日起先在开发者测试版中测试。",
-          "通义千问将支持Siri、写作工具和视觉智能等功能，发送内容前会征求用户同意。",
-          "消息公布后，阿里巴巴美股周一上涨约6%。"
+          "69%的受访者表示至少要到2027年才换手机，比5月翻了一倍左右。",
+          "AI在11个换机理由中排最后，只有8%的人因此购买。",
+          "折叠屏仍很小众，只有5.8%在用或打算买。",
+          "分析师预计双十一折扣难以明显带动手机销量。"
         ],
-        "relevance": "这是“国际品牌+本土伙伴”进入中国市场的典型案例：苹果借助阿里的本地技术来满足当地要求和用户习惯。做华人市场营销时可以留意：很多在澳华人也用国行或双账号手机，AI写作、翻译等功能会改变他们搜索和阅读内容的方式。",
+        "relevance": "这是一个很好的营销案例：“AI”这个卖点在消费者心中已经不新鲜，单靠技术名词很难打动人，更需要讲清楚“对我有什么用”。在澳洲做华人市场或电子产品营销时，也可以借鉴：消费者更理性、换机周期更长，耐用、性价比和实际体验可能比新概念更有说服力。",
         "phrase": {
-          "en": "powered by",
-          "zh": "由……提供技术支持/驱动"
+          "en": "in no hurry",
+          "zh": "不着急，不急于（做某事）"
         }
       }
     }
