@@ -1,292 +1,297 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T01:56:55+11:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T01:58:31+11:00",
   "items": [
     {
       "category": "australia",
-      "title_en": "Canva announces a restructure affecting 22% of its staff after its 'hardest year yet'",
-      "title_zh": "Canva宣布大重组：约22%员工受影响，CEO称今年是“最艰难的一年”",
-      "search_zh": "Canva 重组 裁员 1271名员工 22% Melanie Perkins 最艰难的一年 增长十年来首次放缓 增长预期 30%下调至20% 至少六个月工资 悉尼",
-      "summary_en": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate. Co-founder and chief executive Melanie Perkins told staff it had been the company's \"hardest year yet\", as growth slowed for the first time in a decade. In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence. Affected staff will receive at least six months' salary, and the company plans to merge several teams, remove layers of management and make Sydney the main base for more of its product roles.",
-      "summary_zh": "在悉尼创立的设计平台Canva宣布进行一次大规模重组，涉及1,271名员工，约占其全球员工总数的22%，这些员工将失去工作、调到新岗位或搬迁到其他地点。联合创始人兼首席执行官Melanie Perkins对员工表示，今年是公司“迄今最艰难的一年”，因为公司增长十年来首次放缓。今年8月，Canva把2026年的收入增长预期从30%下调至20%，部分原因是推出人工智能功能的成本不断上升。受影响的员工将获得至少六个月的工资，公司还计划合并多个团队、减少管理层级，并让悉尼成为更多产品岗位的主要基地。",
-      "why_zh": "Canva几乎是每个做营销的人都在用的工具，也是澳洲最有名的科技公司之一。这条新闻反映了AI成本和行业变化对科技公司的冲击。“restructure（重组）”“forecast（预测）”是商业新闻高频词。",
+      "title_en": "Iconic department store David Jones collapses into administration after rescue talks fail",
+      "title_zh": "188年老字号百货David Jones进入托管：与房东谈判破裂，部分门店或将关闭",
+      "search_zh": "David Jones 自愿托管 进入托管 Anchorage Capital Partners Scentre Group Westfield 租金 9月30日 McGrathNicol FTI Consulting 接管人 礼品卡 关店 188年",
+      "summary_en": "David Jones, one of Australia's best-known department stores, has entered voluntary administration after its owner failed to reach a rescue deal with landlords. The 188-year-old retailer, owned by private equity firm Anchorage Capital Partners, had been negotiating with Westfield operator Scentre Group over rent and store closures, and Scentre said David Jones had not paid rent since September 30. McGrathNicol has been appointed as administrator, while receivers from FTI Consulting will keep the chain's stores and website trading as they review the business. Some stores are expected to close, and consumer advocates are urging shoppers to use their David Jones gift cards soon rather than buying new ones.",
+      "summary_zh": "澳洲最知名的百货公司之一David Jones（DJ）在其所有者未能与房东达成救助协议后，进入了自愿托管程序。这家已有188年历史的零售商归私募股权公司Anchorage Capital Partners所有，此前一直与Westfield购物中心的运营商Scentre Group就租金和关店问题进行谈判，而Scentre表示David Jones自9月30日以来就没有付过租金。McGrathNicol已被任命为托管人，同时FTI Consulting的接管人将在审查业务期间让这家连锁店的门店和网站继续营业。预计部分门店将会关闭，消费者权益人士正敦促顾客尽快用掉手中的David Jones礼品卡，而不要再买新的。",
+      "why_zh": "David Jones是澳洲人最熟悉的高端百货品牌之一，它的倒下反映了传统百货在网购和高租金压力下的困境，也直接影响消费者手里的礼品卡。“administration（托管）”“urge（敦促）”是商业新闻常见词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Bloomberg; Adweek; Forbes Australia; City AM; Yahoo Finance",
-      "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304",
+      "source": "ABC News; Mediaweek; The Nightly; Daily Maverick (Reuters); Finder; Inside Retail",
+      "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
       "vocab": [
         {
-          "word": "restructure",
-          "phonetic": "/ˌriːˈstrʌktʃə/",
+          "word": "administration",
+          "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
           "pos": "n.",
-          "zh": "（公司的）重组，改组",
-          "example": "Sydney-founded design platform Canva has announced a major restructure affecting 1,271 employees, or about 22% of its global workforce, who will lose their jobs, move to new roles or relocate."
+          "zh": "（公司资不抵债时的）托管，破产管理",
+          "example": "David Jones, one of Australia's best-known department stores, has entered voluntary administration after its owner failed to reach a rescue deal with landlords."
         },
         {
-          "word": "forecast",
-          "phonetic": "/ˈfɔːkɑːst/",
-          "pos": "n.",
-          "zh": "预测，预期",
-          "example": "In August, Canva cut its 2026 revenue growth forecast from 30% to 20%, partly because of the rising cost of rolling out artificial intelligence."
+          "word": "urging",
+          "phonetic": "/ˈɜːdʒɪŋ/",
+          "pos": "v.",
+          "zh": "敦促，力劝（urge 的现在分词）",
+          "example": "Some stores are expected to close, and consumer advocates are urging shoppers to use their David Jones gift cards soon rather than buying new ones."
         }
       ],
       "explain": {
-        "one_liner": "澳洲明星科技公司Canva增长放慢、AI成本变高，于是大调整：约五分之一员工被裁、换岗或搬迁。",
+        "one_liner": "老牌百货David Jones付不起租金、和最大房东谈崩了，只好请专业机构接手；店暂时照常开，但部分门店可能关闭。",
         "facts": [
           {
-            "icon": "🎨",
-            "name": "Canva",
-            "text": "在悉尼创立并总部设在悉尼的在线设计平台，用模板就能做海报、社媒图、PPT和视频，全球用户很多，是澳洲最有名的科技公司之一。"
+            "icon": "🛍️",
+            "name": "David Jones（DJ）",
+            "text": "1838年在悉尼创立的高端百货公司，卖时装、化妆品、家居和食品，在澳洲和新西兰有约38家店、几千名员工。"
           },
           {
-            "icon": "👩‍💼",
-            "name": "Melanie Perkins",
-            "text": "Canva的联合创始人兼CEO，来自澳洲珀斯，是澳洲最知名的女性创业者之一。"
+            "icon": "💼",
+            "name": "Anchorage Capital Partners",
+            "text": "澳洲的私募股权公司，专门收购经营困难的企业再进行改造。它从南非的Woolworths Holdings手中买下了David Jones，原本计划把连锁店缩减到约12家核心门店。"
           },
           {
-            "icon": "🔄",
-            "name": "重组 restructure",
-            "text": "公司重新安排部门和岗位。这次的1,271人不全是被裁：有人失业，有人换岗，有人需要搬迁，公司没说具体各有多少人。"
+            "icon": "🏬",
+            "name": "Scentre Group",
+            "text": "在澳洲和新西兰运营Westfield购物中心的公司，是David Jones最大的房东。双方在租金和关店问题上没谈拢。"
           },
           {
-            "icon": "📉",
-            "name": "增长预期 growth forecast",
-            "text": "公司对未来收入增速的估计。Canva 8月把2026年的预期从30%降到20%，收入仍在增长，只是增速变慢。"
+            "icon": "⚖️",
+            "name": "自愿托管 voluntary administration",
+            "text": "澳洲的一种破产程序：公司董事主动请外部专业人士（托管人）接管公司，评估是重组、出售还是关闭。这次的托管人是会计师事务所McGrathNicol。"
           },
           {
-            "icon": "🤖",
-            "name": "AI成本",
-            "text": "开发和运行AI功能需要大量算力，费用很高；同时AI也在改变人们做设计的方式，给Canva带来新的竞争。"
+            "icon": "🔑",
+            "name": "接管人 receivers",
+            "text": "由借钱给公司的银行等“有担保债权人”任命，负责保护他们的利益。这次由FTI Consulting的人担任，门店和网站在他们控制下继续营业。"
+          },
+          {
+            "icon": "🎁",
+            "name": "礼品卡 gift cards",
+            "text": "公司进入托管后，礼品卡持有人属于“无担保债权人”，如果公司最终倒闭，卡里的钱可能拿不回来，所以建议尽快用掉。"
           }
         ],
         "relations": [
           {
-            "a": "AI成本上升",
-            "b": "Canva",
-            "type": "cause",
-            "label": "利润和增长承压"
-          },
-          {
-            "a": "增长放缓",
-            "b": "员工",
+            "a": "David Jones",
+            "b": "Scentre Group",
             "type": "bad",
-            "label": "约22%受裁员、换岗或搬迁影响"
+            "label": "租金和关店谈判破裂，9月30日起未付租金"
           },
           {
-            "a": "Canva",
-            "b": "受影响员工",
+            "a": "谈判失败",
+            "b": "自愿托管",
+            "type": "cause",
+            "label": "公司请McGrathNicol接手"
+          },
+          {
+            "a": "FTI Consulting接管人",
+            "b": "门店和网站",
             "type": "neutral",
-            "label": "提供至少六个月工资补偿"
+            "label": "审查期间继续营业"
           },
           {
-            "a": "Canva",
-            "b": "悉尼",
-            "type": "good",
-            "label": "更多产品岗位集中到悉尼"
+            "a": "托管",
+            "b": "礼品卡持有人",
+            "type": "bad",
+            "label": "卡内余额存在风险"
           }
         ],
         "points": [
-          "重组涉及1,271名员工，约占全球员工的22%。",
-          "CEO称今年是公司“最艰难的一年”，增长十年来首次放缓。",
-          "8月已把2026年收入增长预期从30%下调到20%，AI成本是原因之一。",
-          "公司将合并团队、减少管理层级，并把更多产品岗位放在悉尼。"
+          "David Jones因与房东谈判失败而进入自愿托管。",
+          "据房东Scentre称，DJ自9月30日以来未付租金。",
+          "门店和网站暂时照常营业，但预计部分门店会关闭。",
+          "消费者权益人士建议尽快用掉礼品卡，不要再买新的。"
         ],
-        "relevance": "Canva是很多营销团队每天都用的工具。它的调整说明AI正在改变设计和内容制作行业：工具会越来越“AI化”，岗位也更看重综合能力而不是单一技能。对在澳洲做营销的人来说，这也提醒大家：本地科技行业在变，多学会用AI工具、提升跨领域能力很重要。",
+        "relevance": "David Jones是澳洲高端零售的标志性品牌，很多美妆、时尚品牌都靠它的柜台接触顾客。它的困境说明：高租金的大门店模式在网购时代越来越难，品牌需要更灵活的渠道策略。对做营销的人来说，圣诞季前的这种变化会影响合作品牌的铺货和促销计划；同时，“老字号失去吸引力”也是一个关于品牌如何保持新鲜感的好案例。",
         "phrase": {
-          "en": "the hardest year yet",
-          "zh": "迄今为止最艰难的一年"
-        }
-      }
-    },
-    {
-      "category": "markets",
-      "title_en": "Apple shares slide as new CEO John Ternus warns of soaring memory-chip costs",
-      "title_zh": "新CEO特努斯首份财报：苹果警告内存芯片成本飙升，股价下跌约4%",
-      "search_zh": "苹果 财报 2026财年第四季度 John Ternus 首次财报 营收1145亿美元 iPhone 576亿美元 毛利率 45%-46% 内存芯片 涨价 股价下跌4% 假日季 供应受限",
-      "summary_en": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins. The iPhone maker had beaten Wall Street's expectations, with quarterly revenue rising 12% to US$114.5 billion and iPhone sales reaching a September-quarter record of US$57.6 billion. However, Apple expects its gross margin to shrink to between 45% and 46% in the December quarter, down from 47.9%, as the price of memory chips soars. Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays.",
-      "summary_zh": "苹果新任首席执行官约翰·特努斯（John Ternus）上任后的首份财报给出了令人失望的利润率预期，苹果股价周二一度下跌多达4%。这家iPhone制造商的业绩其实超出了华尔街预期：季度营收增长12%至1,145亿美元，iPhone销售额达到576亿美元，创下9月季度的纪录。不过，由于内存芯片价格飙升，苹果预计12月季度的毛利率将降至45%到46%之间，低于上一季度的47.9%。特努斯形容内存成本的上涨“前所未有”，并警告芯片短缺可能限制苹果在假日季能出货的iPhone和Mac数量。",
-      "why_zh": "这说明AI热潮正在推高内存芯片价格，最终可能影响手机、电脑的价格和圣诞季供货。“outlook（前景、预期）”“unprecedented（前所未有的）”是财经新闻常用词。",
-      "image": "",
-      "image_credit": "",
-      "source": "Apple Newsroom; CNBC; BNN Bloomberg; MacRumors; AppleInsider",
-      "url": "https://www.bnnbloomberg.ca/business/technology/2026/11/03/apple-shares-slide-as-higher-memory-costs-fuel-margin-concerns/",
-      "vocab": [
-        {
-          "word": "outlook",
-          "phonetic": "/ˈaʊtlʊk/",
-          "pos": "n.",
-          "zh": "前景，（对未来的）预期",
-          "example": "Apple shares fell as much as 4% on Tuesday after the company's first earnings report under new chief executive John Ternus came with a disappointing outlook for profit margins."
-        },
-        {
-          "word": "unprecedented",
-          "phonetic": "/ʌnˈpresɪdentɪd/",
-          "pos": "adj.",
-          "zh": "前所未有的，空前的",
-          "example": "Ternus described memory costs as \"unprecedented\" and warned that shortages could limit how many iPhones and Macs Apple can ship over the holidays."
-        }
-      ],
-      "explain": {
-        "one_liner": "苹果卖得不错，但内存芯片涨价太猛，未来利润会被压缩，假日季还可能缺货，所以投资者卖出了股票。",
-        "facts": [
-          {
-            "icon": "🍎",
-            "name": "苹果 Apple",
-            "text": "美国科技公司，iPhone、Mac的制造商，全球市值最高的公司之一。"
-          },
-          {
-            "icon": "👨‍💼",
-            "name": "John Ternus 约翰·特努斯",
-            "text": "苹果新任CEO，接替库克（Tim Cook）。他长期在苹果负责硬件工程，这是他上任后的第一份财报。"
-          },
-          {
-            "icon": "📊",
-            "name": "财报 earnings report",
-            "text": "上市公司每季度公布的“成绩单”，包括收入、利润，以及对下一季度的预期。股价常常更看重“预期”。"
-          },
-          {
-            "icon": "💹",
-            "name": "毛利率 gross margin",
-            "text": "卖东西的收入减去直接成本后，剩下的部分占收入的比例。成本涨了、价格没涨，毛利率就会下降。"
-          },
-          {
-            "icon": "💾",
-            "name": "内存芯片 memory chips",
-            "text": "手机和电脑里存储数据的芯片。AI数据中心大量采购，导致供应紧张、价格大涨。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "AI数据中心需求",
-            "b": "内存芯片价格",
-            "type": "cause",
-            "label": "抢购推高价格"
-          },
-          {
-            "a": "内存涨价",
-            "b": "苹果利润率",
-            "type": "bad",
-            "label": "毛利率预计下降"
-          },
-          {
-            "a": "芯片短缺",
-            "b": "假日季供货",
-            "type": "bad",
-            "label": "iPhone和Mac可能出货受限"
-          },
-          {
-            "a": "利润预期偏弱",
-            "b": "苹果股价",
-            "type": "cause",
-            "label": "一度下跌约4%"
-          }
-        ],
-        "points": [
-          "季度营收增长12%至1,145亿美元，超出华尔街预期。",
-          "iPhone销售额576亿美元，创9月季度纪录。",
-          "12月季度毛利率预计降到45%–46%，上一季度为47.9%。",
-          "CEO称内存成本“前所未有”，假日季可能缺货。"
-        ],
-        "relevance": "芯片涨价会一路传到消费者：手机、电脑可能更贵或更难买到，圣诞季电子产品促销也可能受影响。做营销时可以留意“缺货”“限量”带来的紧迫感，以及消费者对价格更敏感的心理；客户如果是零售或科技品牌，备货和促销计划都可能要调整。",
-        "phrase": {
-          "en": "beat expectations",
-          "zh": "超出预期"
+          "en": "rescue talks fail",
+          "zh": "救助谈判失败"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "Most Chinese phone users plan to delay upgrades until 2027 as AI fails to excite buyers",
-      "title_zh": "调查：近七成中国用户打算推迟到2027年后再换手机，AI功能吸引力不足",
-      "search_zh": "彭博行业研究 调查 中国 智能手机 换机 推迟 2027年 69% AI 换机动力 8% 折叠屏 5.8% 双十一 折扣 华为 Mate 90 Pro 小米18 Pro Max",
-      "summary_en": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence. That share has roughly doubled since May, and most respondents said they plan to keep their devices for two to three years. Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone. Analysts also do not expect Singles Day discounts to meaningfully lift demand, partly because some high-end models, such as Huawei's Mate 90 Pro series and Xiaomi's 18 Pro Max, currently carry no discounts.",
-      "summary_zh": "彭博行业研究（Bloomberg Intelligence）10月的一项调查显示，大多数中国智能手机用户并不急着买新手机，69%的人表示至少要到2027年才会换机。这一比例自5月以来大约翻了一倍，大多数受访者表示打算把手机用两到三年。只有8%的购机者是被人工智能功能吸引的，低于一年前的12%，在11个换机理由中排名最后；同时只有5.8%的人正在使用或打算购买折叠屏手机。分析师还预计“双十一”的折扣不会明显带动需求，部分原因是一些高端机型，例如华为Mate 90 Pro系列和小米18 Pro Max，目前根本没有打折。",
-      "why_zh": "AI是今年手机厂商最大的卖点，但消费者似乎不买账。这对理解中国消费者心态和“双十一”很有帮助。“upgrade（升级、换新）”“motivated（激励、促使）”都很实用。",
+      "title_en": "Chinese shoppers skip Singles' Day splurges to pay down debt",
+      "title_zh": "“双十一”遇冷：不少中国消费者不买买买，忙着提前还房贷",
+      "search_zh": "双十一 消费者 捂紧钱包 提前还贷 上海 国有银行 提前还款 每月超20亿元 二手房价格 同比下跌6.7% 中国指数研究院 南华早报 消费降级",
+      "summary_en": "Many Chinese shoppers are holding back during this year's Singles' Day festival, the world's biggest online shopping event, as falling home and share prices, weak income growth and debt worries weigh on household spending, the South China Morning Post reports. Instead of filling their shopping carts, more families are focusing on keeping cash and paying off loans early, with one bank employee in Hangzhou saying that cutting debt comes first. Mortgage staff at the Shanghai branches of three big state-owned banks said early repayments at each lender now exceed 2 billion yuan a month, while one official said the figure at his branch was around 100 million yuan three years ago. Meanwhile, second-hand home prices across 100 Chinese cities fell 6.7% year on year in October, according to the China Index Academy, highlighting a long property slump that has eroded household wealth.",
+      "summary_zh": "据《南华早报》报道，由于房价和股价下跌、收入增长乏力以及对债务的担忧拖累家庭消费，今年“双十一”这个全球最大的网购节期间，许多中国消费者都在捂紧钱包。越来越多的家庭不再忙着把购物车装满，而是把重点放在存现金和提前还贷上；杭州一名银行职员就表示，先减少债务才是第一位的。三家大型国有银行上海分行的房贷部门人员表示，每家银行的提前还款额现在每月都超过20亿元人民币，其中一名负责人称，他所在分行三年前这一数字只有约1亿元。与此同时，中国指数研究院的数据显示，10月全国100个城市的二手房价格同比下跌6.7%，凸显出长期的楼市低迷已经侵蚀了家庭财富。",
+      "why_zh": "“双十一”是观察中国消费者情绪的风向标。今年很多人选择存钱、还贷，说明大家对未来收入和房价没信心。“weigh on（拖累）”“repayment（还款）”是财经新闻高频词。",
       "image": "",
       "image_credit": "",
-      "source": "Bloomberg; Briefs.co (summary of Bloomberg Intelligence survey); IDC",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-and-foldables-fail-to-spark-chinese-phone-market-bi-says",
+      "source": "South China Morning Post; The Korea Times; Seoul Economic Daily",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373267/why-worlds-largest-online-shopping-festival-cannot-get-chinese-consumers-spending-again",
       "vocab": [
         {
-          "word": "upgrade",
-          "phonetic": "/ˌʌpˈɡreɪd/",
-          "pos": "v.",
-          "zh": "升级；换成更新的（设备）",
-          "example": "Most Chinese smartphone users are in no hurry to buy a new phone, with 69% saying they won't upgrade until at least 2027, according to an October survey by Bloomberg Intelligence."
+          "word": "weigh on",
+          "phonetic": "/weɪ ɒn/",
+          "pos": "phr. v.",
+          "zh": "拖累，对……造成压力",
+          "example": "Many Chinese shoppers are holding back during this year's Singles' Day festival, the world's biggest online shopping event, as falling home and share prices, weak income growth and debt worries weigh on household spending, the South China Morning Post reports."
         },
         {
-          "word": "motivated",
-          "phonetic": "/ˈməʊtɪveɪtɪd/",
-          "pos": "v.",
-          "zh": "激励，促使（motivate 的过去式）",
-          "example": "Artificial intelligence features motivated only 8% of buyers, down from 12% a year earlier, ranking last among 11 reasons to upgrade, while just 5.8% use or plan to buy a foldable phone."
+          "word": "repayments",
+          "phonetic": "/rɪˈpeɪmənts/",
+          "pos": "n.",
+          "zh": "还款，偿还的款项（repayment 的复数）",
+          "example": "Mortgage staff at the Shanghai branches of three big state-owned banks said early repayments at each lender now exceed 2 billion yuan a month, while one official said the figure at his branch was around 100 million yuan three years ago."
         }
       ],
       "explain": {
-        "one_liner": "厂商拼命宣传AI和折叠屏，但大多数中国用户觉得旧手机够用，打算等到2027年以后再换。",
+        "one_liner": "房子和股票跌价让很多中国家庭觉得“变穷了”，于是“双十一”少买东西，把钱拿去提前还房贷。",
         "facts": [
           {
-            "icon": "🔎",
-            "name": "彭博行业研究 Bloomberg Intelligence",
-            "text": "彭博（Bloomberg）旗下的研究部门，为投资者分析行业和公司，这次在10月做了中国手机用户调查。"
+            "icon": "🛒",
+            "name": "双十一 Singles' Day",
+            "text": "每年11月11日前后的中国网购节，由阿里巴巴发起，现在促销期通常持续一个月左右，是全球规模最大的购物活动。"
           },
           {
-            "icon": "🛍️",
-            "name": "双十一 Singles Day",
-            "text": "每年11月11日前后的中国最大网购节，现在促销期往往持续一个月左右。"
+            "icon": "🏦",
+            "name": "提前还贷 mortgage prepayment",
+            "text": "在贷款到期前提前把房贷还掉一部分或全部。很多人这样做，是因为存款利率低，还贷能省利息，也让人觉得更安全。"
           },
           {
-            "icon": "📱",
-            "name": "折叠屏手机 foldable phone",
-            "text": "屏幕可以折起来的手机，价格较高，目前仍是小众产品。"
+            "icon": "🏛️",
+            "name": "国有银行 state-owned banks",
+            "text": "由国家控股的大银行，比如文中提到的中国建设银行，是中国房贷的主要提供者。"
           },
           {
-            "icon": "🤖",
-            "name": "AI手机",
-            "text": "带有AI助手、AI修图、AI写作等功能的手机，是近两年手机厂商的主要卖点。"
+            "icon": "📊",
+            "name": "中国指数研究院 China Index Academy",
+            "text": "中国一家专门跟踪房地产数据的研究机构，定期公布各城市新房、二手房价格。"
           },
           {
-            "icon": "🏢",
-            "name": "华为、小米",
-            "text": "中国最大的两家手机品牌，Mate 90 Pro和18 Pro Max分别是它们的高端机型。"
+            "icon": "📰",
+            "name": "南华早报 South China Morning Post",
+            "text": "香港的英文报纸，经常报道中国内地经济和社会新闻。"
           }
         ],
         "relations": [
           {
-            "a": "AI功能",
-            "b": "消费者",
+            "a": "房价、股价下跌",
+            "b": "家庭财富",
             "type": "bad",
-            "label": "吸引力下降，换机动力仅8%"
+            "label": "大家感觉变穷"
+          },
+          {
+            "a": "财富缩水和债务担忧",
+            "b": "双十一消费",
+            "type": "cause",
+            "label": "消费者捂紧钱包"
           },
           {
             "a": "消费者",
-            "b": "换机计划",
+            "b": "银行",
             "type": "neutral",
-            "label": "69%推迟到2027年后"
+            "label": "大量提前还房贷"
           },
           {
-            "a": "双十一折扣",
-            "b": "手机需求",
-            "type": "neutral",
-            "label": "预计带动有限"
-          },
-          {
-            "a": "高端机型不打折",
-            "b": "双十一销量",
-            "type": "cause",
-            "label": "削弱促销效果"
+            "a": "提前还贷",
+            "b": "银行新增贷款",
+            "type": "bad",
+            "label": "拖累贷款增长"
           }
         ],
         "points": [
-          "69%的受访者表示至少要到2027年才换手机，比5月翻了一倍左右。",
-          "AI在11个换机理由中排最后，只有8%的人因此购买。",
-          "折叠屏仍很小众，只有5.8%在用或打算买。",
-          "分析师预计双十一折扣难以明显带动手机销量。"
+          "很多消费者在今年“双十一”减少购物，优先存钱和还债。",
+          "三家国有银行上海分行的提前还款每月都超过20亿元。",
+          "一名负责人说，他所在分行三年前每月只有约1亿元。",
+          "10月100个城市二手房价格同比下跌6.7%，楼市仍然低迷。"
         ],
-        "relevance": "这是一个很好的营销案例：“AI”这个卖点在消费者心中已经不新鲜，单靠技术名词很难打动人，更需要讲清楚“对我有什么用”。在澳洲做华人市场或电子产品营销时，也可以借鉴：消费者更理性、换机周期更长，耐用、性价比和实际体验可能比新概念更有说服力。",
+        "relevance": "中国消费者变得更谨慎、更看重“值不值”，这和澳洲当前高利率下的消费心态很像。做营销时，单纯打折越来越难打动人，强调品质、耐用和真正的价值更重要。如果你的客户面向华人市场或依赖中国游客、代购，也要留意中国消费信心的变化。",
         "phrase": {
-          "en": "in no hurry",
-          "zh": "不着急，不急于（做某事）"
+          "en": "cutting debt comes first",
+          "zh": "减少债务是第一位的"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "John Lewis launches its 2026 Christmas ad with a gift-hunting granny and a Sam Fender cover",
+      "title_zh": "英国John Lewis发布2026圣诞广告：时髦奶奶寻礼记，Sam Fender翻唱滚石经典",
+      "search_zh": "John Lewis 圣诞广告 2026 Gloria and Pickles Kristin Scott Thomas Paul Whitehouse Sam Fender 翻唱 You Can't Always Get What You Want Saatchi & Saatchi Don't give up on giving",
+      "summary_en": "British department store John Lewis has released its 2026 Christmas advert, 'Gloria and Pickles', the 20th in a series of festive ads that many Britons see as a sign that the holiday season has begun. Created by the agency Saatchi & Saatchi, it stars actor Kristin Scott Thomas as a grandmother who is challenged by Pickles, a toy dog voiced by comedian Paul Whitehouse, to 'do better than cash' when choosing gifts for her grandchildren. With the cost of living in mind, the campaign carries the tagline 'Don't give up on giving', and the items in Gloria's room were either recycled from elsewhere in her house or cost less than £100. The soundtrack is Sam Fender's cover of the Rolling Stones' 1969 song 'You Can't Always Get What You Want', which Mick Jagger praised, saying he thought Fender had 'done a great job with it'.",
+      "summary_zh": "英国百货公司John Lewis发布了2026年圣诞广告《Gloria and Pickles》，这是其系列节日广告的第20支，许多英国人把这支广告的发布看作节日季开始的信号。这支广告由广告公司Saatchi & Saatchi制作，由演员克里斯汀·斯科特·托马斯（Kristin Scott Thomas）饰演一位奶奶；由喜剧演员保罗·怀特豪斯（Paul Whitehouse）配音的玩具狗Pickles向她发起挑战，要她给孙辈挑礼物时“比直接给钱做得更好”。考虑到生活成本压力，这次活动的标语是“Don't give up on giving（别放弃送礼的心意）”，而且Gloria房间里的物品要么是从家里其他地方回收再利用的，要么价格低于100英镑。广告配乐是Sam Fender翻唱的滚石乐队1969年歌曲《You Can't Always Get What You Want》，米克·贾格尔（Mick Jagger）称赞了这个版本，说他认为Fender“唱得非常好”。",
+      "why_zh": "John Lewis圣诞广告是全球广告圈每年最受关注的作品之一，这次把“生活成本压力”和“用心送礼”结合起来，是很好的营销学习案例。“tagline（广告标语）”“praise（称赞）”非常实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "John Lewis Partnership; The Irish Times; AdNews; Rolling Stone UK; Radio X",
+      "url": "https://www.johnlewispartnership.co.uk/media-centre/latest-news/2026/23969",
+      "vocab": [
+        {
+          "word": "tagline",
+          "phonetic": "/ˈtæɡlaɪn/",
+          "pos": "n.",
+          "zh": "（广告的）标语，口号",
+          "example": "With the cost of living in mind, the campaign carries the tagline 'Don't give up on giving', and the items in Gloria's room were either recycled from elsewhere in her house or cost less than £100."
+        },
+        {
+          "word": "praised",
+          "phonetic": "/preɪzd/",
+          "pos": "v.",
+          "zh": "称赞，赞扬（praise 的过去式）",
+          "example": "The soundtrack is Sam Fender's cover of the Rolling Stones' 1969 song 'You Can't Always Get What You Want', which Mick Jagger praised, saying he thought Fender had 'done a great job with it'."
+        }
+      ],
+      "explain": {
+        "one_liner": "英国百货John Lewis每年的圣诞广告都是大事件，今年讲一位奶奶在玩具狗的“挑战”下，不再只给孙辈塞钱，而是用心准备礼物。",
+        "facts": [
+          {
+            "icon": "🏬",
+            "name": "John Lewis",
+            "text": "英国著名的连锁百货公司，属于员工共同持股的John Lewis Partnership。从2007年开始每年推出圣诞广告，已成为英国的节日传统。"
+          },
+          {
+            "icon": "🎬",
+            "name": "Saatchi & Saatchi",
+            "text": "国际知名的广告公司，负责创作这支广告。"
+          },
+          {
+            "icon": "👵",
+            "name": "Kristin Scott Thomas",
+            "text": "英国女演员，代表作有《英国病人》，在广告里饰演时髦的奶奶Gloria。"
+          },
+          {
+            "icon": "🐶",
+            "name": "Paul Whitehouse",
+            "text": "英国喜剧演员，为会“活过来”的玩具狗Pickles配音。"
+          },
+          {
+            "icon": "🎸",
+            "name": "Sam Fender / 滚石乐队",
+            "text": "Sam Fender是英国人气创作歌手；滚石乐队（The Rolling Stones）是传奇摇滚乐队，Mick Jagger是主唱。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "生活成本压力",
+            "b": "广告创意",
+            "type": "cause",
+            "label": "强调用心送礼，道具多为回收或100英镑以下"
+          },
+          {
+            "a": "John Lewis",
+            "b": "Saatchi & Saatchi",
+            "type": "neutral",
+            "label": "合作创作广告"
+          },
+          {
+            "a": "Mick Jagger",
+            "b": "Sam Fender",
+            "type": "good",
+            "label": "称赞他的翻唱"
+          },
+          {
+            "a": "唱片销售",
+            "b": "慈善机构",
+            "type": "good",
+            "label": "利润捐给Teenage Cancer Trust和Action for Children等"
+          }
+        ],
+        "points": [
+          "这是John Lewis第20支圣诞广告，于11月3日发布。",
+          "标语是“Don't give up on giving”，鼓励用心送礼而不只是给钱。",
+          "考虑到生活成本，场景里的物品多为回收或低于100英镑。",
+          "配乐是Sam Fender翻唱的滚石名曲，获得Mick Jagger称赞。"
+        ],
+        "relevance": "圣诞广告是零售品牌一年中最重要的营销战役之一。John Lewis这支广告展示了几个可借鉴的做法：用情感故事而不是硬推产品、回应消费者的生活成本压力、用知名歌手翻唱经典歌曲带动话题，并结合慈善增加好感。澳洲品牌（如Myer、Woolworths、Coles）的圣诞营销也常参考这类思路，值得在做年终campaign时研究。",
+        "phrase": {
+          "en": "do better than cash",
+          "zh": "比直接给钱更用心"
         }
       }
     }

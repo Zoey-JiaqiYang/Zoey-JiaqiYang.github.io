@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T01:58:31+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Iconic department store David Jones collapses into administration after rescue talks fail",
+      "title_zh": "188年老字号百货David Jones进入托管：与房东谈判破裂，部分门店或将关闭",
+      "search_zh": "David Jones 自愿托管 进入托管 Anchorage Capital Partners Scentre Group Westfield 租金 9月30日 McGrathNicol FTI Consulting 接管人 礼品卡 关店 188年",
+      "summary_en": "David Jones, one of Australia's best-known department stores, has entered voluntary administration after its owner failed to reach a rescue deal with landlords. The 188-year-old retailer, owned by private equity firm Anchorage Capital Partners, had been negotiating with Westfield operator Scentre Group over rent and store closures, and Scentre said David Jones had not paid rent since September 30. McGrathNicol has been appointed as administrator, while receivers from FTI Consulting will keep the chain's stores and website trading as they review the business. Some stores are expected to close, and consumer advocates are urging shoppers to use their David Jones gift cards soon rather than buying new ones.",
+      "summary_zh": "澳洲最知名的百货公司之一David Jones（DJ）在其所有者未能与房东达成救助协议后，进入了自愿托管程序。这家已有188年历史的零售商归私募股权公司Anchorage Capital Partners所有，此前一直与Westfield购物中心的运营商Scentre Group就租金和关店问题进行谈判，而Scentre表示David Jones自9月30日以来就没有付过租金。McGrathNicol已被任命为托管人，同时FTI Consulting的接管人将在审查业务期间让这家连锁店的门店和网站继续营业。预计部分门店将会关闭，消费者权益人士正敦促顾客尽快用掉手中的David Jones礼品卡，而不要再买新的。",
+      "why_zh": "David Jones是澳洲人最熟悉的高端百货品牌之一，它的倒下反映了传统百货在网购和高租金压力下的困境，也直接影响消费者手里的礼品卡。“administration（托管）”“urge（敦促）”是商业新闻常见词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Mediaweek; The Nightly; Daily Maverick (Reuters); Finder; Inside Retail",
+      "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
+      "vocab": [
+        {
+          "word": "administration",
+          "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+          "pos": "n.",
+          "zh": "（公司资不抵债时的）托管，破产管理",
+          "example": "David Jones, one of Australia's best-known department stores, has entered voluntary administration after its owner failed to reach a rescue deal with landlords."
+        },
+        {
+          "word": "urging",
+          "phonetic": "/ˈɜːdʒɪŋ/",
+          "pos": "v.",
+          "zh": "敦促，力劝（urge 的现在分词）",
+          "example": "Some stores are expected to close, and consumer advocates are urging shoppers to use their David Jones gift cards soon rather than buying new ones."
+        }
+      ],
+      "explain": {
+        "one_liner": "老牌百货David Jones付不起租金、和最大房东谈崩了，只好请专业机构接手；店暂时照常开，但部分门店可能关闭。",
+        "facts": [
+          {
+            "icon": "🛍️",
+            "name": "David Jones（DJ）",
+            "text": "1838年在悉尼创立的高端百货公司，卖时装、化妆品、家居和食品，在澳洲和新西兰有约38家店、几千名员工。"
+          },
+          {
+            "icon": "💼",
+            "name": "Anchorage Capital Partners",
+            "text": "澳洲的私募股权公司，专门收购经营困难的企业再进行改造。它从南非的Woolworths Holdings手中买下了David Jones，原本计划把连锁店缩减到约12家核心门店。"
+          },
+          {
+            "icon": "🏬",
+            "name": "Scentre Group",
+            "text": "在澳洲和新西兰运营Westfield购物中心的公司，是David Jones最大的房东。双方在租金和关店问题上没谈拢。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "自愿托管 voluntary administration",
+            "text": "澳洲的一种破产程序：公司董事主动请外部专业人士（托管人）接管公司，评估是重组、出售还是关闭。这次的托管人是会计师事务所McGrathNicol。"
+          },
+          {
+            "icon": "🔑",
+            "name": "接管人 receivers",
+            "text": "由借钱给公司的银行等“有担保债权人”任命，负责保护他们的利益。这次由FTI Consulting的人担任，门店和网站在他们控制下继续营业。"
+          },
+          {
+            "icon": "🎁",
+            "name": "礼品卡 gift cards",
+            "text": "公司进入托管后，礼品卡持有人属于“无担保债权人”，如果公司最终倒闭，卡里的钱可能拿不回来，所以建议尽快用掉。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "David Jones",
+            "b": "Scentre Group",
+            "type": "bad",
+            "label": "租金和关店谈判破裂，9月30日起未付租金"
+          },
+          {
+            "a": "谈判失败",
+            "b": "自愿托管",
+            "type": "cause",
+            "label": "公司请McGrathNicol接手"
+          },
+          {
+            "a": "FTI Consulting接管人",
+            "b": "门店和网站",
+            "type": "neutral",
+            "label": "审查期间继续营业"
+          },
+          {
+            "a": "托管",
+            "b": "礼品卡持有人",
+            "type": "bad",
+            "label": "卡内余额存在风险"
+          }
+        ],
+        "points": [
+          "David Jones因与房东谈判失败而进入自愿托管。",
+          "据房东Scentre称，DJ自9月30日以来未付租金。",
+          "门店和网站暂时照常营业，但预计部分门店会关闭。",
+          "消费者权益人士建议尽快用掉礼品卡，不要再买新的。"
+        ],
+        "relevance": "David Jones是澳洲高端零售的标志性品牌，很多美妆、时尚品牌都靠它的柜台接触顾客。它的困境说明：高租金的大门店模式在网购时代越来越难，品牌需要更灵活的渠道策略。对做营销的人来说，圣诞季前的这种变化会影响合作品牌的铺货和促销计划；同时，“老字号失去吸引力”也是一个关于品牌如何保持新鲜感的好案例。",
+        "phrase": {
+          "en": "rescue talks fail",
+          "zh": "救助谈判失败"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Chinese shoppers skip Singles' Day splurges to pay down debt",
+      "title_zh": "“双十一”遇冷：不少中国消费者不买买买，忙着提前还房贷",
+      "search_zh": "双十一 消费者 捂紧钱包 提前还贷 上海 国有银行 提前还款 每月超20亿元 二手房价格 同比下跌6.7% 中国指数研究院 南华早报 消费降级",
+      "summary_en": "Many Chinese shoppers are holding back during this year's Singles' Day festival, the world's biggest online shopping event, as falling home and share prices, weak income growth and debt worries weigh on household spending, the South China Morning Post reports. Instead of filling their shopping carts, more families are focusing on keeping cash and paying off loans early, with one bank employee in Hangzhou saying that cutting debt comes first. Mortgage staff at the Shanghai branches of three big state-owned banks said early repayments at each lender now exceed 2 billion yuan a month, while one official said the figure at his branch was around 100 million yuan three years ago. Meanwhile, second-hand home prices across 100 Chinese cities fell 6.7% year on year in October, according to the China Index Academy, highlighting a long property slump that has eroded household wealth.",
+      "summary_zh": "据《南华早报》报道，由于房价和股价下跌、收入增长乏力以及对债务的担忧拖累家庭消费，今年“双十一”这个全球最大的网购节期间，许多中国消费者都在捂紧钱包。越来越多的家庭不再忙着把购物车装满，而是把重点放在存现金和提前还贷上；杭州一名银行职员就表示，先减少债务才是第一位的。三家大型国有银行上海分行的房贷部门人员表示，每家银行的提前还款额现在每月都超过20亿元人民币，其中一名负责人称，他所在分行三年前这一数字只有约1亿元。与此同时，中国指数研究院的数据显示，10月全国100个城市的二手房价格同比下跌6.7%，凸显出长期的楼市低迷已经侵蚀了家庭财富。",
+      "why_zh": "“双十一”是观察中国消费者情绪的风向标。今年很多人选择存钱、还贷，说明大家对未来收入和房价没信心。“weigh on（拖累）”“repayment（还款）”是财经新闻高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "South China Morning Post; The Korea Times; Seoul Economic Daily",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373267/why-worlds-largest-online-shopping-festival-cannot-get-chinese-consumers-spending-again",
+      "vocab": [
+        {
+          "word": "weigh on",
+          "phonetic": "/weɪ ɒn/",
+          "pos": "phr. v.",
+          "zh": "拖累，对……造成压力",
+          "example": "Many Chinese shoppers are holding back during this year's Singles' Day festival, the world's biggest online shopping event, as falling home and share prices, weak income growth and debt worries weigh on household spending, the South China Morning Post reports."
+        },
+        {
+          "word": "repayments",
+          "phonetic": "/rɪˈpeɪmənts/",
+          "pos": "n.",
+          "zh": "还款，偿还的款项（repayment 的复数）",
+          "example": "Mortgage staff at the Shanghai branches of three big state-owned banks said early repayments at each lender now exceed 2 billion yuan a month, while one official said the figure at his branch was around 100 million yuan three years ago."
+        }
+      ],
+      "explain": {
+        "one_liner": "房子和股票跌价让很多中国家庭觉得“变穷了”，于是“双十一”少买东西，把钱拿去提前还房贷。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "双十一 Singles' Day",
+            "text": "每年11月11日前后的中国网购节，由阿里巴巴发起，现在促销期通常持续一个月左右，是全球规模最大的购物活动。"
+          },
+          {
+            "icon": "🏦",
+            "name": "提前还贷 mortgage prepayment",
+            "text": "在贷款到期前提前把房贷还掉一部分或全部。很多人这样做，是因为存款利率低，还贷能省利息，也让人觉得更安全。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "国有银行 state-owned banks",
+            "text": "由国家控股的大银行，比如文中提到的中国建设银行，是中国房贷的主要提供者。"
+          },
+          {
+            "icon": "📊",
+            "name": "中国指数研究院 China Index Academy",
+            "text": "中国一家专门跟踪房地产数据的研究机构，定期公布各城市新房、二手房价格。"
+          },
+          {
+            "icon": "📰",
+            "name": "南华早报 South China Morning Post",
+            "text": "香港的英文报纸，经常报道中国内地经济和社会新闻。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "房价、股价下跌",
+            "b": "家庭财富",
+            "type": "bad",
+            "label": "大家感觉变穷"
+          },
+          {
+            "a": "财富缩水和债务担忧",
+            "b": "双十一消费",
+            "type": "cause",
+            "label": "消费者捂紧钱包"
+          },
+          {
+            "a": "消费者",
+            "b": "银行",
+            "type": "neutral",
+            "label": "大量提前还房贷"
+          },
+          {
+            "a": "提前还贷",
+            "b": "银行新增贷款",
+            "type": "bad",
+            "label": "拖累贷款增长"
+          }
+        ],
+        "points": [
+          "很多消费者在今年“双十一”减少购物，优先存钱和还债。",
+          "三家国有银行上海分行的提前还款每月都超过20亿元。",
+          "一名负责人说，他所在分行三年前每月只有约1亿元。",
+          "10月100个城市二手房价格同比下跌6.7%，楼市仍然低迷。"
+        ],
+        "relevance": "中国消费者变得更谨慎、更看重“值不值”，这和澳洲当前高利率下的消费心态很像。做营销时，单纯打折越来越难打动人，强调品质、耐用和真正的价值更重要。如果你的客户面向华人市场或依赖中国游客、代购，也要留意中国消费信心的变化。",
+        "phrase": {
+          "en": "cutting debt comes first",
+          "zh": "减少债务是第一位的"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "John Lewis launches its 2026 Christmas ad with a gift-hunting granny and a Sam Fender cover",
+      "title_zh": "英国John Lewis发布2026圣诞广告：时髦奶奶寻礼记，Sam Fender翻唱滚石经典",
+      "search_zh": "John Lewis 圣诞广告 2026 Gloria and Pickles Kristin Scott Thomas Paul Whitehouse Sam Fender 翻唱 You Can't Always Get What You Want Saatchi & Saatchi Don't give up on giving",
+      "summary_en": "British department store John Lewis has released its 2026 Christmas advert, 'Gloria and Pickles', the 20th in a series of festive ads that many Britons see as a sign that the holiday season has begun. Created by the agency Saatchi & Saatchi, it stars actor Kristin Scott Thomas as a grandmother who is challenged by Pickles, a toy dog voiced by comedian Paul Whitehouse, to 'do better than cash' when choosing gifts for her grandchildren. With the cost of living in mind, the campaign carries the tagline 'Don't give up on giving', and the items in Gloria's room were either recycled from elsewhere in her house or cost less than £100. The soundtrack is Sam Fender's cover of the Rolling Stones' 1969 song 'You Can't Always Get What You Want', which Mick Jagger praised, saying he thought Fender had 'done a great job with it'.",
+      "summary_zh": "英国百货公司John Lewis发布了2026年圣诞广告《Gloria and Pickles》，这是其系列节日广告的第20支，许多英国人把这支广告的发布看作节日季开始的信号。这支广告由广告公司Saatchi & Saatchi制作，由演员克里斯汀·斯科特·托马斯（Kristin Scott Thomas）饰演一位奶奶；由喜剧演员保罗·怀特豪斯（Paul Whitehouse）配音的玩具狗Pickles向她发起挑战，要她给孙辈挑礼物时“比直接给钱做得更好”。考虑到生活成本压力，这次活动的标语是“Don't give up on giving（别放弃送礼的心意）”，而且Gloria房间里的物品要么是从家里其他地方回收再利用的，要么价格低于100英镑。广告配乐是Sam Fender翻唱的滚石乐队1969年歌曲《You Can't Always Get What You Want》，米克·贾格尔（Mick Jagger）称赞了这个版本，说他认为Fender“唱得非常好”。",
+      "why_zh": "John Lewis圣诞广告是全球广告圈每年最受关注的作品之一，这次把“生活成本压力”和“用心送礼”结合起来，是很好的营销学习案例。“tagline（广告标语）”“praise（称赞）”非常实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "John Lewis Partnership; The Irish Times; AdNews; Rolling Stone UK; Radio X",
+      "url": "https://www.johnlewispartnership.co.uk/media-centre/latest-news/2026/23969",
+      "vocab": [
+        {
+          "word": "tagline",
+          "phonetic": "/ˈtæɡlaɪn/",
+          "pos": "n.",
+          "zh": "（广告的）标语，口号",
+          "example": "With the cost of living in mind, the campaign carries the tagline 'Don't give up on giving', and the items in Gloria's room were either recycled from elsewhere in her house or cost less than £100."
+        },
+        {
+          "word": "praised",
+          "phonetic": "/preɪzd/",
+          "pos": "v.",
+          "zh": "称赞，赞扬（praise 的过去式）",
+          "example": "The soundtrack is Sam Fender's cover of the Rolling Stones' 1969 song 'You Can't Always Get What You Want', which Mick Jagger praised, saying he thought Fender had 'done a great job with it'."
+        }
+      ],
+      "explain": {
+        "one_liner": "英国百货John Lewis每年的圣诞广告都是大事件，今年讲一位奶奶在玩具狗的“挑战”下，不再只给孙辈塞钱，而是用心准备礼物。",
+        "facts": [
+          {
+            "icon": "🏬",
+            "name": "John Lewis",
+            "text": "英国著名的连锁百货公司，属于员工共同持股的John Lewis Partnership。从2007年开始每年推出圣诞广告，已成为英国的节日传统。"
+          },
+          {
+            "icon": "🎬",
+            "name": "Saatchi & Saatchi",
+            "text": "国际知名的广告公司，负责创作这支广告。"
+          },
+          {
+            "icon": "👵",
+            "name": "Kristin Scott Thomas",
+            "text": "英国女演员，代表作有《英国病人》，在广告里饰演时髦的奶奶Gloria。"
+          },
+          {
+            "icon": "🐶",
+            "name": "Paul Whitehouse",
+            "text": "英国喜剧演员，为会“活过来”的玩具狗Pickles配音。"
+          },
+          {
+            "icon": "🎸",
+            "name": "Sam Fender / 滚石乐队",
+            "text": "Sam Fender是英国人气创作歌手；滚石乐队（The Rolling Stones）是传奇摇滚乐队，Mick Jagger是主唱。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "生活成本压力",
+            "b": "广告创意",
+            "type": "cause",
+            "label": "强调用心送礼，道具多为回收或100英镑以下"
+          },
+          {
+            "a": "John Lewis",
+            "b": "Saatchi & Saatchi",
+            "type": "neutral",
+            "label": "合作创作广告"
+          },
+          {
+            "a": "Mick Jagger",
+            "b": "Sam Fender",
+            "type": "good",
+            "label": "称赞他的翻唱"
+          },
+          {
+            "a": "唱片销售",
+            "b": "慈善机构",
+            "type": "good",
+            "label": "利润捐给Teenage Cancer Trust和Action for Children等"
+          }
+        ],
+        "points": [
+          "这是John Lewis第20支圣诞广告，于11月3日发布。",
+          "标语是“Don't give up on giving”，鼓励用心送礼而不只是给钱。",
+          "考虑到生活成本，场景里的物品多为回收或低于100英镑。",
+          "配乐是Sam Fender翻唱的滚石名曲，获得Mick Jagger称赞。"
+        ],
+        "relevance": "圣诞广告是零售品牌一年中最重要的营销战役之一。John Lewis这支广告展示了几个可借鉴的做法：用情感故事而不是硬推产品、回应消费者的生活成本压力、用知名歌手翻唱经典歌曲带动话题，并结合慈善增加好感。澳洲品牌（如Myer、Woolworths、Coles）的圣诞营销也常参考这类思路，值得在做年终campaign时研究。",
+        "phrase": {
+          "en": "do better than cash",
+          "zh": "比直接给钱更用心"
+        }
+      }
+    }
+  ]
+}
