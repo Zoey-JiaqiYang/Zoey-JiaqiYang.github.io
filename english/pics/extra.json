@@ -3744,5 +3744,212 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "weather-au",
+    "added": "2026-11-06",
+    "name": "天气预报",
+    "icon": "🌦️",
+    "prompt": "天气预报会怎么说？",
+    "items": [
+      {
+        "emoji": "🌧️",
+        "w": "drizzle",
+        "ph": "/ˈdrɪzl/",
+        "pos": "n./v.",
+        "zh": "毛毛雨",
+        "ex": "It's only a light drizzle — you won't need a brolly.",
+        "tip": "",
+        "accept": [
+          "drizzle",
+          "light rain",
+          "showers"
+        ],
+        "near": [
+          "bucketing down"
+        ]
+      },
+      {
+        "emoji": "☔",
+        "w": "bucketing down",
+        "ph": "/ˈbʌkɪtɪŋ daʊn/",
+        "pos": "phr.",
+        "zh": "下倾盆大雨",
+        "ex": "It's bucketing down outside — wait till it eases.",
+        "tip": "也可以说 pouring / it's raining cats and dogs",
+        "accept": [
+          "bucketing down",
+          "pouring",
+          "pouring rain",
+          "heavy rain"
+        ],
+        "near": [
+          "drizzle"
+        ]
+      },
+      {
+        "emoji": "⛅",
+        "w": "partly cloudy",
+        "ph": "/ˌpɑːtli ˈklaʊdi/",
+        "pos": "adj.",
+        "zh": "多云间晴",
+        "ex": "Tomorrow will be partly cloudy with a top of 26.",
+        "tip": "a top of 26 = 最高气温 26 度",
+        "accept": [
+          "partly cloudy",
+          "cloudy"
+        ],
+        "near": [
+          "overcast",
+          "fine"
+        ]
+      },
+      {
+        "emoji": "☁️",
+        "w": "overcast",
+        "ph": "/ˌəʊvəˈkɑːst/",
+        "pos": "adj.",
+        "zh": "阴天的",
+        "ex": "It's been grey and overcast all day.",
+        "tip": "",
+        "accept": [
+          "overcast",
+          "cloudy",
+          "grey",
+          "gloomy"
+        ],
+        "near": [
+          "partly cloudy"
+        ]
+      },
+      {
+        "emoji": "🌤️",
+        "w": "fine",
+        "ph": "/faɪn/",
+        "pos": "adj.",
+        "zh": "（天气）晴好的",
+        "ex": "The forecast for the weekend is fine and sunny.",
+        "tip": "澳洲天气预报常用 fine = 晴天",
+        "accept": [
+          "fine",
+          "sunny",
+          "clear"
+        ],
+        "near": [
+          "partly cloudy"
+        ]
+      },
+      {
+        "emoji": "💦",
+        "w": "humid",
+        "ph": "/ˈhjuːmɪd/",
+        "pos": "adj.",
+        "zh": "闷热潮湿的",
+        "ex": "Brisbane gets really humid in summer.",
+        "tip": "名词 humidity；It's so muggy! 也是闷热",
+        "accept": [
+          "humid",
+          "muggy",
+          "sticky",
+          "humidity"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌀",
+        "w": "cyclone",
+        "ph": "/ˈsaɪkləʊn/",
+        "pos": "n.",
+        "zh": "热带气旋（澳洲叫法）",
+        "ex": "A cyclone is forecast to cross the Queensland coast.",
+        "tip": "澳洲叫 cyclone，美国叫 hurricane，东亚叫 typhoon",
+        "accept": [
+          "cyclone",
+          "hurricane",
+          "typhoon",
+          "storm"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌩️",
+        "w": "lightning",
+        "ph": "/ˈlaɪtnɪŋ/",
+        "pos": "n.",
+        "zh": "闪电",
+        "ex": "Get out of the pool — there's lightning about.",
+        "tip": "注意拼写：lightning 没有 e（lightening 是变亮）",
+        "accept": [
+          "lightning",
+          "lightning strike",
+          "thunder"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌬️",
+        "w": "gusty",
+        "ph": "/ˈɡʌsti/",
+        "pos": "adj.",
+        "zh": "阵风很大的",
+        "ex": "It's going to be gusty this arvo, so tie down the umbrella.",
+        "tip": "gust = 一阵强风",
+        "accept": [
+          "gusty",
+          "windy",
+          "gust",
+          "gale"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌞",
+        "w": "slip slop slap",
+        "ph": "/ˌslɪp slɒp ˈslæp/",
+        "pos": "phr.",
+        "zh": "澳洲防晒口号",
+        "ex": "Remember to slip slop slap before the beach.",
+        "tip": "Slip on a shirt, slop on sunscreen, slap on a hat",
+        "accept": [
+          "slip slop slap",
+          "sun safety",
+          "sunscreen",
+          "sun smart"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💧",
+        "w": "water restrictions",
+        "ph": "/ˈwɔːtə rɪˌstrɪkʃnz/",
+        "pos": "n.",
+        "zh": "限水令",
+        "ex": "There are water restrictions, so no hosing the car.",
+        "tip": "澳洲干旱时常实行；hose = 用水管冲洗",
+        "accept": [
+          "water restrictions",
+          "water saving",
+          "drought"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏔️",
+        "w": "the snow",
+        "ph": "/ðə snəʊ/",
+        "pos": "n.",
+        "zh": "雪山滑雪（澳洲说法）",
+        "ex": "We're heading to the snow for the long weekend.",
+        "tip": "澳洲人说 go to the snow = 去雪山（滑雪）",
+        "accept": [
+          "the snow",
+          "snow",
+          "ski",
+          "skiing",
+          "snowfields"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
