@@ -1,0 +1,304 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T01:55:43+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Qantas warns of higher fares and fewer domestic flights as its fuel bill climbs to A$3.75 billion",
+      "title_zh": "油价太贵！澳航燃油账单升至37.5亿澳元，机票还要涨、国内航班将减少",
+      "search_zh": "澳航 Qantas 燃油成本 37.5亿澳元 机票涨价 削减国内航班 捷星 Jetstar 运力 Vanessa Hudson 燃油对冲 85% 国际航线 市场更新 股东年会",
+      "summary_en": "Qantas has warned that airfares will keep rising and some domestic flights will be cut, after raising its forecast fuel bill to about A$3.75 billion for the six months to December. In a market update released on Friday ahead of its annual shareholder meeting, the airline said the figure was up from its earlier forecast of A$3.6 billion and that fuel prices are expected to stay high until at least mid-2027. The group, which also owns budget carrier Jetstar, said it would continue to adjust fares and capacity in response, while moving more of its planes to international routes where demand remains strong. Chief executive Vanessa Hudson said international bookings were being supported by travellers redirecting their trips away from the Middle East, and the airline is about 85 per cent hedged against fuel price swings for the 2027 financial year.",
+      "summary_zh": "澳洲航空（Qantas）将今年下半年（截至12月的六个月）的燃油费用预测上调至约37.5亿澳元，并警告机票价格将继续上涨，部分国内航班也将被削减。在周五股东年会前发布的市场更新中，这家航空公司表示，这一数字高于此前预测的36亿澳元，并预计燃油价格至少会在2027年年中之前保持高位。旗下还拥有廉价航空捷星（Jetstar）的澳航集团表示，将继续根据情况调整票价和运力，同时把更多飞机调配到需求依然强劲的国际航线上。首席执行官Vanessa Hudson表示，不少旅客把行程从中东改到其他地方，这支撑了国际航线的预订；此外，澳航2027财年约85%的燃油用量已经做了对冲，以应对油价波动。",
+      "why_zh": "圣诞和新年是澳洲人出行的高峰，澳航的这番表态意味着年底和明年初的国内机票可能更贵、选择更少。“capacity（运力）”“hedge（对冲）”是航空和财经新闻中的常见词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Qantas Group market update; The Nightly; Business News Australia; Travel And Tour World",
+      "url": "https://thenightly.com.au/business/qantas-warns-of-continued-elevated-fuel-costs-as-it-diverts-capacity-to-international-routes-c-23123781",
+      "vocab": [
+        {
+          "word": "capacity",
+          "phonetic": "/kəˈpæsəti/",
+          "pos": "n.",
+          "zh": "（航空公司的）运力，可提供的座位数量",
+          "example": "The group, which also owns budget carrier Jetstar, said it would continue to adjust fares and capacity in response, while moving more of its planes to international routes where demand remains strong."
+        },
+        {
+          "word": "hedged",
+          "phonetic": "/hedʒd/",
+          "pos": "adj.",
+          "zh": "（价格风险）已对冲的，提前锁定价格的",
+          "example": "Chief executive Vanessa Hudson said international bookings were being supported by travellers redirecting their trips away from the Middle East, and the airline is about 85 per cent hedged against fuel price swings for the 2027 financial year."
+        }
+      ],
+      "explain": {
+        "one_liner": "飞机烧的油变贵了，澳航的成本大涨，只好少飞一些国内航线、把票价调高，并把飞机多派去更赚钱的国际航线。",
+        "facts": [
+          {
+            "icon": "✈️",
+            "name": "Qantas 澳洲航空",
+            "text": "澳洲最大的航空公司，1920年创立，在澳洲证券交易所上市，经营国内和国际航线。"
+          },
+          {
+            "icon": "🧡",
+            "name": "Jetstar 捷星航空",
+            "text": "澳航集团旗下的廉价航空公司，票价更便宜，但行李、选座等要另外付费。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "Vanessa Hudson",
+            "text": "澳航现任首席执行官（CEO），2023年接任，是澳航历史上第一位女性CEO。"
+          },
+          {
+            "icon": "⛽",
+            "name": "燃油成本 fuel bill",
+            "text": "航空公司最大的开支之一。今年中东局势导致航空燃油价格大涨，澳航的燃油账单因此一再上调。"
+          },
+          {
+            "icon": "🛡️",
+            "name": "对冲 hedging",
+            "text": "一种财务手段：公司提前用合约锁定未来一段时间的油价，油价暴涨时可以减少损失。澳航说2027财年约85%的燃油用量已经对冲。"
+          },
+          {
+            "icon": "💺",
+            "name": "运力 capacity",
+            "text": "航空公司提供的座位总量，通常和飞行距离一起计算。“削减运力”就是少飞航班或用更小的飞机。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "航空燃油价格上涨",
+            "b": "澳航成本",
+            "type": "cause",
+            "label": "上半财年燃油账单预计约37.5亿澳元"
+          },
+          {
+            "a": "澳航",
+            "b": "国内旅客",
+            "type": "bad",
+            "label": "票价上调、国内航班减少"
+          },
+          {
+            "a": "澳航",
+            "b": "国际航线",
+            "type": "good",
+            "label": "把更多飞机调去需求强劲的国际线"
+          },
+          {
+            "a": "燃油对冲",
+            "b": "油价波动",
+            "type": "neutral",
+            "label": "约85%的用量锁定价格，减轻冲击"
+          }
+        ],
+        "points": [
+          "澳航把截至12月的六个月燃油费用预测从36亿澳元上调到约37.5亿澳元。",
+          "公司表示会继续调整票价和运力，国内航班会减少。",
+          "国际航线需求强劲，更多飞机被调去飞国际线。",
+          "澳航预计油价至少到2027年年中都会保持高位。"
+        ],
+        "relevance": "机票变贵会直接影响澳洲人的出行和旅游消费，尤其是圣诞、新年和明年初的假期。做营销的人如果服务旅游、酒店或活动行业，要预计国内短途游需求可能受压，促销和预算要提前规划；如果需要出差参加活动，也最好早点订票。另外，澳航“成本上涨→提价”的沟通方式，也是品牌如何向顾客解释涨价的一个观察案例。",
+        "phrase": {
+          "en": "adjust fares and capacity",
+          "zh": "调整票价和运力"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Spider-Man swings Sony to a big profit jump as the company lifts its full-year forecast",
+      "title_zh": "蜘蛛侠救场！《崭新之日》全球票房约25亿美元，索尼季度利润大涨45%并上调全年预测",
+      "search_zh": "索尼 Sony 第二季度 财报 蜘蛛侠 崭新之日 Spider-Man Brand New Day 票房 25亿美元 索尼影业 营业利润 5.81亿美元 6223亿日元 增长45% 全年预测 1.87万亿日元 PlayStation 日元贬值",
+      "summary_en": "Sony has raised its full-year profit forecast after the blockbuster film 'Spider-Man: Brand New Day' and strong PlayStation sales lifted its results for the July–September quarter. The Japanese entertainment and electronics giant reported an operating profit of 622.3 billion yen for the quarter, up 45% from a year earlier, and now expects full-year operating profit of 1.87 trillion yen. Its film studio, Sony Pictures, posted an operating profit of about US$581 million, more than six times the figure a year earlier, as the Spider-Man film earned roughly US$2.5 billion at the global box office by the end of September. The results show how a single hit franchise can lift a whole company, although a weaker yen also flattered the figures, according to the entertainment trade publication Variety.",
+      "summary_zh": "索尼（Sony）上调了全年利润预测，原因是大片《蜘蛛侠：崭新之日》和强劲的PlayStation销售推高了公司7月至9月这一季度的业绩。这家日本娱乐和电子巨头公布，该季度营业利润为6223亿日元，同比增长45%，目前预计全年营业利润将达到1.87万亿日元。旗下电影公司索尼影业的营业利润约为5.81亿美元，是去年同期的六倍多，因为这部蜘蛛侠电影截至9月底的全球票房已达到约25亿美元。娱乐行业刊物《综艺》（Variety）指出，这份业绩显示一个热门系列就能带动整个公司，不过日元走弱也让数字显得更漂亮。",
+      "why_zh": "一部电影就能让一家巨型公司的利润大涨，这是“超级IP”商业价值最直观的例子。“blockbuster（大片）”“flatter（使显得更好看）”在商业和娱乐新闻里都很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Hollywood Reporter; Deadline; Variety; Reuters (via secondary reports)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sony-pictures-q2-results-spiderman-brand-new-day-1236748325/",
+      "vocab": [
+        {
+          "word": "blockbuster",
+          "phonetic": "/ˈblɒkbʌstə(r)/",
+          "pos": "n./adj.",
+          "zh": "大片，非常卖座的（电影、产品等）",
+          "example": "Sony has raised its full-year profit forecast after the blockbuster film 'Spider-Man: Brand New Day' and strong PlayStation sales lifted its results for the July–September quarter."
+        },
+        {
+          "word": "flattered",
+          "phonetic": "/ˈflætəd/",
+          "pos": "v.",
+          "zh": "使（数字、外表）显得比实际更好（flatter 的过去式）",
+          "example": "The results show how a single hit franchise can lift a whole company, although a weaker yen also flattered the figures, according to the entertainment trade publication Variety."
+        }
+      ],
+      "explain": {
+        "one_liner": "新一部蜘蛛侠电影全球大卖，加上游戏机业务赚钱，索尼这一季利润猛涨，于是把全年赚钱目标也调高了。",
+        "facts": [
+          {
+            "icon": "🎮",
+            "name": "Sony 索尼",
+            "text": "日本大型企业，业务包括PlayStation游戏机和游戏、电影、音乐、相机和手机用的图像传感器等。"
+          },
+          {
+            "icon": "🎬",
+            "name": "Sony Pictures 索尼影业",
+            "text": "索尼旗下的好莱坞电影公司，拥有蜘蛛侠电影的拍摄权，蜘蛛侠真人电影一直是它最赚钱的系列之一。"
+          },
+          {
+            "icon": "🕷️",
+            "name": "《蜘蛛侠：崭新之日》Spider-Man: Brand New Day",
+            "text": "由汤姆·霍兰德主演的新一部蜘蛛侠电影，今年夏天上映，到9月底全球票房约25亿美元。"
+          },
+          {
+            "icon": "📈",
+            "name": "营业利润 operating profit",
+            "text": "公司靠主营业务赚到的钱，等于收入减去经营成本，不算利息和税等，常用来衡量公司本业好不好。"
+          },
+          {
+            "icon": "🔮",
+            "name": "全年预测 full-year forecast",
+            "text": "上市公司对整个财年业绩的预估。上调预测说明管理层对未来更有信心，通常会让投资者更看好。"
+          },
+          {
+            "icon": "💴",
+            "name": "日元走弱 weaker yen",
+            "text": "日元对美元贬值时，索尼在海外赚的美元换成日元会变多，所以财报数字看起来更好，但这部分并不是业务本身的增长。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "蜘蛛侠新片",
+            "b": "索尼影业",
+            "type": "cause",
+            "label": "票房大卖，营业利润约5.81亿美元"
+          },
+          {
+            "a": "PlayStation",
+            "b": "索尼集团",
+            "type": "good",
+            "label": "游戏业务也贡献强劲利润"
+          },
+          {
+            "a": "季度业绩",
+            "b": "全年预测",
+            "type": "cause",
+            "label": "上调至1.87万亿日元"
+          },
+          {
+            "a": "日元走弱",
+            "b": "财报数字",
+            "type": "neutral",
+            "label": "让增长看起来更大"
+          }
+        ],
+        "points": [
+          "索尼7–9月季度营业利润6223亿日元，同比增长45%。",
+          "全年营业利润预测上调到1.87万亿日元。",
+          "蜘蛛侠新片到9月底全球票房约25亿美元，索尼影业利润约5.81亿美元。",
+          "日元贬值也让业绩数字显得更好。"
+        ],
+        "relevance": "这是“IP营销”的经典案例：一个大家都熟悉的角色可以同时带动电影、周边、游戏和品牌合作。在澳洲做营销时，很多品牌都会借大片上映做联名和限时活动，了解这类IP的影响力，有助于判断哪些合作值得投入。同时也提醒我们看业绩时要分清“真增长”和“汇率带来的增长”。",
+        "phrase": {
+          "en": "a single hit franchise can lift a whole company",
+          "zh": "一个热门系列就能带动整个公司"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "'Brick babies': young Chinese turn to growing moss on old bricks to de-stress",
+      "title_zh": "“上班搬砖，下班养砖”：中国年轻人流行养苔藓砖头解压",
+      "search_zh": "养砖头 砖宝宝 苔藓 年轻人 解压 治愈 小红书 微博 上班搬砖下班养砖 精神抚慰 掌控感 左勤 温从发 曲霉菌 过敏 医生提醒 无意义爱好",
+      "summary_en": "A quirky hobby called 'raising bricks' has gone viral among young people in China, who pick up old bricks, spray them with water and wait for moss to grow on them. Users on platforms such as Xiaohongshu and Weibo share photos of their 'brick babies' under tags like 'healing' and 'stress relief', and some joke that they 'move bricks at work and raise bricks after work'. Experts quoted in Chinese media say the cheap, low-effort hobby offers emotional comfort and a sense of control, although one moss specialist warned that getting a brick to look the way you want is actually quite difficult. Doctors have also cautioned that damp moss can release mould spores that may trigger allergies, advising hobbyists to wear gloves and a mask and keep their bricks in a well-ventilated place.",
+      "summary_zh": "一种叫“养砖头”的奇特爱好在中国年轻人中走红：他们捡来旧砖头，往上面喷水，等着砖面长出苔藓。小红书和微博等平台上的用户在“治愈”“解压”等标签下晒出自己的“砖宝宝”，还有人自嘲“上班搬砖，下班养砖”。中国媒体援引的专家表示，这种成本低、不费力的爱好能带来精神抚慰和掌控感，不过一位苔藓专家提醒，想把砖头养成自己想要的样子其实相当难。医生也提醒，潮湿的苔藓可能产生霉菌孢子，可能引发过敏，建议爱好者戴手套和口罩，并把砖头放在通风的地方。",
+      "why_zh": "“养砖头”反映了很多年轻人压力大、想要低成本“情绪价值”的心态，也是近来“无用爱好”潮流的一部分。“quirky（古怪有趣的）”“caution（提醒，警告）”都很实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNR 央广网; Guangming Online 光明网; Sina News; Business Today",
+      "url": "https://health.cnr.cn/jkgdxw/20261027/t20261027_527854037.shtml",
+      "vocab": [
+        {
+          "word": "quirky",
+          "phonetic": "/ˈkwɜːki/",
+          "pos": "adj.",
+          "zh": "古怪有趣的，与众不同的",
+          "example": "A quirky hobby called 'raising bricks' has gone viral among young people in China, who pick up old bricks, spray them with water and wait for moss to grow on them."
+        },
+        {
+          "word": "cautioned",
+          "phonetic": "/ˈkɔːʃnd/",
+          "pos": "v.",
+          "zh": "提醒，告诫（caution 的过去式）",
+          "example": "Doctors have also cautioned that damp moss can release mould spores that may trigger allergies, advising hobbyists to wear gloves and a mask and keep their bricks in a well-ventilated place."
+        }
+      ],
+      "explain": {
+        "one_liner": "年轻人捡块旧砖、天天喷水，看它慢慢长出苔藓，用这种几乎不花钱的方式放松心情。",
+        "facts": [
+          {
+            "icon": "🧱",
+            "name": "养砖头",
+            "text": "把旧砖放在盘子或碗里，每天喷几次水，等它长出苔藓，有时还会冒出小草、小花，被网友称为“自然盲盒”。"
+          },
+          {
+            "icon": "💼",
+            "name": "搬砖",
+            "text": "中文网络俚语，指辛苦、重复的上班工作，所以才有“上班搬砖，下班养砖”的说法。"
+          },
+          {
+            "icon": "📱",
+            "name": "小红书 Xiaohongshu / 微博 Weibo",
+            "text": "小红书是以生活方式分享为主的中国社交平台（英文名RedNote）；微博类似中国的X（推特），常用来看热搜话题。"
+          },
+          {
+            "icon": "🌿",
+            "name": "苔藓专家",
+            "text": "中国植物学会苔藓专业委员会的左勤认为，这是城市上班族亲近自然的一种方式；另一位专家温从发提醒，砖上的苔藓其实不好养。"
+          },
+          {
+            "icon": "🩺",
+            "name": "健康提醒",
+            "text": "医生说潮湿苔藓可能产生曲霉菌孢子，吸入后可能引发过敏；野外的旧砖还可能带有病菌，最好戴手套、口罩处理，并放在通风处。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "工作和生活压力",
+            "b": "养砖头潮流",
+            "type": "cause",
+            "label": "年轻人寻找低成本的解压方式"
+          },
+          {
+            "a": "社交媒体",
+            "b": "养砖头",
+            "type": "good",
+            "label": "晒“砖宝宝”让潮流快速扩散"
+          },
+          {
+            "a": "潮湿的苔藓",
+            "b": "健康",
+            "type": "bad",
+            "label": "可能引发过敏"
+          },
+          {
+            "a": "养砖头",
+            "b": "其他“无用爱好”",
+            "type": "neutral",
+            "label": "类似养石头等情绪价值消费"
+          }
+        ],
+        "points": [
+          "“养砖头”就是给旧砖喷水，让它长出苔藓。",
+          "年轻人在小红书、微博上晒“砖宝宝”，打上“治愈”“解压”标签。",
+          "专家认为它能带来精神抚慰和掌控感，但想养好并不容易。",
+          "医生提醒注意霉菌和过敏风险，要戴手套、口罩并保持通风。"
+        ],
+        "relevance": "“情绪价值”已经成为年轻消费者的重要需求：一个几乎免费的小爱好都能引发大量分享。对营销人来说，这说明真实、治愈、可以“晒”的小体验很容易在社交媒体上传播；面向澳洲华人或年轻群体的品牌，可以借鉴“低门槛+可分享+解压”的思路设计内容和活动。",
+        "phrase": {
+          "en": "move bricks at work and raise bricks after work",
+          "zh": "上班搬砖，下班养砖"
+        }
+      }
+    }
+  ]
+}
