@@ -3951,5 +3951,207 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "getting-ready",
+    "added": "2026-11-07",
+    "name": "打扮与着装",
+    "icon": "💄",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "💄",
+        "w": "lippie",
+        "ph": "/ˈlɪpi/",
+        "pos": "n.",
+        "zh": "口红（澳洲口语）",
+        "ex": "Hang on, let me put some lippie on before we go.",
+        "tip": "lipstick 的澳洲口语",
+        "accept": [
+          "lippie",
+          "lipstick",
+          "lip gloss"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪒",
+        "w": "shave",
+        "ph": "/ʃeɪv/",
+        "pos": "v.",
+        "zh": "刮胡子、剃",
+        "ex": "He hasn't shaved all week — he's growing a beard.",
+        "tip": "澳洲 11 月流行 Movember（留胡子为男性健康筹款）",
+        "accept": [
+          "shave",
+          "razor",
+          "shaving"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💈",
+        "w": "barber",
+        "ph": "/ˈbɑːbə(r)/",
+        "pos": "n.",
+        "zh": "理发师（男士）",
+        "ex": "I've got a barber appointment at lunchtime.",
+        "tip": "女士常去 hairdresser / salon",
+        "accept": [
+          "barber",
+          "barbershop",
+          "hairdresser"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💆",
+        "w": "facial",
+        "ph": "/ˈfeɪʃl/",
+        "pos": "n.",
+        "zh": "面部护理",
+        "ex": "I treated myself to a facial for my birthday.",
+        "tip": "treat myself = 犒劳自己",
+        "accept": [
+          "facial",
+          "face massage",
+          "massage"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛀",
+        "w": "soak",
+        "ph": "/səʊk/",
+        "pos": "v./n.",
+        "zh": "泡澡、浸泡",
+        "ex": "After the hike I had a long soak in the bath.",
+        "tip": "soak up the sun = 晒太阳",
+        "accept": [
+          "soak",
+          "bath",
+          "bubble bath"
+        ],
+        "near": [
+          "sauna"
+        ]
+      },
+      {
+        "emoji": "🧖",
+        "w": "sauna",
+        "ph": "/ˈsɔːnə/",
+        "pos": "n.",
+        "zh": "桑拿",
+        "ex": "The gym has a sauna and steam room.",
+        "tip": "澳洲读 /ˈsɔːnə/",
+        "accept": [
+          "sauna",
+          "steam room",
+          "spa"
+        ],
+        "near": [
+          "soak"
+        ]
+      },
+      {
+        "emoji": "🪞",
+        "w": "full-length mirror",
+        "ph": "/ˌfʊl leŋθ ˈmɪrə(r)/",
+        "pos": "n.",
+        "zh": "穿衣镜",
+        "ex": "Check your outfit in the full-length mirror.",
+        "tip": "outfit = 一身穿搭",
+        "accept": [
+          "full-length mirror",
+          "mirror"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👛",
+        "w": "purse",
+        "ph": "/pɜːs/",
+        "pos": "n.",
+        "zh": "钱包（女式小钱包）",
+        "ex": "I left my purse at home — can you shout me?",
+        "tip": "澳洲/英国 purse = 女士钱包；美国 purse = 手提包",
+        "accept": [
+          "purse",
+          "wallet",
+          "coin purse"
+        ],
+        "near": [
+          "handbag"
+        ]
+      },
+      {
+        "emoji": "👜",
+        "w": "handbag",
+        "ph": "/ˈhændbæɡ/",
+        "pos": "n.",
+        "zh": "手提包",
+        "ex": "She carries a laptop in her handbag.",
+        "tip": "",
+        "accept": [
+          "handbag",
+          "bag",
+          "tote",
+          "shoulder bag"
+        ],
+        "near": [
+          "purse"
+        ]
+      },
+      {
+        "emoji": "🧥",
+        "w": "puffer jacket",
+        "ph": "/ˈpʌfə ˌdʒækɪt/",
+        "pos": "n.",
+        "zh": "羽绒服、面包服",
+        "ex": "It's minus two in Canberra — bring your puffer jacket.",
+        "tip": "澳洲常说 puffer；美国也说 down jacket",
+        "accept": [
+          "puffer jacket",
+          "puffer",
+          "down jacket",
+          "jacket",
+          "coat"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👗",
+        "w": "dress code",
+        "ph": "/ˈdres kəʊd/",
+        "pos": "n.",
+        "zh": "着装要求",
+        "ex": "What's the dress code for the Christmas party?",
+        "tip": "请柬上常见：cocktail / black tie / smart casual",
+        "accept": [
+          "dress code",
+          "dress"
+        ],
+        "near": [
+          "smart casual"
+        ]
+      },
+      {
+        "emoji": "👔",
+        "w": "smart casual",
+        "ph": "/ˌsmɑːt ˈkæʒuəl/",
+        "pos": "n.",
+        "zh": "商务休闲（着装）",
+        "ex": "The dress code is smart casual — no thongs, please.",
+        "tip": "比正装随意、比休闲正式",
+        "accept": [
+          "smart casual",
+          "business casual",
+          "shirt and tie"
+        ],
+        "near": [
+          "dress code"
+        ]
+      }
+    ]
   }
 ]
