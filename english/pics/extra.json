@@ -4153,5 +4153,199 @@
         ]
       }
     ]
+  },
+  {
+    "id": "pets-farm",
+    "added": "2026-11-08",
+    "name": "宠物与农场动物",
+    "icon": "🐾",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🐔",
+        "w": "chook",
+        "ph": "/tʃʊk/",
+        "pos": "n.",
+        "zh": "鸡（澳洲口语）",
+        "ex": "We keep three chooks in the backyard for eggs.",
+        "tip": "chicken 的澳洲叫法",
+        "accept": [
+          "chook",
+          "chicken",
+          "hen",
+          "chooks"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐱",
+        "w": "purr",
+        "ph": "/pɜː(r)/",
+        "pos": "v.",
+        "zh": "（猫）呼噜呼噜",
+        "ex": "The cat purrs every time you scratch her chin.",
+        "tip": "",
+        "accept": [
+          "purr",
+          "purring",
+          "meow",
+          "miaow"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐈",
+        "w": "desexed",
+        "ph": "/diːˈsekst/",
+        "pos": "adj.",
+        "zh": "绝育的（澳洲说法）",
+        "ex": "All our rescue cats are desexed and microchipped.",
+        "tip": "澳洲说 desexed，美国说 spayed / neutered；microchipped = 植入芯片",
+        "accept": [
+          "desexed",
+          "neutered",
+          "spayed",
+          "desex"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐾",
+        "w": "paw",
+        "ph": "/pɔː/",
+        "pos": "n.",
+        "zh": "爪子",
+        "ex": "The dog left muddy paw prints all over the floor.",
+        "tip": "paw prints = 爪印",
+        "accept": [
+          "paw",
+          "paws",
+          "paw prints"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦮",
+        "w": "guide dog",
+        "ph": "/ˈɡaɪd dɒɡ/",
+        "pos": "n.",
+        "zh": "导盲犬",
+        "ex": "Please don't pat a guide dog while it's working.",
+        "tip": "pat = 轻拍、抚摸（宠物）",
+        "accept": [
+          "guide dog",
+          "seeing eye dog",
+          "assistance dog",
+          "service dog"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐩",
+        "w": "groom",
+        "ph": "/ɡruːm/",
+        "pos": "v.",
+        "zh": "给（宠物）美容",
+        "ex": "I take the dog to get groomed every six weeks.",
+        "tip": "groomer = 宠物美容师；groom 也指「新郎」",
+        "accept": [
+          "groom",
+          "grooming",
+          "groomer"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐶",
+        "w": "pup",
+        "ph": "/pʌp/",
+        "pos": "n.",
+        "zh": "小狗",
+        "ex": "The new pup chewed through my shoe.",
+        "tip": "puppy 的口语简称",
+        "accept": [
+          "pup",
+          "puppy",
+          "dog"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐠",
+        "w": "fish tank",
+        "ph": "/ˈfɪʃ tæŋk/",
+        "pos": "n.",
+        "zh": "鱼缸",
+        "ex": "Clean the fish tank once a fortnight.",
+        "tip": "fortnight = 两周（澳洲常用）",
+        "accept": [
+          "fish tank",
+          "aquarium",
+          "fish"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐢",
+        "w": "turtle",
+        "ph": "/ˈtɜːtl/",
+        "pos": "n.",
+        "zh": "海龟、龟",
+        "ex": "Sea turtles nest on Queensland beaches.",
+        "tip": "陆龟一般叫 tortoise",
+        "accept": [
+          "turtle",
+          "tortoise",
+          "sea turtle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐍",
+        "w": "slither",
+        "ph": "/ˈslɪðə(r)/",
+        "pos": "v.",
+        "zh": "（蛇）蜿蜒爬行",
+        "ex": "A brown snake slithered across the path.",
+        "tip": "澳洲夏天要小心 snakes",
+        "accept": [
+          "slither",
+          "snake",
+          "slide"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐑",
+        "w": "shear",
+        "ph": "/ʃɪə(r)/",
+        "pos": "v.",
+        "zh": "剪（羊毛）",
+        "ex": "Farmers shear their sheep before summer.",
+        "tip": "shearing shed = 剪羊毛棚；shearer = 剪毛工",
+        "accept": [
+          "shear",
+          "shearing",
+          "sheep",
+          "wool"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🐹",
+        "w": "hamster",
+        "ph": "/ˈhæmstə(r)/",
+        "pos": "n.",
+        "zh": "仓鼠",
+        "ex": "My niece wants a hamster for Christmas.",
+        "tip": "注意读音 /ˈhæmstə/，不是「汉姆斯特」",
+        "accept": [
+          "hamster",
+          "guinea pig",
+          "pet"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
