@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T01:57:57+11:00",
+  "items": [
+    {
+      "category": "china",
+      "title_en": "Snow and a cold snap greet the Start of Winter as northern China issues blizzard warnings",
+      "title_zh": "立冬就下雪！华北迎入秋最强雨雪，暴雪寒潮预警齐发，雪中长城刷屏",
+      "search_zh": "立冬 2026 中央气象台 暴雪黄色预警 暴雪蓝色预警 寒潮蓝色预警 降温6-10℃ 北京 延庆 初雪 雪中长城 河北 山西 辽宁 四级应急响应 吃饺子",
+      "summary_en": "Northern China marked the Start of Winter on Saturday with the strongest snow and rain of the season so far, as weather officials issued blizzard and cold-wave warnings across a wide area. China's National Meteorological Center said parts of Beijing, Hebei, Shanxi and Liaoning could see heavy snow or blizzards through Sunday, and it forecast temperature drops of 6 to 10°C, and up to 12°C in some places, across much of central and eastern China by Tuesday morning. Snow fell in Beijing's northern mountain areas such as Yanqing, and photos of the snow-covered Great Wall spread quickly on Chinese social media, even though the city's average first-snow date is not until early December. Start of Winter, known as Lidong, is one of the 24 traditional solar terms, and many families in northern China marked the day by eating dumplings while local authorities urged people to take care on slippery roads.",
+      "summary_zh": "中国北方在周六（11月7日）立冬当天迎来了入秋以来最强的一轮雨雪天气，气象部门在大范围地区发布了暴雪和寒潮预警。中央气象台表示，北京、河北、山西和辽宁的部分地区到周日可能出现大雪甚至暴雪，并预报到周二早上，中东部大部分地区将降温6至10℃，部分地方降温可达12℃。北京延庆等北部山区已经下雪，雪中长城的照片在中国社交媒体上迅速刷屏，而北京常年的平均初雪日其实要到12月初。立冬是中国传统二十四节气之一，北方很多家庭按习俗在这天吃饺子，各地有关部门也提醒市民注意道路湿滑、出行安全。",
+      "why_zh": "立冬是很有中国特色的节气，这场“立冬雪”也是今天国内的热门话题。学会用英文介绍节气、天气预警，比如“blizzard（暴雪）”“cold snap（寒潮、骤冷）”，和外国同事聊中国文化时很实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "China Daily; China Meteorological Administration / National Meteorological Center (via Chinese media); Beijing Meteorological Observatory; Sina News",
+      "url": "https://www.chinadaily.com.cn/a/202611/06/WS6aedd3cce4b03ebf8519aeeb.html",
+      "vocab": [
+        {
+          "word": "blizzard",
+          "phonetic": "/ˈblɪzəd/",
+          "pos": "n.",
+          "zh": "暴风雪，暴雪",
+          "example": "Northern China marked the Start of Winter on Saturday with the strongest snow and rain of the season so far, as weather officials issued blizzard and cold-wave warnings across a wide area."
+        },
+        {
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "v.",
+          "zh": "预报，预测（过去式与原形相同）",
+          "example": "China's National Meteorological Center said parts of Beijing, Hebei, Shanxi and Liaoning could see heavy snow or blizzards through Sunday, and it forecast temperature drops of 6 to 10°C, and up to 12°C in some places, across much of central and eastern China by Tuesday morning."
+        }
+      ],
+      "explain": {
+        "one_liner": "11月7日立冬这天，一股强冷空气南下，北方下起大雪、全国大范围降温，北京山区的雪景还在网上刷了屏。",
+        "facts": [
+          {
+            "icon": "🍂",
+            "name": "立冬 Start of Winter (Lidong)",
+            "text": "中国传统二十四节气之一，一般在每年11月7日或8日，表示冬季开始。北方很多地方有立冬吃饺子的习俗。"
+          },
+          {
+            "icon": "🌨️",
+            "name": "中央气象台 National Meteorological Center",
+            "text": "中国气象局下属的国家级天气预报机构，负责发布全国性的天气预报和灾害预警。"
+          },
+          {
+            "icon": "🚦",
+            "name": "预警颜色",
+            "text": "中国的气象预警分四级，从轻到重依次是蓝色、黄色、橙色、红色。这次暴雪预警先发蓝色，随后升为黄色。"
+          },
+          {
+            "icon": "🥶",
+            "name": "寒潮 cold wave",
+            "text": "强冷空气快速南下，让气温在短时间内大幅下降，常常伴随大风和雨雪。"
+          },
+          {
+            "icon": "❄️",
+            "name": "北京初雪",
+            "text": "北京的“初雪”有正式认定标准，要求城区的几个指定观测站都观测到降雪；1991–2020年的平均初雪日是12月3日，今年的雪来得明显偏早。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "强冷空气南下",
+            "b": "华北大范围雨雪",
+            "type": "cause",
+            "label": "带来入秋以来最强雨雪过程"
+          },
+          {
+            "a": "中央气象台",
+            "b": "公众",
+            "type": "neutral",
+            "label": "发布暴雪、寒潮预警，提醒注意出行"
+          },
+          {
+            "a": "雪中长城照片",
+            "b": "社交媒体",
+            "type": "good",
+            "label": "立冬雪景迅速刷屏"
+          },
+          {
+            "a": "降温和积雪",
+            "b": "交通出行",
+            "type": "bad",
+            "label": "道路湿滑、需要防寒防滑"
+          }
+        ],
+        "points": [
+          "立冬当天，华北迎来入秋以来最强的一轮雨雪。",
+          "北京、河北、山西、辽宁部分地区可能出现大雪或暴雪。",
+          "到周二早上，中东部大部分地区预计降温6–10℃，局地可达12℃。",
+          "北京延庆等山区已经下雪，雪中长城照片在网上刷屏。"
+        ],
+        "relevance": "天气和节气是中国社交媒体上最容易“出圈”的话题之一：初雪、立冬吃饺子这类时刻，品牌常常会借势做内容和促销。如果你在澳洲做面向华人社区的营销，可以留意这些节气和天气热点，比如在立冬、冬至推出饺子、火锅等相关内容；同时也能看到，一张好看的雪景照片就能引发大规模自发传播。",
+        "phrase": {
+          "en": "the strongest snow and rain of the season so far",
+          "zh": "入秋以来最强的雨雪"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Airbnb shares jump about 12% after its fastest third-quarter growth in three years and a US$12 billion buyback",
+      "title_zh": "爱彼迎重回“增长模式”！收入大增19%、宣布120亿美元回购，股价飙升约12%",
+      "search_zh": "爱彼迎 Airbnb 第三季度 财报 2026 收入 48.7亿美元 增长19% 120亿美元 股票回购 股价 上涨12% Brian Chesky 切斯基 增长模式 先订后付 Reserve Now Pay Later 第四季度 指引",
+      "summary_en": "Shares in Airbnb jumped about 12% on Friday in New York after the home-rental platform reported its fastest third-quarter revenue growth in three years and announced a new US$12 billion share buyback. Revenue rose 19% to about US$4.87 billion in the July–September quarter, beating analysts' expectations, while the number of nights and seats booked grew 16% to about 155 million. Co-founder and chief executive Brian Chesky said the company was back in 'growth mode', crediting years of product changes and faster development helped by artificial intelligence. Airbnb expects fourth-quarter revenue of US$3.22 billion to US$3.28 billion, up 16% to 18% on a year earlier, and said its 'Reserve Now, Pay Later' option, which lets guests book a stay without paying the full amount upfront, has also lifted bookings.",
+      "summary_zh": "爱彼迎（Airbnb）公布第三季度收入增速创三年来同期最快，并宣布新的120亿美元股票回购计划，周五其股价在纽约大涨约12%。7月至9月这一季度，公司收入增长19%，达到约48.7亿美元，超出分析师预期；预订的住宿晚数和座位数增长16%，达到约1.55亿。联合创始人兼首席执行官布莱恩·切斯基（Brian Chesky）表示，公司已经重新进入“增长模式”，并把这归功于多年来的产品调整，以及借助人工智能加快的开发速度。爱彼迎预计第四季度收入为32.2亿至32.8亿美元，同比增长16%至18%，并表示让房客“先预订、后付款”、不必一开始就付清全款的选项也带动了预订量。",
+      "why_zh": "爱彼迎是很多澳洲人出游会用的平台，它的业绩反映了全球旅游消费的热度。“buyback（股票回购）”“credit A to B（把功劳归于……）”是商业新闻里的高频表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "Bloomberg; The Motley Fool; Benzinga (earnings call transcript); Airbnb Q3 2026 shareholder letter",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode",
+      "vocab": [
+        {
+          "word": "buyback",
+          "phonetic": "/ˈbaɪbæk/",
+          "pos": "n.",
+          "zh": "（公司的）股票回购",
+          "example": "Shares in Airbnb jumped about 12% on Friday in New York after the home-rental platform reported its fastest third-quarter revenue growth in three years and announced a new US$12 billion share buyback."
+        },
+        {
+          "word": "crediting",
+          "phonetic": "/ˈkredɪtɪŋ/",
+          "pos": "v.",
+          "zh": "把（成功）归功于……（credit 的现在分词）",
+          "example": "Co-founder and chief executive Brian Chesky said the company was back in 'growth mode', crediting years of product changes and faster development helped by artificial intelligence."
+        }
+      ],
+      "explain": {
+        "one_liner": "爱彼迎这个季度生意比预期好很多，又宣布拿出一大笔钱买回自家股票，投资者一高兴，股价当天就涨了约12%。",
+        "facts": [
+          {
+            "icon": "🏠",
+            "name": "Airbnb 爱彼迎",
+            "text": "2008年在美国旧金山创立的短租平台，让房东把房子或房间租给游客，也提供“体验”等服务，在纳斯达克上市。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "Brian Chesky 布莱恩·切斯基",
+            "text": "爱彼迎的联合创始人之一，长期担任首席执行官（CEO）。"
+          },
+          {
+            "icon": "🔁",
+            "name": "股票回购 share buyback",
+            "text": "公司用自己的钱从市场上买回自家股票，流通的股票变少，每股盈利通常会提高，一般被市场看作公司对前景有信心的信号。"
+          },
+          {
+            "icon": "📊",
+            "name": "分析师预期 analysts' expectations",
+            "text": "华尔街分析师事先对公司业绩的平均预测。实际业绩高于预期叫“超预期（beat）”，股价往往会上涨。"
+          },
+          {
+            "icon": "💳",
+            "name": "先订后付 Reserve Now, Pay Later",
+            "text": "房客预订时不必马上付清全款，可以晚些再付。这降低了下单门槛，帮助提升预订量。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "收入增长19%",
+            "b": "爱彼迎股价",
+            "type": "cause",
+            "label": "业绩超预期，股价大涨约12%"
+          },
+          {
+            "a": "120亿美元回购",
+            "b": "投资者",
+            "type": "good",
+            "label": "传递公司有信心的信号"
+          },
+          {
+            "a": "先订后付",
+            "b": "预订量",
+            "type": "good",
+            "label": "降低下单门槛，带动预订"
+          },
+          {
+            "a": "人工智能",
+            "b": "产品开发",
+            "type": "cause",
+            "label": "切斯基称AI帮助加快开发速度"
+          }
+        ],
+        "points": [
+          "第三季度收入增长19%，约48.7亿美元，超出预期。",
+          "预订的住宿晚数和座位数增长16%，约1.55亿。",
+          "公司宣布新的120亿美元股票回购计划，股价周五大涨约12%。",
+          "预计第四季度收入增长16%–18%，“先订后付”功能也帮了忙。"
+        ],
+        "relevance": "旅游平台的业绩是观察消费者愿不愿意花钱出游的风向标。对在澳洲做营销的人来说，“先订后付”这种降低付款压力的设计，和澳洲流行的Afterpay等“先买后付”很像，是推动转化的常见手段；如果你服务旅游、酒店或活动行业，也可以留意短租平台对传统住宿的竞争。",
+        "phrase": {
+          "en": "back in growth mode",
+          "zh": "重回增长模式"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Channel 7's owner officially becomes Seven Media Group as it warns of a softer TV advertising market",
+      "title_zh": "7号台母公司正式更名“七号传媒集团”：观众在涨，但电视广告收入在跌",
+      "search_zh": "Seven Media Group 七号传媒集团 Southern Cross Media Group 更名 股东大会 SXL SMG 股票代码 Seven Network 7号台 Rohan Lund Ryan Stokes 7plus 广告市场 走软 电视收入 下降 AI 新闻 版权",
+      "summary_en": "The company behind the Seven Network, the Hit and Triple M radio networks and The West Australian newspaper has officially changed its name from Southern Cross Media Group to Seven Media Group, after shareholders approved the move at its annual general meeting on Thursday. Its share code on the Australian Securities Exchange will switch from SXL to SMG when trading opens on Tuesday, 10 November. Chief executive Rohan Lund told shareholders that 'audiences are not our challenge', pointing to strong growth on the 7plus streaming service, but he admitted that television revenue fell in the three months to September as the advertising market softened. Chair Ryan Stokes also called for rules to stop global tech platforms and AI companies from using Australian journalism and content without permission or payment.",
+      "summary_zh": "旗下拥有7号电视网（Seven Network）、Hit和Triple M电台网络以及《西澳人报》（The West Australian）的公司，在周四的年度股东大会获得股东批准后，正式从Southern Cross Media Group更名为Seven Media Group（七号传媒集团）。它在澳大利亚证券交易所的股票代码将于11月10日周二开盘时由SXL改为SMG。首席执行官罗翰·伦德（Rohan Lund）对股东表示“观众不是我们的难题”，并以7plus流媒体平台的强劲增长为例，但他也承认，由于广告市场走软，截至9月的三个月里电视收入有所下降。董事长瑞安·斯托克斯（Ryan Stokes）还呼吁制定规则，阻止全球科技平台和人工智能公司在未经许可、不付费的情况下使用澳洲的新闻和内容。",
+      "why_zh": "这是澳洲媒体行业的大事，直接关系到广告主在电视、电台和流媒体上的投放。“soften（走软、变弱）”“without permission（未经许可）”在商业和媒体新闻中很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "TV Central; Mediaweek; Mumbrella; AdNews; The Nightly; B&T",
+      "url": "https://www.tvcentral.com.au/free-to-air/7_news/seven-media-group-agm-smg-ticker-trading-update/",
+      "vocab": [
+        {
+          "word": "softened",
+          "phonetic": "/ˈsɒfnd/",
+          "pos": "v.",
+          "zh": "（市场、需求）走软，变弱（soften 的过去式）",
+          "example": "Chief executive Rohan Lund told shareholders that 'audiences are not our challenge', pointing to strong growth on the 7plus streaming service, but he admitted that television revenue fell in the three months to September as the advertising market softened."
+        },
+        {
+          "word": "permission",
+          "phonetic": "/pəˈmɪʃn/",
+          "pos": "n.",
+          "zh": "许可，允许",
+          "example": "Chair Ryan Stokes also called for rules to stop global tech platforms and AI companies from using Australian journalism and content without permission or payment."
+        }
+      ],
+      "explain": {
+        "one_liner": "做7号电视台、Hit和Triple M电台的公司合并后正式改名叫“七号传媒集团”；看的人越来越多，但广告主花钱变谨慎，电视广告收入下滑了。",
+        "facts": [
+          {
+            "icon": "📺",
+            "name": "Seven Network 7号电视网",
+            "text": "澳洲三大商业免费电视网之一（另外两家是9号台和10号台），节目包括新闻、体育转播和真人秀等。"
+          },
+          {
+            "icon": "📻",
+            "name": "Southern Cross Media Group / SCA",
+            "text": "原本是澳洲大型电台公司，旗下有Hit、Triple M电台网络和音频App LiSTNR。它与7号台的母公司Seven West Media合并，交易在2026年1月完成。"
+          },
+          {
+            "icon": "🏷️",
+            "name": "Seven Media Group 七号传媒集团",
+            "text": "合并后的新名字，10月22日在面向广告主的年度推介会（upfront）上公布，11月5日的股东大会通过后正式生效。"
+          },
+          {
+            "icon": "👨‍💼",
+            "name": "Rohan Lund 罗翰·伦德",
+            "text": "七号传媒集团的首席执行官（CEO），负责公司日常经营。"
+          },
+          {
+            "icon": "🧑‍⚖️",
+            "name": "Ryan Stokes 瑞安·斯托克斯",
+            "text": "七号传媒集团董事长，来自长期控制7号台的斯托克斯家族。"
+          },
+          {
+            "icon": "🔤",
+            "name": "股票代码 ticker",
+            "text": "股票在交易所的简称代码，比如这家公司在澳交所（ASX）的代码将从SXL改为SMG。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Seven West Media",
+            "b": "Southern Cross Media",
+            "type": "neutral",
+            "label": "合并为一家公司"
+          },
+          {
+            "a": "广告市场走软",
+            "b": "电视收入",
+            "type": "cause",
+            "label": "截至9月的三个月里下降"
+          },
+          {
+            "a": "7plus流媒体",
+            "b": "观众规模",
+            "type": "good",
+            "label": "增长强劲"
+          },
+          {
+            "a": "科技平台和AI公司",
+            "b": "澳洲新闻内容",
+            "type": "bad",
+            "label": "被指未经许可、不付费使用"
+          }
+        ],
+        "points": [
+          "公司正式从Southern Cross Media Group更名为Seven Media Group。",
+          "澳交所股票代码11月10日起由SXL改为SMG。",
+          "CEO表示观众在增长，但广告市场走软，电视收入下降。",
+          "董事长呼吁立规，防止AI和科技平台免费使用澳洲内容。"
+        ],
+        "relevance": "七号传媒集团现在把电视、电台、流媒体和报纸合在一起卖广告，对广告主来说意味着可以“一站式”跨平台投放，也可能带来新的打包价格和数据产品。广告市场走软时，媒体方通常更愿意给优惠，做营销预算的人可以借机谈判；同时，观众越来越多转向7plus这类流媒体，投放策略也要跟着调整。",
+        "phrase": {
+          "en": "audiences are not our challenge",
+          "zh": "观众不是我们的难题"
+        }
+      }
+    }
+  ]
+}
