@@ -4347,5 +4347,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "hobbies",
+    "added": "2026-11-09",
+    "name": "爱好与休闲",
+    "icon": "🎨",
+    "prompt": "这个爱好怎么说？",
+    "items": [
+      {
+        "emoji": "🎬",
+        "w": "binge-watch",
+        "ph": "/ˈbɪndʒ wɒtʃ/",
+        "pos": "v.",
+        "zh": "刷剧（一口气看很多集）",
+        "ex": "I binge-watched the whole season over the weekend.",
+        "tip": "binge = 放纵地大量做某事",
+        "accept": [
+          "binge-watch",
+          "binge",
+          "binge watch",
+          "marathon"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎟️",
+        "w": "gig",
+        "ph": "/ɡɪɡ/",
+        "pos": "n.",
+        "zh": "演出、音乐会（口语）",
+        "ex": "We've got tickets to a gig at the Enmore on Friday.",
+        "tip": "口语 gig = live music show；也指临时工作 gig economy",
+        "accept": [
+          "gig",
+          "concert",
+          "show",
+          "live music"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧩",
+        "w": "jigsaw",
+        "ph": "/ˈdʒɪɡsɔː/",
+        "pos": "n.",
+        "zh": "拼图",
+        "ex": "We did a 1,000-piece jigsaw over Christmas.",
+        "tip": "jigsaw puzzle 的简称",
+        "accept": [
+          "jigsaw",
+          "jigsaw puzzle",
+          "puzzle"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎲",
+        "w": "board game",
+        "ph": "/ˈbɔːd ɡeɪm/",
+        "pos": "n.",
+        "zh": "桌游",
+        "ex": "Let's have a board game night on Saturday.",
+        "tip": "",
+        "accept": [
+          "board game",
+          "boardgame",
+          "games night",
+          "dice"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "♟️",
+        "w": "checkmate",
+        "ph": "/ˈtʃekmeɪt/",
+        "pos": "n./int.",
+        "zh": "（国际象棋）将死",
+        "ex": "Checkmate! You owe me a coffee.",
+        "tip": "chess = 国际象棋",
+        "accept": [
+          "checkmate",
+          "chess",
+          "check"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎮",
+        "w": "gaming",
+        "ph": "/ˈɡeɪmɪŋ/",
+        "pos": "n.",
+        "zh": "打游戏",
+        "ex": "He spends most weekends gaming with his mates.",
+        "tip": "mates = 朋友（澳洲）",
+        "accept": [
+          "gaming",
+          "video games",
+          "play games",
+          "gamer"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎸",
+        "w": "strum",
+        "ph": "/strʌm/",
+        "pos": "v.",
+        "zh": "扫（吉他弦）",
+        "ex": "He was strumming his guitar on the balcony.",
+        "tip": "",
+        "accept": [
+          "strum",
+          "play guitar",
+          "guitar"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📷",
+        "w": "snap",
+        "ph": "/snæp/",
+        "pos": "v./n.",
+        "zh": "拍照；照片",
+        "ex": "She snapped a quick photo of the sunset.",
+        "tip": "口语：Take a snap / Let me snap a pic",
+        "accept": [
+          "snap",
+          "take a photo",
+          "photo",
+          "pic",
+          "photography"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧶",
+        "w": "knit",
+        "ph": "/nɪt/",
+        "pos": "v.",
+        "zh": "编织、织毛线",
+        "ex": "My grandma knitted me a beanie.",
+        "tip": "k 不发音；beanie = 毛线帽",
+        "accept": [
+          "knit",
+          "knitting",
+          "crochet",
+          "yarn"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧵",
+        "w": "sew",
+        "ph": "/səʊ/",
+        "pos": "v.",
+        "zh": "缝",
+        "ex": "Can you sew this button back on for me?",
+        "tip": "读音 /səʊ/ 和 so 一样，不是 /suː/",
+        "accept": [
+          "sew",
+          "sewing",
+          "stitch",
+          "needle and thread"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🎨",
+        "w": "art class",
+        "ph": "/ˈɑːt klɑːs/",
+        "pos": "n.",
+        "zh": "美术课",
+        "ex": "I've signed up for a Tuesday night art class.",
+        "tip": "sign up for = 报名",
+        "accept": [
+          "art class",
+          "painting",
+          "paint",
+          "drawing class"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📖",
+        "w": "book club",
+        "ph": "/ˈbʊk klʌb/",
+        "pos": "n.",
+        "zh": "读书会",
+        "ex": "Our book club meets once a month at the local café.",
+        "tip": "",
+        "accept": [
+          "book club",
+          "reading group",
+          "reading"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
