@@ -1,297 +1,308 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T01:57:57+11:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T01:57:49+11:00",
   "items": [
     {
-      "category": "china",
-      "title_en": "Snow and a cold snap greet the Start of Winter as northern China issues blizzard warnings",
-      "title_zh": "立冬就下雪！华北迎入秋最强雨雪，暴雪寒潮预警齐发，雪中长城刷屏",
-      "search_zh": "立冬 2026 中央气象台 暴雪黄色预警 暴雪蓝色预警 寒潮蓝色预警 降温6-10℃ 北京 延庆 初雪 雪中长城 河北 山西 辽宁 四级应急响应 吃饺子",
-      "summary_en": "Northern China marked the Start of Winter on Saturday with the strongest snow and rain of the season so far, as weather officials issued blizzard and cold-wave warnings across a wide area. China's National Meteorological Center said parts of Beijing, Hebei, Shanxi and Liaoning could see heavy snow or blizzards through Sunday, and it forecast temperature drops of 6 to 10°C, and up to 12°C in some places, across much of central and eastern China by Tuesday morning. Snow fell in Beijing's northern mountain areas such as Yanqing, and photos of the snow-covered Great Wall spread quickly on Chinese social media, even though the city's average first-snow date is not until early December. Start of Winter, known as Lidong, is one of the 24 traditional solar terms, and many families in northern China marked the day by eating dumplings while local authorities urged people to take care on slippery roads.",
-      "summary_zh": "中国北方在周六（11月7日）立冬当天迎来了入秋以来最强的一轮雨雪天气，气象部门在大范围地区发布了暴雪和寒潮预警。中央气象台表示，北京、河北、山西和辽宁的部分地区到周日可能出现大雪甚至暴雪，并预报到周二早上，中东部大部分地区将降温6至10℃，部分地方降温可达12℃。北京延庆等北部山区已经下雪，雪中长城的照片在中国社交媒体上迅速刷屏，而北京常年的平均初雪日其实要到12月初。立冬是中国传统二十四节气之一，北方很多家庭按习俗在这天吃饺子，各地有关部门也提醒市民注意道路湿滑、出行安全。",
-      "why_zh": "立冬是很有中国特色的节气，这场“立冬雪”也是今天国内的热门话题。学会用英文介绍节气、天气预警，比如“blizzard（暴雪）”“cold snap（寒潮、骤冷）”，和外国同事聊中国文化时很实用。",
-      "image": "",
-      "image_credit": "",
-      "source": "China Daily; China Meteorological Administration / National Meteorological Center (via Chinese media); Beijing Meteorological Observatory; Sina News",
-      "url": "https://www.chinadaily.com.cn/a/202611/06/WS6aedd3cce4b03ebf8519aeeb.html",
-      "vocab": [
-        {
-          "word": "blizzard",
-          "phonetic": "/ˈblɪzəd/",
-          "pos": "n.",
-          "zh": "暴风雪，暴雪",
-          "example": "Northern China marked the Start of Winter on Saturday with the strongest snow and rain of the season so far, as weather officials issued blizzard and cold-wave warnings across a wide area."
-        },
-        {
-          "word": "forecast",
-          "phonetic": "/ˈfɔːkɑːst/",
-          "pos": "v.",
-          "zh": "预报，预测（过去式与原形相同）",
-          "example": "China's National Meteorological Center said parts of Beijing, Hebei, Shanxi and Liaoning could see heavy snow or blizzards through Sunday, and it forecast temperature drops of 6 to 10°C, and up to 12°C in some places, across much of central and eastern China by Tuesday morning."
-        }
-      ],
-      "explain": {
-        "one_liner": "11月7日立冬这天，一股强冷空气南下，北方下起大雪、全国大范围降温，北京山区的雪景还在网上刷了屏。",
-        "facts": [
-          {
-            "icon": "🍂",
-            "name": "立冬 Start of Winter (Lidong)",
-            "text": "中国传统二十四节气之一，一般在每年11月7日或8日，表示冬季开始。北方很多地方有立冬吃饺子的习俗。"
-          },
-          {
-            "icon": "🌨️",
-            "name": "中央气象台 National Meteorological Center",
-            "text": "中国气象局下属的国家级天气预报机构，负责发布全国性的天气预报和灾害预警。"
-          },
-          {
-            "icon": "🚦",
-            "name": "预警颜色",
-            "text": "中国的气象预警分四级，从轻到重依次是蓝色、黄色、橙色、红色。这次暴雪预警先发蓝色，随后升为黄色。"
-          },
-          {
-            "icon": "🥶",
-            "name": "寒潮 cold wave",
-            "text": "强冷空气快速南下，让气温在短时间内大幅下降，常常伴随大风和雨雪。"
-          },
-          {
-            "icon": "❄️",
-            "name": "北京初雪",
-            "text": "北京的“初雪”有正式认定标准，要求城区的几个指定观测站都观测到降雪；1991–2020年的平均初雪日是12月3日，今年的雪来得明显偏早。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "强冷空气南下",
-            "b": "华北大范围雨雪",
-            "type": "cause",
-            "label": "带来入秋以来最强雨雪过程"
-          },
-          {
-            "a": "中央气象台",
-            "b": "公众",
-            "type": "neutral",
-            "label": "发布暴雪、寒潮预警，提醒注意出行"
-          },
-          {
-            "a": "雪中长城照片",
-            "b": "社交媒体",
-            "type": "good",
-            "label": "立冬雪景迅速刷屏"
-          },
-          {
-            "a": "降温和积雪",
-            "b": "交通出行",
-            "type": "bad",
-            "label": "道路湿滑、需要防寒防滑"
-          }
-        ],
-        "points": [
-          "立冬当天，华北迎来入秋以来最强的一轮雨雪。",
-          "北京、河北、山西、辽宁部分地区可能出现大雪或暴雪。",
-          "到周二早上，中东部大部分地区预计降温6–10℃，局地可达12℃。",
-          "北京延庆等山区已经下雪，雪中长城照片在网上刷屏。"
-        ],
-        "relevance": "天气和节气是中国社交媒体上最容易“出圈”的话题之一：初雪、立冬吃饺子这类时刻，品牌常常会借势做内容和促销。如果你在澳洲做面向华人社区的营销，可以留意这些节气和天气热点，比如在立冬、冬至推出饺子、火锅等相关内容；同时也能看到，一张好看的雪景照片就能引发大规模自发传播。",
-        "phrase": {
-          "en": "the strongest snow and rain of the season so far",
-          "zh": "入秋以来最强的雨雪"
-        }
-      }
-    },
-    {
-      "category": "markets",
-      "title_en": "Airbnb shares jump about 12% after its fastest third-quarter growth in three years and a US$12 billion buyback",
-      "title_zh": "爱彼迎重回“增长模式”！收入大增19%、宣布120亿美元回购，股价飙升约12%",
-      "search_zh": "爱彼迎 Airbnb 第三季度 财报 2026 收入 48.7亿美元 增长19% 120亿美元 股票回购 股价 上涨12% Brian Chesky 切斯基 增长模式 先订后付 Reserve Now Pay Later 第四季度 指引",
-      "summary_en": "Shares in Airbnb jumped about 12% on Friday in New York after the home-rental platform reported its fastest third-quarter revenue growth in three years and announced a new US$12 billion share buyback. Revenue rose 19% to about US$4.87 billion in the July–September quarter, beating analysts' expectations, while the number of nights and seats booked grew 16% to about 155 million. Co-founder and chief executive Brian Chesky said the company was back in 'growth mode', crediting years of product changes and faster development helped by artificial intelligence. Airbnb expects fourth-quarter revenue of US$3.22 billion to US$3.28 billion, up 16% to 18% on a year earlier, and said its 'Reserve Now, Pay Later' option, which lets guests book a stay without paying the full amount upfront, has also lifted bookings.",
-      "summary_zh": "爱彼迎（Airbnb）公布第三季度收入增速创三年来同期最快，并宣布新的120亿美元股票回购计划，周五其股价在纽约大涨约12%。7月至9月这一季度，公司收入增长19%，达到约48.7亿美元，超出分析师预期；预订的住宿晚数和座位数增长16%，达到约1.55亿。联合创始人兼首席执行官布莱恩·切斯基（Brian Chesky）表示，公司已经重新进入“增长模式”，并把这归功于多年来的产品调整，以及借助人工智能加快的开发速度。爱彼迎预计第四季度收入为32.2亿至32.8亿美元，同比增长16%至18%，并表示让房客“先预订、后付款”、不必一开始就付清全款的选项也带动了预订量。",
-      "why_zh": "爱彼迎是很多澳洲人出游会用的平台，它的业绩反映了全球旅游消费的热度。“buyback（股票回购）”“credit A to B（把功劳归于……）”是商业新闻里的高频表达。",
-      "image": "",
-      "image_credit": "",
-      "source": "Bloomberg; The Motley Fool; Benzinga (earnings call transcript); Airbnb Q3 2026 shareholder letter",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode",
-      "vocab": [
-        {
-          "word": "buyback",
-          "phonetic": "/ˈbaɪbæk/",
-          "pos": "n.",
-          "zh": "（公司的）股票回购",
-          "example": "Shares in Airbnb jumped about 12% on Friday in New York after the home-rental platform reported its fastest third-quarter revenue growth in three years and announced a new US$12 billion share buyback."
-        },
-        {
-          "word": "crediting",
-          "phonetic": "/ˈkredɪtɪŋ/",
-          "pos": "v.",
-          "zh": "把（成功）归功于……（credit 的现在分词）",
-          "example": "Co-founder and chief executive Brian Chesky said the company was back in 'growth mode', crediting years of product changes and faster development helped by artificial intelligence."
-        }
-      ],
-      "explain": {
-        "one_liner": "爱彼迎这个季度生意比预期好很多，又宣布拿出一大笔钱买回自家股票，投资者一高兴，股价当天就涨了约12%。",
-        "facts": [
-          {
-            "icon": "🏠",
-            "name": "Airbnb 爱彼迎",
-            "text": "2008年在美国旧金山创立的短租平台，让房东把房子或房间租给游客，也提供“体验”等服务，在纳斯达克上市。"
-          },
-          {
-            "icon": "👨‍💼",
-            "name": "Brian Chesky 布莱恩·切斯基",
-            "text": "爱彼迎的联合创始人之一，长期担任首席执行官（CEO）。"
-          },
-          {
-            "icon": "🔁",
-            "name": "股票回购 share buyback",
-            "text": "公司用自己的钱从市场上买回自家股票，流通的股票变少，每股盈利通常会提高，一般被市场看作公司对前景有信心的信号。"
-          },
-          {
-            "icon": "📊",
-            "name": "分析师预期 analysts' expectations",
-            "text": "华尔街分析师事先对公司业绩的平均预测。实际业绩高于预期叫“超预期（beat）”，股价往往会上涨。"
-          },
-          {
-            "icon": "💳",
-            "name": "先订后付 Reserve Now, Pay Later",
-            "text": "房客预订时不必马上付清全款，可以晚些再付。这降低了下单门槛，帮助提升预订量。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "收入增长19%",
-            "b": "爱彼迎股价",
-            "type": "cause",
-            "label": "业绩超预期，股价大涨约12%"
-          },
-          {
-            "a": "120亿美元回购",
-            "b": "投资者",
-            "type": "good",
-            "label": "传递公司有信心的信号"
-          },
-          {
-            "a": "先订后付",
-            "b": "预订量",
-            "type": "good",
-            "label": "降低下单门槛，带动预订"
-          },
-          {
-            "a": "人工智能",
-            "b": "产品开发",
-            "type": "cause",
-            "label": "切斯基称AI帮助加快开发速度"
-          }
-        ],
-        "points": [
-          "第三季度收入增长19%，约48.7亿美元，超出预期。",
-          "预订的住宿晚数和座位数增长16%，约1.55亿。",
-          "公司宣布新的120亿美元股票回购计划，股价周五大涨约12%。",
-          "预计第四季度收入增长16%–18%，“先订后付”功能也帮了忙。"
-        ],
-        "relevance": "旅游平台的业绩是观察消费者愿不愿意花钱出游的风向标。对在澳洲做营销的人来说，“先订后付”这种降低付款压力的设计，和澳洲流行的Afterpay等“先买后付”很像，是推动转化的常见手段；如果你服务旅游、酒店或活动行业，也可以留意短租平台对传统住宿的竞争。",
-        "phrase": {
-          "en": "back in growth mode",
-          "zh": "重回增长模式"
-        }
-      }
-    },
-    {
       "category": "australia",
-      "title_en": "Channel 7's owner officially becomes Seven Media Group as it warns of a softer TV advertising market",
-      "title_zh": "7号台母公司正式更名“七号传媒集团”：观众在涨，但电视广告收入在跌",
-      "search_zh": "Seven Media Group 七号传媒集团 Southern Cross Media Group 更名 股东大会 SXL SMG 股票代码 Seven Network 7号台 Rohan Lund Ryan Stokes 7plus 广告市场 走软 电视收入 下降 AI 新闻 版权",
-      "summary_en": "The company behind the Seven Network, the Hit and Triple M radio networks and The West Australian newspaper has officially changed its name from Southern Cross Media Group to Seven Media Group, after shareholders approved the move at its annual general meeting on Thursday. Its share code on the Australian Securities Exchange will switch from SXL to SMG when trading opens on Tuesday, 10 November. Chief executive Rohan Lund told shareholders that 'audiences are not our challenge', pointing to strong growth on the 7plus streaming service, but he admitted that television revenue fell in the three months to September as the advertising market softened. Chair Ryan Stokes also called for rules to stop global tech platforms and AI companies from using Australian journalism and content without permission or payment.",
-      "summary_zh": "旗下拥有7号电视网（Seven Network）、Hit和Triple M电台网络以及《西澳人报》（The West Australian）的公司，在周四的年度股东大会获得股东批准后，正式从Southern Cross Media Group更名为Seven Media Group（七号传媒集团）。它在澳大利亚证券交易所的股票代码将于11月10日周二开盘时由SXL改为SMG。首席执行官罗翰·伦德（Rohan Lund）对股东表示“观众不是我们的难题”，并以7plus流媒体平台的强劲增长为例，但他也承认，由于广告市场走软，截至9月的三个月里电视收入有所下降。董事长瑞安·斯托克斯（Ryan Stokes）还呼吁制定规则，阻止全球科技平台和人工智能公司在未经许可、不付费的情况下使用澳洲的新闻和内容。",
-      "why_zh": "这是澳洲媒体行业的大事，直接关系到广告主在电视、电台和流媒体上的投放。“soften（走软、变弱）”“without permission（未经许可）”在商业和媒体新闻中很常见。",
+      "title_en": "Melbourne mourns food delivery rider Jianming Feng as Victoria's premier promises action on gig workers' safety",
+      "title_zh": "华人外卖骑手墨尔本CBD遇害，数百人州立图书馆前悼念，维州州长承诺加强骑手安全保障",
+      "search_zh": "墨尔本 外卖骑手 冯建明 Jianming Feng 遇害 维多利亚女王市场 州立图书馆 悼念 熊猫外卖 HungryPanda 维州州长 Ben Carroll 零工经济 运输工人工会 TWU 唐人街商会 GoFundMe 众筹",
+      "summary_en": "Hundreds of people, many from Melbourne's Chinese community, gathered outside the State Library of Victoria on Saturday night for a vigil for Jianming Feng, a 47-year-old food delivery rider who was fatally stabbed in the city centre on Friday night. Mr Feng and another rider had confronted a man who was allegedly tampering with their bikes near Queen Victoria Market, and a 51-year-old man was arrested after both riders were stabbed, although he had not been charged at the time of reporting. Victorian Premier Ben Carroll said he would make 'whatever changes are necessary' and keep working with the Transport Workers Union to improve safety for gig economy workers, whom he described as among the most vulnerable Victorians. A GoFundMe page set up by the Melbourne Chinatown Business Association has raised almost A$180,000 for Mr Feng's family, while HungryPanda, the delivery platform he was working for, said it was helping with funeral costs, visas, insurance and financial support.",
+      "summary_zh": "周六晚上，数百人（其中很多是墨尔本华人社区成员）聚集在维多利亚州立图书馆门前，悼念47岁的外卖骑手冯建明（Jianming Feng），他于周五晚在墨尔本市中心被刺身亡。据报道，冯建明和另一名骑手当时上前质问一名疑似在维多利亚女王市场附近乱动他们电动车的男子，两名骑手随后都被刺伤，一名51岁男子被捕，但截至报道时他尚未被起诉。维州州长本·卡罗尔（Ben Carroll）表示，将做出“一切必要的改变”，并继续与运输工人工会合作，加强对零工经济从业者的安全保护，他形容这些人是维州最弱势的群体之一。墨尔本唐人街商会发起的GoFundMe众筹已为冯建明的家人筹得近18万澳元，而他当时接单的外卖平台熊猫外卖（HungryPanda）表示，正在协助家属处理丧葬费用、签证、保险和经济援助等事宜。",
+      "why_zh": "这件事在澳洲华人圈引起很大震动，也让“零工经济”从业者的安全问题成为焦点。新闻里常用的“allegedly（据称）”“vulnerable（弱势的）”是读澳洲新闻、尤其是案件报道时必须看懂的词。",
       "image": "",
       "image_credit": "",
-      "source": "TV Central; Mediaweek; Mumbrella; AdNews; The Nightly; B&T",
-      "url": "https://www.tvcentral.com.au/free-to-air/7_news/seven-media-group-agm-smg-ticker-trading-update/",
+      "source": "ABC News; SBS News; AAP (via Yahoo News Australia)",
+      "url": "https://www.abc.net.au/news/2026-11-08/delivery-driver-death-jianming-feng/107360706",
       "vocab": [
         {
-          "word": "softened",
-          "phonetic": "/ˈsɒfnd/",
+          "word": "tampering",
+          "phonetic": "/ˈtæmpərɪŋ/",
           "pos": "v.",
-          "zh": "（市场、需求）走软，变弱（soften 的过去式）",
-          "example": "Chief executive Rohan Lund told shareholders that 'audiences are not our challenge', pointing to strong growth on the 7plus streaming service, but he admitted that television revenue fell in the three months to September as the advertising market softened."
+          "zh": "乱动，擅自摆弄（tamper 的现在分词，常用 tamper with sth）",
+          "example": "Mr Feng and another rider had confronted a man who was allegedly tampering with their bikes near Queen Victoria Market, and a 51-year-old man was arrested after both riders were stabbed, although he had not been charged at the time of reporting."
         },
         {
-          "word": "permission",
-          "phonetic": "/pəˈmɪʃn/",
-          "pos": "n.",
-          "zh": "许可，允许",
-          "example": "Chair Ryan Stokes also called for rules to stop global tech platforms and AI companies from using Australian journalism and content without permission or payment."
+          "word": "vulnerable",
+          "phonetic": "/ˈvʌlnərəbl/",
+          "pos": "adj.",
+          "zh": "弱势的，易受伤害的",
+          "example": "Victorian Premier Ben Carroll said he would make 'whatever changes are necessary' and keep working with the Transport Workers Union to improve safety for gig economy workers, whom he described as among the most vulnerable Victorians."
         }
       ],
       "explain": {
-        "one_liner": "做7号电视台、Hit和Triple M电台的公司合并后正式改名叫“七号传媒集团”；看的人越来越多，但广告主花钱变谨慎，电视广告收入下滑了。",
+        "one_liner": "一位在墨尔本送外卖的华人骑手在工作时被刺身亡，华人社区自发悼念、众筹，州政府也表示要想办法保护外卖骑手这类零工的安全。",
         "facts": [
           {
-            "icon": "📺",
-            "name": "Seven Network 7号电视网",
-            "text": "澳洲三大商业免费电视网之一（另外两家是9号台和10号台），节目包括新闻、体育转播和真人秀等。"
+            "icon": "🛵",
+            "name": "零工经济 gig economy",
+            "text": "指通过App按单接活的工作方式，比如送外卖、开网约车。从业者通常不是平台的正式员工，而是“独立承包人”，保障往往比正式员工少。"
           },
           {
-            "icon": "📻",
-            "name": "Southern Cross Media Group / SCA",
-            "text": "原本是澳洲大型电台公司，旗下有Hit、Triple M电台网络和音频App LiSTNR。它与7号台的母公司Seven West Media合并，交易在2026年1月完成。"
+            "icon": "🐼",
+            "name": "HungryPanda 熊猫外卖",
+            "text": "一家主要服务海外华人和亚洲餐饮的外卖平台，在澳洲、英国等多个国家运营。冯建明遇害时正在为它送单。"
           },
           {
-            "icon": "🏷️",
-            "name": "Seven Media Group 七号传媒集团",
-            "text": "合并后的新名字，10月22日在面向广告主的年度推介会（upfront）上公布，11月5日的股东大会通过后正式生效。"
+            "icon": "🏛️",
+            "name": "Ben Carroll 本·卡罗尔",
+            "text": "维多利亚州州长（Premier），也就是维州政府的最高负责人。"
           },
           {
-            "icon": "👨‍💼",
-            "name": "Rohan Lund 罗翰·伦德",
-            "text": "七号传媒集团的首席执行官（CEO），负责公司日常经营。"
+            "icon": "🤝",
+            "name": "Transport Workers Union 运输工人工会（TWU）",
+            "text": "澳洲代表卡车司机、快递员、外卖骑手等运输行业工人的工会，长期为零工骑手争取最低收入和安全保障。"
           },
           {
-            "icon": "🧑‍⚖️",
-            "name": "Ryan Stokes 瑞安·斯托克斯",
-            "text": "七号传媒集团董事长，来自长期控制7号台的斯托克斯家族。"
+            "icon": "🏮",
+            "name": "Melbourne Chinatown Business Association 墨尔本唐人街商会",
+            "text": "墨尔本唐人街商家组成的团体。这次在众筹平台GoFundMe上为遇难者家属筹款，帮助支付家人赴澳和丧葬等费用。"
           },
+          {
+            "icon": "⚖️",
+            "name": "allegedly / charged",
+            "text": "澳洲媒体在法院判决前会用“allegedly（据称）”描述嫌疑人的行为；“charged（被起诉）”表示警方正式提出指控，截至报道时嫌疑人尚未被起诉。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "疑似乱动电动车的男子",
+            "b": "两名外卖骑手",
+            "type": "bad",
+            "label": "骑手上前质问后被刺"
+          },
+          {
+            "a": "骑手遇害",
+            "b": "零工安全讨论",
+            "type": "cause",
+            "label": "引发对骑手工作安全的担忧"
+          },
+          {
+            "a": "维州州长",
+            "b": "运输工人工会",
+            "type": "neutral",
+            "label": "承诺合作改善零工安全"
+          },
+          {
+            "a": "华人社区",
+            "b": "遇难者家属",
+            "type": "good",
+            "label": "悼念并众筹近18万澳元"
+          },
+          {
+            "a": "熊猫外卖",
+            "b": "遇难者家属",
+            "type": "good",
+            "label": "协助丧葬、签证、保险和经济援助"
+          }
+        ],
+        "points": [
+          "47岁外卖骑手冯建明周五晚在墨尔本市中心被刺身亡，另一名骑手受伤。",
+          "一名51岁男子被捕，截至报道时尚未被起诉。",
+          "数百人周六晚在州立图书馆前悼念，众筹已筹得近18万澳元。",
+          "维州州长承诺做出“一切必要的改变”，加强零工经济从业者的安全保障。"
+        ],
+        "relevance": "外卖平台是很多品牌（尤其是餐饮、零售）触达消费者的重要渠道，而骑手的安全和待遇正越来越受到公众关注，可能带来新的监管规定和成本变化。做营销时，品牌如果和外卖平台合作，也要留意这类社会议题带来的舆论；在面向华人社区沟通时，用尊重、克制的语气回应这类悲剧非常重要。",
+        "phrase": {
+          "en": "whatever changes are necessary",
+          "zh": "一切必要的改变"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "AI 'tokens' become a surprise Singles' Day bestseller as Chinese shoppers stock up on chatbot credits",
+      "title_zh": "双11新爆款竟是“AI算力”！李佳琦直播间1分钱月卡半小时卖出近10万份",
+      "search_zh": "双11 2026 AI Token 词元 算力 爆款 李佳琦 直播间 千问办公 会员月卡 0.01元 10万份 30分钟 天猫 AI Token中心 环比增长450% 京东 大模型Token套餐 20倍 阿里云 MiniMax 月之暗面",
+      "summary_en": "AI tokens, the units of computing power that people use up when they chat with or give tasks to AI models, have become one of the unexpected hit products of this year's Singles' Day shopping festival in China. On 2 November, a monthly membership for Alibaba's Qwen office AI service was sold for just 0.01 yuan, down from its usual 28 yuan, during top livestreamer Li Jiaqi's Singles' Day show, and nearly 100,000 were snapped up in about 30 minutes. Tmall set up a special 'AI Token Center' with packages from companies such as Alibaba Cloud, MiniMax and Moonshot AI, and it said sales in the token category jumped 450% from the previous month on the first day of its promotion, while JD.com reported that token-package sales rose twentyfold within two hours. However, reports note that shoppers have no common yardstick for comparing these packages, because the same piece of Chinese text can be split into different numbers of tokens by different AI models.",
+      "summary_zh": "AI“Token”（词元）是人们和AI模型聊天、让它干活时消耗的算力单位，它意外成为今年中国双11购物节的爆款商品之一。11月2日，在头部主播李佳琦的双11直播间里，阿里巴巴千问办公AI服务的个人会员月卡从原价28元降到0.01元，大约30分钟就被抢购了近10万份。天猫专门开设了“AI Token中心”，上架阿里云、MiniMax、月之暗面（Moonshot AI）等公司的套餐，并称促销首日Token品类的成交额环比增长450%；京东则表示，大模型Token套餐的销量在两小时内增长了20倍。不过有报道指出，消费者没有统一的标准来比较这些套餐，因为同一段中文，在不同AI模型里可能被拆成数量不同的Token。",
+      "why_zh": "AI算力被当成“商品”在购物节里卖，是今年双11最新奇的消费趋势之一，也说明AI正在走进普通人的日常消费。“promotion（促销）”“yardstick（衡量标准）”是商业和营销英语里的实用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "CGTN; Finimize; RADII; ChinaRetailNews; Jiemian (界面新闻); Beijing Business Today (北京商报)",
+      "url": "https://news.cgtn.com/news/2026-11-07/AI-tokens-a-hit-on-China-s-Singles-Day-as-consumers-embrace-AI-boom-1RSuuGzn2z6/p.html",
+      "vocab": [
+        {
+          "word": "promotion",
+          "phonetic": "/prəˈməʊʃn/",
+          "pos": "n.",
+          "zh": "促销活动",
+          "example": "Tmall set up a special 'AI Token Center' with packages from companies such as Alibaba Cloud, MiniMax and Moonshot AI, and it said sales in the token category jumped 450% from the previous month on the first day of its promotion, while JD.com reported that token-package sales rose twentyfold within two hours."
+        },
+        {
+          "word": "yardstick",
+          "phonetic": "/ˈjɑːdstɪk/",
+          "pos": "n.",
+          "zh": "衡量标准，尺度",
+          "example": "However, reports note that shoppers have no common yardstick for comparing these packages, because the same piece of Chinese text can be split into different numbers of tokens by different AI models."
+        }
+      ],
+      "explain": {
+        "one_liner": "今年双11，平台开始把“AI的使用额度”当成商品来卖，便宜甚至1分钱的套餐被大量抢购，AI算力成了新爆款。",
+        "facts": [
           {
             "icon": "🔤",
-            "name": "股票代码 ticker",
-            "text": "股票在交易所的简称代码，比如这家公司在澳交所（ASX）的代码将从SXL改为SMG。"
+            "name": "Token 词元",
+            "text": "AI大模型处理文字时使用的最小单位，大致相当于一个字或词的一部分。用户每次提问、让AI写东西都会消耗Token，所以它常被用来计算AI的使用量和收费。"
+          },
+          {
+            "icon": "🛍️",
+            "name": "双11 Singles' Day",
+            "text": "每年11月11日前后的中国网购节，起源于阿里巴巴旗下的天猫，现在各大电商平台都会参加，促销期通常从10月下旬就开始。"
+          },
+          {
+            "icon": "🎤",
+            "name": "李佳琦 Li Jiaqi",
+            "text": "中国最知名的带货主播之一，因擅长卖口红被称为“口红一哥”（Lipstick King）。"
+          },
+          {
+            "icon": "🤖",
+            "name": "千问 Qwen",
+            "text": "阿里巴巴开发的AI大模型系列和相关应用，这次在直播间卖的是“千问办公”的个人会员月卡。"
+          },
+          {
+            "icon": "🏬",
+            "name": "天猫 Tmall / 京东 JD.com",
+            "text": "中国两大电商平台。天猫属于阿里巴巴；京东以自营和快速物流著称。这次两家都开设了AI Token专区。"
+          },
+          {
+            "icon": "📈",
+            "name": "环比 month-on-month",
+            "text": "和上一个时间段（这里指上个月）相比的变化。天猫称Token品类促销首日成交额环比增长450%。"
           }
         ],
         "relations": [
           {
-            "a": "Seven West Media",
-            "b": "Southern Cross Media",
-            "type": "neutral",
-            "label": "合并为一家公司"
-          },
-          {
-            "a": "广告市场走软",
-            "b": "电视收入",
-            "type": "cause",
-            "label": "截至9月的三个月里下降"
-          },
-          {
-            "a": "7plus流媒体",
-            "b": "观众规模",
+            "a": "AI公司",
+            "b": "电商平台",
             "type": "good",
-            "label": "增长强劲"
+            "label": "借双11上架Token套餐"
           },
           {
-            "a": "科技平台和AI公司",
-            "b": "澳洲新闻内容",
+            "a": "1分钱月卡",
+            "b": "李佳琦直播间",
+            "type": "cause",
+            "label": "约30分钟卖出近10万份"
+          },
+          {
+            "a": "天猫",
+            "b": "京东",
+            "type": "neutral",
+            "label": "都开设Token专区，互相竞争"
+          },
+          {
+            "a": "不同模型的计算方式",
+            "b": "消费者",
             "type": "bad",
-            "label": "被指未经许可、不付费使用"
+            "label": "Token数量难以直接比较"
           }
         ],
         "points": [
-          "公司正式从Southern Cross Media Group更名为Seven Media Group。",
-          "澳交所股票代码11月10日起由SXL改为SMG。",
-          "CEO表示观众在增长，但广告市场走软，电视收入下降。",
-          "董事长呼吁立规，防止AI和科技平台免费使用澳洲内容。"
+          "AI Token成为今年双11意想不到的爆款商品。",
+          "李佳琦直播间的千问办公月卡从28元降到0.01元，半小时卖出近10万份。",
+          "天猫Token品类促销首日成交额环比增长450%，京东Token套餐两小时销量增长20倍。",
+          "不同模型对Token的计算方式不同，消费者很难直接比较套餐。"
         ],
-        "relevance": "七号传媒集团现在把电视、电台、流媒体和报纸合在一起卖广告，对广告主来说意味着可以“一站式”跨平台投放，也可能带来新的打包价格和数据产品。广告市场走软时，媒体方通常更愿意给优惠，做营销预算的人可以借机谈判；同时，观众越来越多转向7plus这类流媒体，投放策略也要跟着调整。",
+        "relevance": "这是“把看不见的数字服务包装成购物车商品”的典型案例：用极低价格、头部主播和购物节氛围，让普通人第一次尝试AI工具。做营销的人可以借鉴这种“低门槛试用+节日促销”的拉新思路；同时也要注意，当产品单位（比如Token）对消费者来说很陌生时，清楚透明的说明和比较方式非常关键，这在澳洲的消费者保护规则下尤其重要。",
         "phrase": {
-          "en": "audiences are not our challenge",
-          "zh": "观众不是我们的难题"
+          "en": "snapped up",
+          "zh": "被抢购一空"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "A heart drug cut a risky blood fat by 78% but did not prevent heart attacks, surprising doctors",
+      "title_zh": "降了78%却没用？诺华心脏病新药大型试验失利，医生直呼意外",
+      "search_zh": "诺华 Novartis pelacarsen 脂蛋白(a) Lp(a) Lp(a)HORIZON 试验 降低78% 未减少心脏病发作 中风 美国心脏协会 AHA 科学年会 2026 克利夫兰诊所 新英格兰医学杂志 NEJM 五分之一 遗传",
+      "summary_en": "An experimental drug from Swiss pharmaceutical company Novartis lowered levels of lipoprotein(a), an inherited risk factor for heart disease, by about 78%, but it did not reduce heart attacks or strokes in a major trial, according to full results presented at the American Heart Association's Scientific Sessions on Saturday. The Lp(a)HORIZON trial, led by the Cleveland Clinic, followed more than 8,300 people with existing heart disease and high Lp(a) for a median of 4.7 years, and serious heart problems occurred in 12.3% of patients on the drug, pelacarsen, compared with 12.1% of those on a placebo. About one in five people have high levels of lipoprotein(a), mostly because of their genes, and because it barely responds to diet or exercise, many doctors had hoped the drug would become the first approved treatment aimed directly at it. Researchers called the result a major blow for heart-disease prevention, but they said the trial still offers valuable lessons, and several other Lp(a)-lowering drugs from different companies are still being tested.",
+      "summary_zh": "瑞士制药公司诺华（Novartis）的一款实验性药物把脂蛋白(a)——一种会遗传的心脏病风险因素——的水平降低了约78%，但根据周六在美国心脏协会科学年会上公布的完整结果，它在一项大型试验中并没有减少心脏病发作或中风。这项名为Lp(a)HORIZON、由克利夫兰诊所牵头的试验，对8300多名已有心脏病且Lp(a)偏高的患者进行了中位数4.7年的跟踪，结果使用该药（pelacarsen）的患者中有12.3%出现严重心脏问题，而服用安慰剂的患者为12.1%。大约每五个人中就有一人的脂蛋白(a)偏高，主要由基因决定，而且几乎不受饮食和运动影响，因此很多医生曾希望这款药能成为首个直接针对它的获批疗法。研究人员称这一结果对心脏病预防是一次重大打击，但也表示试验仍提供了宝贵的经验，而且其他几家公司的降Lp(a)药物仍在测试当中。",
+      "why_zh": "这是本周全球医学界最受关注的新闻之一：一项指标大幅下降，真正的健康结果却没有改善。“inherited（遗传的）”“placebo（安慰剂）”是看健康新闻时常见的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Cleveland Clinic newsroom; American Heart Association newsroom; CNN; NBC News; NPR; STAT; TCTMD",
+      "url": "https://www.cnn.com/2026/11/07/health/novartis-pelacarsen-heart-drug-trial",
+      "vocab": [
+        {
+          "word": "inherited",
+          "phonetic": "/ɪnˈherɪtɪd/",
+          "pos": "adj.",
+          "zh": "遗传的，与生俱来的",
+          "example": "An experimental drug from Swiss pharmaceutical company Novartis lowered levels of lipoprotein(a), an inherited risk factor for heart disease, by about 78%, but it did not reduce heart attacks or strokes in a major trial, according to full results presented at the American Heart Association's Scientific Sessions on Saturday."
+        },
+        {
+          "word": "placebo",
+          "phonetic": "/pləˈsiːbəʊ/",
+          "pos": "n.",
+          "zh": "安慰剂（试验中用来对照、没有药效的假药）",
+          "example": "The Lp(a)HORIZON trial, led by the Cleveland Clinic, followed more than 8,300 people with existing heart disease and high Lp(a) for a median of 4.7 years, and serious heart problems occurred in 12.3% of patients on the drug, pelacarsen, compared with 12.1% of those on a placebo."
+        }
+      ],
+      "explain": {
+        "one_liner": "一款新药成功把血液里一种“坏脂肪”降低了近八成，但大型试验发现，吃药的人心脏病发作和中风并没有因此减少，让很多医生很意外。",
+        "facts": [
+          {
+            "icon": "💊",
+            "name": "Novartis 诺华",
+            "text": "总部在瑞士巴塞尔的全球大型制药公司。这次失利的药物名叫pelacarsen。"
+          },
+          {
+            "icon": "🩸",
+            "name": "脂蛋白(a) lipoprotein(a) / Lp(a)",
+            "text": "血液中一种携带胆固醇的颗粒，水平高低主要由基因决定。研究长期发现，Lp(a)高的人更容易得心脏病，但饮食和运动几乎改变不了它。"
+          },
+          {
+            "icon": "❤️",
+            "name": "American Heart Association 美国心脏协会（AHA）",
+            "text": "美国最大的心脏健康组织之一，每年举办“科学年会”，很多重要的心血管研究会在会上首次公布。"
+          },
+          {
+            "icon": "🏥",
+            "name": "Cleveland Clinic 克利夫兰诊所",
+            "text": "美国著名的医疗和研究机构，以心脏病治疗闻名，这次负责牵头这项试验。"
+          },
+          {
+            "icon": "🧪",
+            "name": "安慰剂对照试验 placebo-controlled trial",
+            "text": "把患者随机分成两组，一组用真药，一组用外观一样但没有药效的“安慰剂”，比较两组结果，以判断药物是否真的有效。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "pelacarsen",
+            "b": "Lp(a)水平",
+            "type": "good",
+            "label": "成功降低约78%"
+          },
+          {
+            "a": "Lp(a)下降",
+            "b": "心脏病发作和中风",
+            "type": "neutral",
+            "label": "没有带来减少"
+          },
+          {
+            "a": "试验结果",
+            "b": "诺华",
+            "type": "bad",
+            "label": "被视为重大挫折"
+          },
+          {
+            "a": "这次试验",
+            "b": "其他降Lp(a)药物",
+            "type": "cause",
+            "label": "让外界更关注后续试验结果"
+          }
+        ],
+        "points": [
+          "诺华的pelacarsen把Lp(a)降低了约78%。",
+          "试验跟踪8300多名患者约4.7年，严重心脏问题发生率与安慰剂组几乎一样（12.3%对12.1%）。",
+          "约五分之一的人Lp(a)偏高，主要由基因决定，目前还没有专门针对它的获批药物。",
+          "研究人员称这是一次重大打击，但其他公司的同类药物仍在测试中。"
+        ],
+        "relevance": "这个故事对营销人也很有启发：一个指标（比如点击率、曝光量）大幅提升，不一定代表真正的结果（比如销售额）会变好，这和“指标漂亮但效果没变”的道理一样。另外，如果你接触健康、保健品或医药类客户，要注意在澳洲做健康宣传时，相关声明必须有可靠证据支持，不能只凭“某项指标下降”就暗示能预防疾病。",
+        "phrase": {
+          "en": "a major blow",
+          "zh": "一次重大打击"
         }
       }
     }
