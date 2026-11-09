@@ -4545,5 +4545,208 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "phrasal-verbs",
+    "added": "2026-11-10",
+    "name": "常用短语动词",
+    "icon": "🔍",
+    "prompt": "这个动作用哪个短语？",
+    "items": [
+      {
+        "emoji": "📞",
+        "w": "hang up",
+        "ph": "/hæŋ ˈʌp/",
+        "pos": "phr.",
+        "zh": "挂电话",
+        "ex": "Sorry, I have to hang up — my train's here.",
+        "tip": "hang up on someone = 挂某人电话（不礼貌）",
+        "accept": [
+          "hang up",
+          "hung up",
+          "end the call"
+        ],
+        "near": [
+          "call back"
+        ]
+      },
+      {
+        "emoji": "📲",
+        "w": "call back",
+        "ph": "/kɔːl ˈbæk/",
+        "pos": "phr.",
+        "zh": "回电话",
+        "ex": "Can I call you back in five minutes?",
+        "tip": "澳洲也常说 ring you back",
+        "accept": [
+          "call back",
+          "ring back",
+          "return a call"
+        ],
+        "near": [
+          "hang up"
+        ]
+      },
+      {
+        "emoji": "🔍",
+        "w": "look up",
+        "ph": "/lʊk ˈʌp/",
+        "pos": "phr.",
+        "zh": "查（资料、单词）",
+        "ex": "I always look up new words in my dictionary app.",
+        "tip": "look up to someone = 敬佩某人",
+        "accept": [
+          "look up",
+          "search",
+          "google"
+        ],
+        "near": [
+          "figure out"
+        ]
+      },
+      {
+        "emoji": "✏️",
+        "w": "jot down",
+        "ph": "/dʒɒt ˈdaʊn/",
+        "pos": "phr.",
+        "zh": "匆匆记下",
+        "ex": "Let me jot down your number.",
+        "tip": "比 write down 更随意、更快",
+        "accept": [
+          "jot down",
+          "write down",
+          "note down"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧭",
+        "w": "figure out",
+        "ph": "/ˈfɪɡə ˈaʊt/",
+        "pos": "phr.",
+        "zh": "弄明白、想出办法",
+        "ex": "I can't figure out how to use this new software.",
+        "tip": "work out 意思接近（澳洲常用）",
+        "accept": [
+          "figure out",
+          "work out",
+          "sort out"
+        ],
+        "near": [
+          "look up"
+        ]
+      },
+      {
+        "emoji": "⏳",
+        "w": "run out",
+        "ph": "/rʌn ˈaʊt/",
+        "pos": "phr.",
+        "zh": "用完、耗尽",
+        "ex": "We're running out of time — let's skip to the last slide.",
+        "tip": "run out of + 名词",
+        "accept": [
+          "run out",
+          "run out of",
+          "run low"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏁",
+        "w": "wrap up",
+        "ph": "/ræp ˈʌp/",
+        "pos": "phr.",
+        "zh": "结束、收尾",
+        "ex": "Let's wrap up the meeting — it's nearly five.",
+        "tip": "职场常用；wrap up warm = 穿暖和点",
+        "accept": [
+          "wrap up",
+          "finish",
+          "wind up",
+          "conclude"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚀",
+        "w": "launch",
+        "ph": "/lɔːntʃ/",
+        "pos": "v./n.",
+        "zh": "推出、发布",
+        "ex": "The new campaign launches on Monday.",
+        "tip": "营销高频词；launch event = 发布会",
+        "accept": [
+          "launch",
+          "roll out",
+          "release",
+          "go live"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚮",
+        "w": "chuck out",
+        "ph": "/tʃʌk ˈaʊt/",
+        "pos": "phr.",
+        "zh": "扔掉（澳洲口语）",
+        "ex": "Can you chuck out the old milk? It's gone off.",
+        "tip": "gone off = 变质了（澳洲口语）",
+        "accept": [
+          "chuck out",
+          "throw out",
+          "throw away",
+          "bin"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔕",
+        "w": "switch off",
+        "ph": "/swɪtʃ ˈɒf/",
+        "pos": "phr.",
+        "zh": "关掉；放空",
+        "ex": "I switch off my notifications after 7pm.",
+        "tip": "也指「放下工作、脑子放空」",
+        "accept": [
+          "switch off",
+          "turn off",
+          "mute",
+          "silence"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📤",
+        "w": "send out",
+        "ph": "/send ˈaʊt/",
+        "pos": "phr.",
+        "zh": "发出（邮件、邀请）",
+        "ex": "We'll send out the invites next week.",
+        "tip": "",
+        "accept": [
+          "send out",
+          "send",
+          "send off",
+          "email out"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⏸️",
+        "w": "hold on",
+        "ph": "/həʊld ˈɒn/",
+        "pos": "phr.",
+        "zh": "稍等",
+        "ex": "Hold on a sec, I'll grab a pen.",
+        "tip": "电话里常说 Hold on / Hang on",
+        "accept": [
+          "hold on",
+          "hang on",
+          "wait",
+          "pause"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
