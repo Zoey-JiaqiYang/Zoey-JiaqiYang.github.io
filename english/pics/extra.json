@@ -4748,5 +4748,203 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "online-shopping",
+    "added": "2026-11-11",
+    "name": "网购",
+    "icon": "🛍️",
+    "prompt": "网购时怎么说？",
+    "items": [
+      {
+        "emoji": "🏪",
+        "w": "click and collect",
+        "ph": "/ˌklɪk ən kəˈlekt/",
+        "pos": "n.",
+        "zh": "网上下单、到店自提",
+        "ex": "I'll do click and collect so I don't pay for delivery.",
+        "tip": "澳洲超市和商场很常见",
+        "accept": [
+          "click and collect",
+          "click & collect",
+          "pick up in store",
+          "pickup"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🕐",
+        "w": "buy now pay later",
+        "ph": "/ˌbaɪ naʊ peɪ ˈleɪtə(r)/",
+        "pos": "n.",
+        "zh": "先买后付（分期）",
+        "ex": "Lots of young shoppers use buy now pay later at checkout.",
+        "tip": "缩写 BNPL；澳洲常见品牌 Afterpay",
+        "accept": [
+          "buy now pay later",
+          "bnpl",
+          "afterpay",
+          "pay in instalments"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⌛",
+        "w": "flash sale",
+        "ph": "/ˈflæʃ seɪl/",
+        "pos": "n.",
+        "zh": "限时抢购",
+        "ex": "There's a 24-hour flash sale on sneakers.",
+        "tip": "",
+        "accept": [
+          "flash sale",
+          "limited-time sale",
+          "sale",
+          "limited time offer"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🆓",
+        "w": "free shipping",
+        "ph": "/ˌfriː ˈʃɪpɪŋ/",
+        "pos": "n.",
+        "zh": "包邮",
+        "ex": "Orders over $50 get free shipping.",
+        "tip": "澳洲也说 free delivery / free postage",
+        "accept": [
+          "free shipping",
+          "free delivery",
+          "free postage"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔙",
+        "w": "return",
+        "ph": "/rɪˈtɜːn/",
+        "pos": "v./n.",
+        "zh": "退货",
+        "ex": "You can return it within 30 days for a full refund.",
+        "tip": "refund = 退款；exchange = 换货",
+        "accept": [
+          "return",
+          "refund",
+          "send back",
+          "returns"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⭐",
+        "w": "five-star review",
+        "ph": "/ˌfaɪv stɑː rɪˈvjuː/",
+        "pos": "n.",
+        "zh": "五星好评",
+        "ex": "The product has hundreds of five-star reviews.",
+        "tip": "",
+        "accept": [
+          "five-star review",
+          "review",
+          "rating",
+          "5 star review"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "❤️",
+        "w": "wishlist",
+        "ph": "/ˈwɪʃlɪst/",
+        "pos": "n.",
+        "zh": "心愿单、收藏",
+        "ex": "I'll add it to my wishlist and wait for a sale.",
+        "tip": "",
+        "accept": [
+          "wishlist",
+          "wish list",
+          "favourites",
+          "save for later"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💬",
+        "w": "live chat",
+        "ph": "/ˈlaɪv tʃæt/",
+        "pos": "n.",
+        "zh": "在线客服",
+        "ex": "I sorted out the refund through live chat.",
+        "tip": "sort out = 搞定",
+        "accept": [
+          "live chat",
+          "customer service",
+          "chat",
+          "support"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧧",
+        "w": "red packet",
+        "ph": "/ˌred ˈpækɪt/",
+        "pos": "n.",
+        "zh": "红包",
+        "ex": "Taobao gives out digital red packets during the sale.",
+        "tip": "也叫 red envelope / hongbao",
+        "accept": [
+          "red packet",
+          "red envelope",
+          "hongbao",
+          "lai see"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📬",
+        "w": "letterbox",
+        "ph": "/ˈletəbɒks/",
+        "pos": "n.",
+        "zh": "信箱",
+        "ex": "The parcel was too big for the letterbox.",
+        "tip": "澳洲/英国说 letterbox，美国说 mailbox",
+        "accept": [
+          "letterbox",
+          "mailbox",
+          "postbox"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🆕",
+        "w": "brand new",
+        "ph": "/ˌbrænd ˈnjuː/",
+        "pos": "adj.",
+        "zh": "全新的",
+        "ex": "Is it brand new or second-hand?",
+        "tip": "二手 = second-hand / pre-loved（营销常用）",
+        "accept": [
+          "brand new",
+          "new",
+          "unused"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📮",
+        "w": "post",
+        "ph": "/pəʊst/",
+        "pos": "v./n.",
+        "zh": "邮寄",
+        "ex": "I'll post the package tomorrow morning.",
+        "tip": "澳洲/英国说 post，美国说 mail；Australia Post = 澳洲邮政",
+        "accept": [
+          "post",
+          "mail",
+          "send",
+          "postage"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
