@@ -1,309 +1,227 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T01:58:14+11:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T01:57:44+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "ANZ's profit jumps 31% to A$7.6 billion, but its shares fall as investors look past the headline number",
-      "title_zh": "澳新银行全年现金利润大涨31%至76亿澳元，股价却跌4%：漂亮数字背后增长只有一成",
-      "search_zh": "澳新银行 ANZ 2026 全年业绩 现金利润 75.9亿澳元 增长31% 法定利润 72.7亿 股价下跌4% 末期股息 83澳分 Nuno Matos 马托斯 裁员 降本 利差 净息差 住房贷款 存款 四大银行",
-      "summary_en": "ANZ, one of Australia's four big banks, reported a statutory profit of A$7.27 billion for the year to 30 September on Monday, while its cash profit, the figure investors watch most closely, rose 31% to about A$7.59 billion. However, that jump was flattered by large one-off costs in the previous year, and once those are excluded, cash profit grew by only about 10%, which analysts said left little room for a positive surprise. ANZ's shares fell about 4% on Monday, as investors also focused on pressure on the bank's lending margins and a final dividend of 83 cents per share, the same as in the first half. Chief executive Nuno Matos, who has cut thousands of jobs as part of a cost-cutting plan, said the bank had restored growth in home lending and customer deposits in the second half, and warned that competition for capital would keep interest rates higher for longer.",
-      "summary_zh": "澳洲四大银行之一的澳新银行（ANZ）周一公布，截至9月30日的全年法定利润为72.7亿澳元，而投资者最关注的“现金利润”增长31%，达到约75.9亿澳元。不过，这个大涨幅很大程度上是因为上一年有大笔一次性支出“拉低了基数”；剔除这些因素后，现金利润只增长了约10%，分析人士认为，这几乎没有带来什么惊喜。ANZ股价周一下跌约4%，投资者还关注到银行贷款利差承压，以及每股83澳分的末期股息，和上半年持平。首席执行官努诺·马托斯（Nuno Matos）此前为削减成本裁掉了数千个岗位，他表示，银行在下半年恢复了住房贷款和客户存款的增长，并警告说，资本竞争会让利率在更长时间内维持在较高水平。",
-      "why_zh": "ANZ是很多在澳华人的开户银行，它的业绩和对利率的判断，直接关系到房贷、存款利息和整体经济信心。“flattered（被美化的）”“dividend（股息）”是看财经新闻时非常常见的词。",
+      "category": "australia",
+      "title_en": "Australian consumer confidence falls to a four-year low as mortgage holders hit record gloom",
+      "title_zh": "澳洲消费者信心跌至四年新低，房贷族悲观程度创纪录：近四成人打算圣诞少花钱",
+      "search_zh": "澳洲 消费者信心指数 2026年11月 西太平洋银行 墨尔本研究所 Westpac Melbourne Institute 78.2 四年新低 房贷族 68.1 1994年以来最低 储备银行 加息 4.85% 生活成本 圣诞 礼物 少花钱 零售商",
+      "summary_en": "Australian consumer confidence has fallen to its lowest level in four years, according to the Westpac–Melbourne Institute Consumer Sentiment Index released on Tuesday, which dropped 2.7% to 78.2 points in November. The gloom was sharpest among people with home loans, whose sentiment fell 11.6% to 68.1, the lowest reading for this group since records began in 1994, following the Reserve Bank of Australia's recent interest rate rise to 4.85%. Any reading below 100 means pessimists outnumber optimists, and the survey showed that people had become especially worried about the economy in the near term as high living costs continue to squeeze household budgets. In a worrying sign for retailers heading into the Christmas season, more than 38% of consumers said they planned to spend less on gifts than last year, while only about 14% planned to spend more.",
+      "summary_zh": "根据周二公布的西太平洋银行－墨尔本研究所消费者信心指数，澳洲消费者信心跌至四年来最低水平，11月指数下跌2.7%，至78.2点。有房贷的人最为悲观：他们的信心指数下跌11.6%，至68.1点，是这一群体自1994年有记录以来的最低值，此前澳洲储备银行（RBA）刚把利率上调至4.85%。指数低于100就意味着悲观的人多于乐观的人；调查显示，由于高昂的生活成本持续挤压家庭预算，人们对短期经济前景尤其担忧。对即将进入圣诞销售旺季的零售商来说，这是一个令人担忧的信号：超过38%的消费者表示今年买礼物会比去年少花钱，只有约14%的人打算多花。",
+      "why_zh": "消费者信心直接决定大家敢不敢花钱，对年底圣诞促销和明年的营销预算影响很大。“gloom（低迷、悲观）”“squeeze（挤压）”是经济新闻里描述生活成本压力的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "ANZ newsroom; ABC News; Investing.com; Yahoo Finance; The Motley Fool Australia",
-      "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
+      "source": "Westpac IQ; Capital Brief; The Nightly; Investing.com; Yahoo Finance Australia",
+      "url": "https://www.westpaciq.com.au/economics/2026/11/consumer-sentiment-november-2026",
       "vocab": [
         {
-          "word": "flattered",
-          "phonetic": "/ˈflætəd/",
-          "pos": "v.",
-          "zh": "（数字、结果）被美化，显得比实际更好（flatter 的过去分词）",
-          "example": "However, that jump was flattered by large one-off costs in the previous year, and once those are excluded, cash profit grew by only about 10%, which analysts said left little room for a positive surprise."
+          "word": "gloom",
+          "phonetic": "/ɡluːm/",
+          "pos": "n.",
+          "zh": "低迷，悲观情绪",
+          "example": "The gloom was sharpest among people with home loans, whose sentiment fell 11.6% to 68.1, the lowest reading for this group since records began in 1994, following the Reserve Bank of Australia's recent interest rate rise to 4.85%."
         },
         {
-          "word": "dividend",
-          "phonetic": "/ˈdɪvɪdend/",
-          "pos": "n.",
-          "zh": "股息，分红",
-          "example": "ANZ's shares fell about 4% on Monday, as investors also focused on pressure on the bank's lending margins and a final dividend of 83 cents per share, the same as in the first half."
+          "word": "squeeze",
+          "phonetic": "/skwiːz/",
+          "pos": "v.",
+          "zh": "挤压；使（预算、收入）紧张",
+          "example": "Any reading below 100 means pessimists outnumber optimists, and the survey showed that people had become especially worried about the economy in the near term as high living costs continue to squeeze household budgets."
         }
       ],
       "explain": {
-        "one_liner": "澳新银行今年赚的钱看上去大涨三成，但主要是因为去年有大笔一次性支出、基数偏低；真实增长只有约一成，所以投资者并不买账，股价反而下跌。",
+        "one_liner": "加息加上生活成本高，澳洲人对经济越来越没信心，有房贷的人尤其悲观，很多人打算今年圣诞少买礼物。",
         "facts": [
           {
             "icon": "🏦",
-            "name": "ANZ 澳新银行",
-            "text": "全称 Australia and New Zealand Banking Group，澳洲“四大银行”之一（另外三家是联邦银行CBA、西太平洋银行Westpac和国民银行NAB），业务覆盖澳洲、新西兰和亚太地区。"
-          },
-          {
-            "icon": "👔",
-            "name": "Nuno Matos 努诺·马托斯",
-            "text": "ANZ的首席执行官（CEO），2025年上任，上任后推行大规模降本计划，包括裁减数千个岗位。"
-          },
-          {
-            "icon": "🧾",
-            "name": "法定利润 vs 现金利润 statutory / cash profit",
-            "text": "法定利润是按会计准则算出的“官方”利润；现金利润是银行自己剔除部分特殊项目后的口径，澳洲银行和投资者通常更看重它。"
-          },
-          {
-            "icon": "💰",
-            "name": "股息 dividend",
-            "text": "公司把一部分利润按每股分给股东。ANZ这次的末期股息是每股83澳分，和上半年一样，全年合计166澳分。"
-          },
-          {
-            "icon": "📉",
-            "name": "利差 margin",
-            "text": "银行放贷收的利息和支付给存款人的利息之间的差价，是银行最主要的赚钱来源。利差被压缩，意味着每笔贷款赚得更少。"
+            "name": "Westpac 西太平洋银行",
+            "text": "澳洲“四大银行”之一，每月和墨尔本大学的墨尔本研究所（Melbourne Institute）一起做全国消费者信心调查。"
           },
           {
             "icon": "📊",
-            "name": "一次性支出 one-off costs",
-            "text": "只发生一次、不会每年重复的费用，比如重组、罚款等。上一年这类支出较多，把基数拉低，让今年的增长率看起来特别高。"
+            "name": "消费者信心指数 Consumer Sentiment Index",
+            "text": "通过问卷了解大家对家庭财务和经济前景的看法。100是分界线：高于100说明乐观的人多，低于100说明悲观的人多。这次是78.2，明显偏悲观。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "RBA 澳洲储备银行",
+            "text": "澳洲的中央银行，负责制定基准利率（cash rate）。它加息后，银行通常会跟着提高房贷利率，每月还款就变多。"
+          },
+          {
+            "icon": "🏠",
+            "name": "房贷族 mortgage holders",
+            "text": "正在还房贷的人。利率一涨，他们的压力最直接，所以这次信心跌得最狠，创下1994年以来最低。"
+          },
+          {
+            "icon": "🎁",
+            "name": "圣诞购物季",
+            "text": "每年11月到12月是澳洲零售业最重要的旺季，包括黑色星期五、圣诞节和节礼日（Boxing Day）大促。"
           }
         ],
         "relations": [
           {
-            "a": "上一年一次性支出",
-            "b": "今年31%的增长率",
-            "type": "cause",
-            "label": "基数偏低，涨幅被放大"
-          },
-          {
-            "a": "增长只有约10%+利差承压",
-            "b": "ANZ股价",
+            "a": "RBA加息至4.85%",
+            "b": "房贷族",
             "type": "bad",
-            "label": "周一下跌约4%"
+            "label": "每月还款增加，信心创新低"
           },
           {
-            "a": "马托斯的降本计划",
-            "b": "ANZ成本",
-            "type": "good",
-            "label": "裁员数千人，压低开支"
+            "a": "高生活成本",
+            "b": "家庭预算",
+            "type": "cause",
+            "label": "持续挤压可支配收入"
           },
           {
-            "a": "ANZ",
-            "b": "住房贷款和存款客户",
+            "a": "消费者信心下降",
+            "b": "零售商",
+            "type": "bad",
+            "label": "圣诞销售前景蒙上阴影"
+          },
+          {
+            "a": "Westpac",
+            "b": "墨尔本研究所",
             "type": "good",
-            "label": "下半年恢复增长"
+            "label": "合作发布月度调查"
           }
         ],
         "points": [
-          "ANZ全年法定利润72.7亿澳元，现金利润约75.9亿澳元，增长31%。",
-          "剔除上一年一次性支出后，现金利润只增长约10%。",
-          "股价周一下跌约4%，市场关注利差压力和持平的股息（每股83澳分）。",
-          "CEO马托斯警告，资本竞争会让利率在更长时间内保持较高水平。"
+          "11月消费者信心指数下跌2.7%至78.2，为四年来最低。",
+          "房贷族信心下跌11.6%至68.1，是1994年有记录以来最低。",
+          "大家对未来一年左右的经济前景特别担忧。",
+          "超过38%的人打算圣诞礼物少花钱，只有约14%打算多花。"
         ],
-        "relevance": "银行业绩是澳洲经济的“温度计”：银行认为利率会“更久地维持高位”，意味着房贷压力和消费者谨慎情绪可能持续，品牌在做年底促销和明年预算时要考虑到大家钱包更紧。另外，这条新闻本身也是一个传播案例——“31%增长”的标题很亮眼，但市场看的是剔除特殊因素后的真实表现，做营销汇报时同样要讲清楚口径。",
+        "relevance": "这是做年底营销计划时必须看的数据：消费者更谨慎，意味着“性价比”“实用”“分期/会员优惠”这类信息会比单纯的品牌形象更打动人。房贷族是最受影响的人群，针对家庭和年轻买房人群的广告，语气上更适合强调省钱和价值，而不是奢侈和冲动消费。",
         "phrase": {
-          "en": "higher for longer",
-          "zh": "（利率）在更长时间内维持高位"
+          "en": "cost-of-living squeeze",
+          "zh": "生活成本带来的经济压力"
         }
       }
     },
     {
       "category": "china",
-      "title_en": "Dalian Yingbo wins its first Chinese Super League title after rivals Chengdu blow a 14-point lead",
-      "title_zh": "落后14分也能夺冠！大连英博末轮逆袭拿下中超冠军，成都蓉城最后四轮全败痛失冠军",
-      "search_zh": "大连英博 中超冠军 2026 末轮 逆转 3比1 天津津门虎 成都蓉城 2比3 山东泰山 同积52分 相互战绩 双杀 落后18分 队史首冠 大连实德 2005 时隔21年 足球城 阿洛伊西 John Aloisi 鲁丹 Mark Rudan 李国旭",
-      "summary_en": "Dalian Yingbo, a club founded only in 2021, won its first Chinese Super League title on Sunday after one of the most dramatic final days in the league's history. In front of about 60,000 fans at home, Dalian beat Tianjin Jinmen Tiger 3-1, while leaders Chengdu Rongcheng lost 3-2 away to Shandong Taishan, leaving both teams level on 52 points. Dalian took the trophy because it had beaten Chengdu in both of their league meetings this season, completing a remarkable comeback from 14 points behind with five games left as Chengdu lost its last four matches. The win, the city's first top-flight title since Dalian Shide in 2005, also made headlines in Australia, because Chengdu is coached by former Socceroos striker John Aloisi, while Australian coach Mark Rudan joined Dalian's staff as an assistant in April.",
-      "summary_zh": "2021年才成立的大连英博周日（11月8日）夺得队史首个中超冠军，这一天也成为中超历史上最戏剧性的收官日之一。在约6万名主场球迷面前，大连英博3比1战胜天津津门虎，而原本领跑的成都蓉城客场2比3不敌山东泰山，两队最终同积52分。由于大连英博本赛季两次联赛交手都战胜了成都蓉城，凭借相互战绩捧起奖杯；在成都蓉城最后四轮全败的同时，英博完成了一场从还剩五轮时落后14分开始的惊人逆转。这是大连足球自2005年大连实德之后首次再夺顶级联赛冠军，这个消息也登上了澳洲新闻，因为成都蓉城的主教练是前澳洲国家队（Socceroos）前锋约翰·阿洛伊西（John Aloisi），而澳洲教练马克·鲁丹（Mark Rudan）今年4月加入了大连英博的教练组担任助理教练。",
-      "why_zh": "这是今年中国体育圈最热的话题之一，“足球城”大连时隔21年再夺冠，还牵出两位澳洲教练，在中澳两地都上了新闻。“comeback（逆转、卷土重来）”“top-flight（顶级的）”在体育报道里非常常见。",
+      "title_en": "China says its kindergarten-to-junior-high school-age population has peaked, as it plans smaller classes and more high-school places",
+      "title_zh": "国家发改委：幼儿园、小学、初中学龄人口已经达峰，将推进小班化教学、增加高中和本科学位",
+      "search_zh": "国家发改委 学龄人口 达峰 幼儿园 小学 初中 2026年11月10日 新闻发布会 十四五 在校生减少近1700万 小班化教学 闲置校舍 普通高中学位 优质本科 扩招 出生率 教育焦虑",
+      "summary_en": "China's National Development and Reform Commission (NDRC), the country's top economic planning agency, said on Tuesday that the number of children of kindergarten, primary-school and junior-secondary-school age has already peaked. An official told a press conference that the number of students at these three levels fell by nearly 17 million during the 2021–2025 five-year plan period, reflecting the country's falling birth rate. To make use of the spare places, the government plans to move towards smaller class sizes and allow some empty school buildings to be turned into spaces for art and hands-on skills education. Meanwhile, the number of young people of senior-high-school and university age is still rising, so the authorities have pledged to create more general high-school places and steadily expand enrolment at quality undergraduate universities, a move aimed at easing pressure in a highly competitive education system.",
+      "summary_zh": "中国最高经济规划机构——国家发展改革委（发改委）周二表示，全国幼儿园、小学和初中阶段的学龄人口已经达峰。一位官员在新闻发布会上介绍，“十四五”时期（2021–2025年），这三个阶段的在校生减少了将近1700万人，这反映出中国出生率的下降。为了用好富余出来的学位和校舍，政府计划推进小班化教学，并把部分闲置校舍改造成美育和劳动教育的场所。与此同时，高中和大学阶段的学龄人口还在持续增长，因此有关部门承诺多渠道增加普通高中学位、稳步扩大优质本科招生规模，以缓解竞争激烈的教育体系中的升学压力。",
+      "why_zh": "这条新闻反映了中国人口结构的大变化：孩子变少了，影响从幼儿园一直延伸到母婴、教育和玩具等行业。“peaked（达到顶峰）”“pledged（承诺）”在经济和政策新闻里很常用。",
       "image": "",
       "image_credit": "",
-      "source": "Xinhua; AP (via Washington Post / Yahoo Sports); ABC News; Football360; Tencent News (腾讯新闻)",
-      "url": "https://abc.net.au/news/2026-11-09/chinese-super-league-john-aloisi-oversees-stunning-capitulation/107364010",
+      "source": "Beijing Daily (京报网); Sina Finance (新浪财经); Tencent News (腾讯新闻); ifeng (凤凰网)",
+      "url": "https://news.bjd.com.cn/2026/11/10/12024855.shtml",
       "vocab": [
         {
-          "word": "comeback",
-          "phonetic": "/ˈkʌmbæk/",
-          "pos": "n.",
-          "zh": "逆转；卷土重来",
-          "example": "Dalian took the trophy because it had beaten Chengdu in both of their league meetings this season, completing a remarkable comeback from 14 points behind with five games left as Chengdu lost its last four matches."
+          "word": "peaked",
+          "phonetic": "/piːkt/",
+          "pos": "v.",
+          "zh": "达到顶峰（peak 的过去分词）",
+          "example": "China's National Development and Reform Commission (NDRC), the country's top economic planning agency, said on Tuesday that the number of children of kindergarten, primary-school and junior-secondary-school age has already peaked."
         },
         {
-          "word": "top-flight",
-          "phonetic": "/ˌtɒp ˈflaɪt/",
-          "pos": "adj.",
-          "zh": "顶级的，最高级别的",
-          "example": "The win, the city's first top-flight title since Dalian Shide in 2005, also made headlines in Australia, because Chengdu is coached by former Socceroos striker John Aloisi, while Australian coach Mark Rudan joined Dalian's staff as an assistant in April."
+          "word": "pledged",
+          "phonetic": "/pledʒd/",
+          "pos": "v.",
+          "zh": "承诺，保证（pledge 的过去式）",
+          "example": "Meanwhile, the number of young people of senior-high-school and university age is still rising, so the authorities have pledged to create more general high-school places and steadily expand enrolment at quality undergraduate universities, a move aimed at easing pressure in a highly competitive education system."
         }
       ],
       "explain": {
-        "one_liner": "一支2021年才成立的大连球队，在最后五轮从落后14分追起，靠赢下所有比赛加上对手连续输球，在最后一天以“相互战绩”优势逆袭夺得中超冠军。",
+        "one_liner": "中国出生的孩子变少了，幼儿园到初中的学生人数已经开始下降，政府打算把多出来的教室用来搞小班教学，同时给高中和大学增加更多名额。",
         "facts": [
           {
-            "icon": "⚽",
-            "name": "中超 Chinese Super League",
-            "text": "中国男子足球最高级别的职业联赛，每队打完一整个赛季后按积分排名，第一名就是联赛冠军。"
+            "icon": "🏛️",
+            "name": "国家发改委 NDRC",
+            "text": "全称国家发展和改革委员会，是负责制定中国经济和社会发展规划的部门，经常通过新闻发布会介绍民生、投资等政策方向。"
           },
           {
-            "icon": "🔵",
-            "name": "大连英博 Dalian Yingbo",
-            "text": "2021年成立的大连职业足球俱乐部，从低级别联赛一路升上中超，这次是队史第一个中超冠军，也获得了下赛季亚冠精英联赛的参赛资格。"
+            "icon": "👶",
+            "name": "学龄人口 school-age population",
+            "text": "处于上学年龄段的人口数量。它主要由多年前的出生人数决定，所以出生率下降几年后，就会先在幼儿园、再在小学和初中体现出来。"
           },
           {
-            "icon": "🐼",
-            "name": "成都蓉城 Chengdu Rongcheng",
-            "text": "四川成都的职业足球俱乐部，本赛季大部分时间领跑积分榜，但最后四轮全部输球，与冠军擦肩而过。"
+            "icon": "📅",
+            "name": "“十四五” 五年规划",
+            "text": "中国每五年制定一次发展规划，“十四五”指2021–2025年，现在进入“十五五”（2026–2030年）。"
           },
           {
-            "icon": "🤝",
-            "name": "相互战绩 head-to-head",
-            "text": "两队积分相同时，比较它们之间直接交手的成绩。大连英博本赛季两次都赢了成都蓉城（“双杀”），所以排在前面。"
+            "icon": "🏫",
+            "name": "小班化教学 smaller classes",
+            "text": "减少每个班的学生人数，让老师能更照顾到每个孩子。学生变少后，这样做有了条件。"
           },
           {
-            "icon": "🇦🇺",
-            "name": "John Aloisi 约翰·阿洛伊西",
-            "text": "澳洲前国脚（Socceroos）前锋，现任成都蓉城主教练，曾参加2006年世界杯。"
-          },
-          {
-            "icon": "🏙️",
-            "name": "大连“足球城”",
-            "text": "大连是中国职业足球的传统重镇，大连实德等球队曾多次获得全国顶级联赛冠军，上一次是2005年。"
+            "icon": "🎓",
+            "name": "普通高中 general high school",
+            "text": "以升大学为主要方向的高中，和职业高中相对。很多家长担心孩子考不上普通高中，所以增加普高学位能缓解焦虑。"
           }
         ],
         "relations": [
           {
-            "a": "大连英博",
-            "b": "成都蓉城",
-            "type": "bad",
-            "label": "本赛季两次交手都赢了对方"
-          },
-          {
-            "a": "成都蓉城最后四轮全败",
-            "b": "大连英博夺冠",
+            "a": "出生率下降",
+            "b": "幼儿园到初中学生数",
             "type": "cause",
-            "label": "领先优势被追平"
+            "label": "十四五期间减少近1700万"
           },
           {
-            "a": "大连英博",
-            "b": "约6万名主场球迷",
+            "a": "富余的教室和校舍",
+            "b": "小班化教学",
             "type": "good",
-            "label": "满场见证夺冠"
+            "label": "空出来的资源被重新利用"
           },
           {
-            "a": "澳洲教练",
-            "b": "两支争冠球队",
-            "type": "neutral",
-            "label": "阿洛伊西执教成都，鲁丹任大连助教"
+            "a": "高中、大学学龄人口",
+            "b": "学位供给",
+            "type": "bad",
+            "label": "人数还在增加，名额紧张"
+          },
+          {
+            "a": "国家发改委",
+            "b": "普通高中和优质本科",
+            "type": "good",
+            "label": "承诺扩大学位供给"
           }
         ],
         "points": [
-          "大连英博末轮3比1胜天津津门虎，成都蓉城2比3负山东泰山。",
-          "两队同积52分，大连英博凭相互战绩夺冠。",
-          "还剩五轮时英博落后14分，最终连胜五场完成逆转。",
-          "这是大连时隔21年再获顶级联赛冠军，也牵动了澳洲球迷的关注。"
+          "幼儿园、小学、初中学龄人口已经达峰。",
+          "“十四五”期间这三个阶段在校生减少近1700万人。",
+          "将推进小班化教学，闲置校舍可改作美育、劳动教育场所。",
+          "高中和高等教育学龄人口仍在增长，将多渠道增加学位。"
         ],
-        "relevance": "体育“逆袭”故事是营销人最爱的情感素材：真实、戏剧性、容易引起共鸣。6万人满场的主场氛围也说明城市认同感对品牌的号召力。在澳洲做华人市场或中澳相关项目时，这类同时连接中国和澳洲的话题（澳洲教练在中超）是很好的沟通切入点。",
+        "relevance": "人口结构决定市场规模：母婴、早教、童装、玩具等面向小孩子的市场在中国会继续收缩，而面向青少年和大学生的教育、科技产品市场短期内还在增长。在澳洲做营销的人如果接触中国客户或留学相关业务，这意味着未来几年想出国读书的中国学生群体仍然庞大，但更长远会逐渐变少。",
         "phrase": {
-          "en": "blow a lead",
-          "zh": "把领先优势葬送掉"
+          "en": "spare capacity",
+          "zh": "富余的产能/资源"
         }
       }
     },
     {
-      "category": "world",
-      "title_en": "Lando Norris wins a wet São Paulo Grand Prix as Mercedes clinch the F1 team title",
-      "title_zh": "雨战巴西！诺里斯夺得F1圣保罗站冠军，梅赛德斯时隔五年再夺车队总冠军",
-      "search_zh": "F1 2026 圣保罗大奖赛 巴西 英特拉格斯 雨战 诺里斯 Lando Norris 迈凯伦 杆位 维斯塔潘 第21位发车 亚军 哈贾尔 季军 梅赛德斯 车队总冠军 2021年以来首次 第九座 拉塞尔 安东内利",
-      "summary_en": "British driver Lando Norris won Formula 1's São Paulo Grand Prix in Brazil on Sunday, starting from pole position and recovering from a poor start to take victory in a rain-hit race at the Interlagos circuit. Four-time world champion Max Verstappen finished about 14.6 seconds behind in second place after starting 21st on the grid, while French driver Isack Hadjar completed the podium in third. Although Mercedes drivers George Russell and Kimi Antonelli finished only fourth and fifth, the team scored enough points to clinch the 2026 Constructors' Championship, which is awarded to the team with the most points across the season. It is Mercedes' first team title since 2021 and its ninth in total, coming in the first season under major new technical rules for F1 cars and engines.",
-      "summary_zh": "英国车手兰多·诺里斯（Lando Norris）周日在巴西赢得一级方程式（F1）圣保罗大奖赛冠军，他从杆位出发，在糟糕的起步后迅速调整，最终在英特拉格斯赛道这场受降雨影响的比赛中夺冠。四届世界冠军马克斯·维斯塔潘（Max Verstappen）从第21位发车，最终以约14.6秒之差获得亚军，法国车手伊萨克·哈贾尔（Isack Hadjar）获得第三名，登上领奖台。虽然梅赛德斯车队的车手乔治·拉塞尔（George Russell）和基米·安东内利（Kimi Antonelli）只拿到第四和第五名，但车队拿到的积分已足以锁定2026年车队总冠军——这个奖项颁给整个赛季积分最高的车队。这是梅赛德斯自2021年以来首次夺得车队总冠军，也是其第九座车队冠军，而且是在F1赛车和引擎技术规则大改后的第一个赛季取得的。",
-      "why_zh": "F1在全球和澳洲都越来越火，是品牌赞助和体育营销的大舞台。“clinch（锁定、赢得）”“podium（领奖台）”是体育新闻里的高频词。",
+      "category": "entertainment",
+      "title_en": "Tony Leung Ka-fai and Gao Ye win best actor and best actress at the Golden Rooster Awards",
+      "title_zh": "金鸡奖揭晓！梁家辉凭《捕风追影》首获金鸡影帝，高叶凭《南京照相馆》封后",
+      "search_zh": "第39届金鸡奖 2026 厦门 颁奖典礼 梁家辉 捕风追影 傅隆生 最佳男主角 从影四十多年第一次提名 高叶 南京照相馆 林毓秀 最佳女主角 哽咽 梦想照进现实 狂飙",
+      "summary_en": "Hong Kong actor Tony Leung Ka-fai and mainland actress Gao Ye won the top acting prizes at the 39th China Golden Rooster Awards, one of the country's most important film awards, at a ceremony in the coastal city of Xiamen on Tuesday night. Leung was named best actor for his role as Fu Longsheng in the action thriller The Shadow's Edge, and he told the audience that this was his first Golden Rooster nomination in more than 40 years of acting. Gao Ye, widely known for the hit crime drama The Knockout, won best actress for playing Lin Yuxiu in Dead To Rights, a wartime drama set in a photo studio in Nanjing. Gao Ye was visibly emotional on stage, describing the win as a dream come true after about 20 years in the industry, while Leung said the award was a reminder to keep working hard as an actor.",
+      "summary_zh": "香港演员梁家辉和内地女演员高叶周二晚在福建厦门举行的第39届中国电影金鸡奖颁奖典礼上，分别拿下最佳男主角和最佳女主角——金鸡奖是中国最重要的电影奖项之一。梁家辉凭借动作惊悚片《捕风追影》中傅隆生一角获得最佳男主角，他在台上说，这是他从影四十多年来第一次获得金鸡奖提名。因热播刑侦剧《狂飙》而广为人知的高叶，凭借在战争题材电影《南京照相馆》中饰演的林毓秀获得最佳女主角，这部电影的故事发生在南京的一家照相馆里。高叶在台上哽咽落泪，形容这次获奖是入行约二十年后“梦想照进现实”；梁家辉则表示，这个奖提醒他要继续好好演戏。",
+      "why_zh": "金鸡奖是中国电影最重要的奖项之一，影帝影后的结果每年都会刷屏微博。“nomination（提名）”“visibly（明显地）”是看颁奖新闻时的常用词。",
       "image": "",
       "image_credit": "",
-      "source": "Formula1.com; Sky Sports; Motorsport Week; Yahoo Sports; PlanetF1",
-      "url": "https://www.skysports.com/f1/news/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
+      "source": "The Paper (澎湃新闻); Yangtse Evening Post via Sina (扬子晚报); China Golden Rooster and Hundred Flowers Film Festival",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34447200",
       "vocab": [
         {
-          "word": "podium",
-          "phonetic": "/ˈpəʊdiəm/",
+          "word": "nomination",
+          "phonetic": "/ˌnɒmɪˈneɪʃn/",
           "pos": "n.",
-          "zh": "领奖台（前三名）",
-          "example": "Four-time world champion Max Verstappen finished about 14.6 seconds behind in second place after starting 21st on the grid, while French driver Isack Hadjar completed the podium in third."
+          "zh": "提名",
+          "example": "Leung was named best actor for his role as Fu Longsheng in the action thriller The Shadow's Edge, and he told the audience that this was his first Golden Rooster nomination in more than 40 years of acting."
         },
         {
-          "word": "clinch",
-          "phonetic": "/klɪntʃ/",
-          "pos": "v.",
-          "zh": "锁定，（最终）赢得",
-          "example": "Although Mercedes drivers George Russell and Kimi Antonelli finished only fourth and fifth, the team scored enough points to clinch the 2026 Constructors' Championship, which is awarded to the team with the most points across the season."
+          "word": "visibly",
+          "phonetic": "/ˈvɪzəbli/",
+          "pos": "adv.",
+          "zh": "明显地，看得出地",
+          "example": "Gao Ye was visibly emotional on stage, describing the win as a dream come true after about 20 years in the industry, while Leung said the award was a reminder to keep working hard as an actor."
         }
-      ],
-      "explain": {
-        "one_liner": "F1巴西站下大雨，迈凯伦车手诺里斯从杆位出发拿下冠军；梅赛德斯车队虽然没赢这场，但提前锁定了今年的车队总冠军。",
-        "facts": [
-          {
-            "icon": "🏎️",
-            "name": "F1 一级方程式",
-            "text": "全球最高级别的赛车运动，每个赛季在世界各地举办二十多站比赛，澳洲站在墨尔本举行。"
-          },
-          {
-            "icon": "🏆",
-            "name": "车队总冠军 Constructors' Championship",
-            "text": "F1有两个年度总冠军：车手总冠军（个人）和车队总冠军（把同队两名车手的积分加起来）。这次梅赛德斯拿的是车队总冠军。"
-          },
-          {
-            "icon": "🧡",
-            "name": "Lando Norris 兰多·诺里斯",
-            "text": "英国车手，效力于迈凯伦（McLaren）车队；澳洲车手奥斯卡·皮亚斯特里（Oscar Piastri）也是这支车队的车手。"
-          },
-          {
-            "icon": "⭐",
-            "name": "Mercedes 梅赛德斯车队",
-            "text": "德国汽车品牌梅赛德斯-奔驰的F1车队，2014到2021年曾连续八年夺得车队总冠军，这次是第九座。"
-          },
-          {
-            "icon": "🥇",
-            "name": "杆位 pole position",
-            "text": "排位赛跑得最快的车手获得第一个发车位置，叫“杆位”，是最有利的起跑位置。"
-          },
-          {
-            "icon": "🌧️",
-            "name": "Interlagos 英特拉格斯赛道",
-            "text": "位于巴西圣保罗的著名赛道，天气多变，经常出现雨战和意外结果。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "诺里斯",
-            "b": "维斯塔潘",
-            "type": "neutral",
-            "label": "冠军领先亚军约14.6秒"
-          },
-          {
-            "a": "降雨",
-            "b": "比赛进程",
-            "type": "cause",
-            "label": "赛道湿滑，局势多变"
-          },
-          {
-            "a": "拉塞尔和安东内利的积分",
-            "b": "梅赛德斯",
-            "type": "good",
-            "label": "锁定2026年车队总冠军"
-          },
-          {
-            "a": "新技术规则",
-            "b": "车队实力格局",
-            "type": "cause",
-            "label": "新赛季规则大改"
-          }
-        ],
-        "points": [
-          "诺里斯从杆位出发，在雨中赢得圣保罗大奖赛。",
-          "维斯塔潘从第21位发车追到第二，哈贾尔第三。",
-          "梅赛德斯提前锁定2026年车队总冠军。",
-          "这是梅赛德斯2021年以来首个、总共第九个车队总冠军。"
-        ],
-        "relevance": "F1是全球增长最快的体育IP之一，赞助、联名和内容营销（比如Netflix纪录片《Drive to Survive》）吸引了大量年轻观众和女性观众。澳洲有墨尔本大奖赛，还有本土车手皮亚斯特里，很多澳洲品牌都在借F1做营销，了解比赛和车队是和客户、同事聊天的好话题。",
-        "phrase": {
-          "en": "complete the podium",
-          "zh": "（以第三名）登上领奖台"
-        }
-      }
+      ]
     }
   ]
 }

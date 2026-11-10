@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T01:57:44+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Australian consumer confidence falls to a four-year low as mortgage holders hit record gloom",
+      "title_zh": "澳洲消费者信心跌至四年新低，房贷族悲观程度创纪录：近四成人打算圣诞少花钱",
+      "search_zh": "澳洲 消费者信心指数 2026年11月 西太平洋银行 墨尔本研究所 Westpac Melbourne Institute 78.2 四年新低 房贷族 68.1 1994年以来最低 储备银行 加息 4.85% 生活成本 圣诞 礼物 少花钱 零售商",
+      "summary_en": "Australian consumer confidence has fallen to its lowest level in four years, according to the Westpac–Melbourne Institute Consumer Sentiment Index released on Tuesday, which dropped 2.7% to 78.2 points in November. The gloom was sharpest among people with home loans, whose sentiment fell 11.6% to 68.1, the lowest reading for this group since records began in 1994, following the Reserve Bank of Australia's recent interest rate rise to 4.85%. Any reading below 100 means pessimists outnumber optimists, and the survey showed that people had become especially worried about the economy in the near term as high living costs continue to squeeze household budgets. In a worrying sign for retailers heading into the Christmas season, more than 38% of consumers said they planned to spend less on gifts than last year, while only about 14% planned to spend more.",
+      "summary_zh": "根据周二公布的西太平洋银行－墨尔本研究所消费者信心指数，澳洲消费者信心跌至四年来最低水平，11月指数下跌2.7%，至78.2点。有房贷的人最为悲观：他们的信心指数下跌11.6%，至68.1点，是这一群体自1994年有记录以来的最低值，此前澳洲储备银行（RBA）刚把利率上调至4.85%。指数低于100就意味着悲观的人多于乐观的人；调查显示，由于高昂的生活成本持续挤压家庭预算，人们对短期经济前景尤其担忧。对即将进入圣诞销售旺季的零售商来说，这是一个令人担忧的信号：超过38%的消费者表示今年买礼物会比去年少花钱，只有约14%的人打算多花。",
+      "why_zh": "消费者信心直接决定大家敢不敢花钱，对年底圣诞促销和明年的营销预算影响很大。“gloom（低迷、悲观）”“squeeze（挤压）”是经济新闻里描述生活成本压力的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Westpac IQ; Capital Brief; The Nightly; Investing.com; Yahoo Finance Australia",
+      "url": "https://www.westpaciq.com.au/economics/2026/11/consumer-sentiment-november-2026",
+      "vocab": [
+        {
+          "word": "gloom",
+          "phonetic": "/ɡluːm/",
+          "pos": "n.",
+          "zh": "低迷，悲观情绪",
+          "example": "The gloom was sharpest among people with home loans, whose sentiment fell 11.6% to 68.1, the lowest reading for this group since records began in 1994, following the Reserve Bank of Australia's recent interest rate rise to 4.85%."
+        },
+        {
+          "word": "squeeze",
+          "phonetic": "/skwiːz/",
+          "pos": "v.",
+          "zh": "挤压；使（预算、收入）紧张",
+          "example": "Any reading below 100 means pessimists outnumber optimists, and the survey showed that people had become especially worried about the economy in the near term as high living costs continue to squeeze household budgets."
+        }
+      ],
+      "explain": {
+        "one_liner": "加息加上生活成本高，澳洲人对经济越来越没信心，有房贷的人尤其悲观，很多人打算今年圣诞少买礼物。",
+        "facts": [
+          {
+            "icon": "🏦",
+            "name": "Westpac 西太平洋银行",
+            "text": "澳洲“四大银行”之一，每月和墨尔本大学的墨尔本研究所（Melbourne Institute）一起做全国消费者信心调查。"
+          },
+          {
+            "icon": "📊",
+            "name": "消费者信心指数 Consumer Sentiment Index",
+            "text": "通过问卷了解大家对家庭财务和经济前景的看法。100是分界线：高于100说明乐观的人多，低于100说明悲观的人多。这次是78.2，明显偏悲观。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "RBA 澳洲储备银行",
+            "text": "澳洲的中央银行，负责制定基准利率（cash rate）。它加息后，银行通常会跟着提高房贷利率，每月还款就变多。"
+          },
+          {
+            "icon": "🏠",
+            "name": "房贷族 mortgage holders",
+            "text": "正在还房贷的人。利率一涨，他们的压力最直接，所以这次信心跌得最狠，创下1994年以来最低。"
+          },
+          {
+            "icon": "🎁",
+            "name": "圣诞购物季",
+            "text": "每年11月到12月是澳洲零售业最重要的旺季，包括黑色星期五、圣诞节和节礼日（Boxing Day）大促。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "RBA加息至4.85%",
+            "b": "房贷族",
+            "type": "bad",
+            "label": "每月还款增加，信心创新低"
+          },
+          {
+            "a": "高生活成本",
+            "b": "家庭预算",
+            "type": "cause",
+            "label": "持续挤压可支配收入"
+          },
+          {
+            "a": "消费者信心下降",
+            "b": "零售商",
+            "type": "bad",
+            "label": "圣诞销售前景蒙上阴影"
+          },
+          {
+            "a": "Westpac",
+            "b": "墨尔本研究所",
+            "type": "good",
+            "label": "合作发布月度调查"
+          }
+        ],
+        "points": [
+          "11月消费者信心指数下跌2.7%至78.2，为四年来最低。",
+          "房贷族信心下跌11.6%至68.1，是1994年有记录以来最低。",
+          "大家对未来一年左右的经济前景特别担忧。",
+          "超过38%的人打算圣诞礼物少花钱，只有约14%打算多花。"
+        ],
+        "relevance": "这是做年底营销计划时必须看的数据：消费者更谨慎，意味着“性价比”“实用”“分期/会员优惠”这类信息会比单纯的品牌形象更打动人。房贷族是最受影响的人群，针对家庭和年轻买房人群的广告，语气上更适合强调省钱和价值，而不是奢侈和冲动消费。",
+        "phrase": {
+          "en": "cost-of-living squeeze",
+          "zh": "生活成本带来的经济压力"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China says its kindergarten-to-junior-high school-age population has peaked, as it plans smaller classes and more high-school places",
+      "title_zh": "国家发改委：幼儿园、小学、初中学龄人口已经达峰，将推进小班化教学、增加高中和本科学位",
+      "search_zh": "国家发改委 学龄人口 达峰 幼儿园 小学 初中 2026年11月10日 新闻发布会 十四五 在校生减少近1700万 小班化教学 闲置校舍 普通高中学位 优质本科 扩招 出生率 教育焦虑",
+      "summary_en": "China's National Development and Reform Commission (NDRC), the country's top economic planning agency, said on Tuesday that the number of children of kindergarten, primary-school and junior-secondary-school age has already peaked. An official told a press conference that the number of students at these three levels fell by nearly 17 million during the 2021–2025 five-year plan period, reflecting the country's falling birth rate. To make use of the spare places, the government plans to move towards smaller class sizes and allow some empty school buildings to be turned into spaces for art and hands-on skills education. Meanwhile, the number of young people of senior-high-school and university age is still rising, so the authorities have pledged to create more general high-school places and steadily expand enrolment at quality undergraduate universities, a move aimed at easing pressure in a highly competitive education system.",
+      "summary_zh": "中国最高经济规划机构——国家发展改革委（发改委）周二表示，全国幼儿园、小学和初中阶段的学龄人口已经达峰。一位官员在新闻发布会上介绍，“十四五”时期（2021–2025年），这三个阶段的在校生减少了将近1700万人，这反映出中国出生率的下降。为了用好富余出来的学位和校舍，政府计划推进小班化教学，并把部分闲置校舍改造成美育和劳动教育的场所。与此同时，高中和大学阶段的学龄人口还在持续增长，因此有关部门承诺多渠道增加普通高中学位、稳步扩大优质本科招生规模，以缓解竞争激烈的教育体系中的升学压力。",
+      "why_zh": "这条新闻反映了中国人口结构的大变化：孩子变少了，影响从幼儿园一直延伸到母婴、教育和玩具等行业。“peaked（达到顶峰）”“pledged（承诺）”在经济和政策新闻里很常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Beijing Daily (京报网); Sina Finance (新浪财经); Tencent News (腾讯新闻); ifeng (凤凰网)",
+      "url": "https://news.bjd.com.cn/2026/11/10/12024855.shtml",
+      "vocab": [
+        {
+          "word": "peaked",
+          "phonetic": "/piːkt/",
+          "pos": "v.",
+          "zh": "达到顶峰（peak 的过去分词）",
+          "example": "China's National Development and Reform Commission (NDRC), the country's top economic planning agency, said on Tuesday that the number of children of kindergarten, primary-school and junior-secondary-school age has already peaked."
+        },
+        {
+          "word": "pledged",
+          "phonetic": "/pledʒd/",
+          "pos": "v.",
+          "zh": "承诺，保证（pledge 的过去式）",
+          "example": "Meanwhile, the number of young people of senior-high-school and university age is still rising, so the authorities have pledged to create more general high-school places and steadily expand enrolment at quality undergraduate universities, a move aimed at easing pressure in a highly competitive education system."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国出生的孩子变少了，幼儿园到初中的学生人数已经开始下降，政府打算把多出来的教室用来搞小班教学，同时给高中和大学增加更多名额。",
+        "facts": [
+          {
+            "icon": "🏛️",
+            "name": "国家发改委 NDRC",
+            "text": "全称国家发展和改革委员会，是负责制定中国经济和社会发展规划的部门，经常通过新闻发布会介绍民生、投资等政策方向。"
+          },
+          {
+            "icon": "👶",
+            "name": "学龄人口 school-age population",
+            "text": "处于上学年龄段的人口数量。它主要由多年前的出生人数决定，所以出生率下降几年后，就会先在幼儿园、再在小学和初中体现出来。"
+          },
+          {
+            "icon": "📅",
+            "name": "“十四五” 五年规划",
+            "text": "中国每五年制定一次发展规划，“十四五”指2021–2025年，现在进入“十五五”（2026–2030年）。"
+          },
+          {
+            "icon": "🏫",
+            "name": "小班化教学 smaller classes",
+            "text": "减少每个班的学生人数，让老师能更照顾到每个孩子。学生变少后，这样做有了条件。"
+          },
+          {
+            "icon": "🎓",
+            "name": "普通高中 general high school",
+            "text": "以升大学为主要方向的高中，和职业高中相对。很多家长担心孩子考不上普通高中，所以增加普高学位能缓解焦虑。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "出生率下降",
+            "b": "幼儿园到初中学生数",
+            "type": "cause",
+            "label": "十四五期间减少近1700万"
+          },
+          {
+            "a": "富余的教室和校舍",
+            "b": "小班化教学",
+            "type": "good",
+            "label": "空出来的资源被重新利用"
+          },
+          {
+            "a": "高中、大学学龄人口",
+            "b": "学位供给",
+            "type": "bad",
+            "label": "人数还在增加，名额紧张"
+          },
+          {
+            "a": "国家发改委",
+            "b": "普通高中和优质本科",
+            "type": "good",
+            "label": "承诺扩大学位供给"
+          }
+        ],
+        "points": [
+          "幼儿园、小学、初中学龄人口已经达峰。",
+          "“十四五”期间这三个阶段在校生减少近1700万人。",
+          "将推进小班化教学，闲置校舍可改作美育、劳动教育场所。",
+          "高中和高等教育学龄人口仍在增长，将多渠道增加学位。"
+        ],
+        "relevance": "人口结构决定市场规模：母婴、早教、童装、玩具等面向小孩子的市场在中国会继续收缩，而面向青少年和大学生的教育、科技产品市场短期内还在增长。在澳洲做营销的人如果接触中国客户或留学相关业务，这意味着未来几年想出国读书的中国学生群体仍然庞大，但更长远会逐渐变少。",
+        "phrase": {
+          "en": "spare capacity",
+          "zh": "富余的产能/资源"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Tony Leung Ka-fai and Gao Ye win best actor and best actress at the Golden Rooster Awards",
+      "title_zh": "金鸡奖揭晓！梁家辉凭《捕风追影》首获金鸡影帝，高叶凭《南京照相馆》封后",
+      "search_zh": "第39届金鸡奖 2026 厦门 颁奖典礼 梁家辉 捕风追影 傅隆生 最佳男主角 从影四十多年第一次提名 高叶 南京照相馆 林毓秀 最佳女主角 哽咽 梦想照进现实 狂飙",
+      "summary_en": "Hong Kong actor Tony Leung Ka-fai and mainland actress Gao Ye won the top acting prizes at the 39th China Golden Rooster Awards, one of the country's most important film awards, at a ceremony in the coastal city of Xiamen on Tuesday night. Leung was named best actor for his role as Fu Longsheng in the action thriller The Shadow's Edge, and he told the audience that this was his first Golden Rooster nomination in more than 40 years of acting. Gao Ye, widely known for the hit crime drama The Knockout, won best actress for playing Lin Yuxiu in Dead To Rights, a wartime drama set in a photo studio in Nanjing. Gao Ye was visibly emotional on stage, describing the win as a dream come true after about 20 years in the industry, while Leung said the award was a reminder to keep working hard as an actor.",
+      "summary_zh": "香港演员梁家辉和内地女演员高叶周二晚在福建厦门举行的第39届中国电影金鸡奖颁奖典礼上，分别拿下最佳男主角和最佳女主角——金鸡奖是中国最重要的电影奖项之一。梁家辉凭借动作惊悚片《捕风追影》中傅隆生一角获得最佳男主角，他在台上说，这是他从影四十多年来第一次获得金鸡奖提名。因热播刑侦剧《狂飙》而广为人知的高叶，凭借在战争题材电影《南京照相馆》中饰演的林毓秀获得最佳女主角，这部电影的故事发生在南京的一家照相馆里。高叶在台上哽咽落泪，形容这次获奖是入行约二十年后“梦想照进现实”；梁家辉则表示，这个奖提醒他要继续好好演戏。",
+      "why_zh": "金鸡奖是中国电影最重要的奖项之一，影帝影后的结果每年都会刷屏微博。“nomination（提名）”“visibly（明显地）”是看颁奖新闻时的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); Yangtse Evening Post via Sina (扬子晚报); China Golden Rooster and Hundred Flowers Film Festival",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34447200",
+      "vocab": [
+        {
+          "word": "nomination",
+          "phonetic": "/ˌnɒmɪˈneɪʃn/",
+          "pos": "n.",
+          "zh": "提名",
+          "example": "Leung was named best actor for his role as Fu Longsheng in the action thriller The Shadow's Edge, and he told the audience that this was his first Golden Rooster nomination in more than 40 years of acting."
+        },
+        {
+          "word": "visibly",
+          "phonetic": "/ˈvɪzəbli/",
+          "pos": "adv.",
+          "zh": "明显地，看得出地",
+          "example": "Gao Ye was visibly emotional on stage, describing the win as a dream come true after about 20 years in the industry, while Leung said the award was a reminder to keep working hard as an actor."
+        }
+      ]
+    }
+  ]
+}
