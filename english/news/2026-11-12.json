@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T01:57:31+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "David Jones to close 19 of its 38 stores after Australia's oldest department store collapses",
+      "title_zh": "澳洲最老百货David Jones进入托管后宣布关掉一半门店：38家店关19家，约6000名员工前途未卜",
+      "search_zh": "David Jones 关店 19家 38家 2026年11月 接管人 FTI Consulting 自愿管理 McGrathNicol Hilco 债权人 Scentre Westfield 拖欠租金 澳洲百货 倒闭 188年 Anchorage Capital 墨尔本 珀斯 新西兰 Newmarket 6000名员工",
+      "summary_en": "David Jones, Australia's oldest department store, will close 19 of its 38 stores, roughly half of its network, its receivers confirmed on Wednesday. The 188-year-old retailer collapsed last week after rent talks with its biggest landlord, Westfield owner Scentre Group, broke down, and it is now being run by receivers from FTI Consulting, who were appointed by its main lender, Hilco. The closing stores are spread across most states and include Glen Waverley and Highpoint in Melbourne, Garden City and Carousel in Perth, Wollongong Central, and the company's only New Zealand store, in Auckland's Newmarket. The receivers have started consulting staff at the affected stores, which are expected to keep trading through the busy holiday shopping season before closing by the end of the year, while they continue to look for a possible buyer for the business, which employs around 6,000 people.",
+      "summary_zh": "澳洲历史最悠久的百货公司David Jones（DJs）的接管人周三确认，公司将关闭旗下38家门店中的19家，约占门店网络的一半。这家有188年历史的零售商上周倒闭，起因是它与最大的房东——Westfield购物中心的所有者Scentre集团——的租金谈判破裂；目前公司由主要债权人Hilco指派的FTI咨询公司接管人负责运营。关闭的门店分布在大多数州，包括墨尔本的Glen Waverley和Highpoint、珀斯的Garden City和Carousel、新州的Wollongong Central，以及公司在新西兰唯一的门店——奥克兰的Newmarket店。接管人已开始与受影响门店的员工进行协商，这些门店预计会继续营业到年底购物旺季结束、并在年底前关闭；与此同时，接管人仍在为这家拥有约6000名员工的企业寻找潜在买家。",
+      "why_zh": "David Jones是澳洲人从小熟悉的高端百货品牌，它关掉一半门店，说明传统百货在网购和高租金压力下的困境。“landlord（房东）”“affected（受影响的）”是商业和裁员新闻里的常见词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Capital Brief; Ragtrader; SmartCompany; Insolvency Insider; Yahoo Finance Australia",
+      "url": "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
+      "vocab": [
+        {
+          "word": "landlord",
+          "phonetic": "/ˈlændlɔːd/",
+          "pos": "n.",
+          "zh": "房东，业主（出租房产的人或公司）",
+          "example": "The 188-year-old retailer collapsed last week after rent talks with its biggest landlord, Westfield owner Scentre Group, broke down, and it is now being run by receivers from FTI Consulting, who were appointed by its main lender, Hilco."
+        },
+        {
+          "word": "affected",
+          "phonetic": "/əˈfektɪd/",
+          "pos": "adj.",
+          "zh": "受影响的",
+          "example": "The receivers have started consulting staff at the affected stores, which are expected to keep trading through the busy holiday shopping season before closing by the end of the year, while they continue to look for a possible buyer for the business, which employs around 6,000 people."
+        }
+      ],
+      "explain": {
+        "one_liner": "老牌百货David Jones交不起租、还不上债，上周倒闭，现在由专业接管人接手，决定关掉一半门店，同时找买家救命。",
+        "facts": [
+          {
+            "icon": "🛍️",
+            "name": "David Jones（DJs）",
+            "text": "1838年在悉尼创立的高端百货公司，是澳洲历史最悠久的百货店，以化妆品、时装和家居用品出名，2024年被私募基金Anchorage Capital Partners买下。"
+          },
+          {
+            "icon": "🧾",
+            "name": "接管人 receivers",
+            "text": "公司欠钱还不上时，债权人（借钱给公司的一方）可以指派专业人士来接手经营，叫receivers。他们的任务是尽量把钱收回来，比如卖资产、关亏损门店或把公司整体卖掉。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "自愿管理 voluntary administration",
+            "text": "澳洲的一种破产程序：公司董事主动请外部管理人（这次是McGrathNicol）接手，评估公司能不能救、该怎么重组。它和接管可以同时进行。"
+          },
+          {
+            "icon": "🏦",
+            "name": "Hilco",
+            "text": "David Jones的主要债权人（借钱给它的机构）。据报道David Jones违反了贷款协议的条件，Hilco随后指派FTI咨询公司（FTI Consulting）的人担任接管人。"
+          },
+          {
+            "icon": "🏬",
+            "name": "Scentre Group",
+            "text": "在澳洲和新西兰经营Westfield购物中心的上市公司，是David Jones最大的房东。它表示David Jones从9月起就没交房租。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "David Jones",
+            "b": "Scentre Group（Westfield）",
+            "type": "bad",
+            "label": "9月起拖欠租金，谈判破裂"
+          },
+          {
+            "a": "Hilco",
+            "b": "FTI Consulting接管人",
+            "type": "cause",
+            "label": "作为债权人指派接管人"
+          },
+          {
+            "a": "接管人",
+            "b": "19家门店",
+            "type": "bad",
+            "label": "决定年底前关闭"
+          },
+          {
+            "a": "接管人",
+            "b": "潜在买家",
+            "type": "neutral",
+            "label": "仍在寻找出售机会"
+          }
+        ],
+        "points": [
+          "38家门店中将关闭19家，约一半。",
+          "关闭门店遍布多个州，还包括新西兰唯一的门店。",
+          "门店预计营业到年底购物旺季后关闭，员工协商已经开始。",
+          "公司约有6000名员工，接管人还在寻找买家。"
+        ],
+        "relevance": "百货商场一直是美妆、时尚品牌在澳洲重要的线下渠道，David Jones门店减半意味着很多品牌要重新考虑线下铺货、专柜和店内促销的预算，可能更多转向线上、品牌自营店或其他零售商（如Myer）。对营销人来说，这也提醒大家：传统渠道在变弱，年底大促要准备好多渠道方案。",
+        "phrase": {
+          "en": "call in the administrators",
+          "zh": "（公司）请破产管理人接手，进入破产程序"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's Singles' Day struggles to lift weak consumer spending, but health products sell well",
+      "title_zh": "双十一难掩消费疲软：前期销售额与去年持平，进口鱼油等健康产品逆势热销",
+      "search_zh": "2026 双十一 销售额 星图数据 Syntun 截至10月31日 超1万亿元 与去年同期持平 2025年 近1.7万亿 消费疲软 房地产 中产 雷小山 Shaun Rein 优惠力度变小 全年打折 WPIC 进口鱼油 增长43% 助眠 关节 保健品",
+      "summary_en": "China's Singles' Day shopping festival, which peaked on Wednesday, 11 November, is struggling to shake off weak consumer spending despite weeks of discounts, according to early sales data and analysts. Retail data firm Syntun said cumulative sales across e-commerce platforms had reached just over 1 trillion yuan (about US$154 billion) by 31 October, broadly in line with the same period last year, after a record of nearly 1.7 trillion yuan for the whole festival in 2025. Analysts blame a years-long property downturn that has left many middle-class families feeling less wealthy, and Shaun Rein of China Market Research Group said many festival deals now offer smaller savings than in the past, while retailers also offer discounts all year round. One bright spot is health and wellbeing: data from consultancy WPIC Marketing + Technologies showed online sales of imported fish oil rose nearly 43% in the 12 months to September, while sales of supplements for better sleep and joint and bone health grew by 28% to 37%.",
+      "summary_zh": "据早期销售数据和分析人士称，11月11日周三迎来高潮的中国“双十一”购物节，尽管已经打折好几周，仍难以摆脱消费疲软的局面。零售数据机构星图数据（Syntun）表示，截至10月31日，各电商平台的累计销售额略超过1万亿元人民币（约合1540亿美元），与去年同期大致持平；而2025年整个双十一的销售额创下近1.7万亿元的纪录。分析人士认为，持续多年的房地产低迷让许多中产家庭觉得自己没那么富裕了；中国市场研究集团（China Market Research Group）的雷小山（Shaun Rein）表示，现在很多双十一优惠的力度比过去小，而且商家一年到头都在打折。健康养生类产品是少有的亮点：咨询公司WPIC Marketing + Technologies的数据显示，截至9月的12个月里，进口鱼油的线上销售额增长近43%，助眠和关节、骨骼保健类补充剂的销售额也增长了28%至37%。",
+      "why_zh": "双十一是全球最大的网购节，它的冷热反映了中国消费者的钱包和心态。“shake off（摆脱）”“downturn（低迷、下滑）”是经济新闻里描述困境的高频表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "Associated Press (via ABC News US, WRAL); Quartz; Syntun (星图数据)",
+      "url": "https://abcnews.com/Business/wireStory/subdued-sales-singles-day-chinas-online-shopping-festival-138035152",
+      "vocab": [
+        {
+          "word": "shake off",
+          "phonetic": "/ʃeɪk ɒf/",
+          "pos": "phr. v.",
+          "zh": "摆脱，甩掉（不好的状况）",
+          "example": "China's Singles' Day shopping festival, which peaked on Wednesday, 11 November, is struggling to shake off weak consumer spending despite weeks of discounts, according to early sales data and analysts."
+        },
+        {
+          "word": "downturn",
+          "phonetic": "/ˈdaʊntɜːn/",
+          "pos": "n.",
+          "zh": "（经济、市场的）低迷，下滑",
+          "example": "Analysts blame a years-long property downturn that has left many middle-class families feeling less wealthy, and Shaun Rein of China Market Research Group said many festival deals now offer smaller savings than in the past, while retailers also offer discounts all year round."
+        }
+      ],
+      "explain": {
+        "one_liner": "今年双十一打折打了好几周，但大家买得并不比去年多；只有鱼油、助眠等健康类产品卖得特别好。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "双十一 Singles' Day",
+            "text": "每年11月11日的网购节，由阿里巴巴旗下的淘宝天猫在2009年发起，现在京东、抖音等平台都参加。活动早已不止一天，通常从10月中旬就开始。"
+          },
+          {
+            "icon": "📊",
+            "name": "星图数据 Syntun",
+            "text": "一家专门统计中国电商销售数据的第三方机构。因为阿里、京东等平台已经不公布总成交额，星图的数字常被媒体引用。"
+          },
+          {
+            "icon": "🏠",
+            "name": "房地产低迷 property downturn",
+            "text": "中国房价近几年持续下跌。很多家庭的主要财富是房子，房子贬值让大家觉得自己变“穷”了，于是更不愿意花钱。"
+          },
+          {
+            "icon": "🔎",
+            "name": "雷小山 Shaun Rein",
+            "text": "上海的市场调研公司中国市场研究集团（China Market Research Group）的创始人兼董事总经理，经常在外媒上评论中国消费市场。"
+          },
+          {
+            "icon": "💊",
+            "name": "WPIC Marketing + Technologies",
+            "text": "一家帮助外国品牌在中国等亚洲电商平台上卖货的咨询和运营公司，它的数据显示保健品卖得很好。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "房地产低迷",
+            "b": "中产消费者",
+            "type": "cause",
+            "label": "觉得没那么富裕，花钱更谨慎"
+          },
+          {
+            "a": "全年打折",
+            "b": "双十一吸引力",
+            "type": "bad",
+            "label": "大促不再“特别便宜”"
+          },
+          {
+            "a": "健康养生潮流",
+            "b": "进口鱼油、保健品",
+            "type": "good",
+            "label": "销量逆势大涨"
+          },
+          {
+            "a": "星图数据",
+            "b": "双十一销售额",
+            "type": "neutral",
+            "label": "第三方统计，前期与去年持平"
+          }
+        ],
+        "points": [
+          "截至10月31日，全网累计销售额略超1万亿元，与去年同期大致持平。",
+          "2025年双十一创下近1.7万亿元的纪录。",
+          "房地产低迷、优惠变少、全年打折，让双十一的吸引力下降。",
+          "进口鱼油线上销售增长近43%，助眠、关节类保健品增长28%–37%。"
+        ],
+        "relevance": "澳洲保健品品牌（比如鱼油、维生素类）在中国电商上很受欢迎，这条新闻说明“健康养生”仍是中国消费者愿意花钱的方向，对做跨境电商、代购或面向华人消费者营销的人很有参考价值。同时也提醒：单靠“大打折”已经不够，讲清楚产品功效和品质更能打动人。",
+        "phrase": {
+          "en": "consumer sentiment",
+          "zh": "消费者情绪/信心"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "Take-Two shares jump as GTA VI stays on track for 19 November launch with record pre-orders",
+      "title_zh": "《GTA6》确认11月19日如期发售、预购远超预期，Take-Two股价大涨逾7%",
+      "search_zh": "Take-Two 财报 2026年11月 GTA6 侠盗猎车手6 11月19日 发售 预购 远超预期 泽尔尼克 Strauss Zelnick 净预订额 16亿美元 下降18% NBA 2K27 全年 80亿 82亿美元 股价 上涨 Rockstar",
+      "summary_en": "Shares in Take-Two Interactive, the US company behind the Grand Theft Auto video game series, jumped more than 7% on Tuesday after it confirmed that Grand Theft Auto VI will launch on 19 November as planned. Chief executive Strauss Zelnick said pre-orders for the game were tracking \"far in excess\" of the company's initial expectations, although he did not reveal any numbers. The quarterly results themselves were weaker, with net bookings, a key industry measure of sales, falling 18% from a year earlier to US$1.6 billion in the three months to September, below the company's own forecast, partly because its basketball game NBA 2K27 sold less than expected. Take-Two kept its full-year forecast for net bookings of US$8.0 billion to US$8.2 billion, saying it preferred to see how the new game actually sells after launch before raising its outlook.",
+      "summary_zh": "《侠盗猎车手》（GTA）系列游戏背后的美国公司Take-Two Interactive确认《GTA6》将如期在11月19日发售，公司股价周二大涨超过7%。首席执行官施特劳斯·泽尔尼克（Strauss Zelnick）表示，这款游戏的预购量“远远超出”公司最初的预期，但他没有透露具体数字。季度业绩本身则比较疲弱：在截至9月的三个月里，衡量游戏公司销售的重要指标“净预订额”同比下降18%，至16亿美元，低于公司自己的预测，部分原因是篮球游戏《NBA 2K27》卖得不如预期。Take-Two维持全年净预订额80亿至82亿美元的预测，表示要先看看新游戏发售后的实际销量，再决定是否上调业绩展望。",
+      "why_zh": "《GTA6》是近几年全球最受期待的游戏之一，它的发售会是一次超级营销事件。“pre-orders（预购、预订单）”“outlook（前景、业绩展望）”是产品发布和财报新闻中的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Take-Two Interactive (SEC filing); Yahoo Finance; Investing.com; The Motley Fool; Inven Global",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm",
+      "vocab": [
+        {
+          "word": "pre-orders",
+          "phonetic": "/ˈpriː ɔːdəz/",
+          "pos": "n.",
+          "zh": "预购，预订单",
+          "example": "Chief executive Strauss Zelnick said pre-orders for the game were tracking \"far in excess\" of the company's initial expectations, although he did not reveal any numbers."
+        },
+        {
+          "word": "outlook",
+          "phonetic": "/ˈaʊtlʊk/",
+          "pos": "n.",
+          "zh": "前景；（公司的）业绩展望",
+          "example": "Take-Two kept its full-year forecast for net bookings of US$8.0 billion to US$8.2 billion, saying it preferred to see how the new game actually sells after launch before raising its outlook."
+        }
+      ],
+      "explain": {
+        "one_liner": "大家等了十几年的《GTA6》下周就要上市，预购火爆，所以就算这个季度业绩一般，投资者还是抢着买Take-Two的股票。",
+        "facts": [
+          {
+            "icon": "🎮",
+            "name": "Take-Two Interactive",
+            "text": "美国上市的游戏公司，旗下有开发《GTA》和《荒野大镖客》的Rockstar Games，以及做《NBA 2K》系列的2K。"
+          },
+          {
+            "icon": "🚗",
+            "name": "《GTA》Grand Theft Auto 侠盗猎车手",
+            "text": "全球最畅销的游戏系列之一。上一部《GTA5》2013年发售，所以《GTA6》等了十多年，之前还推迟过发售日期。"
+          },
+          {
+            "icon": "👔",
+            "name": "施特劳斯·泽尔尼克 Strauss Zelnick",
+            "text": "Take-Two的董事长兼首席执行官，长期负责公司的整体战略。"
+          },
+          {
+            "icon": "📈",
+            "name": "净预订额 net bookings",
+            "text": "游戏公司常用的销售指标，指一段时间内玩家实际下单购买游戏和游戏内内容的金额，比会计上的“收入”更能及时反映卖得好不好。"
+          },
+          {
+            "icon": "🔮",
+            "name": "业绩指引 guidance / outlook",
+            "text": "公司自己对未来销售和利润的预测。维持指引说明公司对目标有信心，但也比较谨慎，想等实际数据出来再调整。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "《GTA6》预购火爆",
+            "b": "Take-Two股价",
+            "type": "good",
+            "label": "投资者看好，股价大涨"
+          },
+          {
+            "a": "《NBA 2K27》",
+            "b": "季度净预订额",
+            "type": "bad",
+            "label": "卖得不如预期，拖累业绩"
+          },
+          {
+            "a": "Take-Two",
+            "b": "全年预测",
+            "type": "neutral",
+            "label": "维持80亿至82亿美元不变"
+          },
+          {
+            "a": "Rockstar Games",
+            "b": "《GTA6》",
+            "type": "cause",
+            "label": "开发这款游戏"
+          }
+        ],
+        "points": [
+          "《GTA6》确认将在11月19日如期发售。",
+          "CEO表示预购“远远超出”最初预期，但没公布数字。",
+          "7–9月净预订额同比下降18%至16亿美元，低于公司预测。",
+          "全年净预订额预测维持在80亿至82亿美元。"
+        ],
+        "relevance": "《GTA6》的发售本身就是一场全球性的营销大事件：预告片、预购、话题热度都能带动周边、电子产品甚至外卖和零食的销量，很多品牌会借势做内容营销。它也说明一个强大IP的长期品牌积累，能让消费者心甘情愿提前掏钱，这对做品牌和产品发布的营销人很有启发。",
+        "phrase": {
+          "en": "on track",
+          "zh": "按计划进行，进展顺利"
+        }
+      }
+    }
+  ]
+}
