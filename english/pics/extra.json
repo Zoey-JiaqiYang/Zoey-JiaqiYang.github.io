@@ -4946,5 +4946,205 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "marketing-talk",
+    "added": "2026-11-12",
+    "name": "营销行话",
+    "icon": "📣",
+    "prompt": "营销圈怎么说？",
+    "items": [
+      {
+        "emoji": "🗣️",
+        "w": "word of mouth",
+        "ph": "/ˌwɜːd əv ˈmaʊθ/",
+        "pos": "n.",
+        "zh": "口碑传播",
+        "ex": "Most of our new customers come through word of mouth.",
+        "tip": "WOM marketing = 口碑营销",
+        "accept": [
+          "word of mouth",
+          "wom",
+          "referral",
+          "recommendation"
+        ],
+        "near": [
+          "buzz"
+        ]
+      },
+      {
+        "emoji": "🐝",
+        "w": "buzz",
+        "ph": "/bʌz/",
+        "pos": "n.",
+        "zh": "话题热度",
+        "ex": "The teaser created a lot of buzz before launch.",
+        "tip": "generate / create buzz = 制造话题",
+        "accept": [
+          "buzz",
+          "hype",
+          "excitement"
+        ],
+        "near": [
+          "word of mouth"
+        ]
+      },
+      {
+        "emoji": "👀",
+        "w": "eyeballs",
+        "ph": "/ˈaɪbɔːlz/",
+        "pos": "n.",
+        "zh": "（广告）关注、眼球",
+        "ex": "The finals get millions of eyeballs, so the ad slots are pricey.",
+        "tip": "营销口语 eyeballs = 观看人数、注意力",
+        "accept": [
+          "eyeballs",
+          "attention",
+          "views",
+          "impressions"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📺",
+        "w": "TVC",
+        "ph": "/ˌtiː viː ˈsiː/",
+        "pos": "n.",
+        "zh": "电视广告片",
+        "ex": "We're shooting a 30-second TVC next month.",
+        "tip": "TV commercial 的缩写，澳洲广告圈常用",
+        "accept": [
+          "TVC",
+          "tv ad",
+          "tv commercial",
+          "commercial"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📰",
+        "w": "press release",
+        "ph": "/ˈpres rɪˌliːs/",
+        "pos": "n.",
+        "zh": "新闻稿",
+        "ex": "Send the press release to media under embargo.",
+        "tip": "under embargo = 约定时间前不得发布",
+        "accept": [
+          "press release",
+          "media release",
+          "announcement"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🪧",
+        "w": "billboard",
+        "ph": "/ˈbɪlbɔːd/",
+        "pos": "n.",
+        "zh": "广告牌",
+        "ex": "Our billboard is right outside Central Station.",
+        "tip": "户外广告 = OOH (out-of-home)",
+        "accept": [
+          "billboard",
+          "outdoor ad",
+          "ooh",
+          "sign"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "#️⃣",
+        "w": "hashtag",
+        "ph": "/ˈhæʃtæɡ/",
+        "pos": "n.",
+        "zh": "话题标签",
+        "ex": "Use the campaign hashtag in every post.",
+        "tip": "",
+        "accept": [
+          "hashtag",
+          "tag",
+          "#"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔁",
+        "w": "repost",
+        "ph": "/ˌriːˈpəʊst/",
+        "pos": "v./n.",
+        "zh": "转发",
+        "ex": "The brand reposted our customer's video.",
+        "tip": "",
+        "accept": [
+          "repost",
+          "share",
+          "reshare",
+          "retweet"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📸",
+        "w": "photo shoot",
+        "ph": "/ˈfəʊtəʊ ʃuːt/",
+        "pos": "n.",
+        "zh": "拍摄（照片）",
+        "ex": "The product photo shoot is on Thursday at the studio.",
+        "tip": "",
+        "accept": [
+          "photo shoot",
+          "shoot",
+          "photoshoot"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧠",
+        "w": "top of mind",
+        "ph": "/ˌtɒp əv ˈmaɪnd/",
+        "pos": "phr.",
+        "zh": "（品牌）首先想到的",
+        "ex": "We want our brand to be top of mind when people think of coffee.",
+        "tip": "top-of-mind awareness = 第一提及率",
+        "accept": [
+          "top of mind",
+          "brand recall",
+          "awareness"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "✨",
+        "w": "rebrand",
+        "ph": "/ˌriːˈbrænd/",
+        "pos": "v./n.",
+        "zh": "品牌重塑",
+        "ex": "The company rebranded with a new logo and name.",
+        "tip": "",
+        "accept": [
+          "rebrand",
+          "refresh",
+          "brand refresh",
+          "makeover"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📈",
+        "w": "uptick",
+        "ph": "/ˈʌptɪk/",
+        "pos": "n.",
+        "zh": "小幅上升",
+        "ex": "We saw an uptick in sales after the campaign.",
+        "tip": "比 increase 更口语，常用于数据小幅增长",
+        "accept": [
+          "uptick",
+          "increase",
+          "growth",
+          "boost"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
