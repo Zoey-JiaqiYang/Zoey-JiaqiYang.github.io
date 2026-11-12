@@ -5146,5 +5146,205 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "aussie-slang-2",
+    "added": "2026-11-13",
+    "name": "澳洲口语 2",
+    "icon": "🤠",
+    "prompt": "澳洲人会怎么说？",
+    "items": [
+      {
+        "emoji": "🤠",
+        "w": "G'day",
+        "ph": "/ɡəˈdaɪ/",
+        "pos": "int.",
+        "zh": "你好（澳洲招呼）",
+        "ex": "G'day mate, how's it going?",
+        "tip": "Good day 的连读；常接 mate",
+        "accept": [
+          "G'day",
+          "gday",
+          "good day",
+          "hello"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😌",
+        "w": "no worries",
+        "ph": "/nəʊ ˈwʌriz/",
+        "pos": "phr.",
+        "zh": "没事、不客气",
+        "ex": "Thanks for the help! — No worries.",
+        "tip": "澳洲万能回答：不客气 / 没关系 / 好的",
+        "accept": [
+          "no worries",
+          "no problem",
+          "all good",
+          "no dramas"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤔",
+        "w": "reckon",
+        "ph": "/ˈrekən/",
+        "pos": "v.",
+        "zh": "觉得、认为",
+        "ex": "Do you reckon it'll rain this arvo?",
+        "tip": "澳洲口语常用，比 think 更随意",
+        "accept": [
+          "reckon",
+          "think",
+          "guess"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "😁",
+        "w": "keen",
+        "ph": "/kiːn/",
+        "pos": "adj.",
+        "zh": "很想、有兴趣的",
+        "ex": "Drinks after work? — Yeah, I'm keen!",
+        "tip": "I'm keen = 我想去",
+        "accept": [
+          "keen",
+          "up for it",
+          "interested",
+          "excited"
+        ],
+        "near": [
+          "stoked"
+        ]
+      },
+      {
+        "emoji": "🥳",
+        "w": "stoked",
+        "ph": "/stəʊkt/",
+        "pos": "adj.",
+        "zh": "超开心的",
+        "ex": "I'm so stoked we won the pitch!",
+        "tip": "",
+        "accept": [
+          "stoked",
+          "thrilled",
+          "happy",
+          "excited"
+        ],
+        "near": [
+          "keen"
+        ]
+      },
+      {
+        "emoji": "😩",
+        "w": "knackered",
+        "ph": "/ˈnækəd/",
+        "pos": "adj.",
+        "zh": "累坏了",
+        "ex": "I'm absolutely knackered after that week.",
+        "tip": "澳洲也说 buggered / stuffed",
+        "accept": [
+          "knackered",
+          "exhausted",
+          "tired",
+          "stuffed"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌇",
+        "w": "arvo",
+        "ph": "/ˈɑːvəʊ/",
+        "pos": "n.",
+        "zh": "下午",
+        "ex": "See you Saturday arvo!",
+        "tip": "afternoon 的澳洲简称",
+        "accept": [
+          "arvo",
+          "afternoon"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🥓",
+        "w": "brekkie",
+        "ph": "/ˈbreki/",
+        "pos": "n.",
+        "zh": "早餐",
+        "ex": "Let's grab brekkie before work.",
+        "tip": "breakfast 的澳洲口语",
+        "accept": [
+          "brekkie",
+          "breakfast",
+          "brekky"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍶",
+        "w": "bottle-o",
+        "ph": "/ˈbɒtl əʊ/",
+        "pos": "n.",
+        "zh": "卖酒的商店",
+        "ex": "I'll grab some wine from the bottle-o on the way.",
+        "tip": "bottle shop 的澳洲口语",
+        "accept": [
+          "bottle-o",
+          "bottle shop",
+          "liquor store"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🙏",
+        "w": "ta",
+        "ph": "/tɑː/",
+        "pos": "int.",
+        "zh": "谢谢（口语）",
+        "ex": "Ta, I'll pay you back tomorrow.",
+        "tip": "澳洲/英国口语里很短的「谢谢」",
+        "accept": [
+          "ta",
+          "thanks",
+          "cheers",
+          "thank you"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚃",
+        "w": "chockers",
+        "ph": "/ˈtʃɒkəz/",
+        "pos": "adj.",
+        "zh": "挤满了的",
+        "ex": "The train was chockers this morning.",
+        "tip": "chock-a-block 的澳洲简称",
+        "accept": [
+          "chockers",
+          "packed",
+          "full",
+          "crowded"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🤨",
+        "w": "dodgy",
+        "ph": "/ˈdɒdʒi/",
+        "pos": "adj.",
+        "zh": "可疑的、不靠谱的",
+        "ex": "That website looks a bit dodgy — don't put your card details in.",
+        "tip": "",
+        "accept": [
+          "dodgy",
+          "sketchy",
+          "suspicious",
+          "shady"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
