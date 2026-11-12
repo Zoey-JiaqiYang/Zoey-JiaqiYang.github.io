@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T01:57:28+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Nvidia's Jensen Huang resigns as CEO, with CFO Colette Kress stepping in and shares sliding",
+      "title_zh": "英伟达创始人黄仁勋突然辞去CEO职务，财务长克雷斯暂代，股价早盘重挫超10%",
+      "search_zh": "黄仁勋 辞职 英伟达 Nvidia CEO 2026年11月12日 科莱特·克雷斯 Colette Kress 临时CEO 董事会 接班人 股价 下跌 10% 纳斯达克 AI芯片 GPU 1993年 创立",
+      "summary_en": "Jensen Huang, who co-founded the chipmaker Nvidia in 1993 and turned it into one of the world's most valuable companies, has resigned as chief executive, president and board member with immediate effect, the company announced on Thursday US time. Nvidia's board named chief financial officer Colette Kress as interim CEO while it searches for a permanent successor, and it is considering candidates from both inside and outside the company. The company did not give a reason for his departure, which followed days of media reports about his private life and an investigation commissioned by the board. Nvidia shares fell more than 10% in early trading on Thursday, dragging down the wider US market, as investors worried about the future of the company whose chips power much of the global AI boom.",
+      "summary_zh": "芯片公司英伟达（Nvidia）周四（美国时间）宣布，1993年参与创立公司、并把它打造成全球市值最高企业之一的黄仁勋（Jensen Huang），已辞去首席执行官、总裁和董事会成员职务，立即生效。英伟达董事会任命首席财务官科莱特·克雷斯（Colette Kress）担任临时首席执行官，同时寻找正式接班人，内部和外部的人选都在考虑之中。公司没有说明他离职的原因；在此之前，媒体连续数日报道了他的私人生活，董事会也为此委托开展了调查。英伟达股价周四早盘下跌超过10%，拖累了整个美国股市，因为投资者担心这家公司的前景——它的芯片支撑着全球很大一部分的AI热潮。",
+      "why_zh": "黄仁勋穿皮夹克的形象几乎就是英伟达和AI热潮的“代言人”，创始人突然离开是全球科技和股市的大新闻。“successor（接班人）”“drag down（拖累）”是讲公司换帅和股市的高频表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNBC; TechCrunch; ABC News (US); Quartz; Yahoo Finance; Benzinga",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "vocab": [
+        {
+          "word": "successor",
+          "phonetic": "/səkˈsesə/",
+          "pos": "n.",
+          "zh": "接班人，继任者",
+          "example": "Nvidia's board named chief financial officer Colette Kress as interim CEO while it searches for a permanent successor, and it is considering candidates from both inside and outside the company."
+        },
+        {
+          "word": "dragging down",
+          "phonetic": "/ˈdræɡɪŋ daʊn/",
+          "pos": "phr. v.",
+          "zh": "拖累，拉低",
+          "example": "Nvidia shares fell more than 10% in early trading on Thursday, dragging down the wider US market, as investors worried about the future of the company whose chips power much of the global AI boom."
+        }
+      ],
+      "explain": {
+        "one_liner": "带领英伟达30多年、被看作AI时代“卖铲人”的创始人黄仁勋突然辞职，财务长临时接手，投资者一紧张，股价大跌。",
+        "facts": [
+          {
+            "icon": "💻",
+            "name": "英伟达 Nvidia",
+            "text": "美国芯片公司，最出名的是GPU（图形处理器）。GPU原本用来玩游戏，后来成了训练和运行ChatGPT这类AI的核心硬件，所以英伟达在AI热潮中成为全球市值最高的公司之一。"
+          },
+          {
+            "icon": "🧥",
+            "name": "黄仁勋 Jensen Huang",
+            "text": "出生于台湾的美籍华裔企业家，1993年与人共同创立英伟达，此后一直担任首席执行官，以穿黑色皮夹克演讲闻名。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "科莱特·克雷斯 Colette Kress",
+            "text": "英伟达的首席财务官（CFO，负责公司财务的最高管理者），现在被任命为临时CEO，直到找到正式接班人。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "董事会 board",
+            "text": "代表股东监督公司的一群董事，有权任命或撤换CEO。这次是董事会接受了黄仁勋的辞职，并负责挑选新CEO。"
+          },
+          {
+            "icon": "⏳",
+            "name": "临时CEO interim CEO",
+            "text": "在正式人选确定前暂时代理的首席执行官，是公司突然换帅时常见的过渡安排。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "黄仁勋",
+            "b": "英伟达",
+            "type": "neutral",
+            "label": "创始人，立即辞去CEO和董事职务"
+          },
+          {
+            "a": "英伟达董事会",
+            "b": "科莱特·克雷斯",
+            "type": "good",
+            "label": "任命为临时CEO"
+          },
+          {
+            "a": "创始人离职",
+            "b": "英伟达股价",
+            "type": "cause",
+            "label": "投资者担忧，早盘跌超10%"
+          },
+          {
+            "a": "英伟达股价下跌",
+            "b": "美国股市",
+            "type": "bad",
+            "label": "拖累大盘，尤其是科技股"
+          }
+        ],
+        "points": [
+          "黄仁勋辞去CEO、总裁和董事职务，立即生效。",
+          "财务长克雷斯任临时CEO，董事会从内外部寻找正式接班人。",
+          "公司没有公布辞职原因，此前媒体连日报道他的私人生活，董事会也委托了调查。",
+          "英伟达股价周四早盘跌超10%，拖累美股。"
+        ],
+        "relevance": "英伟达的芯片是几乎所有AI工具（包括营销人每天用的AI写作、做图工具）背后的“发动机”。它的领导层变动会影响市场对AI行业的信心，也可能影响科技公司的投资和广告预算。另外这也是一个品牌课题：当创始人就是品牌形象本身时，个人风波会直接冲击公司价值，所以很多公司会刻意打造“不只靠一个人”的品牌。",
+        "phrase": {
+          "en": "step down",
+          "zh": "辞职，卸任（尤指高层职位）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Regional flights cost about 13% more per kilometre than city routes, Productivity Commission finds",
+      "title_zh": "生产力委员会报告：澳洲地区航线每公里票价比大城市贵约13%，七成航线只有一家航空公司",
+      "search_zh": "生产力委员会 Productivity Commission 地区机票 regional airfares 中期报告 2026年11月 每公里贵13% 72%航线 单一航空公司 澳航 Qantas 捷星 维珍澳洲 Virgin Australia Rex 6000万澳元 公开招标 补贴航线 就医 2027年4月 最终报告",
+      "summary_en": "Flying to and from regional Australia costs about 13% more per kilometre than flying between major cities, according to an interim report released on Wednesday by the Productivity Commission, the federal government's independent economic advisory body. The report found that only one airline operates on 72% of regional routes, and that more than 90% of regional and remote passengers flew with either the Qantas Group, which includes Jetstar, or Virgin Australia in 2025. However, it said airlines were generally not making unusually large profits on these routes, because operating costs make up about 91% of the average fare, leaving profit margins broadly similar to those on city routes. Instead of governments propping up individual airlines, such as the A$60 million in support given to Rex, which entered administration in 2024, the commission recommended removing barriers to competition, putting subsidised essential routes out to open tender and doing more to help people who fly to get medical care, with a final report due in April 2027.",
+      "summary_zh": "澳洲生产力委员会（Productivity Commission，联邦政府的独立经济咨询机构）周三发布的一份中期报告显示，往返澳洲地区（偏远城镇）的航班，每公里票价比大城市之间的航班贵约13%。报告发现，72%的地区航线只有一家航空公司在飞；2025年，超过90%的地区和偏远地区乘客乘坐的是澳航集团（包括捷星）或维珍澳洲的航班。不过报告也指出，航空公司在这些航线上一般并没有赚取特别高的利润，因为运营成本约占平均票价的91%，利润率与城市航线大致相当。委员会建议，政府不要再出钱扶持个别航空公司（比如曾向2024年进入破产管理程序的Rex航空提供6000万澳元支持），而应消除阻碍竞争的壁垒、通过公开招标来补贴必要航线，并更多帮助需要坐飞机去看病的人；最终报告将于2027年4月发布。",
+      "why_zh": "在澳洲，从大城市飞小城镇的机票常常贵得离谱，这份报告解释了原因，也和旅行、生活成本直接相关。“margins（利润率）”“prop up（扶持、撑住）”是商业新闻里非常实用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "AAP (via Canberra Times, Yahoo News Australia); ABC News; Business News; Productivity Commission",
+      "url": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592",
+      "vocab": [
+        {
+          "word": "margins",
+          "phonetic": "/ˈmɑːdʒɪnz/",
+          "pos": "n.",
+          "zh": "利润率；（收入与成本之间的）差额",
+          "example": "However, it said airlines were generally not making unusually large profits on these routes, because operating costs make up about 91% of the average fare, leaving profit margins broadly similar to those on city routes."
+        },
+        {
+          "word": "propping up",
+          "phonetic": "/ˈprɒpɪŋ ʌp/",
+          "pos": "phr. v.",
+          "zh": "支撑，扶持（尤指用钱帮快撑不下去的企业）",
+          "example": "Instead of governments propping up individual airlines, such as the A$60 million in support given to Rex, which entered administration in 2024, the commission recommended removing barriers to competition, putting subsidised essential routes out to open tender and doing more to help people who fly to get medical care, with a final report due in April 2027."
+        }
+      ],
+      "explain": {
+        "one_liner": "政府请专家查“为什么飞小城镇这么贵”，初步结论是：主要不是航空公司赚太多，而是成本高、竞争少，建议政府别再只救某一家航空公司。",
+        "facts": [
+          {
+            "icon": "📑",
+            "name": "生产力委员会 Productivity Commission",
+            "text": "澳洲联邦政府的独立研究和咨询机构，专门研究经济和社会政策问题，给政府提建议，但建议不一定会被采纳。"
+          },
+          {
+            "icon": "🗺️",
+            "name": "地区航线 regional routes",
+            "text": "指往返澳洲偏远城镇和乡村地区的航班，比如飞往矿区、小城市的航线，和悉尼—墨尔本这种大城市之间的航线相对。"
+          },
+          {
+            "icon": "✈️",
+            "name": "澳航集团和维珍澳洲",
+            "text": "澳航集团（Qantas Group）旗下有澳航和廉价航空捷星（Jetstar）；维珍澳洲（Virgin Australia）是另一家大型航空公司。两家合计占了绝大部分国内市场。"
+          },
+          {
+            "icon": "🛩️",
+            "name": "Rex航空",
+            "text": "澳洲一家主要飞地区航线的航空公司，2024年进入破产管理程序（administration），政府曾出钱支持它继续运营地区航线。"
+          },
+          {
+            "icon": "📊",
+            "name": "利润率 profit margin",
+            "text": "公司收入中扣掉成本后剩下的利润所占的比例。报告说运营成本约占票价的91%，所以航空公司在这些航线上赚得并不算多。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "竞争少（72%航线只有一家）",
+            "b": "地区机票价格",
+            "type": "cause",
+            "label": "缺少竞争，票价偏高"
+          },
+          {
+            "a": "运营成本",
+            "b": "票价",
+            "type": "cause",
+            "label": "约占平均票价的91%"
+          },
+          {
+            "a": "政府",
+            "b": "Rex航空",
+            "type": "neutral",
+            "label": "曾提供6000万澳元支持，报告不建议这样做"
+          },
+          {
+            "a": "生产力委员会",
+            "b": "政府",
+            "type": "good",
+            "label": "建议消除竞争壁垒、公开招标补贴航线"
+          }
+        ],
+        "points": [
+          "地区航线每公里票价比大城市航线贵约13%。",
+          "72%的地区航线只有一家航空公司；九成以上乘客坐澳航集团或维珍。",
+          "航空公司在这些航线上利润率并不特别高，运营成本约占票价91%。",
+          "建议别扶持个别航空公司，改为公开招标补贴必要航线，并帮助乘机就医的人；最终报告2027年4月发布。"
+        ],
+        "relevance": "做营销的人常要出差去各地办活动、拜访客户，地区机票贵会直接影响差旅预算和活动选址。对旅游、酒店和地区品牌来说，机票价格也决定了游客愿不愿意去，所以“交通成本”是做地区旅游推广时绕不开的因素。",
+        "phrase": {
+          "en": "out of reach",
+          "zh": "（价格等）高不可攀，负担不起"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Actress Zhao Liying sues short-drama app Hongguo over alleged AI face-swapping of her image",
+      "title_zh": "赵丽颖起诉红果短剧：指控未经授权用AI换脸使用其肖像，索赔81万元",
+      "search_zh": "赵丽颖 起诉 红果短剧 肖像权纠纷 AI换脸 融脸 索赔81万 11月10日 开庭 北京门头沟区人民法院 笔墨留香 北京抖音信息服务 字节跳动 670部短剧 微博热搜",
+      "summary_en": "Chinese actress Zhao Liying has sued the operator of Hongguo, a popular free short-drama app owned by ByteDance, the company behind Douyin and TikTok, and the case became one of the top trending topics on Weibo on Thursday. In a portrait rights case heard by a Beijing court on Tuesday, she claims that AI face-swapping technology was used without her permission to put her likeness into short dramas and their cover images to attract viewers, and she is seeking 810,000 yuan in compensation and a public apology. According to Chinese media reports, the defendants argued in court that the images were randomly generated by AI rather than deliberately copied, and the court has not yet issued a ruling. The case has sparked wide discussion online about how ordinary people, not just celebrities, can protect their faces in the age of AI, after Hongguo said earlier this year that it had dealt with 670 short dramas that misused AI-generated material.",
+      "summary_zh": "中国女演员赵丽颖起诉了热门免费短剧App“红果短剧”的运营方（红果属于抖音和TikTok背后的字节跳动），此事周四登上微博热搜前列。在北京一家法院周二开庭审理的这起肖像权纠纷案中，她指控对方未经许可，用AI换脸技术把她的肖像合成到短剧和短剧封面中用来吸引观众，并要求赔偿81万元人民币及公开道歉。据中国媒体报道，被告方在庭上辩称这些画面是AI随机生成的，并非故意模仿，法院目前尚未宣判。这起案件在网上引发了广泛讨论：在AI时代，不只是明星，普通人又该如何保护自己的“脸”；此前红果短剧今年曾表示，已处理670部违规使用AI生成素材的短剧。",
+      "why_zh": "AI换脸让“明星脸”被随便拿去引流，这起官司关系到AI时代每个人的肖像权，也是品牌使用AI素材时要注意的法律风险。“likeness（肖像、相貌）”“spark（引发）”在新闻里很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "21经济网; 凤凰网; 新浪新闻; 搜狐",
+      "url": "https://www.21jingji.com/article/20261112/herald/c9ccd93892e6988c0ccf344defd7ec97.html",
+      "vocab": [
+        {
+          "word": "likeness",
+          "phonetic": "/ˈlaɪknəs/",
+          "pos": "n.",
+          "zh": "肖像，相貌（某人的样子）",
+          "example": "In a portrait rights case heard by a Beijing court on Tuesday, she claims that AI face-swapping technology was used without her permission to put her likeness into short dramas and their cover images to attract viewers, and she is seeking 810,000 yuan in compensation and a public apology."
+        },
+        {
+          "word": "sparked",
+          "phonetic": "/spɑːkt/",
+          "pos": "v.",
+          "zh": "引发，激起",
+          "example": "The case has sparked wide discussion online about how ordinary people, not just celebrities, can protect their faces in the age of AI, after Hongguo said earlier this year that it had dealt with 670 short dramas that misused AI-generated material."
+        }
+      ]
+    }
+  ]
+}
