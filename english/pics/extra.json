@@ -5346,5 +5346,204 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "driving",
+    "added": "2026-11-14",
+    "name": "开车与路上",
+    "icon": "🚗",
+    "prompt": "开车时怎么说？",
+    "items": [
+      {
+        "emoji": "🚗",
+        "w": "rego",
+        "ph": "/ˈredʒəʊ/",
+        "pos": "n.",
+        "zh": "车辆注册（澳洲口语）",
+        "ex": "Don't forget your rego is due next month.",
+        "tip": "registration 的澳洲简称；每年要续 rego",
+        "accept": [
+          "rego",
+          "registration",
+          "car registration"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "💥",
+        "w": "prang",
+        "ph": "/præŋ/",
+        "pos": "n.",
+        "zh": "小剐蹭、小车祸（澳洲口语）",
+        "ex": "I had a little prang in the car park this morning.",
+        "tip": "美国说 fender bender",
+        "accept": [
+          "prang",
+          "fender bender",
+          "crash",
+          "accident"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🔺",
+        "w": "give way",
+        "ph": "/ɡɪv ˈweɪ/",
+        "pos": "phr.",
+        "zh": "让行",
+        "ex": "You have to give way to traffic on the right.",
+        "tip": "澳洲路牌 Give Way，美国叫 Yield",
+        "accept": [
+          "give way",
+          "yield"
+        ],
+        "near": [
+          "roundabout"
+        ]
+      },
+      {
+        "emoji": "⭕",
+        "w": "roundabout",
+        "ph": "/ˈraʊndəbaʊt/",
+        "pos": "n.",
+        "zh": "环岛",
+        "ex": "Take the second exit at the roundabout.",
+        "tip": "美国叫 traffic circle",
+        "accept": [
+          "roundabout",
+          "traffic circle",
+          "rotary"
+        ],
+        "near": [
+          "give way"
+        ]
+      },
+      {
+        "emoji": "↩️",
+        "w": "U-turn",
+        "ph": "/ˈjuː tɜːn/",
+        "pos": "n.",
+        "zh": "掉头",
+        "ex": "You can't chuck a U-ey here.",
+        "tip": "澳洲口语：chuck a U-ey = 掉头",
+        "accept": [
+          "U-turn",
+          "u turn",
+          "u-ey",
+          "chuck a uey"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚓",
+        "w": "pulled over",
+        "ph": "/pʊld ˈəʊvə(r)/",
+        "pos": "phr.",
+        "zh": "被警察拦下",
+        "ex": "I got pulled over for a random breath test.",
+        "tip": "RBT = random breath test 随机酒精测试",
+        "accept": [
+          "pulled over",
+          "pull over",
+          "police",
+          "rbt"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛣️",
+        "w": "freeway",
+        "ph": "/ˈfriːweɪ/",
+        "pos": "n.",
+        "zh": "高速公路",
+        "ex": "Traffic on the freeway was bumper to bumper.",
+        "tip": "澳洲说 freeway / motorway；bumper to bumper = 堵成一串",
+        "accept": [
+          "freeway",
+          "motorway",
+          "highway"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚙",
+        "w": "four-wheel drive",
+        "ph": "/ˌfɔː wiːl ˈdraɪv/",
+        "pos": "n.",
+        "zh": "四驱车",
+        "ex": "You'll need a four-wheel drive for the beach track.",
+        "tip": "缩写 4WD，澳洲人常说 four-by-four (4x4)",
+        "accept": [
+          "four-wheel drive",
+          "4wd",
+          "4x4",
+          "suv"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚐",
+        "w": "people mover",
+        "ph": "/ˈpiːpl ˌmuːvə(r)/",
+        "pos": "n.",
+        "zh": "七座车、MPV",
+        "ex": "We rented a people mover for the family trip.",
+        "tip": "美国说 minivan",
+        "accept": [
+          "people mover",
+          "minivan",
+          "van",
+          "mpv"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚘",
+        "w": "high beam",
+        "ph": "/ˈhaɪ biːm/",
+        "pos": "n.",
+        "zh": "远光灯",
+        "ex": "Dip your high beam when a car's coming the other way.",
+        "tip": "dip = 切换成近光（low beam）",
+        "accept": [
+          "high beam",
+          "high beams",
+          "headlights"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏎️",
+        "w": "speeding",
+        "ph": "/ˈspiːdɪŋ/",
+        "pos": "n.",
+        "zh": "超速",
+        "ex": "She got a speeding fine on the way to Byron.",
+        "tip": "speed camera = 测速摄像头；fine = 罚款",
+        "accept": [
+          "speeding",
+          "speed",
+          "speeding fine",
+          "speeding ticket"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "📢",
+        "w": "honk",
+        "ph": "/hɒŋk/",
+        "pos": "v.",
+        "zh": "按喇叭",
+        "ex": "The guy behind me honked as soon as the light turned green.",
+        "tip": "也可以说 beep / toot the horn",
+        "accept": [
+          "honk",
+          "beep",
+          "toot",
+          "horn"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
