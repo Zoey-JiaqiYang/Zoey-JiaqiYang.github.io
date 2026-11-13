@@ -1,227 +1,293 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T01:57:28+11:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T02:50:29+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "Nvidia's Jensen Huang resigns as CEO, with CFO Colette Kress stepping in and shares sliding",
-      "title_zh": "英伟达创始人黄仁勋突然辞去CEO职务，财务长克雷斯暂代，股价早盘重挫超10%",
-      "search_zh": "黄仁勋 辞职 英伟达 Nvidia CEO 2026年11月12日 科莱特·克雷斯 Colette Kress 临时CEO 董事会 接班人 股价 下跌 10% 纳斯达克 AI芯片 GPU 1993年 创立",
-      "summary_en": "Jensen Huang, who co-founded the chipmaker Nvidia in 1993 and turned it into one of the world's most valuable companies, has resigned as chief executive, president and board member with immediate effect, the company announced on Thursday US time. Nvidia's board named chief financial officer Colette Kress as interim CEO while it searches for a permanent successor, and it is considering candidates from both inside and outside the company. The company did not give a reason for his departure, which followed days of media reports about his private life and an investigation commissioned by the board. Nvidia shares fell more than 10% in early trading on Thursday, dragging down the wider US market, as investors worried about the future of the company whose chips power much of the global AI boom.",
-      "summary_zh": "芯片公司英伟达（Nvidia）周四（美国时间）宣布，1993年参与创立公司、并把它打造成全球市值最高企业之一的黄仁勋（Jensen Huang），已辞去首席执行官、总裁和董事会成员职务，立即生效。英伟达董事会任命首席财务官科莱特·克雷斯（Colette Kress）担任临时首席执行官，同时寻找正式接班人，内部和外部的人选都在考虑之中。公司没有说明他离职的原因；在此之前，媒体连续数日报道了他的私人生活，董事会也为此委托开展了调查。英伟达股价周四早盘下跌超过10%，拖累了整个美国股市，因为投资者担心这家公司的前景——它的芯片支撑着全球很大一部分的AI热潮。",
-      "why_zh": "黄仁勋穿皮夹克的形象几乎就是英伟达和AI热潮的“代言人”，创始人突然离开是全球科技和股市的大新闻。“successor（接班人）”“drag down（拖累）”是讲公司换帅和股市的高频表达。",
+      "category": "world",
+      "title_en": "Global Microsoft outage knocks out Outlook email and disrupts Teams and Copilot",
+      "title_zh": "微软全球大宕机：Outlook邮箱瘫痪，Teams、Copilot也受影响，澳洲企业损失或达数十亿",
+      "search_zh": "微软 宕机 Microsoft 365 outage 2026年11月12日 Outlook 邮箱 无法使用 Exchange Online Teams SharePoint Copilot 网络配置更改 回滚 非网络攻击 彭博 最长宕机之一 澳洲企业 损失数十亿 小企业 ABC",
+      "summary_en": "A major Microsoft outage that began on Thursday, US time, left businesses and individuals around the world struggling to access their Outlook email, while Teams, SharePoint and the Copilot AI assistant were also disrupted. Microsoft said a process that sets up secure connections had become overwhelmed, causing some servers to stop responding, and it rolled back a recent network configuration change while saying it had found no evidence of a cyberattack. Bloomberg described it as one of the company's longest outages, and by Friday, Australian time, Microsoft said email services were gradually recovering, although some users could still face intermittent problems. In Australia, estimates reported by the ABC suggested the disruption could cost businesses billions of dollars, with small businesses expected to be hit hardest, and the incident has renewed questions about how heavily companies rely on a single tech provider.",
+      "summary_zh": "微软周四（美国时间）开始出现大规模故障，全球各地的企业和个人都难以登录Outlook邮箱，Teams、SharePoint和AI助手Copilot也受到影响。微软表示，一个负责建立安全连接的程序不堪重负，导致部分服务器停止响应；公司回滚了最近的一项网络配置更改，并表示没有发现网络攻击的迹象。彭博社称这是微软持续时间最长的宕机之一；到澳洲时间周五，微软表示邮件服务正在逐步恢复，但部分用户仍可能时不时遇到问题。在澳洲，ABC报道的估算显示，这次故障可能让企业损失数十亿澳元，小企业预计受冲击最大，这件事也让人们再次反思：企业是否过于依赖单一科技供应商。",
+      "why_zh": "Outlook和Teams是很多办公室每天离不开的工具，你公司可能也受到了影响。这条新闻里的“overwhelmed（不堪重负）”“intermittent（时有时无的）”是职场和IT通知里很常见的词。",
       "image": "",
       "image_credit": "",
-      "source": "CNBC; TechCrunch; ABC News (US); Quartz; Yahoo Finance; Benzinga",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "source": "ABC News; Bloomberg; GeekWire; SecurityWeek; TechRadar; Forbes",
+      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
       "vocab": [
         {
-          "word": "successor",
-          "phonetic": "/səkˈsesə/",
-          "pos": "n.",
-          "zh": "接班人，继任者",
-          "example": "Nvidia's board named chief financial officer Colette Kress as interim CEO while it searches for a permanent successor, and it is considering candidates from both inside and outside the company."
+          "word": "overwhelmed",
+          "phonetic": "/ˌəʊvəˈwelmd/",
+          "pos": "adj.",
+          "zh": "不堪重负的，被压垮的",
+          "example": "Microsoft said a process that sets up secure connections had become overwhelmed, causing some servers to stop responding, and it rolled back a recent network configuration change while saying it had found no evidence of a cyberattack."
         },
         {
-          "word": "dragging down",
-          "phonetic": "/ˈdræɡɪŋ daʊn/",
-          "pos": "phr. v.",
-          "zh": "拖累，拉低",
-          "example": "Nvidia shares fell more than 10% in early trading on Thursday, dragging down the wider US market, as investors worried about the future of the company whose chips power much of the global AI boom."
+          "word": "intermittent",
+          "phonetic": "/ˌɪntəˈmɪtənt/",
+          "pos": "adj.",
+          "zh": "间歇性的，时有时无的",
+          "example": "Bloomberg described it as one of the company's longest outages, and by Friday, Australian time, Microsoft said email services were gradually recovering, although some users could still face intermittent problems."
         }
       ],
       "explain": {
-        "one_liner": "带领英伟达30多年、被看作AI时代“卖铲人”的创始人黄仁勋突然辞职，财务长临时接手，投资者一紧张，股价大跌。",
+        "one_liner": "微软的“云端办公系统”出了故障，全球很多人一天多收不到、发不出工作邮件，再次提醒大家：所有工作都放在一家公司的云上，也有风险。",
         "facts": [
           {
-            "icon": "💻",
-            "name": "英伟达 Nvidia",
-            "text": "美国芯片公司，最出名的是GPU（图形处理器）。GPU原本用来玩游戏，后来成了训练和运行ChatGPT这类AI的核心硬件，所以英伟达在AI热潮中成为全球市值最高的公司之一。"
+            "icon": "🪟",
+            "name": "微软 Microsoft",
+            "text": "美国科技巨头，做Windows系统和Office办公软件，现在大部分办公软件都以“Microsoft 365”订阅服务的形式在云端运行。"
           },
           {
-            "icon": "🧥",
-            "name": "黄仁勋 Jensen Huang",
-            "text": "出生于台湾的美籍华裔企业家，1993年与人共同创立英伟达，此后一直担任首席执行官，以穿黑色皮夹克演讲闻名。"
+            "icon": "📧",
+            "name": "Outlook 和 Exchange Online",
+            "text": "Outlook是微软的邮件和日历软件；Exchange Online是它背后在微软服务器上运行的邮件系统。这次主要是Exchange Online出问题，所以Outlook收发邮件受影响最大。"
           },
           {
-            "icon": "👩‍💼",
-            "name": "科莱特·克雷斯 Colette Kress",
-            "text": "英伟达的首席财务官（CFO，负责公司财务的最高管理者），现在被任命为临时CEO，直到找到正式接班人。"
+            "icon": "💬",
+            "name": "Teams、SharePoint 和 Copilot",
+            "text": "Teams是开会和聊天工具，SharePoint是公司内部共享文件的平台，Copilot是微软内置在办公软件里的AI助手。这次它们也不同程度受到影响。"
           },
           {
-            "icon": "🏛️",
-            "name": "董事会 board",
-            "text": "代表股东监督公司的一群董事，有权任命或撤换CEO。这次是董事会接受了黄仁勋的辞职，并负责挑选新CEO。"
+            "icon": "☁️",
+            "name": "宕机 outage",
+            "text": "指网络服务突然无法正常使用。因为现在的软件大多“放在云上”（在服务商的服务器里运行），服务商一出故障，所有用户会同时受影响。"
           },
           {
-            "icon": "⏳",
-            "name": "临时CEO interim CEO",
-            "text": "在正式人选确定前暂时代理的首席执行官，是公司突然换帅时常见的过渡安排。"
+            "icon": "🔧",
+            "name": "网络配置更改 configuration change",
+            "text": "工程师对服务器网络设置做的调整。微软说回滚（撤销）了一项和故障开始时间吻合的近期更改，但截至目前还没有公布最终的根本原因。"
           }
         ],
         "relations": [
           {
-            "a": "黄仁勋",
-            "b": "英伟达",
-            "type": "neutral",
-            "label": "创始人，立即辞去CEO和董事职务"
-          },
-          {
-            "a": "英伟达董事会",
-            "b": "科莱特·克雷斯",
-            "type": "good",
-            "label": "任命为临时CEO"
-          },
-          {
-            "a": "创始人离职",
-            "b": "英伟达股价",
+            "a": "建立安全连接的程序过载",
+            "b": "部分服务器停止响应",
             "type": "cause",
-            "label": "投资者担忧，早盘跌超10%"
+            "label": "微软给出的直接原因"
           },
           {
-            "a": "英伟达股价下跌",
-            "b": "美国股市",
+            "a": "微软故障",
+            "b": "Outlook、Teams、Copilot用户",
             "type": "bad",
-            "label": "拖累大盘，尤其是科技股"
+            "label": "全球多地无法正常使用"
+          },
+          {
+            "a": "微软故障",
+            "b": "澳洲企业",
+            "type": "bad",
+            "label": "估算损失或达数十亿澳元，小企业最受冲击"
+          },
+          {
+            "a": "微软",
+            "b": "网络攻击",
+            "type": "neutral",
+            "label": "微软称没有发现被攻击的证据"
           }
         ],
         "points": [
-          "黄仁勋辞去CEO、总裁和董事职务，立即生效。",
-          "财务长克雷斯任临时CEO，董事会从内外部寻找正式接班人。",
-          "公司没有公布辞职原因，此前媒体连日报道他的私人生活，董事会也委托了调查。",
-          "英伟达股价周四早盘跌超10%，拖累美股。"
+          "故障从美国时间周四开始，Outlook邮箱受影响最严重，Teams、SharePoint、Copilot也被波及。",
+          "微软称是建立安全连接的程序过载，并回滚了一项网络配置更改，没有发现网络攻击。",
+          "彭博社称这是微软持续最久的宕机之一；澳洲时间周五服务逐步恢复，但还没完全正常。",
+          "据ABC报道的估算，澳洲企业可能因此损失数十亿澳元，小企业受冲击最大。"
         ],
-        "relevance": "英伟达的芯片是几乎所有AI工具（包括营销人每天用的AI写作、做图工具）背后的“发动机”。它的领导层变动会影响市场对AI行业的信心，也可能影响科技公司的投资和广告预算。另外这也是一个品牌课题：当创始人就是品牌形象本身时，个人风波会直接冲击公司价值，所以很多公司会刻意打造“不只靠一个人”的品牌。",
+        "relevance": "营销工作几乎离不开邮件、会议和共享文件：发EDM、和客户约会议、跟代理公司传素材，一旦Outlook和Teams停摆，项目时间表就会被打乱。这件事提醒营销团队要有“Plan B”，比如重要客户的手机号、备用沟通渠道（短信、WhatsApp等），以及在故障期间暂停定时发送的营销邮件，避免客户收不到或重复收到。",
         "phrase": {
-          "en": "step down",
-          "zh": "辞职，卸任（尤指高层职位）"
+          "en": "be back up and running",
+          "zh": "（系统、服务等）恢复正常运行"
         }
       }
     },
     {
       "category": "australia",
-      "title_en": "Regional flights cost about 13% more per kilometre than city routes, Productivity Commission finds",
-      "title_zh": "生产力委员会报告：澳洲地区航线每公里票价比大城市贵约13%，七成航线只有一家航空公司",
-      "search_zh": "生产力委员会 Productivity Commission 地区机票 regional airfares 中期报告 2026年11月 每公里贵13% 72%航线 单一航空公司 澳航 Qantas 捷星 维珍澳洲 Virgin Australia Rex 6000万澳元 公开招标 补贴航线 就医 2027年4月 最终报告",
-      "summary_en": "Flying to and from regional Australia costs about 13% more per kilometre than flying between major cities, according to an interim report released on Wednesday by the Productivity Commission, the federal government's independent economic advisory body. The report found that only one airline operates on 72% of regional routes, and that more than 90% of regional and remote passengers flew with either the Qantas Group, which includes Jetstar, or Virgin Australia in 2025. However, it said airlines were generally not making unusually large profits on these routes, because operating costs make up about 91% of the average fare, leaving profit margins broadly similar to those on city routes. Instead of governments propping up individual airlines, such as the A$60 million in support given to Rex, which entered administration in 2024, the commission recommended removing barriers to competition, putting subsidised essential routes out to open tender and doing more to help people who fly to get medical care, with a final report due in April 2027.",
-      "summary_zh": "澳洲生产力委员会（Productivity Commission，联邦政府的独立经济咨询机构）周三发布的一份中期报告显示，往返澳洲地区（偏远城镇）的航班，每公里票价比大城市之间的航班贵约13%。报告发现，72%的地区航线只有一家航空公司在飞；2025年，超过90%的地区和偏远地区乘客乘坐的是澳航集团（包括捷星）或维珍澳洲的航班。不过报告也指出，航空公司在这些航线上一般并没有赚取特别高的利润，因为运营成本约占平均票价的91%，利润率与城市航线大致相当。委员会建议，政府不要再出钱扶持个别航空公司（比如曾向2024年进入破产管理程序的Rex航空提供6000万澳元支持），而应消除阻碍竞争的壁垒、通过公开招标来补贴必要航线，并更多帮助需要坐飞机去看病的人；最终报告将于2027年4月发布。",
-      "why_zh": "在澳洲，从大城市飞小城镇的机票常常贵得离谱，这份报告解释了原因，也和旅行、生活成本直接相关。“margins（利润率）”“prop up（扶持、撑住）”是商业新闻里非常实用的词。",
+      "title_en": "Qantas to cut about 850 corporate jobs, with much of the work moving to India",
+      "title_zh": "澳航将裁约850个办公室岗位，大部分工作转到印度，财务和营销团队首当其冲",
+      "search_zh": "澳航 Qantas 裁员 850个岗位 埃森哲 Accenture 外包 印度 2026年11月 CEO 万妮莎·哈德森 Vanessa Hudson 财务 营销 采购 2027年中 澳大利亚服务业工会 ASU 白领工作 外流 全球能力中心 GCC NAB Telstra Coles",
+      "summary_en": "Qantas plans to cut about 850 corporate jobs over the coming years under a new partnership with the consulting firm Accenture, with much of the work expected to move to India. In an email to staff, chief executive Vanessa Hudson called it \"hard news for some\" and apologised for the uncertainty, saying the first changes, affecting areas such as finance, marketing and procurement, are expected by mid-2027. The Australian Services Union strongly criticised the plan, while Qantas said it would consult affected employees and their union over the coming months. The ABC reports that Qantas is the latest in a growing list of big Australian companies, including NAB, Telstra and Coles, that have moved white-collar roles offshore, often to so-called global capability centres in India.",
+      "summary_zh": "澳航（Qantas）计划在未来几年裁减约850个公司职能岗位，这是它与咨询公司埃森哲（Accenture）新合作的一部分，其中大部分工作预计将转移到印度。首席执行官万妮莎·哈德森（Vanessa Hudson）在给员工的邮件中称，这对一些人来说是“艰难的消息”，并为由此带来的不确定性道歉；她表示，第一批变动预计在2027年年中前落实，涉及财务、营销和采购等部门。澳大利亚服务业工会（Australian Services Union）强烈批评这项计划，而澳航表示，未来几个月会与受影响的员工及其工会进行协商。据ABC报道，澳航是越来越多把白领岗位转移到海外的澳洲大公司中的最新一家，此前已有澳大利亚国民银行（NAB）、澳洲电信（Telstra）和Coles超市等，它们通常把工作转到设在印度的所谓“全球能力中心”。",
+      "why_zh": "营销岗位也在这次外包名单里，说明“办公室白领工作外流海外”已经影响到和你一样的职场人。“uncertainty（不确定性）”“offshore（到海外）”是讲裁员和外包时的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "AAP (via Canberra Times, Yahoo News Australia); ABC News; Business News; Productivity Commission",
-      "url": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592",
+      "source": "ABC News; Quartz; The Federal; The Australia Today",
+      "url": "https://www.abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082",
       "vocab": [
         {
-          "word": "margins",
-          "phonetic": "/ˈmɑːdʒɪnz/",
+          "word": "uncertainty",
+          "phonetic": "/ʌnˈsɜːtnti/",
           "pos": "n.",
-          "zh": "利润率；（收入与成本之间的）差额",
-          "example": "However, it said airlines were generally not making unusually large profits on these routes, because operating costs make up about 91% of the average fare, leaving profit margins broadly similar to those on city routes."
+          "zh": "不确定性，前途未卜",
+          "example": "In an email to staff, chief executive Vanessa Hudson called it \"hard news for some\" and apologised for the uncertainty, saying the first changes, affecting areas such as finance, marketing and procurement, are expected by mid-2027."
         },
         {
-          "word": "propping up",
-          "phonetic": "/ˈprɒpɪŋ ʌp/",
-          "pos": "phr. v.",
-          "zh": "支撑，扶持（尤指用钱帮快撑不下去的企业）",
-          "example": "Instead of governments propping up individual airlines, such as the A$60 million in support given to Rex, which entered administration in 2024, the commission recommended removing barriers to competition, putting subsidised essential routes out to open tender and doing more to help people who fly to get medical care, with a final report due in April 2027."
+          "word": "offshore",
+          "phonetic": "/ˌɒfˈʃɔː/",
+          "pos": "adv.",
+          "zh": "到海外，在国外（指把业务或岗位转移到其他国家）",
+          "example": "The ABC reports that Qantas is the latest in a growing list of big Australian companies, including NAB, Telstra and Coles, that have moved white-collar roles offshore, often to so-called global capability centres in India."
         }
       ],
       "explain": {
-        "one_liner": "政府请专家查“为什么飞小城镇这么贵”，初步结论是：主要不是航空公司赚太多，而是成本高、竞争少，建议政府别再只救某一家航空公司。",
+        "one_liner": "澳航把一部分办公室工作交给咨询公司埃森哲来做，很多会转到成本更低的印度，约850个澳洲岗位会在几年内消失。",
         "facts": [
           {
-            "icon": "📑",
-            "name": "生产力委员会 Productivity Commission",
-            "text": "澳洲联邦政府的独立研究和咨询机构，专门研究经济和社会政策问题，给政府提建议，但建议不一定会被采纳。"
-          },
-          {
-            "icon": "🗺️",
-            "name": "地区航线 regional routes",
-            "text": "指往返澳洲偏远城镇和乡村地区的航班，比如飞往矿区、小城市的航线，和悉尼—墨尔本这种大城市之间的航线相对。"
-          },
-          {
             "icon": "✈️",
-            "name": "澳航集团和维珍澳洲",
-            "text": "澳航集团（Qantas Group）旗下有澳航和廉价航空捷星（Jetstar）；维珍澳洲（Virgin Australia）是另一家大型航空公司。两家合计占了绝大部分国内市场。"
+            "name": "澳航 Qantas",
+            "text": "澳洲最大的航空公司，旗下还有廉价航空捷星（Jetstar）。据报道，这次裁员约占它澳洲员工的3%左右。"
           },
           {
-            "icon": "🛩️",
-            "name": "Rex航空",
-            "text": "澳洲一家主要飞地区航线的航空公司，2024年进入破产管理程序（administration），政府曾出钱支持它继续运营地区航线。"
+            "icon": "👩‍💼",
+            "name": "万妮莎·哈德森 Vanessa Hudson",
+            "text": "澳航现任首席执行官（CEO），2023年上任，是澳航历史上第一位女性CEO。"
           },
           {
-            "icon": "📊",
-            "name": "利润率 profit margin",
-            "text": "公司收入中扣掉成本后剩下的利润所占的比例。报告说运营成本约占票价的91%，所以航空公司在这些航线上赚得并不算多。"
+            "icon": "🏢",
+            "name": "埃森哲 Accenture",
+            "text": "全球大型咨询和IT服务公司，帮企业做技术系统、流程外包等，在印度有大量员工。"
+          },
+          {
+            "icon": "🧑‍🤝‍🧑",
+            "name": "澳大利亚服务业工会 ASU",
+            "text": "代表办公室文职、服务业等员工的工会，负责为会员争取工作保障和待遇，这次强烈反对澳航把岗位外包。"
+          },
+          {
+            "icon": "🌏",
+            "name": "全球能力中心 GCC",
+            "text": "Global Capability Centre，大公司在海外（尤其是印度）设立的“自家后台中心”，集中处理IT、财务、数据分析等工作，主要优势是人力成本低。"
+          },
+          {
+            "icon": "📦",
+            "name": "外包 outsourcing / 离岸 offshoring",
+            "text": "外包是把工作交给别的公司做；离岸是把工作转到国外做。澳航这次两者都有：交给埃森哲，且很多工作会在印度完成。"
           }
         ],
         "relations": [
           {
-            "a": "竞争少（72%航线只有一家）",
-            "b": "地区机票价格",
-            "type": "cause",
-            "label": "缺少竞争，票价偏高"
-          },
-          {
-            "a": "运营成本",
-            "b": "票价",
-            "type": "cause",
-            "label": "约占平均票价的91%"
-          },
-          {
-            "a": "政府",
-            "b": "Rex航空",
-            "type": "neutral",
-            "label": "曾提供6000万澳元支持，报告不建议这样做"
-          },
-          {
-            "a": "生产力委员会",
-            "b": "政府",
+            "a": "澳航",
+            "b": "埃森哲",
             "type": "good",
-            "label": "建议消除竞争壁垒、公开招标补贴航线"
+            "label": "签订多年合作，交出部分公司后台工作"
+          },
+          {
+            "a": "澳航外包计划",
+            "b": "约850个澳洲岗位",
+            "type": "bad",
+            "label": "未来几年陆续被裁"
+          },
+          {
+            "a": "澳大利亚服务业工会",
+            "b": "澳航",
+            "type": "bad",
+            "label": "强烈批评把工作转到海外"
+          },
+          {
+            "a": "降低成本、推进AI和数字化",
+            "b": "白领岗位外流",
+            "type": "cause",
+            "label": "越来越多澳洲大公司把工作转到印度"
           }
         ],
         "points": [
-          "地区航线每公里票价比大城市航线贵约13%。",
-          "72%的地区航线只有一家航空公司；九成以上乘客坐澳航集团或维珍。",
-          "航空公司在这些航线上利润率并不特别高，运营成本约占票价91%。",
-          "建议别扶持个别航空公司，改为公开招标补贴必要航线，并帮助乘机就医的人；最终报告2027年4月发布。"
+          "澳航与埃森哲合作，未来几年裁约850个公司职能岗位，很多工作转去印度。",
+          "第一批变动预计2027年年中前落实，涉及财务、营销、采购等部门。",
+          "工会强烈反对；澳航表示会在未来几个月与员工和工会协商。",
+          "NAB、Telstra、Coles等大公司此前也把白领岗位转到海外，这是一种趋势。"
         ],
-        "relevance": "做营销的人常要出差去各地办活动、拜访客户，地区机票贵会直接影响差旅预算和活动选址。对旅游、酒店和地区品牌来说，机票价格也决定了游客愿不愿意去，所以“交通成本”是做地区旅游推广时绕不开的因素。",
+        "relevance": "这次外包直接点名了营销部门，说明重复性强的营销后台工作（比如报表、素材排期、基础执行）越来越容易被外包或交给AI。对在澳洲做营销的人来说，提升策略、创意、本地市场洞察和跨团队沟通这些“难以外包”的能力，会让自己更有竞争力。",
         "phrase": {
-          "en": "out of reach",
-          "zh": "（价格等）高不可攀，负担不起"
+          "en": "hard news",
+          "zh": "令人难以接受的坏消息（常用于宣布裁员时）"
         }
       }
     },
     {
-      "category": "entertainment",
-      "title_en": "Actress Zhao Liying sues short-drama app Hongguo over alleged AI face-swapping of her image",
-      "title_zh": "赵丽颖起诉红果短剧：指控未经授权用AI换脸使用其肖像，索赔81万元",
-      "search_zh": "赵丽颖 起诉 红果短剧 肖像权纠纷 AI换脸 融脸 索赔81万 11月10日 开庭 北京门头沟区人民法院 笔墨留香 北京抖音信息服务 字节跳动 670部短剧 微博热搜",
-      "summary_en": "Chinese actress Zhao Liying has sued the operator of Hongguo, a popular free short-drama app owned by ByteDance, the company behind Douyin and TikTok, and the case became one of the top trending topics on Weibo on Thursday. In a portrait rights case heard by a Beijing court on Tuesday, she claims that AI face-swapping technology was used without her permission to put her likeness into short dramas and their cover images to attract viewers, and she is seeking 810,000 yuan in compensation and a public apology. According to Chinese media reports, the defendants argued in court that the images were randomly generated by AI rather than deliberately copied, and the court has not yet issued a ruling. The case has sparked wide discussion online about how ordinary people, not just celebrities, can protect their faces in the age of AI, after Hongguo said earlier this year that it had dealt with 670 short dramas that misused AI-generated material.",
-      "summary_zh": "中国女演员赵丽颖起诉了热门免费短剧App“红果短剧”的运营方（红果属于抖音和TikTok背后的字节跳动），此事周四登上微博热搜前列。在北京一家法院周二开庭审理的这起肖像权纠纷案中，她指控对方未经许可，用AI换脸技术把她的肖像合成到短剧和短剧封面中用来吸引观众，并要求赔偿81万元人民币及公开道歉。据中国媒体报道，被告方在庭上辩称这些画面是AI随机生成的，并非故意模仿，法院目前尚未宣判。这起案件在网上引发了广泛讨论：在AI时代，不只是明星，普通人又该如何保护自己的“脸”；此前红果短剧今年曾表示，已处理670部违规使用AI生成素材的短剧。",
-      "why_zh": "AI换脸让“明星脸”被随便拿去引流，这起官司关系到AI时代每个人的肖像权，也是品牌使用AI素材时要注意的法律风险。“likeness（肖像、相貌）”“spark（引发）”在新闻里很常见。",
+      "category": "markets",
+      "title_en": "AI chipmaker Cerebras jumps after beating forecasts and landing a big new cloud customer",
+      "title_zh": "AI芯片公司Cerebras业绩超预期、拿下大型云计算客户，上调全年收入预测，股价大涨",
+      "search_zh": "Cerebras 第三季度 财报 2026年11月12日 核心收入 2.309亿美元 增长70% 上调全年预测 9.4亿 9.6亿美元 超大规模云服务商 hyperscaler 微软 Microsoft 客户 股价 盘后 盘前 大涨 纳斯达克 CBRS 晶圆级芯片 英伟达 竞争对手 AI推理",
+      "summary_en": "Shares in Cerebras Systems, an American start-up that makes giant chips for running artificial intelligence, jumped by around 16% to 19% in extended trading after the company reported third-quarter results on Thursday, US time. Its core revenue, an adjusted measure the company uses, rose 70% from a year earlier to US$230.9 million, beating analysts' expectations, although under standard accounting rules it still made a net loss of US$161.2 million. Cerebras also raised its full-year forecast for core revenue to between US$940 million and US$960 million, up from its earlier range of US$880 million to US$890 million. Investors were further encouraged by a new cloud customer that the company described only as one of the top three hyperscalers, which several media outlets reported to be Microsoft.",
+      "summary_zh": "美国初创公司Cerebras Systems专门制造运行人工智能的超大芯片，该公司周四（美国时间）公布第三季度业绩后，股价在盘后和盘前交易中上涨约16%至19%。公司的核心收入（公司自己使用的一种调整后指标）同比增长70%，达到2.309亿美元，超出分析师预期；不过按照标准会计准则计算，它仍然净亏损1.612亿美元。Cerebras还把全年核心收入预测上调到9.4亿至9.6亿美元，此前的预测区间是8.8亿至8.9亿美元。让投资者更受鼓舞的是，公司新增了一个云计算客户，只说是“排名前三的超大规模云服务商”之一，多家媒体报道称这家客户就是微软。",
+      "why_zh": "AI热潮里不只有英伟达，Cerebras这样的“挑战者”也在抢市场，这条新闻能帮你看懂科技公司财报的基本说法。“beating expectations（超出预期）”“forecast（预测）”是读任何公司业绩新闻都绕不开的词。",
       "image": "",
       "image_credit": "",
-      "source": "21经济网; 凤凰网; 新浪新闻; 搜狐",
-      "url": "https://www.21jingji.com/article/20261112/herald/c9ccd93892e6988c0ccf344defd7ec97.html",
+      "source": "SEC filing (Form 8-K); The Next Web; Proactive Investors; TipRanks; Benzinga via TradingView",
+      "url": "https://thenextweb.com/news/cerebras-microsoft-deal-q3-2026-forecast",
       "vocab": [
         {
-          "word": "likeness",
-          "phonetic": "/ˈlaɪknəs/",
-          "pos": "n.",
-          "zh": "肖像，相貌（某人的样子）",
-          "example": "In a portrait rights case heard by a Beijing court on Tuesday, she claims that AI face-swapping technology was used without her permission to put her likeness into short dramas and their cover images to attract viewers, and she is seeking 810,000 yuan in compensation and a public apology."
+          "word": "beating",
+          "phonetic": "/ˈbiːtɪŋ/",
+          "pos": "v.",
+          "zh": "超过，好于（beat expectations：超出预期）",
+          "example": "Its core revenue, an adjusted measure the company uses, rose 70% from a year earlier to US$230.9 million, beating analysts' expectations, although under standard accounting rules it still made a net loss of US$161.2 million."
         },
         {
-          "word": "sparked",
-          "phonetic": "/spɑːkt/",
-          "pos": "v.",
-          "zh": "引发，激起",
-          "example": "The case has sparked wide discussion online about how ordinary people, not just celebrities, can protect their faces in the age of AI, after Hongguo said earlier this year that it had dealt with 670 short dramas that misused AI-generated material."
+          "word": "encouraged",
+          "phonetic": "/ɪnˈkʌrɪdʒd/",
+          "pos": "adj.",
+          "zh": "受到鼓舞的，信心增强的",
+          "example": "Investors were further encouraged by a new cloud customer that the company described only as one of the top three hyperscalers, which several media outlets reported to be Microsoft."
         }
-      ]
+      ],
+      "explain": {
+        "one_liner": "一家做AI芯片的“小个子”公司交出了超预期的成绩单，还拿下了一个超级大客户，投资者觉得它前景更好了，于是股价大涨。",
+        "facts": [
+          {
+            "icon": "🧠",
+            "name": "Cerebras Systems",
+            "text": "美国硅谷的AI芯片公司，以做“晶圆级”超大芯片出名（一块芯片差不多有餐盘那么大），主要用来训练和运行AI模型，常被看作英伟达的挑战者之一，在纳斯达克上市。"
+          },
+          {
+            "icon": "📈",
+            "name": "季度财报 quarterly results",
+            "text": "上市公司每三个月公布一次的经营成绩单，包括收入、利润等。股价往往取决于成绩比分析师预期好还是差。"
+          },
+          {
+            "icon": "🧮",
+            "name": "核心收入 vs 标准会计口径",
+            "text": "“核心收入”是公司自己定义的调整后指标，会剔除一些项目；按统一的标准会计准则（GAAP）算，公司这季度仍然是亏损的。看新闻时要注意数字是哪种口径。"
+          },
+          {
+            "icon": "☁️",
+            "name": "超大规模云服务商 hyperscaler",
+            "text": "指像微软Azure、亚马逊AWS、谷歌云这样拥有海量数据中心的大型云计算公司。它们是AI芯片最大的买家之一。"
+          },
+          {
+            "icon": "🔮",
+            "name": "业绩预测 guidance / forecast",
+            "text": "公司对未来收入的预估。上调预测说明管理层对生意更有信心，通常会推高股价。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Cerebras",
+            "b": "大型云服务商（据报道是微软）",
+            "type": "good",
+            "label": "新签云计算客户"
+          },
+          {
+            "a": "收入超预期 + 上调全年预测",
+            "b": "Cerebras股价",
+            "type": "cause",
+            "label": "盘后和盘前大涨约16%–19%"
+          },
+          {
+            "a": "Cerebras",
+            "b": "英伟达",
+            "type": "neutral",
+            "label": "AI芯片市场的竞争对手"
+          }
+        ],
+        "points": [
+          "第三季度核心收入同比增长70%，达2.309亿美元，超出分析师预期。",
+          "按标准会计准则仍净亏损1.612亿美元，说明公司还在“烧钱”扩张。",
+          "全年核心收入预测上调到9.4亿至9.6亿美元。",
+          "新增一家“前三大”云服务商客户，多家媒体称是微软；股价随之大涨。"
+        ],
+        "relevance": "营销人每天用的AI写作、做图、数据分析工具，背后都需要这些芯片来运行。芯片市场竞争越激烈，AI工具的成本就越有可能下降、速度越快。另外，这条新闻也是看懂“调整后数字”的好例子：公司在宣传里会突出最好看的指标，营销人写案例和读竞品财报时也要学会分辨。",
+        "phrase": {
+          "en": "beat expectations",
+          "zh": "超出预期"
+        }
+      }
     }
   ]
 }

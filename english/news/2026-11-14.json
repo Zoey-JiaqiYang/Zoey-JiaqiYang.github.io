@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T02:50:29+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Global Microsoft outage knocks out Outlook email and disrupts Teams and Copilot",
+      "title_zh": "微软全球大宕机：Outlook邮箱瘫痪，Teams、Copilot也受影响，澳洲企业损失或达数十亿",
+      "search_zh": "微软 宕机 Microsoft 365 outage 2026年11月12日 Outlook 邮箱 无法使用 Exchange Online Teams SharePoint Copilot 网络配置更改 回滚 非网络攻击 彭博 最长宕机之一 澳洲企业 损失数十亿 小企业 ABC",
+      "summary_en": "A major Microsoft outage that began on Thursday, US time, left businesses and individuals around the world struggling to access their Outlook email, while Teams, SharePoint and the Copilot AI assistant were also disrupted. Microsoft said a process that sets up secure connections had become overwhelmed, causing some servers to stop responding, and it rolled back a recent network configuration change while saying it had found no evidence of a cyberattack. Bloomberg described it as one of the company's longest outages, and by Friday, Australian time, Microsoft said email services were gradually recovering, although some users could still face intermittent problems. In Australia, estimates reported by the ABC suggested the disruption could cost businesses billions of dollars, with small businesses expected to be hit hardest, and the incident has renewed questions about how heavily companies rely on a single tech provider.",
+      "summary_zh": "微软周四（美国时间）开始出现大规模故障，全球各地的企业和个人都难以登录Outlook邮箱，Teams、SharePoint和AI助手Copilot也受到影响。微软表示，一个负责建立安全连接的程序不堪重负，导致部分服务器停止响应；公司回滚了最近的一项网络配置更改，并表示没有发现网络攻击的迹象。彭博社称这是微软持续时间最长的宕机之一；到澳洲时间周五，微软表示邮件服务正在逐步恢复，但部分用户仍可能时不时遇到问题。在澳洲，ABC报道的估算显示，这次故障可能让企业损失数十亿澳元，小企业预计受冲击最大，这件事也让人们再次反思：企业是否过于依赖单一科技供应商。",
+      "why_zh": "Outlook和Teams是很多办公室每天离不开的工具，你公司可能也受到了影响。这条新闻里的“overwhelmed（不堪重负）”“intermittent（时有时无的）”是职场和IT通知里很常见的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Bloomberg; GeekWire; SecurityWeek; TechRadar; Forbes",
+      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+      "vocab": [
+        {
+          "word": "overwhelmed",
+          "phonetic": "/ˌəʊvəˈwelmd/",
+          "pos": "adj.",
+          "zh": "不堪重负的，被压垮的",
+          "example": "Microsoft said a process that sets up secure connections had become overwhelmed, causing some servers to stop responding, and it rolled back a recent network configuration change while saying it had found no evidence of a cyberattack."
+        },
+        {
+          "word": "intermittent",
+          "phonetic": "/ˌɪntəˈmɪtənt/",
+          "pos": "adj.",
+          "zh": "间歇性的，时有时无的",
+          "example": "Bloomberg described it as one of the company's longest outages, and by Friday, Australian time, Microsoft said email services were gradually recovering, although some users could still face intermittent problems."
+        }
+      ],
+      "explain": {
+        "one_liner": "微软的“云端办公系统”出了故障，全球很多人一天多收不到、发不出工作邮件，再次提醒大家：所有工作都放在一家公司的云上，也有风险。",
+        "facts": [
+          {
+            "icon": "🪟",
+            "name": "微软 Microsoft",
+            "text": "美国科技巨头，做Windows系统和Office办公软件，现在大部分办公软件都以“Microsoft 365”订阅服务的形式在云端运行。"
+          },
+          {
+            "icon": "📧",
+            "name": "Outlook 和 Exchange Online",
+            "text": "Outlook是微软的邮件和日历软件；Exchange Online是它背后在微软服务器上运行的邮件系统。这次主要是Exchange Online出问题，所以Outlook收发邮件受影响最大。"
+          },
+          {
+            "icon": "💬",
+            "name": "Teams、SharePoint 和 Copilot",
+            "text": "Teams是开会和聊天工具，SharePoint是公司内部共享文件的平台，Copilot是微软内置在办公软件里的AI助手。这次它们也不同程度受到影响。"
+          },
+          {
+            "icon": "☁️",
+            "name": "宕机 outage",
+            "text": "指网络服务突然无法正常使用。因为现在的软件大多“放在云上”（在服务商的服务器里运行），服务商一出故障，所有用户会同时受影响。"
+          },
+          {
+            "icon": "🔧",
+            "name": "网络配置更改 configuration change",
+            "text": "工程师对服务器网络设置做的调整。微软说回滚（撤销）了一项和故障开始时间吻合的近期更改，但截至目前还没有公布最终的根本原因。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "建立安全连接的程序过载",
+            "b": "部分服务器停止响应",
+            "type": "cause",
+            "label": "微软给出的直接原因"
+          },
+          {
+            "a": "微软故障",
+            "b": "Outlook、Teams、Copilot用户",
+            "type": "bad",
+            "label": "全球多地无法正常使用"
+          },
+          {
+            "a": "微软故障",
+            "b": "澳洲企业",
+            "type": "bad",
+            "label": "估算损失或达数十亿澳元，小企业最受冲击"
+          },
+          {
+            "a": "微软",
+            "b": "网络攻击",
+            "type": "neutral",
+            "label": "微软称没有发现被攻击的证据"
+          }
+        ],
+        "points": [
+          "故障从美国时间周四开始，Outlook邮箱受影响最严重，Teams、SharePoint、Copilot也被波及。",
+          "微软称是建立安全连接的程序过载，并回滚了一项网络配置更改，没有发现网络攻击。",
+          "彭博社称这是微软持续最久的宕机之一；澳洲时间周五服务逐步恢复，但还没完全正常。",
+          "据ABC报道的估算，澳洲企业可能因此损失数十亿澳元，小企业受冲击最大。"
+        ],
+        "relevance": "营销工作几乎离不开邮件、会议和共享文件：发EDM、和客户约会议、跟代理公司传素材，一旦Outlook和Teams停摆，项目时间表就会被打乱。这件事提醒营销团队要有“Plan B”，比如重要客户的手机号、备用沟通渠道（短信、WhatsApp等），以及在故障期间暂停定时发送的营销邮件，避免客户收不到或重复收到。",
+        "phrase": {
+          "en": "be back up and running",
+          "zh": "（系统、服务等）恢复正常运行"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Qantas to cut about 850 corporate jobs, with much of the work moving to India",
+      "title_zh": "澳航将裁约850个办公室岗位，大部分工作转到印度，财务和营销团队首当其冲",
+      "search_zh": "澳航 Qantas 裁员 850个岗位 埃森哲 Accenture 外包 印度 2026年11月 CEO 万妮莎·哈德森 Vanessa Hudson 财务 营销 采购 2027年中 澳大利亚服务业工会 ASU 白领工作 外流 全球能力中心 GCC NAB Telstra Coles",
+      "summary_en": "Qantas plans to cut about 850 corporate jobs over the coming years under a new partnership with the consulting firm Accenture, with much of the work expected to move to India. In an email to staff, chief executive Vanessa Hudson called it \"hard news for some\" and apologised for the uncertainty, saying the first changes, affecting areas such as finance, marketing and procurement, are expected by mid-2027. The Australian Services Union strongly criticised the plan, while Qantas said it would consult affected employees and their union over the coming months. The ABC reports that Qantas is the latest in a growing list of big Australian companies, including NAB, Telstra and Coles, that have moved white-collar roles offshore, often to so-called global capability centres in India.",
+      "summary_zh": "澳航（Qantas）计划在未来几年裁减约850个公司职能岗位，这是它与咨询公司埃森哲（Accenture）新合作的一部分，其中大部分工作预计将转移到印度。首席执行官万妮莎·哈德森（Vanessa Hudson）在给员工的邮件中称，这对一些人来说是“艰难的消息”，并为由此带来的不确定性道歉；她表示，第一批变动预计在2027年年中前落实，涉及财务、营销和采购等部门。澳大利亚服务业工会（Australian Services Union）强烈批评这项计划，而澳航表示，未来几个月会与受影响的员工及其工会进行协商。据ABC报道，澳航是越来越多把白领岗位转移到海外的澳洲大公司中的最新一家，此前已有澳大利亚国民银行（NAB）、澳洲电信（Telstra）和Coles超市等，它们通常把工作转到设在印度的所谓“全球能力中心”。",
+      "why_zh": "营销岗位也在这次外包名单里，说明“办公室白领工作外流海外”已经影响到和你一样的职场人。“uncertainty（不确定性）”“offshore（到海外）”是讲裁员和外包时的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Quartz; The Federal; The Australia Today",
+      "url": "https://www.abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082",
+      "vocab": [
+        {
+          "word": "uncertainty",
+          "phonetic": "/ʌnˈsɜːtnti/",
+          "pos": "n.",
+          "zh": "不确定性，前途未卜",
+          "example": "In an email to staff, chief executive Vanessa Hudson called it \"hard news for some\" and apologised for the uncertainty, saying the first changes, affecting areas such as finance, marketing and procurement, are expected by mid-2027."
+        },
+        {
+          "word": "offshore",
+          "phonetic": "/ˌɒfˈʃɔː/",
+          "pos": "adv.",
+          "zh": "到海外，在国外（指把业务或岗位转移到其他国家）",
+          "example": "The ABC reports that Qantas is the latest in a growing list of big Australian companies, including NAB, Telstra and Coles, that have moved white-collar roles offshore, often to so-called global capability centres in India."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳航把一部分办公室工作交给咨询公司埃森哲来做，很多会转到成本更低的印度，约850个澳洲岗位会在几年内消失。",
+        "facts": [
+          {
+            "icon": "✈️",
+            "name": "澳航 Qantas",
+            "text": "澳洲最大的航空公司，旗下还有廉价航空捷星（Jetstar）。据报道，这次裁员约占它澳洲员工的3%左右。"
+          },
+          {
+            "icon": "👩‍💼",
+            "name": "万妮莎·哈德森 Vanessa Hudson",
+            "text": "澳航现任首席执行官（CEO），2023年上任，是澳航历史上第一位女性CEO。"
+          },
+          {
+            "icon": "🏢",
+            "name": "埃森哲 Accenture",
+            "text": "全球大型咨询和IT服务公司，帮企业做技术系统、流程外包等，在印度有大量员工。"
+          },
+          {
+            "icon": "🧑‍🤝‍🧑",
+            "name": "澳大利亚服务业工会 ASU",
+            "text": "代表办公室文职、服务业等员工的工会，负责为会员争取工作保障和待遇，这次强烈反对澳航把岗位外包。"
+          },
+          {
+            "icon": "🌏",
+            "name": "全球能力中心 GCC",
+            "text": "Global Capability Centre，大公司在海外（尤其是印度）设立的“自家后台中心”，集中处理IT、财务、数据分析等工作，主要优势是人力成本低。"
+          },
+          {
+            "icon": "📦",
+            "name": "外包 outsourcing / 离岸 offshoring",
+            "text": "外包是把工作交给别的公司做；离岸是把工作转到国外做。澳航这次两者都有：交给埃森哲，且很多工作会在印度完成。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "澳航",
+            "b": "埃森哲",
+            "type": "good",
+            "label": "签订多年合作，交出部分公司后台工作"
+          },
+          {
+            "a": "澳航外包计划",
+            "b": "约850个澳洲岗位",
+            "type": "bad",
+            "label": "未来几年陆续被裁"
+          },
+          {
+            "a": "澳大利亚服务业工会",
+            "b": "澳航",
+            "type": "bad",
+            "label": "强烈批评把工作转到海外"
+          },
+          {
+            "a": "降低成本、推进AI和数字化",
+            "b": "白领岗位外流",
+            "type": "cause",
+            "label": "越来越多澳洲大公司把工作转到印度"
+          }
+        ],
+        "points": [
+          "澳航与埃森哲合作，未来几年裁约850个公司职能岗位，很多工作转去印度。",
+          "第一批变动预计2027年年中前落实，涉及财务、营销、采购等部门。",
+          "工会强烈反对；澳航表示会在未来几个月与员工和工会协商。",
+          "NAB、Telstra、Coles等大公司此前也把白领岗位转到海外，这是一种趋势。"
+        ],
+        "relevance": "这次外包直接点名了营销部门，说明重复性强的营销后台工作（比如报表、素材排期、基础执行）越来越容易被外包或交给AI。对在澳洲做营销的人来说，提升策略、创意、本地市场洞察和跨团队沟通这些“难以外包”的能力，会让自己更有竞争力。",
+        "phrase": {
+          "en": "hard news",
+          "zh": "令人难以接受的坏消息（常用于宣布裁员时）"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "AI chipmaker Cerebras jumps after beating forecasts and landing a big new cloud customer",
+      "title_zh": "AI芯片公司Cerebras业绩超预期、拿下大型云计算客户，上调全年收入预测，股价大涨",
+      "search_zh": "Cerebras 第三季度 财报 2026年11月12日 核心收入 2.309亿美元 增长70% 上调全年预测 9.4亿 9.6亿美元 超大规模云服务商 hyperscaler 微软 Microsoft 客户 股价 盘后 盘前 大涨 纳斯达克 CBRS 晶圆级芯片 英伟达 竞争对手 AI推理",
+      "summary_en": "Shares in Cerebras Systems, an American start-up that makes giant chips for running artificial intelligence, jumped by around 16% to 19% in extended trading after the company reported third-quarter results on Thursday, US time. Its core revenue, an adjusted measure the company uses, rose 70% from a year earlier to US$230.9 million, beating analysts' expectations, although under standard accounting rules it still made a net loss of US$161.2 million. Cerebras also raised its full-year forecast for core revenue to between US$940 million and US$960 million, up from its earlier range of US$880 million to US$890 million. Investors were further encouraged by a new cloud customer that the company described only as one of the top three hyperscalers, which several media outlets reported to be Microsoft.",
+      "summary_zh": "美国初创公司Cerebras Systems专门制造运行人工智能的超大芯片，该公司周四（美国时间）公布第三季度业绩后，股价在盘后和盘前交易中上涨约16%至19%。公司的核心收入（公司自己使用的一种调整后指标）同比增长70%，达到2.309亿美元，超出分析师预期；不过按照标准会计准则计算，它仍然净亏损1.612亿美元。Cerebras还把全年核心收入预测上调到9.4亿至9.6亿美元，此前的预测区间是8.8亿至8.9亿美元。让投资者更受鼓舞的是，公司新增了一个云计算客户，只说是“排名前三的超大规模云服务商”之一，多家媒体报道称这家客户就是微软。",
+      "why_zh": "AI热潮里不只有英伟达，Cerebras这样的“挑战者”也在抢市场，这条新闻能帮你看懂科技公司财报的基本说法。“beating expectations（超出预期）”“forecast（预测）”是读任何公司业绩新闻都绕不开的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "SEC filing (Form 8-K); The Next Web; Proactive Investors; TipRanks; Benzinga via TradingView",
+      "url": "https://thenextweb.com/news/cerebras-microsoft-deal-q3-2026-forecast",
+      "vocab": [
+        {
+          "word": "beating",
+          "phonetic": "/ˈbiːtɪŋ/",
+          "pos": "v.",
+          "zh": "超过，好于（beat expectations：超出预期）",
+          "example": "Its core revenue, an adjusted measure the company uses, rose 70% from a year earlier to US$230.9 million, beating analysts' expectations, although under standard accounting rules it still made a net loss of US$161.2 million."
+        },
+        {
+          "word": "encouraged",
+          "phonetic": "/ɪnˈkʌrɪdʒd/",
+          "pos": "adj.",
+          "zh": "受到鼓舞的，信心增强的",
+          "example": "Investors were further encouraged by a new cloud customer that the company described only as one of the top three hyperscalers, which several media outlets reported to be Microsoft."
+        }
+      ],
+      "explain": {
+        "one_liner": "一家做AI芯片的“小个子”公司交出了超预期的成绩单，还拿下了一个超级大客户，投资者觉得它前景更好了，于是股价大涨。",
+        "facts": [
+          {
+            "icon": "🧠",
+            "name": "Cerebras Systems",
+            "text": "美国硅谷的AI芯片公司，以做“晶圆级”超大芯片出名（一块芯片差不多有餐盘那么大），主要用来训练和运行AI模型，常被看作英伟达的挑战者之一，在纳斯达克上市。"
+          },
+          {
+            "icon": "📈",
+            "name": "季度财报 quarterly results",
+            "text": "上市公司每三个月公布一次的经营成绩单，包括收入、利润等。股价往往取决于成绩比分析师预期好还是差。"
+          },
+          {
+            "icon": "🧮",
+            "name": "核心收入 vs 标准会计口径",
+            "text": "“核心收入”是公司自己定义的调整后指标，会剔除一些项目；按统一的标准会计准则（GAAP）算，公司这季度仍然是亏损的。看新闻时要注意数字是哪种口径。"
+          },
+          {
+            "icon": "☁️",
+            "name": "超大规模云服务商 hyperscaler",
+            "text": "指像微软Azure、亚马逊AWS、谷歌云这样拥有海量数据中心的大型云计算公司。它们是AI芯片最大的买家之一。"
+          },
+          {
+            "icon": "🔮",
+            "name": "业绩预测 guidance / forecast",
+            "text": "公司对未来收入的预估。上调预测说明管理层对生意更有信心，通常会推高股价。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Cerebras",
+            "b": "大型云服务商（据报道是微软）",
+            "type": "good",
+            "label": "新签云计算客户"
+          },
+          {
+            "a": "收入超预期 + 上调全年预测",
+            "b": "Cerebras股价",
+            "type": "cause",
+            "label": "盘后和盘前大涨约16%–19%"
+          },
+          {
+            "a": "Cerebras",
+            "b": "英伟达",
+            "type": "neutral",
+            "label": "AI芯片市场的竞争对手"
+          }
+        ],
+        "points": [
+          "第三季度核心收入同比增长70%，达2.309亿美元，超出分析师预期。",
+          "按标准会计准则仍净亏损1.612亿美元，说明公司还在“烧钱”扩张。",
+          "全年核心收入预测上调到9.4亿至9.6亿美元。",
+          "新增一家“前三大”云服务商客户，多家媒体称是微软；股价随之大涨。"
+        ],
+        "relevance": "营销人每天用的AI写作、做图、数据分析工具，背后都需要这些芯片来运行。芯片市场竞争越激烈，AI工具的成本就越有可能下降、速度越快。另外，这条新闻也是看懂“调整后数字”的好例子：公司在宣传里会突出最好看的指标，营销人写案例和读竞品财报时也要学会分辨。",
+        "phrase": {
+          "en": "beat expectations",
+          "zh": "超出预期"
+        }
+      }
+    }
+  ]
+}
