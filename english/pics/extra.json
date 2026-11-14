@@ -5545,5 +5545,198 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "aussie-christmas",
+    "added": "2026-11-15",
+    "name": "澳洲圣诞",
+    "icon": "🎅",
+    "prompt": "澳洲圣诞怎么说？",
+    "items": [
+      {
+        "emoji": "🎅",
+        "w": "Secret Santa",
+        "ph": "/ˌsiːkrət ˈsæntə/",
+        "pos": "n.",
+        "zh": "神秘圣诞老人（抽签送礼）",
+        "ex": "Our office Secret Santa limit is $20.",
+        "tip": "公司圣诞常玩：抽到谁就给谁送礼",
+        "accept": [
+          "Secret Santa",
+          "kris kringle",
+          "santa",
+          "gift swap"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦐",
+        "w": "prawns",
+        "ph": "/prɔːnz/",
+        "pos": "n.",
+        "zh": "大虾",
+        "ex": "Aussies love a big plate of prawns on Christmas Day.",
+        "tip": "澳洲说 prawns，美国常说 shrimp",
+        "accept": [
+          "prawns",
+          "prawn",
+          "shrimp",
+          "shrimps"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍰",
+        "w": "pav",
+        "ph": "/pæv/",
+        "pos": "n.",
+        "zh": "帕夫洛娃蛋糕（澳洲甜点）",
+        "ex": "Mum's making a pav with berries for Christmas lunch.",
+        "tip": "pavlova 的简称，澳新圣诞经典甜点",
+        "accept": [
+          "pav",
+          "pavlova",
+          "dessert"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🕯️",
+        "w": "carols by candlelight",
+        "ph": "/ˌkærəlz baɪ ˈkændllaɪt/",
+        "pos": "n.",
+        "zh": "烛光圣诞颂歌会",
+        "ex": "We're taking a picnic to Carols by Candlelight.",
+        "tip": "墨尔本平安夜的户外传统活动",
+        "accept": [
+          "carols by candlelight",
+          "carols",
+          "christmas carols",
+          "candlelight"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⛄",
+        "w": "white Christmas",
+        "ph": "/ˌwaɪt ˈkrɪsməs/",
+        "pos": "n.",
+        "zh": "下雪的圣诞",
+        "ex": "Australia never gets a white Christmas — it's 35 degrees!",
+        "tip": "澳洲圣诞在夏天",
+        "accept": [
+          "white Christmas",
+          "snowman",
+          "snow"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🦌",
+        "w": "reindeer",
+        "ph": "/ˈreɪndɪə(r)/",
+        "pos": "n.",
+        "zh": "驯鹿",
+        "ex": "Rudolph is the reindeer with the red nose.",
+        "tip": "单复数同形",
+        "accept": [
+          "reindeer",
+          "deer",
+          "rudolph"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍗",
+        "w": "roast",
+        "ph": "/rəʊst/",
+        "pos": "n.",
+        "zh": "烤肉大餐",
+        "ex": "We're doing a turkey roast for Christmas lunch.",
+        "tip": "澳洲很多家庭也改吃海鲜冷盘",
+        "accept": [
+          "roast",
+          "roast chicken",
+          "turkey",
+          "roast dinner"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🌟",
+        "w": "fairy lights",
+        "ph": "/ˈfeəri laɪts/",
+        "pos": "n.",
+        "zh": "彩灯串",
+        "ex": "We hung fairy lights all over the balcony.",
+        "tip": "美国常说 string lights / Christmas lights",
+        "accept": [
+          "fairy lights",
+          "christmas lights",
+          "string lights",
+          "lights"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍮",
+        "w": "Christmas pudding",
+        "ph": "/ˌkrɪsməs ˈpʊdɪŋ/",
+        "pos": "n.",
+        "zh": "圣诞布丁",
+        "ex": "Grandma still makes a Christmas pudding every year.",
+        "tip": "英式传统，加白兰地点火",
+        "accept": [
+          "Christmas pudding",
+          "plum pudding",
+          "pudding",
+          "custard"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍒",
+        "w": "cherries",
+        "ph": "/ˈtʃeriz/",
+        "pos": "n.",
+        "zh": "樱桃",
+        "ex": "Cherries are in season in December.",
+        "tip": "澳洲圣诞季樱桃最便宜",
+        "accept": [
+          "cherries",
+          "cherry"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🍉",
+        "w": "watermelon",
+        "ph": "/ˈwɔːtəmelən/",
+        "pos": "n.",
+        "zh": "西瓜",
+        "ex": "Nothing beats cold watermelon on a hot Christmas Day.",
+        "tip": "",
+        "accept": [
+          "watermelon",
+          "melon"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "✉️",
+        "w": "Christmas card",
+        "ph": "/ˈkrɪsməs kɑːd/",
+        "pos": "n.",
+        "zh": "圣诞贺卡",
+        "ex": "I still need to write my Christmas cards.",
+        "tip": "",
+        "accept": [
+          "Christmas card",
+          "card",
+          "greeting card"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
