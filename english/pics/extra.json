@@ -5738,5 +5738,204 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "safety",
+    "added": "2026-11-16",
+    "name": "安全与急救",
+    "icon": "⛑️",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "⛑️",
+        "w": "first aid",
+        "ph": "/ˌfɜːst ˈeɪd/",
+        "pos": "n.",
+        "zh": "急救",
+        "ex": "Everyone in the office did a first aid course.",
+        "tip": "first aid kit = 急救箱",
+        "accept": [
+          "first aid",
+          "first aid kit",
+          "first-aid"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🏥",
+        "w": "ED",
+        "ph": "/ˌiː ˈdiː/",
+        "pos": "n.",
+        "zh": "急诊科（澳洲说法）",
+        "ex": "We waited four hours in ED last night.",
+        "tip": "Emergency Department 的缩写；美国常说 ER",
+        "accept": [
+          "ED",
+          "emergency department",
+          "emergency",
+          "er",
+          "a&e"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🆘",
+        "w": "SOS",
+        "ph": "/ˌes əʊ ˈes/",
+        "pos": "n.",
+        "zh": "求救信号",
+        "ex": "iPhones can send an emergency SOS by satellite.",
+        "tip": "澳洲急救电话是 000（triple zero）",
+        "accept": [
+          "SOS",
+          "help",
+          "emergency"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "⚠️",
+        "w": "hazard",
+        "ph": "/ˈhæzəd/",
+        "pos": "n.",
+        "zh": "危险、隐患",
+        "ex": "Wet floors are a slip hazard.",
+        "tip": "hazard lights = 双闪",
+        "accept": [
+          "hazard",
+          "danger",
+          "risk",
+          "warning"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧑‍🚒",
+        "w": "firie",
+        "ph": "/ˈfaɪri/",
+        "pos": "n.",
+        "zh": "消防员（澳洲口语）",
+        "ex": "The firies put the grass fire out in minutes.",
+        "tip": "firefighter 的澳洲叫法",
+        "accept": [
+          "firie",
+          "firefighter",
+          "fireman",
+          "firey"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👮",
+        "w": "cop",
+        "ph": "/kɒp/",
+        "pos": "n.",
+        "zh": "警察（口语）",
+        "ex": "A cop stopped us for a random breath test.",
+        "tip": "正式说 police officer",
+        "accept": [
+          "cop",
+          "police",
+          "police officer",
+          "copper"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚷",
+        "w": "keep out",
+        "ph": "/kiːp ˈaʊt/",
+        "pos": "phr.",
+        "zh": "禁止入内",
+        "ex": "The sign said 'Danger — keep out'.",
+        "tip": "",
+        "accept": [
+          "keep out",
+          "no entry",
+          "do not enter"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "☠️",
+        "w": "poisonous",
+        "ph": "/ˈpɔɪzənəs/",
+        "pos": "adj.",
+        "zh": "有毒的（吃了/碰了中毒）",
+        "ex": "Some mushrooms in the park are poisonous.",
+        "tip": "被咬后中毒的动物更准确叫 venomous",
+        "accept": [
+          "poisonous",
+          "toxic",
+          "venomous"
+        ],
+        "near": [
+          "redback"
+        ]
+      },
+      {
+        "emoji": "🕷️",
+        "w": "redback",
+        "ph": "/ˈredbæk/",
+        "pos": "n.",
+        "zh": "红背蜘蛛（澳洲毒蜘蛛）",
+        "ex": "Check your shoes — redbacks love hiding in them.",
+        "tip": "澳洲常见毒蜘蛛，被咬要就医",
+        "accept": [
+          "redback",
+          "redback spider",
+          "spider"
+        ],
+        "near": [
+          "poisonous"
+        ]
+      },
+      {
+        "emoji": "📍",
+        "w": "drop a pin",
+        "ph": "/drɒp ə pɪn/",
+        "pos": "phr.",
+        "zh": "发定位",
+        "ex": "Drop a pin and I'll come and get you.",
+        "tip": "也可以说 share your location",
+        "accept": [
+          "drop a pin",
+          "share location",
+          "pin",
+          "location"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚭",
+        "w": "smoke-free",
+        "ph": "/ˌsməʊk ˈfriː/",
+        "pos": "adj.",
+        "zh": "禁烟的",
+        "ex": "All Australian workplaces are smoke-free.",
+        "tip": "",
+        "accept": [
+          "smoke-free",
+          "no smoking",
+          "non-smoking"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🚔",
+        "w": "police station",
+        "ph": "/pəˈliːs ˌsteɪʃn/",
+        "pos": "n.",
+        "zh": "警察局",
+        "ex": "Hand the lost wallet in at the police station.",
+        "tip": "hand in = 上交（失物）",
+        "accept": [
+          "police station",
+          "cop shop",
+          "station"
+        ],
+        "near": []
+      }
+    ]
   }
 ]
