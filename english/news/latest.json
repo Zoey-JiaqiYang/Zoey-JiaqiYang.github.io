@@ -1,286 +1,230 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T01:57:12+11:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-17T01:54:44+11:00",
   "items": [
     {
-      "category": "world",
-      "title_en": "US grounds flights nationwide for more than four hours after air traffic control outage",
-      "title_zh": "美国空管系统突发故障，全美航班停飞四个多小时，数千航班延误取消",
-      "search_zh": "美国 FAA 全国 地面停飞 ground stop 2026年11月13日 电信故障 空管系统 路由器 数据过载 无网络攻击 航班取消 FlightAware 25年来最长 空管设备老化",
-      "summary_en": "On Friday, US time, the Federal Aviation Administration (FAA) stopped flights from taking off at airports across the United States for more than four hours after a telecommunications outage hit its air traffic control systems. US officials said network routers had become overloaded with data and started giving inconsistent information, so the system was shut down as a precaution, and they said there was no sign of a cyberattack. Thousands of flights were delayed or cancelled, and more than 2,000 flights for Saturday had also been cancelled, according to the tracking site FlightAware, as airlines struggled to get planes and crews back where they were needed. Reports described it as the longest nationwide ground stop in about 25 years, and the incident has added to long-running concerns that America's ageing air traffic control equipment needs upgrading.",
-      "summary_zh": "美国时间周五，美国联邦航空管理局（FAA）的空中交通管制系统遭遇电信故障，随后全美各机场的航班被禁止起飞，时间超过四个小时。美国官员表示，网络路由器因数据过载而开始传送不一致的信息，因此作为预防措施关闭了系统；他们还表示，没有迹象显示这是网络攻击。数千个航班延误或取消；据航班追踪网站FlightAware的数据，周六另有2000多个航班已被取消，因为航空公司还在努力把飞机和机组人员调回需要的位置。多家媒体称，这是大约25年来时间最长的一次全国性“地面停飞”，这件事也让人们更加担心美国老化的空管设备急需升级。",
-      "why_zh": "如果你近期要去美国出差或旅行，这类大规模停飞会直接打乱行程。“precaution（预防措施）”“ageing（老化的）”在新闻和公司通知里都很常见。",
-      "image": "",
-      "image_credit": "",
-      "source": "CNN; Al Jazeera; NBC News; Axios; CBS News; Yahoo News",
-      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
-      "vocab": [
-        {
-          "word": "precaution",
-          "phonetic": "/prɪˈkɔːʃn/",
-          "pos": "n.",
-          "zh": "预防措施，防范",
-          "example": "US officials said network routers had become overloaded with data and started giving inconsistent information, so the system was shut down as a precaution, and they said there was no sign of a cyberattack."
-        },
-        {
-          "word": "ageing",
-          "phonetic": "/ˈeɪdʒɪŋ/",
-          "pos": "adj.",
-          "zh": "老化的，日渐陈旧的",
-          "example": "Reports described it as the longest nationwide ground stop in about 25 years, and the incident has added to long-running concerns that America's ageing air traffic control equipment needs upgrading."
-        }
-      ],
-      "explain": {
-        "one_liner": "美国管飞机“交通”的系统通信出了故障，为了安全，全美机场先让所有飞机原地不动，结果几千个航班被打乱。",
-        "facts": [
-          {
-            "icon": "🛫",
-            "name": "美国联邦航空管理局 FAA",
-            "text": "Federal Aviation Administration，美国政府负责民航安全和空中交通管制的机构，相当于美国天空的“交通警察总部”。"
-          },
-          {
-            "icon": "📡",
-            "name": "空中交通管制 air traffic control",
-            "text": "地面管制员通过雷达和通信系统指挥飞机起飞、降落和航线，确保飞机之间保持安全距离。通信一断，就无法安全指挥。"
-          },
-          {
-            "icon": "⛔",
-            "name": "地面停飞 ground stop",
-            "text": "管制部门下令飞机暂时不准起飞（已在空中的飞机继续飞往目的地）。全国性的地面停飞非常罕见。"
-          },
-          {
-            "icon": "🔌",
-            "name": "路由器 router",
-            "text": "在网络中负责转发数据的设备。官员说这次是路由器数据过载、传出不一致的信息，所以先关闭系统。最终根本原因仍在调查中。"
-          },
-          {
-            "icon": "📊",
-            "name": "FlightAware",
-            "text": "一个实时追踪全球航班的网站，媒体常引用它的数据来统计航班延误和取消数量。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "路由器数据过载",
-            "b": "空管通信故障",
-            "type": "cause",
-            "label": "官员给出的直接原因"
-          },
-          {
-            "a": "空管通信故障",
-            "b": "全美地面停飞",
-            "type": "cause",
-            "label": "出于安全考虑暂停起飞"
-          },
-          {
-            "a": "地面停飞",
-            "b": "航空公司和旅客",
-            "type": "bad",
-            "label": "数千航班延误或取消，影响延续到周六"
-          },
-          {
-            "a": "官员",
-            "b": "网络攻击",
-            "type": "neutral",
-            "label": "表示没有发现被攻击的迹象"
-          }
-        ],
-        "points": [
-          "美国时间周五，全美机场航班被禁止起飞超过四小时。",
-          "官员称原因是网络路由器数据过载、信息不一致，作为预防措施关闭了系统，没有网络攻击迹象。",
-          "数千航班延误或取消，周六又有2000多个航班被取消。",
-          "这被称为约25年来最长的全国性停飞，再次引发对美国空管设备老化的担忧。"
-        ],
-        "relevance": "紧接着微软宕机之后，这又是一个“关键系统一断，全线停摆”的例子。做营销的人如果负责活动、展会或出差安排，要给跨国行程留出缓冲时间；对航空、旅游类品牌来说，这种时候如何及时、诚恳地通知客户，也是危机沟通的重要一课。",
-        "phrase": {
-          "en": "out of an abundance of caution",
-          "zh": "出于格外谨慎（官方通知中常用来解释为什么采取预防措施）"
-        }
-      }
-    },
-    {
       "category": "australia",
-      "title_en": "Lifesaving medicines keep running short in Australia, with Q fever vaccine set to run out",
-      "title_zh": "澳洲救命药反复断货：ABC分析发现超半数严重短缺属“老问题”，Q热疫苗即将用完",
-      "search_zh": "澳洲 药品短缺 ABC 分析 2026年11月13日 救命药 反复短缺 TGA 治疗用品管理局 Q热疫苗 Q-VAX CSL Seqirus 断货 年底 每批九个月 昆士兰大学 供应链 缺乏韧性",
-      "summary_en": "An ABC analysis of government data has found that many lifesaving medicines in Australia run short again and again, with more than half of recent critical shortages involving medicines that had been in short supply before. Among them is Q-VAX, the only vaccine available in Australia against Q fever, a bacterial disease that people can catch from farm animals such as cattle, sheep and goats. Its maker, CSL Seqirus, has said it expects a temporary stock-out from now until the end of the year, and the ABC noted that each batch of the vaccine takes about nine months to produce. A supply chain researcher at the University of Queensland told the ABC that Australia's medicine supply is \"lacking resilience and vulnerable to disruption\", and doctors are worried about the impact on patients.",
-      "summary_zh": "ABC对政府数据进行分析后发现，澳洲许多救命药反复出现短缺，在近期的“严重短缺”药品中，超过一半以前就曾经断过货。其中包括Q-VAX，它是澳洲唯一可用的Q热疫苗；Q热是一种细菌性疾病，人可能从牛、羊、山羊等农场动物身上感染。疫苗生产商CSL Seqirus表示，预计从现在到年底会出现暂时断货；ABC还指出，这种疫苗每生产一批大约需要九个月。昆士兰大学的一位供应链研究人员对ABC表示，澳洲的药品供应“缺乏韧性，容易受到干扰”，医生们也担心这会影响病人。",
-      "why_zh": "药品短缺会影响每个在澳洲看病买药的人，了解背后的原因很有用。“temporary（暂时的）”“resilience（韧性、抗压能力）”是商业和供应链话题里的高频词。",
+      "title_en": "Kangaroos and Jillaroos both beat New Zealand to win a fourth straight Rugby League World Cup",
+      "title_zh": "澳洲橄榄球男女队双双击败新西兰，世界杯四连冠！",
+      "search_zh": "橄榄球联盟世界杯 决赛 2026年11月15日 布里斯班 Suncorp体育场 袋鼠队 Kangaroos 32比12 新西兰 Kiwis Jillaroos 34比10 Kiwi Ferns 四连冠 Jack Bostock Liam Martin Jaime Chapman 帽子戏法",
+      "summary_en": "Australia completed a rugby league double in Brisbane on Sunday night, as both the men's and women's national teams beat New Zealand in the Rugby League World Cup finals at Suncorp Stadium. The Kangaroos defeated the Kiwis 32-12, with Liam Martin scoring the first try inside the opening minute. Earlier in the evening, the Jillaroos thrashed the Kiwi Ferns 34-10, after leading 24-0 at half-time. Both Australian teams have now won four World Cups in a row, extending a remarkable run of dominance that began in 2013.",
+      "summary_zh": "周日晚上，澳洲在布里斯班的Suncorp体育场完成了橄榄球联盟的“双冠”：澳洲男队和女队在橄榄球联盟世界杯决赛中都击败了新西兰。男队“袋鼠队”以32比12战胜新西兰“几维队”，利亚姆·马丁在开场第一分钟就完成首次达阵。当晚早些时候，女队“Jillaroos”以34比10大胜新西兰“Kiwi Ferns”，上半场就已经领先24比0。至此，澳洲男女两队都已连续四届夺得世界杯冠军，延续了从2013年开始的统治级表现。",
+      "why_zh": "橄榄球联盟是澳洲（尤其新州和昆州）最受欢迎的运动之一，周一办公室里很可能会聊到这场胜利。“thrashed（大胜、痛击）”“dominance（统治地位）”在体育和商业新闻里都很常用。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; The Medical Republic",
-      "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
+      "source": "ABC News; NRL.com; Sky Sports; Stuff; NZ Herald; RNZ",
+      "url": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474",
       "vocab": [
         {
-          "word": "temporary",
-          "phonetic": "/ˈtemprəri/",
-          "pos": "adj.",
-          "zh": "暂时的，临时的",
-          "example": "Its maker, CSL Seqirus, has said it expects a temporary stock-out from now until the end of the year, and the ABC noted that each batch of the vaccine takes about nine months to produce."
+          "word": "thrashed",
+          "phonetic": "/θræʃt/",
+          "pos": "v.",
+          "zh": "大胜，痛击（在比赛中轻松击败对手）",
+          "example": "Earlier in the evening, the Jillaroos thrashed the Kiwi Ferns 34-10, after leading 24-0 at half-time."
         },
         {
-          "word": "resilience",
-          "phonetic": "/rɪˈzɪliəns/",
+          "word": "dominance",
+          "phonetic": "/ˈdɒmɪnəns/",
           "pos": "n.",
-          "zh": "韧性，恢复能力（遇到冲击后能撑住、能恢复）",
-          "example": "A supply chain researcher at the University of Queensland told the ABC that Australia's medicine supply is \"lacking resilience and vulnerable to disruption\", and doctors are worried about the impact on patients."
+          "zh": "统治地位，主导优势",
+          "example": "Both Australian teams have now won four World Cups in a row, extending a remarkable run of dominance that began in 2013."
         }
       ],
       "explain": {
-        "one_liner": "澳洲有些重要的药总是“断了又断”，很多都依赖少数供应商，一出问题就没货，这次连唯一的Q热疫苗也要暂时用完。",
+        "one_liner": "澳洲的男、女橄榄球国家队在同一个晚上都打赢了老对手新西兰，各自拿下连续第四个世界杯冠军。",
         "facts": [
           {
-            "icon": "📺",
-            "name": "ABC",
-            "text": "澳大利亚广播公司，澳洲的公共广播机构，这次由它的记者整理分析了政府公布的药品短缺数据。"
+            "icon": "🏉",
+            "name": "橄榄球联盟 Rugby League",
+            "text": "一种13人制的橄榄球运动，和15人制的“英式橄榄球 Rugby Union”是两种不同的运动。澳洲最高水平的联赛叫NRL，在新州和昆州特别受欢迎。"
           },
           {
-            "icon": "💊",
-            "name": "TGA 治疗用品管理局",
-            "text": "Therapeutic Goods Administration，澳洲联邦政府负责药品和医疗器械监管的机构，会公布药品短缺清单，并按影响程度分为严重、中等、低等。"
+            "icon": "🦘",
+            "name": "袋鼠队 Kangaroos",
+            "text": "澳洲男子橄榄球联盟国家队的昵称。"
           },
           {
-            "icon": "🐑",
-            "name": "Q热 Q fever",
-            "text": "一种细菌引起的疾病，主要通过牛、羊、山羊等动物传给人，农民、屠宰场和兽医等职业风险较高，可以通过接种疫苗预防。"
+            "icon": "👩",
+            "name": "Jillaroos",
+            "text": "澳洲女子橄榄球联盟国家队的昵称（jillaroo在澳洲俚语里指在农场工作的年轻女性）。"
           },
           {
-            "icon": "🏭",
-            "name": "CSL Seqirus",
-            "text": "澳洲上市公司CSL旗下的疫苗企业，Q-VAX疫苗的生产商。"
+            "icon": "🥝",
+            "name": "Kiwis 与 Kiwi Ferns",
+            "text": "分别是新西兰男子和女子橄榄球联盟国家队的昵称，是澳洲队的传统强敌。"
           },
           {
-            "icon": "🔗",
-            "name": "供应链 supply chain",
-            "text": "一件产品从原料、生产、运输到送到消费者手里的整个链条。链条上某一环出问题（比如只有一家工厂生产），就容易断货。"
+            "icon": "🏟️",
+            "name": "Suncorp Stadium",
+            "text": "位于布里斯班的大型体育场，是昆州最重要的橄榄球比赛场地之一，这次男女决赛都在这里举行。"
+          },
+          {
+            "icon": "🎯",
+            "name": "达阵 try / 帽子戏法 hat-trick",
+            "text": "try是把球带进对方得分区并压地，是主要的得分方式；hat-trick指一名球员在一场比赛中得分三次。"
           }
         ],
         "relations": [
           {
-            "a": "供应链缺乏韧性",
-            "b": "药品反复短缺",
+            "a": "袋鼠队",
+            "b": "新西兰Kiwis",
+            "type": "good",
+            "label": "32比12获胜，五次达阵对一次"
+          },
+          {
+            "a": "Jillaroos",
+            "b": "新西兰Kiwi Ferns",
+            "type": "good",
+            "label": "34比10获胜"
+          },
+          {
+            "a": "Jaime Chapman",
+            "b": "Jillaroos夺冠",
             "type": "cause",
-            "label": "研究人员认为供应容易被打断"
+            "label": "上半场帽子戏法，获评决赛最佳球员"
           },
           {
-            "a": "CSL Seqirus",
-            "b": "Q-VAX疫苗",
+            "a": "澳洲男女队",
+            "b": "世界杯",
             "type": "neutral",
-            "label": "唯一生产商，预计年底前暂时断货"
-          },
-          {
-            "a": "药品短缺",
-            "b": "病人和医生",
-            "type": "bad",
-            "label": "医生担心影响治疗"
+            "label": "均为连续第四次夺冠"
           }
         ],
         "points": [
-          "ABC分析发现，近期严重短缺的药品中，超过一半以前就短缺过。",
-          "澳洲唯一的Q热疫苗Q-VAX预计会暂时断货到年底。",
-          "这种疫苗每批大约需要九个月才能生产出来，补货很慢。",
-          "专家认为澳洲药品供应链缺乏韧性，容易受到干扰。"
+          "男队以32比12击败新西兰，Jack Bostock和Liam Martin各有两次达阵。",
+          "女队以34比10击败新西兰，Jaime Chapman上半场完成帽子戏法。",
+          "两场决赛都在布里斯班Suncorp体育场进行。",
+          "澳洲男女队都实现世界杯四连冠，这段统治从2013年开始。"
         ],
-        "relevance": "“断货”对任何品牌都是大事：医药、保健品、快消行业的营销人需要提前和供应链团队沟通，避免在缺货时还在大力推广；同时，如何向客户解释缺货、推荐替代方案，也是维护品牌信任的关键。",
+        "relevance": "大型体育赛事是澳洲品牌营销的黄金时机：赞助商、啤酒和运动品牌都会借势推广。了解橄榄球文化和常用说法，能帮你在本地团队里更好地参与讨论、写出更“接地气”的文案。",
         "phrase": {
-          "en": "run short (of something)",
-          "zh": "（某物）快用完了，供应不足"
+          "en": "make it four in a row",
+          "zh": "实现四连冠/连续四次（做成某事）"
         }
       }
     },
     {
-      "category": "markets",
-      "title_en": "Cartier owner Richemont's profit jumps, but shares slide as jewellery growth slows",
-      "title_zh": "卡地亚母公司历峰利润大增，但珠宝增速放缓不及预期，股价一度大跌9%",
-      "search_zh": "历峰集团 Richemont 半年业绩 2026年11月13日 卡地亚 Cartier 梵克雅宝 Van Cleef & Arpels 净利润 25亿欧元 珠宝销售 增长14% 低于预期16% 中东 下降7% 金价 成本 股价 下跌9% 奢侈品",
-      "summary_en": "Shares in Richemont, the Swiss luxury group that owns Cartier and Van Cleef & Arpels, fell as much as 9% on Friday before recovering some ground, even though the company reported a big jump in half-year profit. Its net profit for the six months to September rose to about €2.5 billion from €1.8 billion a year earlier, beating analysts' forecasts. However, jewellery sales grew 14% in the July-to-September quarter, below the roughly 16% that analysts had expected, while sales in the Middle East fell 7% as tourist spending in the region weakened. The company also said higher gold prices had pushed up its production costs, although price increases and a better mix of products largely offset the impact.",
-      "summary_zh": "瑞士奢侈品集团历峰（Richemont）旗下拥有卡地亚（Cartier）和梵克雅宝（Van Cleef & Arpels），该公司虽然公布了半年利润大增，股价周五却一度下跌多达9%，之后收复了部分跌幅。截至9月的六个月里，公司净利润从去年同期的18亿欧元增至约25亿欧元，超出分析师预测。不过，7月到9月这一季度的珠宝销售额增长14%，低于分析师预期的约16%；同时，由于当地游客消费走弱，中东地区销售额下降了7%。公司还表示，金价上涨推高了生产成本，不过通过提价和更好的产品组合，大部分影响已被抵消。",
-      "why_zh": "奢侈品是营销人最爱研究的行业之一，这条新闻说明“赚得多”不一定让股价涨，关键看是否达到市场预期。“forecasts（预测）”“offset（抵消）”是读财报新闻的常用词。",
+      "category": "entertainment",
+      "title_en": "China's BLG beat Gen.G 3-1 to win their first League of Legends world title",
+      "title_zh": "逆转夺冠！BLG 3比1击败Gen.G，首夺英雄联盟全球总决赛冠军",
+      "search_zh": "BLG Bilibili Gaming 英雄联盟 全球总决赛 S赛 2026 夺冠 3比1 Gen.G 纽约 巴克莱中心 Knight Viper 淘汰T1 LPL 2021年以来首冠 微博热搜",
+      "summary_en": "Chinese esports team Bilibili Gaming, known as BLG, won the League of Legends World Championship for the first time, beating South Korea's Gen.G 3-1 in the final at the Barclays Center in Brooklyn, New York. BLG lost the first game but then won three in a row, completing a comeback that sparked celebrations among fans in China and became a hot topic on Chinese social media. On the way to the title, the team knocked out all four South Korean teams it faced, including the famous T1 in the semi-finals. It is the first world title for a team from China's LPL league since 2021, ending four straight years of wins by Korean teams.",
+      "summary_zh": "中国电竞战队Bilibili Gaming（简称BLG）首次夺得《英雄联盟》全球总决赛冠军，在纽约布鲁克林巴克莱中心举行的决赛中以3比1击败韩国战队Gen.G。BLG先输掉第一局，随后连赢三局完成逆转，在中国粉丝中引发欢呼，也成为中国社交媒体上的热门话题。在夺冠路上，BLG淘汰了遇到的全部四支韩国战队，其中包括半决赛中的知名战队T1。这是自2021年以来中国LPL赛区战队首次拿到世界冠军，终结了韩国战队连续四年夺冠的局面。",
+      "why_zh": "电竞已经是年轻人里的“大众娱乐”，B站这类平台也是品牌营销的重要阵地。“comeback（逆转、卷土重来）”“knocked out（淘汰）”在体育报道里极常见。",
       "image": "",
       "image_credit": "",
-      "source": "Reuters via Yahoo Finance and Euronext; FashionUnited; FashionNetwork; Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/article/cartier-owner-richemont-stock-slips-as-luxury-jewelry-sales-slow-152622400.html",
+      "source": "CGTN; Dot Esports; Inven Global; SBS (Korea); KeenGamer; Sina",
+      "url": "https://dotesports.com/league-of-legends/news/blg-win-worlds-championship-2026",
       "vocab": [
         {
-          "word": "forecasts",
-          "phonetic": "/ˈfɔːkɑːsts/",
+          "word": "comeback",
+          "phonetic": "/ˈkʌmbæk/",
           "pos": "n.",
-          "zh": "预测，预估",
-          "example": "Its net profit for the six months to September rose to about €2.5 billion from €1.8 billion a year earlier, beating analysts' forecasts."
+          "zh": "逆转；东山再起",
+          "example": "BLG lost the first game but then won three in a row, completing a comeback that sparked celebrations among fans in China and became a hot topic on Chinese social media."
         },
         {
-          "word": "offset",
-          "phonetic": "/ˈɒfset/",
+          "word": "knocked out",
+          "phonetic": "/nɒkt aʊt/",
+          "pos": "phr. v.",
+          "zh": "淘汰（对手）",
+          "example": "On the way to the title, the team knocked out all four South Korean teams it faced, including the famous T1 in the semi-finals."
+        }
+      ]
+    },
+    {
+      "category": "china",
+      "title_en": "Archaeologists say people in Zhejiang were brewing and filtering red rice alcohol 5,000 years ago",
+      "title_zh": "5000年前的浙江人就会酿“红曲酒”？考古发现古人用红曲霉酿酒、用布过滤",
+      "search_zh": "浙江 瓦窑里遗址 5000年前 酿酒 陶器 过滤器 红曲霉 Monascus 稻米 植物纤维 布过滤 Archaeological and Anthropological Sciences 2026年11月 新石器时代 红曲酒",
+      "summary_en": "Archaeologists studying pottery from the Wayaoli site in Zhejiang province say people in southern China were brewing and filtering rice-based alcohol around 5,000 years ago. All five pottery filters they analysed contained traces of rice and of Monascus, a red mould still used to make traditional Chinese red rice wine, which suggests the drink may have been reddish in colour. Plant fibres found on the filters suggest that cloth was used to strain the liquid, although no complete pieces of fabric have survived. The study, published in the journal Archaeological and Anthropological Sciences, also notes that filters were found in many burials at the site, hinting that alcohol played an important role in rituals and social life.",
+      "summary_zh": "考古学家研究了浙江瓦窑里遗址出土的陶器，认为大约5000年前，中国南方的人们就已经在酿造并过滤以稻米为原料的酒。他们分析的五件陶制过滤器上都发现了稻米和红曲霉的痕迹；红曲霉是一种红色霉菌，至今仍用于酿造中国传统的红曲酒，这说明当时的酒可能呈淡红色。过滤器上发现的植物纤维表明，当时人们可能用布来过滤酒液，不过并没有完整的布料保存下来。这项研究发表在《考古与人类学科学》（Archaeological and Anthropological Sciences）期刊上，研究还指出，该遗址的许多墓葬中都出土了过滤器，暗示酒在祭祀和社交生活中有重要地位。",
+      "why_zh": "中国酒文化源远流长，这个发现让“品牌故事”有了更古老的源头。“traces（痕迹）”“strain（过滤）”在科学和美食类文章里都很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Phys.org; Springer (Archaeological and Anthropological Sciences); Interesting Engineering; Anthropology.net",
+      "url": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
+      "vocab": [
+        {
+          "word": "traces",
+          "phonetic": "/ˈtreɪsɪz/",
+          "pos": "n.",
+          "zh": "痕迹，微量残留",
+          "example": "All five pottery filters they analysed contained traces of rice and of Monascus, a red mould still used to make traditional Chinese red rice wine, which suggests the drink may have been reddish in colour."
+        },
+        {
+          "word": "strain",
+          "phonetic": "/streɪn/",
           "pos": "v.",
-          "zh": "抵消，弥补",
-          "example": "The company also said higher gold prices had pushed up its production costs, although price increases and a better mix of products largely offset the impact."
+          "zh": "过滤，滤去（液体中的渣）",
+          "example": "Plant fibres found on the filters suggest that cloth was used to strain the liquid, although no complete pieces of fabric have survived."
         }
       ],
       "explain": {
-        "one_liner": "卡地亚的母公司赚的钱比预想的多，但最赚钱的珠宝业务增长比大家期待的慢了一点，所以投资者还是卖出了股票。",
+        "one_liner": "科学家在浙江一处约5000年前的遗址里，从陶器残留物中找到了用稻米和红曲霉酿酒、再用布过滤的证据。",
         "facts": [
           {
-            "icon": "💎",
-            "name": "历峰集团 Richemont",
-            "text": "总部在瑞士的奢侈品集团，旗下有卡地亚、梵克雅宝等珠宝品牌，以及多家高级手表品牌，珠宝是它最大的收入来源。"
+            "icon": "🏺",
+            "name": "瓦窑里遗址 Wayaoli site",
+            "text": "位于浙江省的一处新石器时代晚期遗址，距今约5000年，出土了许多陶器，包括专门的过滤器。"
           },
           {
-            "icon": "💍",
-            "name": "卡地亚 Cartier 和 梵克雅宝 Van Cleef & Arpels",
-            "text": "两个法国顶级珠宝品牌，卡地亚以“Love”手镯等闻名，梵克雅宝以四叶草系列闻名。"
+            "icon": "🍶",
+            "name": "红曲霉 Monascus",
+            "text": "一种会产生红色色素的霉菌，中国人至今仍用它做红曲米、酿红曲酒，也用来给食物上色（比如红腐乳）。"
           },
           {
-            "icon": "📅",
-            "name": "半年业绩 half-year results",
-            "text": "历峰的财年从4月开始，这次公布的是4月至9月这六个月的成绩。"
+            "icon": "🔬",
+            "name": "残留物分析 residue analysis",
+            "text": "考古学家刮取陶器表面残留的极微小物质（如淀粉粒、霉菌、纤维），在显微镜下辨认，从而推断这件器物当年装过或处理过什么。"
           },
           {
-            "icon": "📉",
-            "name": "分析师预期 analysts' expectations",
-            "text": "银行等机构的分析师会提前估算公司业绩。实际结果低于预期，即使数字在增长，股价也可能下跌。"
+            "icon": "🧵",
+            "name": "植物纤维 plant fibres",
+            "text": "过滤器上找到的纤维被认为来自布料，说明古人可能用布垫在过滤器上滤酒，让酒更清。不过没有发现完整的布。"
           },
           {
-            "icon": "🪙",
-            "name": "金价 gold price",
-            "text": "黄金是珠宝的主要原料，金价上涨会推高生产成本，品牌通常会通过涨价来弥补。"
+            "icon": "📚",
+            "name": "Archaeological and Anthropological Sciences",
+            "text": "一本由施普林格（Springer）出版的同行评审学术期刊，专门发表考古与人类学方面的科学研究。"
           }
         ],
         "relations": [
           {
-            "a": "珠宝季度增长14%（低于预期16%）",
-            "b": "历峰股价",
+            "a": "稻米 + 红曲霉",
+            "b": "古代酒",
             "type": "cause",
-            "label": "一度下跌多达9%"
+            "label": "发酵酿成，可能呈淡红色"
           },
           {
-            "a": "金价上涨",
-            "b": "生产成本",
-            "type": "bad",
-            "label": "推高成本"
-          },
-          {
-            "a": "提价和产品组合",
-            "b": "成本压力",
+            "a": "布质过滤",
+            "b": "酒的口感和清澈度",
             "type": "good",
-            "label": "大部分被抵消"
+            "label": "研究认为能让酒更清"
           },
           {
-            "a": "历峰",
-            "b": "卡地亚、梵克雅宝",
+            "a": "墓葬中的过滤器",
+            "b": "祭祀与社交",
             "type": "neutral",
-            "label": "母公司与旗下品牌"
+            "label": "暗示酒有重要社会地位"
+          },
+          {
+            "a": "瓦窑里发现",
+            "b": "更早的上山遗址研究",
+            "type": "neutral",
+            "label": "都显示浙江很早就用霉菌发酵稻米"
           }
         ],
         "points": [
-          "半年净利润从18亿欧元增至约25亿欧元，超出预期。",
-          "但7–9月珠宝销售增长14%，低于预期的约16%。",
-          "中东地区销售下降7%，因为当地游客消费走弱。",
-          "金价上涨推高成本，但提价和产品组合基本抵消了影响；股价一度跌9%，后收复部分跌幅。"
+          "研究对象是浙江瓦窑里遗址约5000年前的陶器。",
+          "五件过滤器上都有稻米和红曲霉的痕迹，酒可能是淡红色的。",
+          "植物纤维显示古人可能用布来过滤，但没有完整布料留存。",
+          "许多墓葬里都有过滤器，说明酒在当时的祭祀和社交中很重要。"
         ],
-        "relevance": "奢侈品牌的定价和品牌故事是营销的经典案例：金价上涨时还能提价，说明品牌力强。澳洲也是这些品牌的重要市场，关注它们的增长和地区表现，可以帮你理解高端消费趋势，以及“预期管理”对公司的重要性。",
+        "relevance": "“历史传承”是酒类和食品品牌最有力的故事之一。在澳洲做营销时，如果要向本地消费者介绍中国黄酒、红曲酒或米酒，这类有科学依据的考古发现，就是很好的文化背景和内容素材。",
         "phrase": {
-          "en": "fall short of expectations",
-          "zh": "未达到预期"
+          "en": "shed light on",
+          "zh": "揭示，让人更了解（某事）"
         }
       }
     }
