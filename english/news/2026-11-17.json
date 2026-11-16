@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T01:56:06+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Coles investigates cyber security incident but says no sign customer data was taken",
+      "title_zh": "Coles超市发生网络安全事件正在调查，称暂无证据显示顾客数据被盗，门店和网购照常",
+      "search_zh": "Coles 网络安全事件 2026年11月16日 ASX 公告 澳大利亚网络安全中心 ACSC 未发现 顾客 员工 供应商 数据被盗 证据 Liquorland 网上下单到店自提 门店 网购 照常 警惕 索要个人信息",
+      "summary_en": "Coles, one of Australia's two biggest supermarket chains, told the Australian Securities Exchange (ASX) on Monday that it is investigating a cyber security incident. The company said its investigation so far had found no evidence that customer, staff or supplier data had been taken, and that people could keep shopping in its stores and online as normal. Coles said it was working with the Australian Cyber Security Centre and global cyber security experts to contain the problem, and that a small number of Liquorland customers had experienced issues with click-and-collect orders. It has not yet said how or when the incident happened, and it advised customers to be suspicious of any messages asking for their personal information.",
+      "summary_zh": "澳洲两大超市连锁之一的Coles周一向澳大利亚证券交易所（ASX）报告称，公司正在调查一起网络安全事件。公司表示，目前的调查没有发现顾客、员工或供应商数据被盗取的证据，大家仍可以照常在门店和网上购物。Coles称，公司正与澳大利亚网络安全中心（ACSC）以及国际网络安全专家合作控制事态，另外有少数Liquorland顾客在使用“网上下单、到店自提”服务时遇到了问题。公司尚未说明事件是如何、何时发生的，并提醒顾客对任何索要个人信息的消息保持警惕。",
+      "why_zh": "Coles是很多人每周都会去的超市，遇到这类事件要留意钓鱼短信和邮件。“contain（控制住）”“suspicious（可疑的、保持警惕的）”是危机通报里的常见词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; iTnews; BleepingComputer; Computer Weekly; Inside FMCG",
+      "url": "https://www.itnews.com.au/news/coles-group-investigating-a-cyber-incident-630361",
+      "vocab": [
+        {
+          "word": "contain",
+          "phonetic": "/kənˈteɪn/",
+          "pos": "v.",
+          "zh": "控制住，遏制（不让问题扩散）",
+          "example": "Coles said it was working with the Australian Cyber Security Centre and global cyber security experts to contain the problem, and that a small number of Liquorland customers had experienced issues with click-and-collect orders."
+        },
+        {
+          "word": "suspicious",
+          "phonetic": "/səˈspɪʃəs/",
+          "pos": "adj.",
+          "zh": "怀疑的，保持警惕的；可疑的",
+          "example": "It has not yet said how or when the incident happened, and it advised customers to be suspicious of any messages asking for their personal information."
+        }
+      ],
+      "explain": {
+        "one_liner": "Coles的电脑系统遇到了网络安全问题，公司正在查，目前说没发现顾客信息被偷，买东西不受影响。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "Coles",
+            "text": "澳洲最大的两家连锁超市之一（另一家是Woolworths），旗下还有Liquorland等酒类门店，在澳交所上市。"
+          },
+          {
+            "icon": "📈",
+            "name": "澳大利亚证券交易所 ASX",
+            "text": "澳洲的股票交易所。上市公司遇到可能影响股价的重要事情，需要及时向交易所发公告，让投资者知情。"
+          },
+          {
+            "icon": "🛡️",
+            "name": "澳大利亚网络安全中心 ACSC",
+            "text": "Australian Cyber Security Centre，澳洲政府负责网络安全的机构，企业遭遇网络攻击时会提供协助和建议。"
+          },
+          {
+            "icon": "🍷",
+            "name": "Liquorland",
+            "text": "Coles集团旗下的连锁酒类商店，这次有少数顾客的“网上下单、到店自提”订单出了问题。"
+          },
+          {
+            "icon": "🎣",
+            "name": "网络钓鱼 phishing",
+            "text": "骗子冒充公司发短信或邮件，骗你点链接、填密码或银行信息。大公司出安全事件后，这类诈骗常会趁机增多。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "网络安全事件",
+            "b": "Coles",
+            "type": "bad",
+            "label": "公司正在调查和控制"
+          },
+          {
+            "a": "Coles",
+            "b": "澳大利亚网络安全中心",
+            "type": "good",
+            "label": "合作处理事件"
+          },
+          {
+            "a": "网络安全事件",
+            "b": "Liquorland自提服务",
+            "type": "neutral",
+            "label": "少数顾客遇到问题，是否有关联公司未明确说明"
+          },
+          {
+            "a": "Coles",
+            "b": "顾客",
+            "type": "neutral",
+            "label": "提醒警惕索要个人信息的消息"
+          }
+        ],
+        "points": [
+          "Coles周一向澳交所报告正在调查一起网络安全事件。",
+          "目前调查没有发现顾客、员工或供应商数据被盗的证据。",
+          "门店和网购照常运营，只有少数Liquorland自提订单出了问题。",
+          "公司尚未说明事件发生的时间和方式，调查仍在进行中。"
+        ],
+        "relevance": "对营销人来说，客户数据是最宝贵也最敏感的资产。Coles这次的做法——第一时间公告、说明“目前知道什么、不知道什么”、提醒顾客防诈骗——是危机沟通的典型样本。如果你的工作涉及会员数据、EDM或CRM，这也提醒你要配合IT团队做好数据安全。",
+        "phrase": {
+          "en": "business as usual",
+          "zh": "一切照常运营（公司出事后常用来安抚顾客）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Xianyu sues rumour-spreader for 1 million yuan after police find viral 'secret code' claims were false",
+      "title_zh": "警方查实“拐卖儿童暗语”等系谣言，闲鱼起诉造谣者索赔100万元",
+      "search_zh": "闲鱼 起诉 造谣者 索赔100万元 2026年11月16日 闲鱼黑板报 拐卖儿童暗语 赵某某 偷A4纸在闲鱼卖 农产品涉色情交易 AI生成 钓鱼竿 P图 警方查实 侵害企业名誉权 民事诉讼",
+      "summary_en": "Xianyu, Alibaba's popular second-hand trading app, said on Monday that it had filed a civil lawsuit against a social media user and was seeking 1 million yuan in damages for spreading a false rumour about the platform. The person, identified only by the surname Zhao, had claimed in the comments section of a short-video platform that ordinary chats between buyers and sellers were secret code for child trafficking, and the claim spread quickly online. According to Xianyu's statement and Chinese media reports, police in several places found that this and other viral stories, including one about people selling stolen A4 paper on the app, were made up, and those responsible have apologised or been punished. The company said it would also sue other rumour-spreaders, a sign that it is moving from simply denying rumours to taking legal action to protect its reputation.",
+      "summary_zh": "阿里巴巴旗下的热门二手交易平台闲鱼周一表示，已对一名社交媒体用户提起民事诉讼，因其散布有关平台的谣言，索赔100万元。这名用户在报道中只被称为“赵某某”，他曾在一个短视频平台的评论区，把买卖双方的普通聊天说成是“拐卖儿童暗语”，这一说法在网上迅速传播。根据闲鱼的声明和国内媒体报道，多地警方查实，这件事以及“偷A4纸在闲鱼卖”等其他热传事件都是编造的，相关造谣者已经道歉或受到处罚。闲鱼表示还将陆续起诉其他造谣者，这说明它正从单纯“辟谣”转向用法律手段保护自己的名誉。",
+      "why_zh": "这是一个关于品牌如何应对网络谣言的真实案例，营销人都应该关注。“damages（赔偿金）”“reputation（名誉、声誉）”在商业和法律新闻里非常常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); Tencent News; Sina; Guancha; China.com",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34488861",
+      "vocab": [
+        {
+          "word": "damages",
+          "phonetic": "/ˈdæmɪdʒɪz/",
+          "pos": "n.",
+          "zh": "（法律上的）损害赔偿金",
+          "example": "Xianyu, Alibaba's popular second-hand trading app, said on Monday that it had filed a civil lawsuit against a social media user and was seeking 1 million yuan in damages for spreading a false rumour about the platform."
+        },
+        {
+          "word": "reputation",
+          "phonetic": "/ˌrepjuˈteɪʃn/",
+          "pos": "n.",
+          "zh": "名誉，声誉",
+          "example": "The company said it would also sue other rumour-spreaders, a sign that it is moving from simply denying rumours to taking legal action to protect its reputation."
+        }
+      ],
+      "explain": {
+        "one_liner": "有人在网上把闲鱼上的普通聊天说成“拐卖儿童暗语”，警方查明是假的，闲鱼这次直接把造谣的人告上法庭。",
+        "facts": [
+          {
+            "icon": "🐟",
+            "name": "闲鱼 Xianyu",
+            "text": "阿里巴巴集团旗下的二手交易App，很多人在上面买卖闲置物品，用户量很大。"
+          },
+          {
+            "icon": "🏢",
+            "name": "阿里巴巴 Alibaba",
+            "text": "中国最大的互联网公司之一，旗下有淘宝、天猫、闲鱼等平台。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "民事诉讼 civil lawsuit",
+            "text": "个人或公司之间因为权益纠纷向法院起诉，一般是要求赔偿或道歉，不是刑事案件。这次的案由是“侵害企业名誉权”。"
+          },
+          {
+            "icon": "👮",
+            "name": "行政处罚 administrative penalty",
+            "text": "警方等机关对违法但不构成犯罪的行为作出的处罚，比如罚款、拘留等。报道称部分造谣者已受到行政处罚。"
+          },
+          {
+            "icon": "📢",
+            "name": "闲鱼黑板报",
+            "text": "闲鱼的官方公告账号，这次的起诉声明就是通过它发布的。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "网络谣言",
+            "b": "闲鱼",
+            "type": "bad",
+            "label": "把平台污名化为“暗网”"
+          },
+          {
+            "a": "多地警方",
+            "b": "谣言",
+            "type": "neutral",
+            "label": "查实为编造，部分造谣者受到处罚"
+          },
+          {
+            "a": "闲鱼",
+            "b": "造谣者赵某某",
+            "type": "bad",
+            "label": "提起民事诉讼，索赔100万元"
+          },
+          {
+            "a": "谣言被查实",
+            "b": "闲鱼起诉",
+            "type": "cause",
+            "label": "有了警方结论，平台主动维权"
+          }
+        ],
+        "points": [
+          "“拐卖儿童暗语”“偷A4纸在闲鱼卖”等一系列热传事件被警方查实为谣言。",
+          "其中一段视频是AI生成的，有截图是P图伪造的。",
+          "闲鱼已对“拐卖儿童暗语”的造谣者提起民事诉讼，索赔100万元，并称将陆续起诉其他人。",
+          "目前起诉和索赔是闲鱼一方的说法，法院的后续进展还没有报道。"
+        ],
+        "relevance": "社交媒体时代，一条谣言可以在几小时内伤害一个品牌。闲鱼从“发声明辟谣”升级到“拿出警方结论+起诉”，是品牌声誉管理（reputation management）的一个新思路。在澳洲做营销，同样会遇到差评、谣言和AI假内容，提前准备好应对流程很重要。",
+        "phrase": {
+          "en": "set the record straight",
+          "zh": "澄清事实，纠正错误说法"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "China's Bilibili Gaming win their first League of Legends world title, setting Weibo alight",
+      "title_zh": "BLG 3比1击败Gen.G首夺英雄联盟全球总决赛冠军，相关话题刷屏微博热搜",
+      "search_zh": "BLG 英雄联盟 全球总决赛 2026 夺冠 3比1 Gen.G 巴克莱中心 纽约 Knight 决赛MVP 首冠 LPL 2021年EDG以来 终结LCK四连冠 微博热搜",
+      "summary_en": "Chinese esports team Bilibili Gaming (BLG) won the League of Legends World Championship for the first time, beating South Korea's Gen.G 3-1 in the final at the Barclays Center in New York. The match took place on Saturday, US time, and the victory quickly flooded China's social media platform Weibo with trending topics as fans celebrated. It was the first world title for a team from China's LPL league since EDward Gaming won in 2021, and it ended a run of four straight championships for Korean teams. BLG's mid laner Knight was named the final's MVP, a sweet reward after the team had lost the 2024 world final to T1 in a close five-game series.",
+      "summary_zh": "中国电竞战队哔哩哔哩电竞（BLG）首次夺得《英雄联盟》全球总决赛冠军，在纽约巴克莱中心举行的决赛中以3比1击败韩国战队Gen.G。比赛在美国时间周六进行，夺冠后相关话题迅速刷屏微博热搜，粉丝们纷纷庆祝。这是自2021年EDG夺冠以来，中国LPL赛区战队再次拿下世界冠军，也终结了韩国战队连续四年夺冠的纪录。BLG中单选手Knight荣获决赛MVP；此前，这支队伍曾在2024年的全球总决赛决赛中以五局的激烈比分惜败给T1，这次夺冠可谓苦尽甘来。",
+      "why_zh": "电竞是年轻人最热门的话题之一，也是品牌赞助的重要领域。“flooded（涌满、刷屏）”“straight（连续的）”都是体育和社交媒体新闻的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Inven Global; KeenGamer; Gaming.net; Sina",
+      "url": "https://invenglobal.com/articles/28595/blg-achieves-4-0-lck-all-kill-defeats-geng-3-1-to-win-worlds",
+      "vocab": [
+        {
+          "word": "flooded",
+          "phonetic": "/ˈflʌdɪd/",
+          "pos": "v.",
+          "zh": "（使）充满，涌满；（话题）刷屏",
+          "example": "The match took place on Saturday, US time, and the victory quickly flooded China's social media platform Weibo with trending topics as fans celebrated."
+        },
+        {
+          "word": "straight",
+          "phonetic": "/streɪt/",
+          "pos": "adj.",
+          "zh": "连续的",
+          "example": "It was the first world title for a team from China's LPL league since EDward Gaming won in 2021, and it ended a run of four straight championships for Korean teams."
+        }
+      ]
+    }
+  ]
+}

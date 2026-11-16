@@ -6,7 +6,7 @@
       "category": "australia",
       "title_en": "Kangaroos and Jillaroos both beat New Zealand to win a fourth straight Rugby League World Cup",
       "title_zh": "澳洲橄榄球男女队双双击败新西兰，世界杯四连冠！",
-      "search_zh": "橄榄球联盟世界杯 决赛 2026年11月15日 布里斯班 Suncorp体育场 袋鼠队 Kangaroos 32比12 新西兰 Kiwis Jillaroos 34比10 Kiwi Ferns 四连冠 Jack Bostock Liam Martin Jaime Chapman 帽子戏法",
+      "search_zh": "橄榄球联盟世界杯 决赛 布里斯班 袋鼠队 32比12 Jillaroos 34比10 四连冠",
       "summary_en": "Australia completed a rugby league double in Brisbane on Sunday night, as both the men's and women's national teams beat New Zealand in the Rugby League World Cup finals at Suncorp Stadium. The Kangaroos defeated the Kiwis 32-12, with Liam Martin scoring the first try inside the opening minute. Earlier in the evening, the Jillaroos thrashed the Kiwi Ferns 34-10, after leading 24-0 at half-time. Both Australian teams have now won four World Cups in a row, extending a remarkable run of dominance that began in 2013.",
       "summary_zh": "周日晚上，澳洲在布里斯班的Suncorp体育场完成了橄榄球联盟的“双冠”：澳洲男队和女队在橄榄球联盟世界杯决赛中都击败了新西兰。男队“袋鼠队”以32比12战胜新西兰“几维队”，利亚姆·马丁在开场第一分钟就完成首次达阵。当晚早些时候，女队“Jillaroos”以34比10大胜新西兰“Kiwi Ferns”，上半场就已经领先24比0。至此，澳洲男女两队都已连续四届夺得世界杯冠军，延续了从2013年开始的统治级表现。",
       "why_zh": "橄榄球联盟是澳洲（尤其新州和昆州）最受欢迎的运动之一，周一办公室里很可能会聊到这场胜利。“thrashed（大胜、痛击）”“dominance（统治地位）”在体育和商业新闻里都很常用。",
@@ -69,19 +69,13 @@
             "a": "袋鼠队",
             "b": "新西兰Kiwis",
             "type": "good",
-            "label": "32比12获胜，五次达阵对一次"
+            "label": "32比12获胜"
           },
           {
             "a": "Jillaroos",
             "b": "新西兰Kiwi Ferns",
             "type": "good",
             "label": "34比10获胜"
-          },
-          {
-            "a": "Jaime Chapman",
-            "b": "Jillaroos夺冠",
-            "type": "cause",
-            "label": "上半场帽子戏法，获评决赛最佳球员"
           },
           {
             "a": "澳洲男女队",
@@ -91,8 +85,8 @@
           }
         ],
         "points": [
-          "男队以32比12击败新西兰，Jack Bostock和Liam Martin各有两次达阵。",
-          "女队以34比10击败新西兰，Jaime Chapman上半场完成帽子戏法。",
+          "男队以32比12击败新西兰，开场第一分钟就完成首次达阵。",
+          "女队以34比10击败新西兰，上半场就领先24比0。",
           "两场决赛都在布里斯班Suncorp体育场进行。",
           "澳洲男女队都实现世界杯四连冠，这段统治从2013年开始。"
         ],
