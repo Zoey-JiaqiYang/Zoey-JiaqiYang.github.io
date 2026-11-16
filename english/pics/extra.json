@@ -5937,5 +5937,207 @@
         "near": []
       }
     ]
+  },
+  {
+    "id": "music",
+    "added": "2026-11-17",
+    "name": "音乐与乐器",
+    "icon": "🎵",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🎙️",
+        "w": "podcast",
+        "ph": "/ˈpɒdkæst/",
+        "pos": "n.",
+        "zh": "播客",
+        "ex": "I listen to a true-crime podcast on my commute.",
+        "tip": "host a podcast = 主持播客",
+        "accept": [
+          "podcast",
+          "podcasts"
+        ],
+        "near": [
+          "radio"
+        ]
+      },
+      {
+        "emoji": "🎶",
+        "w": "earworm",
+        "ph": "/ˈɪəwɜːm/",
+        "pos": "n.",
+        "zh": "洗脑歌（脑子里挥之不去的旋律）",
+        "ex": "That jingle is a total earworm — I can't stop humming it.",
+        "tip": "广告歌做成 earworm 就成功了",
+        "accept": [
+          "earworm",
+          "ear worm"
+        ],
+        "near": [
+          "album"
+        ]
+      },
+      {
+        "emoji": "🔊",
+        "w": "turn it up",
+        "ph": "/tɜːn ɪt ʌp/",
+        "pos": "phr.",
+        "zh": "把声音调大",
+        "ex": "I love this song — turn it up!",
+        "tip": "反义：turn it down",
+        "accept": [
+          "turn it up",
+          "turn up"
+        ],
+        "near": [
+          "turn it down"
+        ]
+      },
+      {
+        "emoji": "🔉",
+        "w": "turn it down",
+        "ph": "/tɜːn ɪt daʊn/",
+        "pos": "phr.",
+        "zh": "把声音调小",
+        "ex": "Can you turn it down? I'm on a call.",
+        "tip": "也可指拒绝：turn down an offer",
+        "accept": [
+          "turn it down",
+          "turn down"
+        ],
+        "near": [
+          "turn it up"
+        ]
+      },
+      {
+        "emoji": "💿",
+        "w": "album",
+        "ph": "/ˈælbəm/",
+        "pos": "n.",
+        "zh": "专辑",
+        "ex": "Her new album drops on Friday.",
+        "tip": "drop an album = 发专辑",
+        "accept": [
+          "album",
+          "albums"
+        ],
+        "near": [
+          "podcast"
+        ]
+      },
+      {
+        "emoji": "📻",
+        "w": "radio",
+        "ph": "/ˈreɪdiəʊ/",
+        "pos": "n.",
+        "zh": "收音机；电台",
+        "ex": "I heard the ad on the radio this morning.",
+        "tip": "radio ad = 电台广告",
+        "accept": [
+          "radio"
+        ],
+        "near": [
+          "podcast"
+        ]
+      },
+      {
+        "emoji": "🥁",
+        "w": "drums",
+        "ph": "/drʌmz/",
+        "pos": "n.",
+        "zh": "鼓",
+        "ex": "My neighbour's kid practises the drums every night.",
+        "tip": "play the drums 要加 the",
+        "accept": [
+          "drums",
+          "drum",
+          "drum kit"
+        ],
+        "near": [
+          "piano"
+        ]
+      },
+      {
+        "emoji": "🎹",
+        "w": "piano",
+        "ph": "/piˈænəʊ/",
+        "pos": "n.",
+        "zh": "钢琴",
+        "ex": "She has played the piano since she was five.",
+        "tip": "电子琴常叫 keyboard",
+        "accept": [
+          "piano",
+          "keyboard",
+          "keys"
+        ],
+        "near": [
+          "drums"
+        ]
+      },
+      {
+        "emoji": "🎻",
+        "w": "violin",
+        "ph": "/ˌvaɪəˈlɪn/",
+        "pos": "n.",
+        "zh": "小提琴",
+        "ex": "The violin solo gave me goosebumps.",
+        "tip": "fiddle 是口语叫法",
+        "accept": [
+          "violin",
+          "fiddle"
+        ],
+        "near": [
+          "sax"
+        ]
+      },
+      {
+        "emoji": "🎷",
+        "w": "sax",
+        "ph": "/sæks/",
+        "pos": "n.",
+        "zh": "萨克斯",
+        "ex": "There was a guy playing sax at the wedding.",
+        "tip": "全称 saxophone",
+        "accept": [
+          "sax",
+          "saxophone"
+        ],
+        "near": [
+          "violin"
+        ]
+      },
+      {
+        "emoji": "🪗",
+        "w": "busker",
+        "ph": "/ˈbʌskə/",
+        "pos": "n.",
+        "zh": "街头艺人",
+        "ex": "A busker was playing the accordion outside the station.",
+        "tip": "busk = 街头卖艺",
+        "accept": [
+          "busker",
+          "buskers"
+        ],
+        "near": [
+          "album"
+        ]
+      },
+      {
+        "emoji": "🎼",
+        "w": "sheet music",
+        "ph": "/ʃiːt ˈmjuːzɪk/",
+        "pos": "n.",
+        "zh": "乐谱",
+        "ex": "I can't read sheet music — I play by ear.",
+        "tip": "play by ear = 凭耳朵演奏/随机应变",
+        "accept": [
+          "sheet music",
+          "score"
+        ],
+        "near": [
+          "album"
+        ]
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T01:56:06+11:00",
+  "generated_at": "2026-11-17T01:56:36+11:00",
   "items": [
     {
       "category": "australia",
@@ -196,30 +196,30 @@
     },
     {
       "category": "entertainment",
-      "title_en": "China's Bilibili Gaming win their first League of Legends world title, setting Weibo alight",
-      "title_zh": "BLG 3比1击败Gen.G首夺英雄联盟全球总决赛冠军，相关话题刷屏微博热搜",
-      "search_zh": "BLG 英雄联盟 全球总决赛 2026 夺冠 3比1 Gen.G 巴克莱中心 纽约 Knight 决赛MVP 首冠 LPL 2021年EDG以来 终结LCK四连冠 微博热搜",
-      "summary_en": "Chinese esports team Bilibili Gaming (BLG) won the League of Legends World Championship for the first time, beating South Korea's Gen.G 3-1 in the final at the Barclays Center in New York. The match took place on Saturday, US time, and the victory quickly flooded China's social media platform Weibo with trending topics as fans celebrated. It was the first world title for a team from China's LPL league since EDward Gaming won in 2021, and it ended a run of four straight championships for Korean teams. BLG's mid laner Knight was named the final's MVP, a sweet reward after the team had lost the 2024 world final to T1 in a close five-game series.",
-      "summary_zh": "中国电竞战队哔哩哔哩电竞（BLG）首次夺得《英雄联盟》全球总决赛冠军，在纽约巴克莱中心举行的决赛中以3比1击败韩国战队Gen.G。比赛在美国时间周六进行，夺冠后相关话题迅速刷屏微博热搜，粉丝们纷纷庆祝。这是自2021年EDG夺冠以来，中国LPL赛区战队再次拿下世界冠军，也终结了韩国战队连续四年夺冠的纪录。BLG中单选手Knight荣获决赛MVP；此前，这支队伍曾在2024年的全球总决赛决赛中以五局的激烈比分惜败给T1，这次夺冠可谓苦尽甘来。",
-      "why_zh": "电竞是年轻人最热门的话题之一，也是品牌赞助的重要领域。“flooded（涌满、刷屏）”“straight（连续的）”都是体育和社交媒体新闻的常用词。",
+      "title_en": "Sun Li and Deng Chao's dental-floss-wrapper 'heart contest' becomes a Weibo hit",
+      "title_zh": "邓超用牙线包装纸撕爱心被孙俪吐槽，孙俪亲手“示范”，夫妻早餐日常上热搜",
+      "search_zh": "孙俪 邓超 牙线 包装纸 手撕爱心 2026年11月16日 微博 早餐 像眼睛 手工达人 抱拳认输 热搜 秀恩爱",
+      "summary_en": "Actress Sun Li shared a sweet breakfast moment with her husband, actor Deng Chao, on Weibo on Monday, and the post quickly became a trending topic. According to her post, Deng Chao asked her to pass him a piece of dental floss and then tore the floss wrapper into a heart shape to say thank you. When she teased him that it did not really look like a heart, he joked that it was like his eyes looking at her, so she tore a much neater heart herself to show him how it was done. Deng Chao admitted defeat with a playful fist-and-palm salute, and many fans praised the couple's relaxed, down-to-earth way of showing affection.",
+      "summary_zh": "演员孙俪周一在微博分享了和丈夫、演员邓超在早餐时的一段甜蜜互动，这条微博很快登上热搜。根据她的描述，邓超让她帮忙拿一根牙线，随后用牙线的包装纸手撕了一个爱心来表示感谢。孙俪调侃说这看不出是爱心，邓超则开玩笑说那像是自己的眼睛在看着她，于是孙俪亲自撕了一个规整得多的爱心给他“示范”。邓超俏皮地抱拳认输，不少网友称赞这对夫妻轻松、接地气的秀恩爱方式。",
+      "why_zh": "轻松的明星日常，也能学到地道表达。“teased（调侃、逗）”“affection（爱意、感情）”在日常聊天和社交媒体上都很常用。",
       "image": "",
       "image_credit": "",
-      "source": "Inven Global; KeenGamer; Gaming.net; Sina",
-      "url": "https://invenglobal.com/articles/28595/blg-achieves-4-0-lck-all-kill-defeats-geng-3-1-to-win-worlds",
+      "source": "Sina (新浪娱乐 / 新浪新闻); Weibo",
+      "url": "https://k.sina.cn/article_3995444230_ee25a40600101n8yq.html",
       "vocab": [
         {
-          "word": "flooded",
-          "phonetic": "/ˈflʌdɪd/",
+          "word": "teased",
+          "phonetic": "/tiːzd/",
           "pos": "v.",
-          "zh": "（使）充满，涌满；（话题）刷屏",
-          "example": "The match took place on Saturday, US time, and the victory quickly flooded China's social media platform Weibo with trending topics as fans celebrated."
+          "zh": "调侃，取笑，逗弄",
+          "example": "When she teased him that it did not really look like a heart, he joked that it was like his eyes looking at her, so she tore a much neater heart herself to show him how it was done."
         },
         {
-          "word": "straight",
-          "phonetic": "/streɪt/",
-          "pos": "adj.",
-          "zh": "连续的",
-          "example": "It was the first world title for a team from China's LPL league since EDward Gaming won in 2021, and it ended a run of four straight championships for Korean teams."
+          "word": "affection",
+          "phonetic": "/əˈfekʃn/",
+          "pos": "n.",
+          "zh": "喜爱，爱意，感情",
+          "example": "Deng Chao admitted defeat with a playful fist-and-palm salute, and many fans praised the couple's relaxed, down-to-earth way of showing affection."
         }
       ]
     }

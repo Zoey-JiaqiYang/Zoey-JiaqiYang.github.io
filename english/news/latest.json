@@ -1,226 +1,227 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-17T01:54:44+11:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T01:56:36+11:00",
   "items": [
     {
       "category": "australia",
-      "title_en": "Kangaroos and Jillaroos both beat New Zealand to win a fourth straight Rugby League World Cup",
-      "title_zh": "澳洲橄榄球男女队双双击败新西兰，世界杯四连冠！",
-      "search_zh": "橄榄球联盟世界杯 决赛 布里斯班 袋鼠队 32比12 Jillaroos 34比10 四连冠",
-      "summary_en": "Australia completed a rugby league double in Brisbane on Sunday night, as both the men's and women's national teams beat New Zealand in the Rugby League World Cup finals at Suncorp Stadium. The Kangaroos defeated the Kiwis 32-12, with Liam Martin scoring the first try inside the opening minute. Earlier in the evening, the Jillaroos thrashed the Kiwi Ferns 34-10, after leading 24-0 at half-time. Both Australian teams have now won four World Cups in a row, extending a remarkable run of dominance that began in 2013.",
-      "summary_zh": "周日晚上，澳洲在布里斯班的Suncorp体育场完成了橄榄球联盟的“双冠”：澳洲男队和女队在橄榄球联盟世界杯决赛中都击败了新西兰。男队“袋鼠队”以32比12战胜新西兰“几维队”，利亚姆·马丁在开场第一分钟就完成首次达阵。当晚早些时候，女队“Jillaroos”以34比10大胜新西兰“Kiwi Ferns”，上半场就已经领先24比0。至此，澳洲男女两队都已连续四届夺得世界杯冠军，延续了从2013年开始的统治级表现。",
-      "why_zh": "橄榄球联盟是澳洲（尤其新州和昆州）最受欢迎的运动之一，周一办公室里很可能会聊到这场胜利。“thrashed（大胜、痛击）”“dominance（统治地位）”在体育和商业新闻里都很常用。",
+      "title_en": "Coles investigates cyber security incident but says no sign customer data was taken",
+      "title_zh": "Coles超市发生网络安全事件正在调查，称暂无证据显示顾客数据被盗，门店和网购照常",
+      "search_zh": "Coles 网络安全事件 2026年11月16日 ASX 公告 澳大利亚网络安全中心 ACSC 未发现 顾客 员工 供应商 数据被盗 证据 Liquorland 网上下单到店自提 门店 网购 照常 警惕 索要个人信息",
+      "summary_en": "Coles, one of Australia's two biggest supermarket chains, told the Australian Securities Exchange (ASX) on Monday that it is investigating a cyber security incident. The company said its investigation so far had found no evidence that customer, staff or supplier data had been taken, and that people could keep shopping in its stores and online as normal. Coles said it was working with the Australian Cyber Security Centre and global cyber security experts to contain the problem, and that a small number of Liquorland customers had experienced issues with click-and-collect orders. It has not yet said how or when the incident happened, and it advised customers to be suspicious of any messages asking for their personal information.",
+      "summary_zh": "澳洲两大超市连锁之一的Coles周一向澳大利亚证券交易所（ASX）报告称，公司正在调查一起网络安全事件。公司表示，目前的调查没有发现顾客、员工或供应商数据被盗取的证据，大家仍可以照常在门店和网上购物。Coles称，公司正与澳大利亚网络安全中心（ACSC）以及国际网络安全专家合作控制事态，另外有少数Liquorland顾客在使用“网上下单、到店自提”服务时遇到了问题。公司尚未说明事件是如何、何时发生的，并提醒顾客对任何索要个人信息的消息保持警惕。",
+      "why_zh": "Coles是很多人每周都会去的超市，遇到这类事件要留意钓鱼短信和邮件。“contain（控制住）”“suspicious（可疑的、保持警惕的）”是危机通报里的常见词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; NRL.com; Sky Sports; Stuff; NZ Herald; RNZ",
-      "url": "https://www.abc.net.au/news/2026-11-15/kangaroos-jillaroos-live-rugby-league-world-cup-finals/107376474",
+      "source": "ABC News; iTnews; BleepingComputer; Computer Weekly; Inside FMCG",
+      "url": "https://www.itnews.com.au/news/coles-group-investigating-a-cyber-incident-630361",
       "vocab": [
         {
-          "word": "thrashed",
-          "phonetic": "/θræʃt/",
+          "word": "contain",
+          "phonetic": "/kənˈteɪn/",
           "pos": "v.",
-          "zh": "大胜，痛击（在比赛中轻松击败对手）",
-          "example": "Earlier in the evening, the Jillaroos thrashed the Kiwi Ferns 34-10, after leading 24-0 at half-time."
+          "zh": "控制住，遏制（不让问题扩散）",
+          "example": "Coles said it was working with the Australian Cyber Security Centre and global cyber security experts to contain the problem, and that a small number of Liquorland customers had experienced issues with click-and-collect orders."
         },
         {
-          "word": "dominance",
-          "phonetic": "/ˈdɒmɪnəns/",
-          "pos": "n.",
-          "zh": "统治地位，主导优势",
-          "example": "Both Australian teams have now won four World Cups in a row, extending a remarkable run of dominance that began in 2013."
+          "word": "suspicious",
+          "phonetic": "/səˈspɪʃəs/",
+          "pos": "adj.",
+          "zh": "怀疑的，保持警惕的；可疑的",
+          "example": "It has not yet said how or when the incident happened, and it advised customers to be suspicious of any messages asking for their personal information."
         }
       ],
       "explain": {
-        "one_liner": "澳洲的男、女橄榄球国家队在同一个晚上都打赢了老对手新西兰，各自拿下连续第四个世界杯冠军。",
+        "one_liner": "Coles的电脑系统遇到了网络安全问题，公司正在查，目前说没发现顾客信息被偷，买东西不受影响。",
         "facts": [
           {
-            "icon": "🏉",
-            "name": "橄榄球联盟 Rugby League",
-            "text": "一种13人制的橄榄球运动，和15人制的“英式橄榄球 Rugby Union”是两种不同的运动。澳洲最高水平的联赛叫NRL，在新州和昆州特别受欢迎。"
+            "icon": "🛒",
+            "name": "Coles",
+            "text": "澳洲最大的两家连锁超市之一（另一家是Woolworths），旗下还有Liquorland等酒类门店，在澳交所上市。"
           },
           {
-            "icon": "🦘",
-            "name": "袋鼠队 Kangaroos",
-            "text": "澳洲男子橄榄球联盟国家队的昵称。"
+            "icon": "📈",
+            "name": "澳大利亚证券交易所 ASX",
+            "text": "澳洲的股票交易所。上市公司遇到可能影响股价的重要事情，需要及时向交易所发公告，让投资者知情。"
           },
           {
-            "icon": "👩",
-            "name": "Jillaroos",
-            "text": "澳洲女子橄榄球联盟国家队的昵称（jillaroo在澳洲俚语里指在农场工作的年轻女性）。"
+            "icon": "🛡️",
+            "name": "澳大利亚网络安全中心 ACSC",
+            "text": "Australian Cyber Security Centre，澳洲政府负责网络安全的机构，企业遭遇网络攻击时会提供协助和建议。"
           },
           {
-            "icon": "🥝",
-            "name": "Kiwis 与 Kiwi Ferns",
-            "text": "分别是新西兰男子和女子橄榄球联盟国家队的昵称，是澳洲队的传统强敌。"
+            "icon": "🍷",
+            "name": "Liquorland",
+            "text": "Coles集团旗下的连锁酒类商店，这次有少数顾客的“网上下单、到店自提”订单出了问题。"
           },
           {
-            "icon": "🏟️",
-            "name": "Suncorp Stadium",
-            "text": "位于布里斯班的大型体育场，是昆州最重要的橄榄球比赛场地之一，这次男女决赛都在这里举行。"
-          },
-          {
-            "icon": "🎯",
-            "name": "达阵 try / 帽子戏法 hat-trick",
-            "text": "try是把球带进对方得分区并压地，是主要的得分方式；hat-trick指一名球员在一场比赛中得分三次。"
+            "icon": "🎣",
+            "name": "网络钓鱼 phishing",
+            "text": "骗子冒充公司发短信或邮件，骗你点链接、填密码或银行信息。大公司出安全事件后，这类诈骗常会趁机增多。"
           }
         ],
         "relations": [
           {
-            "a": "袋鼠队",
-            "b": "新西兰Kiwis",
-            "type": "good",
-            "label": "32比12获胜"
+            "a": "网络安全事件",
+            "b": "Coles",
+            "type": "bad",
+            "label": "公司正在调查和控制"
           },
           {
-            "a": "Jillaroos",
-            "b": "新西兰Kiwi Ferns",
+            "a": "Coles",
+            "b": "澳大利亚网络安全中心",
             "type": "good",
-            "label": "34比10获胜"
+            "label": "合作处理事件"
           },
           {
-            "a": "澳洲男女队",
-            "b": "世界杯",
+            "a": "网络安全事件",
+            "b": "Liquorland自提服务",
             "type": "neutral",
-            "label": "均为连续第四次夺冠"
+            "label": "少数顾客遇到问题，是否有关联公司未明确说明"
+          },
+          {
+            "a": "Coles",
+            "b": "顾客",
+            "type": "neutral",
+            "label": "提醒警惕索要个人信息的消息"
           }
         ],
         "points": [
-          "男队以32比12击败新西兰，开场第一分钟就完成首次达阵。",
-          "女队以34比10击败新西兰，上半场就领先24比0。",
-          "两场决赛都在布里斯班Suncorp体育场进行。",
-          "澳洲男女队都实现世界杯四连冠，这段统治从2013年开始。"
+          "Coles周一向澳交所报告正在调查一起网络安全事件。",
+          "目前调查没有发现顾客、员工或供应商数据被盗的证据。",
+          "门店和网购照常运营，只有少数Liquorland自提订单出了问题。",
+          "公司尚未说明事件发生的时间和方式，调查仍在进行中。"
         ],
-        "relevance": "大型体育赛事是澳洲品牌营销的黄金时机：赞助商、啤酒和运动品牌都会借势推广。了解橄榄球文化和常用说法，能帮你在本地团队里更好地参与讨论、写出更“接地气”的文案。",
+        "relevance": "对营销人来说，客户数据是最宝贵也最敏感的资产。Coles这次的做法——第一时间公告、说明“目前知道什么、不知道什么”、提醒顾客防诈骗——是危机沟通的典型样本。如果你的工作涉及会员数据、EDM或CRM，这也提醒你要配合IT团队做好数据安全。",
         "phrase": {
-          "en": "make it four in a row",
-          "zh": "实现四连冠/连续四次（做成某事）"
+          "en": "business as usual",
+          "zh": "一切照常运营（公司出事后常用来安抚顾客）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Xianyu sues rumour-spreader for 1 million yuan after police find viral 'secret code' claims were false",
+      "title_zh": "警方查实“拐卖儿童暗语”等系谣言，闲鱼起诉造谣者索赔100万元",
+      "search_zh": "闲鱼 起诉 造谣者 索赔100万元 2026年11月16日 闲鱼黑板报 拐卖儿童暗语 赵某某 偷A4纸在闲鱼卖 农产品涉色情交易 AI生成 钓鱼竿 P图 警方查实 侵害企业名誉权 民事诉讼",
+      "summary_en": "Xianyu, Alibaba's popular second-hand trading app, said on Monday that it had filed a civil lawsuit against a social media user and was seeking 1 million yuan in damages for spreading a false rumour about the platform. The person, identified only by the surname Zhao, had claimed in the comments section of a short-video platform that ordinary chats between buyers and sellers were secret code for child trafficking, and the claim spread quickly online. According to Xianyu's statement and Chinese media reports, police in several places found that this and other viral stories, including one about people selling stolen A4 paper on the app, were made up, and those responsible have apologised or been punished. The company said it would also sue other rumour-spreaders, a sign that it is moving from simply denying rumours to taking legal action to protect its reputation.",
+      "summary_zh": "阿里巴巴旗下的热门二手交易平台闲鱼周一表示，已对一名社交媒体用户提起民事诉讼，因其散布有关平台的谣言，索赔100万元。这名用户在报道中只被称为“赵某某”，他曾在一个短视频平台的评论区，把买卖双方的普通聊天说成是“拐卖儿童暗语”，这一说法在网上迅速传播。根据闲鱼的声明和国内媒体报道，多地警方查实，这件事以及“偷A4纸在闲鱼卖”等其他热传事件都是编造的，相关造谣者已经道歉或受到处罚。闲鱼表示还将陆续起诉其他造谣者，这说明它正从单纯“辟谣”转向用法律手段保护自己的名誉。",
+      "why_zh": "这是一个关于品牌如何应对网络谣言的真实案例，营销人都应该关注。“damages（赔偿金）”“reputation（名誉、声誉）”在商业和法律新闻里非常常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); Tencent News; Sina; Guancha; China.com",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34488861",
+      "vocab": [
+        {
+          "word": "damages",
+          "phonetic": "/ˈdæmɪdʒɪz/",
+          "pos": "n.",
+          "zh": "（法律上的）损害赔偿金",
+          "example": "Xianyu, Alibaba's popular second-hand trading app, said on Monday that it had filed a civil lawsuit against a social media user and was seeking 1 million yuan in damages for spreading a false rumour about the platform."
+        },
+        {
+          "word": "reputation",
+          "phonetic": "/ˌrepjuˈteɪʃn/",
+          "pos": "n.",
+          "zh": "名誉，声誉",
+          "example": "The company said it would also sue other rumour-spreaders, a sign that it is moving from simply denying rumours to taking legal action to protect its reputation."
+        }
+      ],
+      "explain": {
+        "one_liner": "有人在网上把闲鱼上的普通聊天说成“拐卖儿童暗语”，警方查明是假的，闲鱼这次直接把造谣的人告上法庭。",
+        "facts": [
+          {
+            "icon": "🐟",
+            "name": "闲鱼 Xianyu",
+            "text": "阿里巴巴集团旗下的二手交易App，很多人在上面买卖闲置物品，用户量很大。"
+          },
+          {
+            "icon": "🏢",
+            "name": "阿里巴巴 Alibaba",
+            "text": "中国最大的互联网公司之一，旗下有淘宝、天猫、闲鱼等平台。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "民事诉讼 civil lawsuit",
+            "text": "个人或公司之间因为权益纠纷向法院起诉，一般是要求赔偿或道歉，不是刑事案件。这次的案由是“侵害企业名誉权”。"
+          },
+          {
+            "icon": "👮",
+            "name": "行政处罚 administrative penalty",
+            "text": "警方等机关对违法但不构成犯罪的行为作出的处罚，比如罚款、拘留等。报道称部分造谣者已受到行政处罚。"
+          },
+          {
+            "icon": "📢",
+            "name": "闲鱼黑板报",
+            "text": "闲鱼的官方公告账号，这次的起诉声明就是通过它发布的。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "网络谣言",
+            "b": "闲鱼",
+            "type": "bad",
+            "label": "把平台污名化为“暗网”"
+          },
+          {
+            "a": "多地警方",
+            "b": "谣言",
+            "type": "neutral",
+            "label": "查实为编造，部分造谣者受到处罚"
+          },
+          {
+            "a": "闲鱼",
+            "b": "造谣者赵某某",
+            "type": "bad",
+            "label": "提起民事诉讼，索赔100万元"
+          },
+          {
+            "a": "谣言被查实",
+            "b": "闲鱼起诉",
+            "type": "cause",
+            "label": "有了警方结论，平台主动维权"
+          }
+        ],
+        "points": [
+          "“拐卖儿童暗语”“偷A4纸在闲鱼卖”等一系列热传事件被警方查实为谣言。",
+          "其中一段视频是AI生成的，有截图是P图伪造的。",
+          "闲鱼已对“拐卖儿童暗语”的造谣者提起民事诉讼，索赔100万元，并称将陆续起诉其他人。",
+          "目前起诉和索赔是闲鱼一方的说法，法院的后续进展还没有报道。"
+        ],
+        "relevance": "社交媒体时代，一条谣言可以在几小时内伤害一个品牌。闲鱼从“发声明辟谣”升级到“拿出警方结论+起诉”，是品牌声誉管理（reputation management）的一个新思路。在澳洲做营销，同样会遇到差评、谣言和AI假内容，提前准备好应对流程很重要。",
+        "phrase": {
+          "en": "set the record straight",
+          "zh": "澄清事实，纠正错误说法"
         }
       }
     },
     {
       "category": "entertainment",
-      "title_en": "China's BLG beat Gen.G 3-1 to win their first League of Legends world title",
-      "title_zh": "逆转夺冠！BLG 3比1击败Gen.G，首夺英雄联盟全球总决赛冠军",
-      "search_zh": "BLG Bilibili Gaming 英雄联盟 全球总决赛 S赛 2026 夺冠 3比1 Gen.G 纽约 巴克莱中心 Knight Viper 淘汰T1 LPL 2021年以来首冠 微博热搜",
-      "summary_en": "Chinese esports team Bilibili Gaming, known as BLG, won the League of Legends World Championship for the first time, beating South Korea's Gen.G 3-1 in the final at the Barclays Center in Brooklyn, New York. BLG lost the first game but then won three in a row, completing a comeback that sparked celebrations among fans in China and became a hot topic on Chinese social media. On the way to the title, the team knocked out all four South Korean teams it faced, including the famous T1 in the semi-finals. It is the first world title for a team from China's LPL league since 2021, ending four straight years of wins by Korean teams.",
-      "summary_zh": "中国电竞战队Bilibili Gaming（简称BLG）首次夺得《英雄联盟》全球总决赛冠军，在纽约布鲁克林巴克莱中心举行的决赛中以3比1击败韩国战队Gen.G。BLG先输掉第一局，随后连赢三局完成逆转，在中国粉丝中引发欢呼，也成为中国社交媒体上的热门话题。在夺冠路上，BLG淘汰了遇到的全部四支韩国战队，其中包括半决赛中的知名战队T1。这是自2021年以来中国LPL赛区战队首次拿到世界冠军，终结了韩国战队连续四年夺冠的局面。",
-      "why_zh": "电竞已经是年轻人里的“大众娱乐”，B站这类平台也是品牌营销的重要阵地。“comeback（逆转、卷土重来）”“knocked out（淘汰）”在体育报道里极常见。",
+      "title_en": "Sun Li and Deng Chao's dental-floss-wrapper 'heart contest' becomes a Weibo hit",
+      "title_zh": "邓超用牙线包装纸撕爱心被孙俪吐槽，孙俪亲手“示范”，夫妻早餐日常上热搜",
+      "search_zh": "孙俪 邓超 牙线 包装纸 手撕爱心 2026年11月16日 微博 早餐 像眼睛 手工达人 抱拳认输 热搜 秀恩爱",
+      "summary_en": "Actress Sun Li shared a sweet breakfast moment with her husband, actor Deng Chao, on Weibo on Monday, and the post quickly became a trending topic. According to her post, Deng Chao asked her to pass him a piece of dental floss and then tore the floss wrapper into a heart shape to say thank you. When she teased him that it did not really look like a heart, he joked that it was like his eyes looking at her, so she tore a much neater heart herself to show him how it was done. Deng Chao admitted defeat with a playful fist-and-palm salute, and many fans praised the couple's relaxed, down-to-earth way of showing affection.",
+      "summary_zh": "演员孙俪周一在微博分享了和丈夫、演员邓超在早餐时的一段甜蜜互动，这条微博很快登上热搜。根据她的描述，邓超让她帮忙拿一根牙线，随后用牙线的包装纸手撕了一个爱心来表示感谢。孙俪调侃说这看不出是爱心，邓超则开玩笑说那像是自己的眼睛在看着她，于是孙俪亲自撕了一个规整得多的爱心给他“示范”。邓超俏皮地抱拳认输，不少网友称赞这对夫妻轻松、接地气的秀恩爱方式。",
+      "why_zh": "轻松的明星日常，也能学到地道表达。“teased（调侃、逗）”“affection（爱意、感情）”在日常聊天和社交媒体上都很常用。",
       "image": "",
       "image_credit": "",
-      "source": "CGTN; Dot Esports; Inven Global; SBS (Korea); KeenGamer; Sina",
-      "url": "https://dotesports.com/league-of-legends/news/blg-win-worlds-championship-2026",
+      "source": "Sina (新浪娱乐 / 新浪新闻); Weibo",
+      "url": "https://k.sina.cn/article_3995444230_ee25a40600101n8yq.html",
       "vocab": [
         {
-          "word": "comeback",
-          "phonetic": "/ˈkʌmbæk/",
-          "pos": "n.",
-          "zh": "逆转；东山再起",
-          "example": "BLG lost the first game but then won three in a row, completing a comeback that sparked celebrations among fans in China and became a hot topic on Chinese social media."
+          "word": "teased",
+          "phonetic": "/tiːzd/",
+          "pos": "v.",
+          "zh": "调侃，取笑，逗弄",
+          "example": "When she teased him that it did not really look like a heart, he joked that it was like his eyes looking at her, so she tore a much neater heart herself to show him how it was done."
         },
         {
-          "word": "knocked out",
-          "phonetic": "/nɒkt aʊt/",
-          "pos": "phr. v.",
-          "zh": "淘汰（对手）",
-          "example": "On the way to the title, the team knocked out all four South Korean teams it faced, including the famous T1 in the semi-finals."
+          "word": "affection",
+          "phonetic": "/əˈfekʃn/",
+          "pos": "n.",
+          "zh": "喜爱，爱意，感情",
+          "example": "Deng Chao admitted defeat with a playful fist-and-palm salute, and many fans praised the couple's relaxed, down-to-earth way of showing affection."
         }
       ]
-    },
-    {
-      "category": "china",
-      "title_en": "Archaeologists say people in Zhejiang were brewing and filtering red rice alcohol 5,000 years ago",
-      "title_zh": "5000年前的浙江人就会酿“红曲酒”？考古发现古人用红曲霉酿酒、用布过滤",
-      "search_zh": "浙江 瓦窑里遗址 5000年前 酿酒 陶器 过滤器 红曲霉 Monascus 稻米 植物纤维 布过滤 Archaeological and Anthropological Sciences 2026年11月 新石器时代 红曲酒",
-      "summary_en": "Archaeologists studying pottery from the Wayaoli site in Zhejiang province say people in southern China were brewing and filtering rice-based alcohol around 5,000 years ago. All five pottery filters they analysed contained traces of rice and of Monascus, a red mould still used to make traditional Chinese red rice wine, which suggests the drink may have been reddish in colour. Plant fibres found on the filters suggest that cloth was used to strain the liquid, although no complete pieces of fabric have survived. The study, published in the journal Archaeological and Anthropological Sciences, also notes that filters were found in many burials at the site, hinting that alcohol played an important role in rituals and social life.",
-      "summary_zh": "考古学家研究了浙江瓦窑里遗址出土的陶器，认为大约5000年前，中国南方的人们就已经在酿造并过滤以稻米为原料的酒。他们分析的五件陶制过滤器上都发现了稻米和红曲霉的痕迹；红曲霉是一种红色霉菌，至今仍用于酿造中国传统的红曲酒，这说明当时的酒可能呈淡红色。过滤器上发现的植物纤维表明，当时人们可能用布来过滤酒液，不过并没有完整的布料保存下来。这项研究发表在《考古与人类学科学》（Archaeological and Anthropological Sciences）期刊上，研究还指出，该遗址的许多墓葬中都出土了过滤器，暗示酒在祭祀和社交生活中有重要地位。",
-      "why_zh": "中国酒文化源远流长，这个发现让“品牌故事”有了更古老的源头。“traces（痕迹）”“strain（过滤）”在科学和美食类文章里都很常见。",
-      "image": "",
-      "image_credit": "",
-      "source": "Phys.org; Springer (Archaeological and Anthropological Sciences); Interesting Engineering; Anthropology.net",
-      "url": "https://phys.org/news/2026-11-chinese-brewers-refined-booze-years.html",
-      "vocab": [
-        {
-          "word": "traces",
-          "phonetic": "/ˈtreɪsɪz/",
-          "pos": "n.",
-          "zh": "痕迹，微量残留",
-          "example": "All five pottery filters they analysed contained traces of rice and of Monascus, a red mould still used to make traditional Chinese red rice wine, which suggests the drink may have been reddish in colour."
-        },
-        {
-          "word": "strain",
-          "phonetic": "/streɪn/",
-          "pos": "v.",
-          "zh": "过滤，滤去（液体中的渣）",
-          "example": "Plant fibres found on the filters suggest that cloth was used to strain the liquid, although no complete pieces of fabric have survived."
-        }
-      ],
-      "explain": {
-        "one_liner": "科学家在浙江一处约5000年前的遗址里，从陶器残留物中找到了用稻米和红曲霉酿酒、再用布过滤的证据。",
-        "facts": [
-          {
-            "icon": "🏺",
-            "name": "瓦窑里遗址 Wayaoli site",
-            "text": "位于浙江省的一处新石器时代晚期遗址，距今约5000年，出土了许多陶器，包括专门的过滤器。"
-          },
-          {
-            "icon": "🍶",
-            "name": "红曲霉 Monascus",
-            "text": "一种会产生红色色素的霉菌，中国人至今仍用它做红曲米、酿红曲酒，也用来给食物上色（比如红腐乳）。"
-          },
-          {
-            "icon": "🔬",
-            "name": "残留物分析 residue analysis",
-            "text": "考古学家刮取陶器表面残留的极微小物质（如淀粉粒、霉菌、纤维），在显微镜下辨认，从而推断这件器物当年装过或处理过什么。"
-          },
-          {
-            "icon": "🧵",
-            "name": "植物纤维 plant fibres",
-            "text": "过滤器上找到的纤维被认为来自布料，说明古人可能用布垫在过滤器上滤酒，让酒更清。不过没有发现完整的布。"
-          },
-          {
-            "icon": "📚",
-            "name": "Archaeological and Anthropological Sciences",
-            "text": "一本由施普林格（Springer）出版的同行评审学术期刊，专门发表考古与人类学方面的科学研究。"
-          }
-        ],
-        "relations": [
-          {
-            "a": "稻米 + 红曲霉",
-            "b": "古代酒",
-            "type": "cause",
-            "label": "发酵酿成，可能呈淡红色"
-          },
-          {
-            "a": "布质过滤",
-            "b": "酒的口感和清澈度",
-            "type": "good",
-            "label": "研究认为能让酒更清"
-          },
-          {
-            "a": "墓葬中的过滤器",
-            "b": "祭祀与社交",
-            "type": "neutral",
-            "label": "暗示酒有重要社会地位"
-          },
-          {
-            "a": "瓦窑里发现",
-            "b": "更早的上山遗址研究",
-            "type": "neutral",
-            "label": "都显示浙江很早就用霉菌发酵稻米"
-          }
-        ],
-        "points": [
-          "研究对象是浙江瓦窑里遗址约5000年前的陶器。",
-          "五件过滤器上都有稻米和红曲霉的痕迹，酒可能是淡红色的。",
-          "植物纤维显示古人可能用布来过滤，但没有完整布料留存。",
-          "许多墓葬里都有过滤器，说明酒在当时的祭祀和社交中很重要。"
-        ],
-        "relevance": "“历史传承”是酒类和食品品牌最有力的故事之一。在澳洲做营销时，如果要向本地消费者介绍中国黄酒、红曲酒或米酒，这类有科学依据的考古发现，就是很好的文化背景和内容素材。",
-        "phrase": {
-          "en": "shed light on",
-          "zh": "揭示，让人更了解（某事）"
-        }
-      }
     }
   ]
 }
