@@ -6139,5 +6139,215 @@
         ]
       }
     ]
+  },
+  {
+    "id": "space-science",
+    "added": "2026-11-18",
+    "name": "天文与科学",
+    "icon": "🔭",
+    "prompt": "这个东西叫什么？",
+    "items": [
+      {
+        "emoji": "🔭",
+        "w": "telescope",
+        "ph": "/ˈtelɪskəʊp/",
+        "pos": "n.",
+        "zh": "望远镜",
+        "ex": "We looked at the moon through a telescope at the observatory.",
+        "tip": "双筒望远镜是 binoculars",
+        "accept": [
+          "telescope",
+          "telescopes"
+        ],
+        "near": [
+          "satellite"
+        ]
+      },
+      {
+        "emoji": "🪐",
+        "w": "planet",
+        "ph": "/ˈplænɪt/",
+        "pos": "n.",
+        "zh": "行星",
+        "ex": "Saturn is the planet with the famous rings.",
+        "tip": "Saturn 土星，Jupiter 木星，Mars 火星",
+        "accept": [
+          "planet",
+          "planets",
+          "Saturn"
+        ],
+        "near": [
+          "comet"
+        ]
+      },
+      {
+        "emoji": "🛰️",
+        "w": "satellite",
+        "ph": "/ˈsætəlaɪt/",
+        "pos": "n.",
+        "zh": "卫星",
+        "ex": "The internet on the farm runs off a satellite.",
+        "tip": "重音在第一个音节 SAT-",
+        "accept": [
+          "satellite",
+          "satellites"
+        ],
+        "near": [
+          "telescope"
+        ]
+      },
+      {
+        "emoji": "☄️",
+        "w": "comet",
+        "ph": "/ˈkɒmɪt/",
+        "pos": "n.",
+        "zh": "彗星",
+        "ex": "A comet will be visible from Australia next month.",
+        "tip": "别和 comment（评论）搞混",
+        "accept": [
+          "comet",
+          "comets"
+        ],
+        "near": [
+          "shooting star"
+        ]
+      },
+      {
+        "emoji": "🌌",
+        "w": "Milky Way",
+        "ph": "/ˌmɪlki ˈweɪ/",
+        "pos": "n.",
+        "zh": "银河",
+        "ex": "Out in the outback you can see the Milky Way clearly.",
+        "tip": "galaxy 是星系，Milky Way 是我们的银河",
+        "accept": [
+          "Milky Way",
+          "the milky way",
+          "galaxy"
+        ],
+        "near": [
+          "Southern Hemisphere"
+        ]
+      },
+      {
+        "emoji": "🌠",
+        "w": "shooting star",
+        "ph": "/ˌʃuːtɪŋ ˈstɑː/",
+        "pos": "n.",
+        "zh": "流星",
+        "ex": "Make a wish when you see a shooting star!",
+        "tip": "科学说法 meteor",
+        "accept": [
+          "shooting star",
+          "meteor",
+          "falling star"
+        ],
+        "near": [
+          "comet"
+        ]
+      },
+      {
+        "emoji": "🌕",
+        "w": "full moon",
+        "ph": "/ˌfʊl ˈmuːn/",
+        "pos": "n.",
+        "zh": "满月",
+        "ex": "The beach looks magical under a full moon.",
+        "tip": "新月是 new moon",
+        "accept": [
+          "full moon",
+          "full-moon"
+        ],
+        "near": [
+          "eclipse"
+        ]
+      },
+      {
+        "emoji": "🌑",
+        "w": "eclipse",
+        "ph": "/ɪˈklɪps/",
+        "pos": "n.",
+        "zh": "日食；月食",
+        "ex": "Don't look straight at the sun during an eclipse.",
+        "tip": "solar eclipse 日食，lunar eclipse 月食",
+        "accept": [
+          "eclipse",
+          "solar eclipse",
+          "lunar eclipse"
+        ],
+        "near": [
+          "full moon"
+        ]
+      },
+      {
+        "emoji": "🌏",
+        "w": "Southern Hemisphere",
+        "ph": "/ˌsʌðən ˈhemɪsfɪə/",
+        "pos": "n.",
+        "zh": "南半球",
+        "ex": "Christmas is in summer in the Southern Hemisphere.",
+        "tip": "southern 读 /ˈsʌðən/，不是 south 的音",
+        "accept": [
+          "Southern Hemisphere",
+          "southern hemisphere",
+          "hemisphere"
+        ],
+        "near": [
+          "Milky Way"
+        ]
+      },
+      {
+        "emoji": "🧬",
+        "w": "DNA",
+        "ph": "/ˌdiː en ˈeɪ/",
+        "pos": "n.",
+        "zh": "基因；DNA",
+        "ex": "Customer focus is in our company's DNA.",
+        "tip": "比喻用法：某种特质是 in our DNA（营销文案常见）",
+        "accept": [
+          "DNA",
+          "dna",
+          "genes"
+        ],
+        "near": [
+          "germs"
+        ]
+      },
+      {
+        "emoji": "🦠",
+        "w": "germs",
+        "ph": "/dʒɜːmz/",
+        "pos": "n.",
+        "zh": "细菌，病菌",
+        "ex": "Wash your hands — phones are covered in germs.",
+        "tip": "bacteria 更正式；virus 是病毒",
+        "accept": [
+          "germs",
+          "germ",
+          "bacteria",
+          "bugs"
+        ],
+        "near": [
+          "DNA"
+        ]
+      },
+      {
+        "emoji": "👽",
+        "w": "alien",
+        "ph": "/ˈeɪliən/",
+        "pos": "n.",
+        "zh": "外星人",
+        "ex": "My nephew swears he saw an alien in the backyard.",
+        "tip": "也指外国人（正式/旧用法），日常多指外星人",
+        "accept": [
+          "alien",
+          "aliens",
+          "ET"
+        ],
+        "near": [
+          "planet"
+        ]
+      }
+    ]
   }
 ]
