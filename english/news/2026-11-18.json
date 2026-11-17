@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T01:57:25+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "Collapsed department store David Jones owes creditors at least A$459 million, administrators say",
+      "title_zh": "百年百货David Jones首次债权人会议：至少欠债4.59亿澳元，管理人称商业模式有问题",
+      "search_zh": "David Jones 百货 破产管理 2026年11月17日 第一次债权人会议 McGrathNicol 至少欠债4.59亿澳元 11月5日 接管 房东 租金减免 圣诞购物季 通胀 利率 生活成本 商业模式 出售 多家 潜在买家",
+      "summary_en": "Administrators for David Jones, the department store chain founded in Sydney in 1838, told creditors at their first meeting on Tuesday that the collapsed retailer owes at least A$459 million. Administrators from McGrathNicol took control of the business on 5 November, after David Jones failed to reach a deal with its landlords on rent relief ahead of the key Christmas trading period. According to the administrators, the company's directors blamed inflation, higher interest rates and cost-of-living pressures on household spending, but the administrators also said there was clearly a problem with the business model itself. A sale process is now under way, with the administrators in contact with a large number of potential buyers and investors in Australia and overseas, and creditors are expected to meet again next year.",
+      "summary_zh": "1838年在悉尼创立的百货公司David Jones的破产管理人周二在第一次债权人会议上表示，这家已经倒闭的零售商至少欠债4.59亿澳元。由于David Jones在关键的圣诞购物季到来前，没能和房东谈妥租金减免，管理机构McGrathNicol于11月5日接管了这家公司。据管理人介绍，公司董事们把失败归咎于通货膨胀、利率上升以及生活成本压力拖累了家庭消费，但管理人也表示，公司的商业模式本身显然也有问题。目前出售程序已经启动，管理人正在与国内外多家潜在买家和投资方接触，债权人预计明年会再次开会。",
+      "why_zh": "David Jones是澳洲人很熟悉的老牌百货公司，它的倒闭反映了实体零售面临的压力。“creditors（债权人）”“relief（减免、缓解）”是商业和财经新闻的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Reuters; Bloomberg; FashionUnited; AAP",
+      "url": "https://www.abc.net.au/news/2026-11-17/david-jones-creditors-owed-almost-half-a-billion-dollars/107389716",
+      "vocab": [
+        {
+          "word": "creditors",
+          "phonetic": "/ˈkredɪtəz/",
+          "pos": "n.",
+          "zh": "债权人（被欠钱的一方）",
+          "example": "Administrators for David Jones, the department store chain founded in Sydney in 1838, told creditors at their first meeting on Tuesday that the collapsed retailer owes at least A$459 million."
+        },
+        {
+          "word": "relief",
+          "phonetic": "/rɪˈliːf/",
+          "pos": "n.",
+          "zh": "（负担的）减轻，减免",
+          "example": "Administrators from McGrathNicol took control of the business on 5 November, after David Jones failed to reach a deal with its landlords on rent relief ahead of the key Christmas trading period."
+        }
+      ],
+      "explain": {
+        "one_liner": "开了一百多年的百货公司David Jones撑不下去了，现在由专业机构接管，正在算欠了多少钱、找人来买。",
+        "facts": [
+          {
+            "icon": "🏬",
+            "name": "David Jones",
+            "text": "1838年在悉尼创立的澳洲老牌百货公司，卖时装、化妆品、家居等中高端商品。"
+          },
+          {
+            "icon": "🧾",
+            "name": "破产管理 administration",
+            "text": "公司还不起债时，由外部专业机构（管理人）接管，决定是把公司卖掉、重组，还是关闭。"
+          },
+          {
+            "icon": "👔",
+            "name": "McGrathNicol",
+            "text": "这次被任命的管理机构，11月5日接管了David Jones。"
+          },
+          {
+            "icon": "💰",
+            "name": "债权人 creditors",
+            "text": "公司欠了钱的对象，比如贷款方、供应商等。管理人说David Jones至少欠了4.59亿澳元。"
+          },
+          {
+            "icon": "🏠",
+            "name": "房东与租金",
+            "text": "David Jones在圣诞季前没能和房东谈妥租金减免，这是它进入破产管理的直接导火索。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "租金谈判失败",
+            "b": "进入破产管理",
+            "type": "cause",
+            "label": "没谈妥租金减免，公司被接管"
+          },
+          {
+            "a": "通胀、加息、生活成本压力",
+            "b": "David Jones",
+            "type": "bad",
+            "label": "董事们认为拖累了消费"
+          },
+          {
+            "a": "McGrathNicol",
+            "b": "David Jones",
+            "type": "neutral",
+            "label": "作为管理人接管公司"
+          },
+          {
+            "a": "McGrathNicol",
+            "b": "潜在买家",
+            "type": "neutral",
+            "label": "正在接触多家国内外买家和投资方"
+          }
+        ],
+        "points": [
+          "首次债权人会议上，管理人确认David Jones至少欠债4.59亿澳元。",
+          "直接原因：圣诞季前没能和房东谈妥租金减免，11月5日由McGrathNicol接管。",
+          "董事们归咎于通胀、加息和生活成本压力，管理人则认为商业模式本身也有问题。",
+          "出售程序已经启动，多家国内外潜在买家和投资方在接触中。"
+        ],
+        "relevance": "David Jones的困境说明，光靠老字号的名气已经不够了：消费者预算变紧、购物习惯改变，品牌必须给出新的购买理由。做营销的你可以思考：老品牌如何在生活成本压力下重新打动顾客？另外，如果你的公司是David Jones的供应商或合作方，也要关注后续出售进展。",
+        "phrase": {
+          "en": "go under",
+          "zh": "（公司）倒闭，破产"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Robert Pattinson named as the next James Bond",
+      "title_zh": "新一任007官宣！罗伯特·帕丁森接替丹尼尔·克雷格出演詹姆斯·邦德",
+      "search_zh": "罗伯特·帕丁森 新任007 詹姆斯·邦德 2026年11月16日 亚马逊米高梅 官宣 接替丹尼尔·克雷格 一生的荣幸 丹尼斯·维伦纽瓦 执导 史蒂文·奈特 编剧 2027年开拍",
+      "summary_en": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson will be the next James Bond, ending years of speculation about who would follow Daniel Craig as 007. Pattinson, who is well known for the Twilight films and The Batman, said playing the famous spy was the honour of a lifetime. The new film will be directed by Denis Villeneuve, who worked with Pattinson on the third Dune film, and written by Steven Knight, the creator of Peaky Blinders. The studio has not yet announced a title or a release date, although reports say filming is expected to start in 2027, and the news quickly became a hot topic on Chinese social media too.",
+      "summary_zh": "亚马逊米高梅影业（Amazon MGM Studios）周一宣布，英国演员罗伯特·帕丁森将出演新一任詹姆斯·邦德，多年来关于谁会接替丹尼尔·克雷格出演007的猜测终于有了答案。帕丁森因《暮光之城》系列和《新蝙蝠侠》而广为人知，他表示出演这位著名特工是“一生的荣幸”。新片将由丹尼斯·维伦纽瓦执导，他曾在《沙丘》第三部中与帕丁森合作，编剧则是《浴血黑帮》的创作者史蒂文·奈特。片方还没有公布片名和上映日期，不过有报道称影片预计2027年开拍，这条消息也很快在中国社交媒体上成为热门话题。",
+      "why_zh": "007是全球最有名的电影品牌之一，选角消息一出就刷屏。“speculation（猜测）”“honour of a lifetime（一生的荣幸）”在新闻和获奖感言里很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Amazon (aboutamazon.com); NBC News; ABC News (US); CBC; Sina",
+      "url": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
+      "vocab": [
+        {
+          "word": "speculation",
+          "phonetic": "/ˌspekjuˈleɪʃn/",
+          "pos": "n.",
+          "zh": "猜测，推测",
+          "example": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson will be the next James Bond, ending years of speculation about who would follow Daniel Craig as 007."
+        },
+        {
+          "word": "honour",
+          "phonetic": "/ˈɒnə(r)/",
+          "pos": "n.",
+          "zh": "荣幸，荣誉",
+          "example": "Pattinson, who is well known for the Twilight films and The Batman, said playing the famous spy was the honour of a lifetime."
+        }
+      ]
+    },
+    {
+      "category": "china",
+      "title_en": "Peking University's 399-yuan down jacket goes viral and sells out",
+      "title_zh": "北大399元羽绒服冲上热搜第一，小程序被挤崩，门店已断货",
+      "search_zh": "北大399元羽绒服 2026年11月16日 热搜第一 北京大学文创 鹅绒 绒子含量90% 求代购 小程序崩溃 仅线下销售 断货 12月底补货 网友吐槽太薄",
+      "summary_en": "A 399-yuan down jacket sold by Peking University's cultural and creative products shop went viral on Chinese social media on Monday, and the topic reached number one on the trending list. The jacket is filled with goose down with a down content of 90 per cent, and many people outside the university asked students and alumni to buy one for them. So many people visited the shop's mini-program that it stopped working for a while, although staff said the jacket was only sold in the physical store, where it had already sold out and new stock was expected by the end of December. Not everyone was impressed, as some online commenters said the jacket was too thin for the price, but the craze shows how a famous university's name can turn a simple product into a must-have item.",
+      "summary_zh": "北京大学文创店推出的一款售价399元的羽绒服周一在中国社交媒体上走红，相关话题冲上热搜第一。这款羽绒服的填充物是鹅绒，绒子含量为90%，不少校外网友纷纷请北大学生和校友帮忙“代购”。由于访问人数太多，北大文创小程序一度崩溃，不过工作人员表示，这款羽绒服只在线下门店销售，目前已经断货，预计12月底补货。也不是所有人都买账，有网友吐槽这件衣服太薄、价格偏贵，但这股抢购热潮说明，名校光环可以把一件普通商品变成人人想要的“爆款”。",
+      "why_zh": "这是一个“名校IP+平价商品”引爆社交媒体的营销案例。“alumni（校友）”“craze（一时的狂热）”在描述潮流和消费现象时很好用。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); Sina Finance; Tencent News; Sohu; China.com",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
+      "vocab": [
+        {
+          "word": "alumni",
+          "phonetic": "/əˈlʌmnaɪ/",
+          "pos": "n.",
+          "zh": "校友（复数）",
+          "example": "The jacket is filled with goose down with a down content of 90 per cent, and many people outside the university asked students and alumni to buy one for them."
+        },
+        {
+          "word": "craze",
+          "phonetic": "/kreɪz/",
+          "pos": "n.",
+          "zh": "（一时的）狂热，热潮",
+          "example": "Not everyone was impressed, as some online commenters said the jacket was too thin for the price, but the craze shows how a famous university's name can turn a simple product into a must-have item."
+        }
+      ],
+      "explain": {
+        "one_liner": "北大文创店的一件399元羽绒服突然在网上爆火，大家抢着买，小程序被挤崩，门店也卖断货了。",
+        "facts": [
+          {
+            "icon": "🎓",
+            "name": "北京大学文创",
+            "text": "北大推出的文化创意周边产品，比如印有校名、校徽的衣服和文具。"
+          },
+          {
+            "icon": "🧥",
+            "name": "399元羽绒服",
+            "text": "填充物是鹅绒，绒子含量90%，只在线下门店卖。"
+          },
+          {
+            "icon": "🔥",
+            "name": "热搜",
+            "text": "社交平台上的热门话题榜，这次相关话题冲到了第一。"
+          },
+          {
+            "icon": "📱",
+            "name": "小程序 mini-program",
+            "text": "在微信等App里直接打开的小型应用，很多品牌用它来展示和卖东西。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "名校光环",
+            "b": "羽绒服",
+            "type": "good",
+            "label": "让普通商品变成爆款"
+          },
+          {
+            "a": "大量访问",
+            "b": "文创小程序",
+            "type": "cause",
+            "label": "访问人数太多，一度崩溃"
+          },
+          {
+            "a": "校外网友",
+            "b": "北大学生和校友",
+            "type": "neutral",
+            "label": "纷纷请他们帮忙代购"
+          },
+          {
+            "a": "部分网友",
+            "b": "羽绒服",
+            "type": "bad",
+            "label": "吐槽太薄、价格偏贵"
+          }
+        ],
+        "points": [
+          "这款羽绒服售价399元，鹅绒填充，绒子含量90%。",
+          "相关话题冲上热搜第一，很多校外网友求代购。",
+          "小程序因访问量太大一度崩溃，衣服只在线下卖，已经断货，预计12月底补货。",
+          "评价有分歧：有人觉得划算，也有人嫌太薄、偏贵。"
+        ],
+        "relevance": "这是一个“品牌光环+稀缺性+社交传播”的典型案例：价格不高、名字响亮、买不到，反而让人更想要。做营销时可以借鉴这种“限量+情感认同”的思路，但也要注意产品体验跟不上时，口碑可能反转。澳洲的大学和博物馆周边、联名款同样可以用类似的方法做传播。",
+        "phrase": {
+          "en": "fly off the shelves",
+          "zh": "（商品）被一抢而空，卖得飞快"
+        }
+      }
+    }
+  ]
+}
