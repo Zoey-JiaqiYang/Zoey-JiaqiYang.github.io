@@ -1,220 +1,270 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T01:57:25+11:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T01:55:25+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "Collapsed department store David Jones owes creditors at least A$459 million, administrators say",
-      "title_zh": "百年百货David Jones首次债权人会议：至少欠债4.59亿澳元，管理人称商业模式有问题",
-      "search_zh": "David Jones 百货 破产管理 2026年11月17日 第一次债权人会议 McGrathNicol 至少欠债4.59亿澳元 11月5日 接管 房东 租金减免 圣诞购物季 通胀 利率 生活成本 商业模式 出售 多家 潜在买家",
-      "summary_en": "Administrators for David Jones, the department store chain founded in Sydney in 1838, told creditors at their first meeting on Tuesday that the collapsed retailer owes at least A$459 million. Administrators from McGrathNicol took control of the business on 5 November, after David Jones failed to reach a deal with its landlords on rent relief ahead of the key Christmas trading period. According to the administrators, the company's directors blamed inflation, higher interest rates and cost-of-living pressures on household spending, but the administrators also said there was clearly a problem with the business model itself. A sale process is now under way, with the administrators in contact with a large number of potential buyers and investors in Australia and overseas, and creditors are expected to meet again next year.",
-      "summary_zh": "1838年在悉尼创立的百货公司David Jones的破产管理人周二在第一次债权人会议上表示，这家已经倒闭的零售商至少欠债4.59亿澳元。由于David Jones在关键的圣诞购物季到来前，没能和房东谈妥租金减免，管理机构McGrathNicol于11月5日接管了这家公司。据管理人介绍，公司董事们把失败归咎于通货膨胀、利率上升以及生活成本压力拖累了家庭消费，但管理人也表示，公司的商业模式本身显然也有问题。目前出售程序已经启动，管理人正在与国内外多家潜在买家和投资方接触，债权人预计明年会再次开会。",
-      "why_zh": "David Jones是澳洲人很熟悉的老牌百货公司，它的倒闭反映了实体零售面临的压力。“creditors（债权人）”“relief（减免、缓解）”是商业和财经新闻的高频词。",
+      "category": "australia",
+      "title_en": "Tame Impala wins seven awards at the 40th ARIA Music Awards",
+      "title_zh": "第40届ARIA音乐奖：Tame Impala八项提名拿下七个奖，包揽年度专辑和年度歌曲",
+      "search_zh": "Tame Impala 凯文·帕克 Kevin Parker 第40届ARIA音乐奖 2026年11月18日 悉尼 8项提名 7个奖项 年度专辑 Deadbeat 年度歌曲 Dracula 最佳独唱艺人 制作 录音工程 全球影响力奖 达伦·海斯",
+      "summary_en": "Tame Impala, the music project of Australian musician Kevin Parker, dominated the 40th ARIA Music Awards in Sydney on Wednesday night, winning seven awards from eight nominations. His wins included Album of the Year for Deadbeat, Song of the Year for \"Dracula\" and Best Solo Artist, along with awards for producing and engineering. Parker also received the ARIA Global Impact Award, which was presented to him by singer Darren Hayes. Media reports said the haul put Parker among the most-awarded artists in ARIA history.",
+      "summary_zh": "由澳洲音乐人凯文·帕克（Kevin Parker）一手打造的音乐项目Tame Impala，周三晚上在悉尼举行的第40届ARIA音乐奖上大获全胜，8项提名中拿下7个奖项。他拿下的奖项包括凭专辑《Deadbeat》获得的年度专辑、凭《Dracula》获得的年度歌曲以及最佳独唱艺人，另外还有制作和录音工程方面的奖项。帕克还获得了ARIA全球影响力奖，由歌手达伦·海斯（Darren Hayes）为他颁奖。媒体报道称，这一大批奖项让帕克跻身ARIA历史上获奖最多的艺人之列。",
+      "why_zh": "ARIA音乐奖相当于澳洲的“格莱美”，是本地流行文化的大事，聊天时很容易用上。“dominate（主导、大获全胜）”“haul（一大批收获）”是体育和颁奖新闻的常用词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Reuters; Bloomberg; FashionUnited; AAP",
-      "url": "https://www.abc.net.au/news/2026-11-17/david-jones-creditors-owed-almost-half-a-billion-dollars/107389716",
+      "source": "ABC News; Billboard; ARIA; The Music Network; Dork",
+      "url": "https://www.billboard.com/music/awards/tame-impala-dominate-2026-aria-awards-1236384668/",
       "vocab": [
         {
-          "word": "creditors",
-          "phonetic": "/ˈkredɪtəz/",
-          "pos": "n.",
-          "zh": "债权人（被欠钱的一方）",
-          "example": "Administrators for David Jones, the department store chain founded in Sydney in 1838, told creditors at their first meeting on Tuesday that the collapsed retailer owes at least A$459 million."
+          "word": "dominated",
+          "phonetic": "/ˈdɒmɪneɪtɪd/",
+          "pos": "v.",
+          "zh": "主导；在……中占绝对优势",
+          "example": "Tame Impala, the music project of Australian musician Kevin Parker, dominated the 40th ARIA Music Awards in Sydney on Wednesday night, winning seven awards from eight nominations."
         },
         {
-          "word": "relief",
-          "phonetic": "/rɪˈliːf/",
+          "word": "haul",
+          "phonetic": "/hɔːl/",
           "pos": "n.",
-          "zh": "（负担的）减轻，减免",
-          "example": "Administrators from McGrathNicol took control of the business on 5 November, after David Jones failed to reach a deal with its landlords on rent relief ahead of the key Christmas trading period."
+          "zh": "（奖项、奖牌等的）一大批收获",
+          "example": "Media reports said the haul put Parker among the most-awarded artists in ARIA history."
         }
       ],
       "explain": {
-        "one_liner": "开了一百多年的百货公司David Jones撑不下去了，现在由专业机构接管，正在算欠了多少钱、找人来买。",
+        "one_liner": "澳洲最重要的音乐颁奖礼ARIA办到第40届，Tame Impala一个晚上拿走了7个奖，成了最大赢家。",
         "facts": [
           {
-            "icon": "🏬",
-            "name": "David Jones",
-            "text": "1838年在悉尼创立的澳洲老牌百货公司，卖时装、化妆品、家居等中高端商品。"
+            "icon": "🏆",
+            "name": "ARIA音乐奖",
+            "text": "澳洲的音乐大奖，可以理解为澳洲版的“格莱美”，今年是第40届，在悉尼举行。"
           },
           {
-            "icon": "🧾",
-            "name": "破产管理 administration",
-            "text": "公司还不起债时，由外部专业机构（管理人）接管，决定是把公司卖掉、重组，还是关闭。"
+            "icon": "🎸",
+            "name": "Tame Impala",
+            "text": "澳洲音乐人凯文·帕克（Kevin Parker）的音乐项目，这次8项提名拿下7个奖。"
           },
           {
-            "icon": "👔",
-            "name": "McGrathNicol",
-            "text": "这次被任命的管理机构，11月5日接管了David Jones。"
+            "icon": "💿",
+            "name": "《Deadbeat》",
+            "text": "这次拿下年度专辑的作品，其中的歌曲《Dracula》获得年度歌曲。"
           },
           {
-            "icon": "💰",
-            "name": "债权人 creditors",
-            "text": "公司欠了钱的对象，比如贷款方、供应商等。管理人说David Jones至少欠了4.59亿澳元。"
-          },
-          {
-            "icon": "🏠",
-            "name": "房东与租金",
-            "text": "David Jones在圣诞季前没能和房东谈妥租金减免，这是它进入破产管理的直接导火索。"
+            "icon": "🌏",
+            "name": "全球影响力奖",
+            "text": "帕克当晚还获得了ARIA全球影响力奖，由歌手达伦·海斯颁发。"
           }
         ],
         "relations": [
           {
-            "a": "租金谈判失败",
-            "b": "进入破产管理",
+            "a": "凯文·帕克",
+            "b": "Tame Impala",
+            "type": "neutral",
+            "label": "Tame Impala就是他的音乐项目"
+          },
+          {
+            "a": "《Deadbeat》",
+            "b": "年度专辑",
+            "type": "good",
+            "label": "拿下ARIA年度专辑"
+          },
+          {
+            "a": "达伦·海斯",
+            "b": "凯文·帕克",
+            "type": "neutral",
+            "label": "为他颁发全球影响力奖"
+          },
+          {
+            "a": "7个奖项",
+            "b": "ARIA历史排名",
             "type": "cause",
-            "label": "没谈妥租金减免，公司被接管"
-          },
-          {
-            "a": "通胀、加息、生活成本压力",
-            "b": "David Jones",
-            "type": "bad",
-            "label": "董事们认为拖累了消费"
-          },
-          {
-            "a": "McGrathNicol",
-            "b": "David Jones",
-            "type": "neutral",
-            "label": "作为管理人接管公司"
-          },
-          {
-            "a": "McGrathNicol",
-            "b": "潜在买家",
-            "type": "neutral",
-            "label": "正在接触多家国内外买家和投资方"
+            "label": "让帕克跻身获奖最多的艺人之列"
           }
         ],
         "points": [
-          "首次债权人会议上，管理人确认David Jones至少欠债4.59亿澳元。",
-          "直接原因：圣诞季前没能和房东谈妥租金减免，11月5日由McGrathNicol接管。",
-          "董事们归咎于通胀、加息和生活成本压力，管理人则认为商业模式本身也有问题。",
-          "出售程序已经启动，多家国内外潜在买家和投资方在接触中。"
+          "8项提名拿下7个奖，是第40届ARIA音乐奖最大赢家。",
+          "包括年度专辑、年度歌曲、最佳独唱艺人，以及制作和录音工程方面的奖。",
+          "另外还获得全球影响力奖，由达伦·海斯颁发。",
+          "媒体称这批奖项让他跻身ARIA史上获奖最多的艺人之列。"
         ],
-        "relevance": "David Jones的困境说明，光靠老字号的名气已经不够了：消费者预算变紧、购物习惯改变，品牌必须给出新的购买理由。做营销的你可以思考：老品牌如何在生活成本压力下重新打动顾客？另外，如果你的公司是David Jones的供应商或合作方，也要关注后续出售进展。",
+        "relevance": "颁奖季是品牌借势营销的好时机：音乐流媒体、时尚和饮料品牌常会围绕获奖艺人做内容。了解本地音乐圈的大名字，也能帮你在澳洲同事和客户面前更自然地聊流行文化，策划活动时找到更贴近本地受众的切入点。",
         "phrase": {
-          "en": "go under",
-          "zh": "（公司）倒闭，破产"
+          "en": "clean up (at an awards show)",
+          "zh": "（在颁奖礼上）大获全胜，横扫奖项"
         }
       }
     },
     {
-      "category": "entertainment",
-      "title_en": "Robert Pattinson named as the next James Bond",
-      "title_zh": "新一任007官宣！罗伯特·帕丁森接替丹尼尔·克雷格出演詹姆斯·邦德",
-      "search_zh": "罗伯特·帕丁森 新任007 詹姆斯·邦德 2026年11月16日 亚马逊米高梅 官宣 接替丹尼尔·克雷格 一生的荣幸 丹尼斯·维伦纽瓦 执导 史蒂文·奈特 编剧 2027年开拍",
-      "summary_en": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson will be the next James Bond, ending years of speculation about who would follow Daniel Craig as 007. Pattinson, who is well known for the Twilight films and The Batman, said playing the famous spy was the honour of a lifetime. The new film will be directed by Denis Villeneuve, who worked with Pattinson on the third Dune film, and written by Steven Knight, the creator of Peaky Blinders. The studio has not yet announced a title or a release date, although reports say filming is expected to start in 2027, and the news quickly became a hot topic on Chinese social media too.",
-      "summary_zh": "亚马逊米高梅影业（Amazon MGM Studios）周一宣布，英国演员罗伯特·帕丁森将出演新一任詹姆斯·邦德，多年来关于谁会接替丹尼尔·克雷格出演007的猜测终于有了答案。帕丁森因《暮光之城》系列和《新蝙蝠侠》而广为人知，他表示出演这位著名特工是“一生的荣幸”。新片将由丹尼斯·维伦纽瓦执导，他曾在《沙丘》第三部中与帕丁森合作，编剧则是《浴血黑帮》的创作者史蒂文·奈特。片方还没有公布片名和上映日期，不过有报道称影片预计2027年开拍，这条消息也很快在中国社交媒体上成为热门话题。",
-      "why_zh": "007是全球最有名的电影品牌之一，选角消息一出就刷屏。“speculation（猜测）”“honour of a lifetime（一生的荣幸）”在新闻和获奖感言里很常见。",
-      "image": "",
-      "image_credit": "",
-      "source": "Amazon (aboutamazon.com); NBC News; ABC News (US); CBC; Sina",
-      "url": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
-      "vocab": [
-        {
-          "word": "speculation",
-          "phonetic": "/ˌspekjuˈleɪʃn/",
-          "pos": "n.",
-          "zh": "猜测，推测",
-          "example": "Amazon MGM Studios announced on Monday that British actor Robert Pattinson will be the next James Bond, ending years of speculation about who would follow Daniel Craig as 007."
-        },
-        {
-          "word": "honour",
-          "phonetic": "/ˈɒnə(r)/",
-          "pos": "n.",
-          "zh": "荣幸，荣誉",
-          "example": "Pattinson, who is well known for the Twilight films and The Batman, said playing the famous spy was the honour of a lifetime."
-        }
-      ]
-    },
-    {
       "category": "china",
-      "title_en": "Peking University's 399-yuan down jacket goes viral and sells out",
-      "title_zh": "北大399元羽绒服冲上热搜第一，小程序被挤崩，门店已断货",
-      "search_zh": "北大399元羽绒服 2026年11月16日 热搜第一 北京大学文创 鹅绒 绒子含量90% 求代购 小程序崩溃 仅线下销售 断货 12月底补货 网友吐槽太薄",
-      "summary_en": "A 399-yuan down jacket sold by Peking University's cultural and creative products shop went viral on Chinese social media on Monday, and the topic reached number one on the trending list. The jacket is filled with goose down with a down content of 90 per cent, and many people outside the university asked students and alumni to buy one for them. So many people visited the shop's mini-program that it stopped working for a while, although staff said the jacket was only sold in the physical store, where it had already sold out and new stock was expected by the end of December. Not everyone was impressed, as some online commenters said the jacket was too thin for the price, but the craze shows how a famous university's name can turn a simple product into a must-have item.",
-      "summary_zh": "北京大学文创店推出的一款售价399元的羽绒服周一在中国社交媒体上走红，相关话题冲上热搜第一。这款羽绒服的填充物是鹅绒，绒子含量为90%，不少校外网友纷纷请北大学生和校友帮忙“代购”。由于访问人数太多，北大文创小程序一度崩溃，不过工作人员表示，这款羽绒服只在线下门店销售，目前已经断货，预计12月底补货。也不是所有人都买账，有网友吐槽这件衣服太薄、价格偏贵，但这股抢购热潮说明，名校光环可以把一件普通商品变成人人想要的“爆款”。",
-      "why_zh": "这是一个“名校IP+平价商品”引爆社交媒体的营销案例。“alumni（校友）”“craze（一时的狂热）”在描述潮流和消费现象时很好用。",
+      "title_en": "DJI raises prices of Osmo Pocket 4 and other cameras in China, citing chip costs",
+      "title_zh": "大疆今起涨价！Osmo Pocket 4等相机最高涨560元，官方称芯片存储成本上涨",
+      "search_zh": "大疆 DJI 涨价 2026年11月18日 11月13日 调价通知 半导体 存储 零部件成本上涨 Osmo Pocket 4 标准套装 2999元 3199元 Osmo Pocket 4P Vlog套装 4859元 最高涨560元 Osmo Nano 64GB 1998元不变 存储芯片 供应紧张 竞争品牌",
+      "summary_en": "Chinese tech company DJI raised the prices of several of its popular handheld and wearable cameras in mainland China on Wednesday, with the biggest increase reaching 560 yuan. The company had announced the change on 13 November, saying the cost of key parts such as semiconductors and memory had kept rising around the world. The Osmo Pocket 4 standard set went up from 2,999 to 3,199 yuan and the Osmo Pocket 4P Vlog set rose to 4,859 yuan, while the 64GB version of the small Osmo Nano camera stayed at 1,998 yuan. Reports linked the increase to tight supplies of memory chips, and some media are now watching whether rival camera brands will follow.",
+      "summary_zh": "中国科技公司大疆（DJI）周三在中国大陆上调了旗下几款热门手持相机和穿戴相机的价格，最高涨幅达到560元。大疆早在11月13日就发布了调价通知，称全球半导体和存储等关键零部件的成本持续上涨。其中Osmo Pocket 4标准套装从2999元涨到3199元，Osmo Pocket 4P Vlog套装涨到4859元，而小巧的Osmo Nano 64GB版本仍维持1998元不变。报道认为这次涨价与存储芯片供应紧张有关，一些媒体也在关注其他竞争相机品牌是否会跟着涨价。",
+      "why_zh": "大疆是很多博主和年轻人都在用的国产品牌，这次涨价反映了芯片成本对日常电子产品的影响。“handheld（手持的）”“rival（竞争对手的）”在科技和商业新闻里很常见。",
       "image": "",
       "image_credit": "",
-      "source": "The Paper (澎湃新闻); Sina Finance; Tencent News; Sohu; China.com",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
+      "source": "TechNode; 21st Century Business Herald (21财经); The Paper (澎湃新闻); Sina Tech; DroneXL",
+      "url": "https://technode.com/2026/11/18/dji-raises-pocket-camera-prices-in-china-as-component-costs-climb/",
       "vocab": [
         {
-          "word": "alumni",
-          "phonetic": "/əˈlʌmnaɪ/",
-          "pos": "n.",
-          "zh": "校友（复数）",
-          "example": "The jacket is filled with goose down with a down content of 90 per cent, and many people outside the university asked students and alumni to buy one for them."
+          "word": "handheld",
+          "phonetic": "/ˈhændheld/",
+          "pos": "adj.",
+          "zh": "手持的，便携的",
+          "example": "Chinese tech company DJI raised the prices of several of its popular handheld and wearable cameras in mainland China on Wednesday, with the biggest increase reaching 560 yuan."
         },
         {
-          "word": "craze",
-          "phonetic": "/kreɪz/",
-          "pos": "n.",
-          "zh": "（一时的）狂热，热潮",
-          "example": "Not everyone was impressed, as some online commenters said the jacket was too thin for the price, but the craze shows how a famous university's name can turn a simple product into a must-have item."
+          "word": "rival",
+          "phonetic": "/ˈraɪvl/",
+          "pos": "adj.",
+          "zh": "竞争的，对手的",
+          "example": "Reports linked the increase to tight supplies of memory chips, and some media are now watching whether rival camera brands will follow."
         }
       ],
       "explain": {
-        "one_liner": "北大文创店的一件399元羽绒服突然在网上爆火，大家抢着买，小程序被挤崩，门店也卖断货了。",
+        "one_liner": "做芯片和存储的成本一直在涨，大疆把几款热门小相机在国内的售价调高了，最多贵了560元。",
         "facts": [
           {
-            "icon": "🎓",
-            "name": "北京大学文创",
-            "text": "北大推出的文化创意周边产品，比如印有校名、校徽的衣服和文具。"
+            "icon": "🚁",
+            "name": "大疆 DJI",
+            "text": "中国科技公司，这次涨价的是它的几款热门手持相机和穿戴相机。"
           },
           {
-            "icon": "🧥",
-            "name": "399元羽绒服",
-            "text": "填充物是鹅绒，绒子含量90%，只在线下门店卖。"
+            "icon": "📷",
+            "name": "Osmo Pocket 4 / 4P",
+            "text": "大疆的口袋手持相机，这次涨价的主力，4P的Vlog套装涨到4859元，涨幅最大。"
           },
           {
-            "icon": "🔥",
-            "name": "热搜",
-            "text": "社交平台上的热门话题榜，这次相关话题冲到了第一。"
+            "icon": "⌚",
+            "name": "Osmo Nano",
+            "text": "一款小巧的穿戴相机，64GB版本维持1998元不变。"
           },
           {
-            "icon": "📱",
-            "name": "小程序 mini-program",
-            "text": "在微信等App里直接打开的小型应用，很多品牌用它来展示和卖东西。"
+            "icon": "💾",
+            "name": "存储芯片",
+            "text": "电子产品里用来保存数据的芯片，最近供应紧张，成本上涨。"
+          },
+          {
+            "icon": "📅",
+            "name": "调价时间",
+            "text": "11月13日发通知，11月18日起正式执行。"
           }
         ],
         "relations": [
           {
-            "a": "名校光环",
-            "b": "羽绒服",
-            "type": "good",
-            "label": "让普通商品变成爆款"
-          },
-          {
-            "a": "大量访问",
-            "b": "文创小程序",
+            "a": "半导体和存储成本上涨",
+            "b": "大疆涨价",
             "type": "cause",
-            "label": "访问人数太多，一度崩溃"
+            "label": "官方给出的涨价理由"
           },
           {
-            "a": "校外网友",
-            "b": "北大学生和校友",
-            "type": "neutral",
-            "label": "纷纷请他们帮忙代购"
-          },
-          {
-            "a": "部分网友",
-            "b": "羽绒服",
+            "a": "大疆涨价",
+            "b": "消费者",
             "type": "bad",
-            "label": "吐槽太薄、价格偏贵"
+            "label": "同样的相机要多花钱"
+          },
+          {
+            "a": "大疆",
+            "b": "竞争相机品牌",
+            "type": "neutral",
+            "label": "媒体关注对手会不会跟着涨"
           }
         ],
         "points": [
-          "这款羽绒服售价399元，鹅绒填充，绒子含量90%。",
-          "相关话题冲上热搜第一，很多校外网友求代购。",
-          "小程序因访问量太大一度崩溃，衣服只在线下卖，已经断货，预计12月底补货。",
-          "评价有分歧：有人觉得划算，也有人嫌太薄、偏贵。"
+          "大疆从11月18日起上调部分相机在中国大陆的售价，最高涨560元。",
+          "官方说原因是全球半导体和存储等关键零部件成本上涨。",
+          "Osmo Pocket 4标准套装从2999元涨到3199元，Osmo Nano 64GB版本价格不变。",
+          "媒体在关注其他竞争相机品牌会不会跟进涨价。"
         ],
-        "relevance": "这是一个“品牌光环+稀缺性+社交传播”的典型案例：价格不高、名字响亮、买不到，反而让人更想要。做营销时可以借鉴这种“限量+情感认同”的思路，但也要注意产品体验跟不上时，口碑可能反转。澳洲的大学和博物馆周边、联名款同样可以用类似的方法做传播。",
+        "relevance": "涨价是品牌最难沟通的事情之一。大疆提前几天发通知、说明成本原因，还保留了一款入门价位不变，这种做法值得做营销的你参考。另外，芯片成本上涨也可能影响澳洲市场的电子产品价格和促销节奏，做年底促销计划时可以留意。",
         "phrase": {
-          "en": "fly off the shelves",
-          "zh": "（商品）被一抢而空，卖得飞快"
+          "en": "pass on costs (to customers)",
+          "zh": "把成本转嫁给顾客"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "Harry Styles, Billie Eilish and Sam Fender to headline Glastonbury 2027, with Cher in the Legends slot",
+      "title_zh": "格拉斯顿伯里音乐节2027阵容公布：哈里·斯泰尔斯、比莉·艾利什、萨姆·芬德压轴，雪儿登“传奇”时段",
+      "search_zh": "格拉斯顿伯里音乐节 Glastonbury 2027 阵容公布 2026年11月18日 哈里·斯泰尔斯 萨姆·芬德 比莉·艾利什 压轴 雪儿 Cher 周日下午 传奇时段 首次登台 2022年 2027年6月23日至27日 Worthy Farm 萨默塞特 网友吐槽 缺乏新意",
+      "summary_en": "Glastonbury, one of the world's most famous music festivals, announced on Wednesday that Harry Styles, Sam Fender and Billie Eilish will headline its 2027 event. Pop legend Cher will play the festival's Sunday afternoon \"Legends\" slot, a spot that is traditionally given to veteran stars. It will be the first Glastonbury appearance for both Styles and Cher, while Eilish returns after headlining the festival in 2022. The festival will take place from 23 to 27 June 2027 at Worthy Farm in Somerset, England, and while many fans were excited, others online complained that the line-up was too predictable.",
+      "summary_zh": "全球最著名的音乐节之一格拉斯顿伯里音乐节（Glastonbury）周三宣布，哈里·斯泰尔斯、萨姆·芬德和比莉·艾利什将担任2027年音乐节的压轴主唱。流行天后雪儿（Cher）将登上音乐节周日下午的“传奇”时段，这个时段通常留给资深巨星。这将是斯泰尔斯和雪儿第一次在格拉斯顿伯里演出，而艾利什在2022年担任过压轴之后再次回归。音乐节将于2027年6月23日至27日在英格兰萨默塞特郡的Worthy Farm农场举行，不少乐迷感到兴奋，但也有网友吐槽阵容太缺乏新意。",
+      "why_zh": "格拉斯顿伯里是全球知名的音乐节，阵容公布总能引发大量讨论。“headline（担任压轴/主打演出）”“predictable（可预测的、没新意的）”在娱乐和日常英语中都很实用。",
+      "image": "",
+      "image_credit": "",
+      "source": "NME; Billboard; RTÉ; Stereogum; Time Out",
+      "url": "https://www.nme.com/news/music/glastonbury-2027-line-up-announced-headliners-3976266",
+      "vocab": [
+        {
+          "word": "headline",
+          "phonetic": "/ˈhedlaɪn/",
+          "pos": "v.",
+          "zh": "担任（演出的）压轴/头牌",
+          "example": "Glastonbury, one of the world's most famous music festivals, announced on Wednesday that Harry Styles, Sam Fender and Billie Eilish will headline its 2027 event."
+        },
+        {
+          "word": "predictable",
+          "phonetic": "/prɪˈdɪktəbl/",
+          "pos": "adj.",
+          "zh": "可预料的；没有新意的",
+          "example": "The festival will take place from 23 to 27 June 2027 at Worthy Farm in Somerset, England, and while many fans were excited, others online complained that the line-up was too predictable."
+        }
+      ],
+      "explain": {
+        "one_liner": "英国超有名的格拉斯顿伯里音乐节公布了2027年的大牌阵容，三位压轴加上雪儿，网友有人叫好也有人吐槽。",
+        "facts": [
+          {
+            "icon": "🎪",
+            "name": "格拉斯顿伯里音乐节",
+            "text": "在英格兰萨默塞特郡Worthy Farm农场举办的大型音乐节，2027年定在6月23日至27日。"
+          },
+          {
+            "icon": "🎤",
+            "name": "三位压轴艺人",
+            "text": "哈里·斯泰尔斯、萨姆·芬德和比莉·艾利什，其中斯泰尔斯是第一次来，艾利什2022年压轴过。"
+          },
+          {
+            "icon": "🌟",
+            "name": "雪儿 Cher",
+            "text": "流行天后，将登上周日下午的“传奇”时段，也是她第一次在这个音乐节演出。"
+          },
+          {
+            "icon": "🕰️",
+            "name": "“传奇”时段 Legends slot",
+            "text": "音乐节周日下午的特别时段，通常留给资深巨星。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "格拉斯顿伯里",
+            "b": "三位压轴艺人",
+            "type": "good",
+            "label": "宣布由他们担任2027年压轴"
+          },
+          {
+            "a": "雪儿",
+            "b": "“传奇”时段",
+            "type": "neutral",
+            "label": "首次登台，演周日下午"
+          },
+          {
+            "a": "部分网友",
+            "b": "阵容",
+            "type": "bad",
+            "label": "吐槽太缺乏新意"
+          }
+        ],
+        "points": [
+          "2027年压轴：哈里·斯泰尔斯、萨姆·芬德、比莉·艾利什。",
+          "雪儿登上周日下午的“传奇”时段。",
+          "斯泰尔斯和雪儿都是首次在格拉斯顿伯里演出，艾利什则是2022年后回归。",
+          "音乐节2027年6月23日至27日举行，阵容评价有好有坏。"
+        ],
+        "relevance": "大型音乐节公布阵容本身就是一场营销活动：提前半年制造话题、让粉丝讨论甚至吐槽，都能带来曝光。做营销的你可以借鉴这种“分批官宣+制造期待”的节奏，澳洲本地的音乐节和品牌活动也常用类似玩法。",
+        "phrase": {
+          "en": "line-up",
+          "zh": "（演出的）阵容"
         }
       }
     }
