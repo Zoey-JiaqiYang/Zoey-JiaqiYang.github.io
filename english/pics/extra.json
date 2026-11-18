@@ -6349,5 +6349,209 @@
         ]
       }
     ]
+  },
+  {
+    "id": "around-the-house",
+    "added": "2026-11-19",
+    "name": "家里小物件",
+    "icon": "🏠",
+    "prompt": "这个东西叫什么？",
+    "items": [
+      {
+        "emoji": "🪟",
+        "w": "blinds",
+        "ph": "/blaɪndz/",
+        "pos": "n.",
+        "zh": "百叶窗；卷帘",
+        "ex": "Close the blinds — the afternoon sun is blinding.",
+        "tip": "curtains 是布窗帘；blinds 是百叶/卷帘",
+        "accept": [
+          "blinds",
+          "blind",
+          "venetian blinds"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🛗",
+        "w": "lift",
+        "ph": "/lɪft/",
+        "pos": "n.",
+        "zh": "电梯",
+        "ex": "The lift is out of order, so we took the stairs.",
+        "tip": "澳洲/英国说 lift，美国说 elevator",
+        "accept": [
+          "lift",
+          "elevator"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🖼️",
+        "w": "picture frame",
+        "ph": "/ˈpɪktʃə freɪm/",
+        "pos": "n.",
+        "zh": "相框；画框",
+        "ex": "I hung a picture frame above the couch.",
+        "tip": "hang a picture 挂画；frame 也可作动词“装裱”",
+        "accept": [
+          "picture frame",
+          "frame",
+          "photo frame"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🕰️",
+        "w": "mantel clock",
+        "ph": "/ˈmæntl klɒk/",
+        "pos": "n.",
+        "zh": "座钟（壁炉台上的钟）",
+        "ex": "My nan's mantel clock still chimes every hour.",
+        "tip": "mantelpiece 壁炉台；chime 钟声报时",
+        "accept": [
+          "mantel clock",
+          "clock",
+          "mantelpiece clock"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "🧸",
+        "w": "teddy bear",
+        "ph": "/ˈtedi beə/",
+        "pos": "n.",
+        "zh": "泰迪熊；毛绒熊",
+        "ex": "My niece won't go to sleep without her teddy bear.",
+        "tip": "毛绒玩具统称 soft toy（澳洲常用）/ stuffed animal（美）",
+        "accept": [
+          "teddy bear",
+          "teddy",
+          "soft toy"
+        ],
+        "near": [
+          "hand fan"
+        ]
+      },
+      {
+        "emoji": "🪭",
+        "w": "hand fan",
+        "ph": "/hænd fæn/",
+        "pos": "n.",
+        "zh": "折扇；手扇",
+        "ex": "It was so hot on the train that I pulled out my hand fan.",
+        "tip": "fan 也指“粉丝”和电风扇",
+        "accept": [
+          "hand fan",
+          "fan",
+          "folding fan"
+        ],
+        "near": [
+          "teddy bear"
+        ]
+      },
+      {
+        "emoji": "🗝️",
+        "w": "spare key",
+        "ph": "/speə kiː/",
+        "pos": "n.",
+        "zh": "备用钥匙",
+        "ex": "I leave a spare key with my neighbour in case I get locked out.",
+        "tip": "spare 备用的：spare tyre, spare room",
+        "accept": [
+          "spare key",
+          "key",
+          "spare"
+        ],
+        "near": [
+          "lift"
+        ]
+      },
+      {
+        "emoji": "🪮",
+        "w": "comb",
+        "ph": "/kəʊm/",
+        "pos": "n./v.",
+        "zh": "梳子；梳头",
+        "ex": "Give your hair a quick comb before the meeting.",
+        "tip": "b 不发音！读 /kəʊm/；brush 是刷子型梳子",
+        "accept": [
+          "comb",
+          "hair comb",
+          "hair pick"
+        ],
+        "near": [
+          "blinds"
+        ]
+      },
+      {
+        "emoji": "🚰",
+        "w": "tap water",
+        "ph": "/ˈtæp wɔːtə/",
+        "pos": "n.",
+        "zh": "自来水",
+        "ex": "Tap water is safe to drink in Sydney.",
+        "tip": "澳洲说 tap，美国说 faucet；餐厅可以要 tap water 免费",
+        "accept": [
+          "tap water",
+          "tap",
+          "drinking water"
+        ],
+        "near": [
+          "shower"
+        ]
+      },
+      {
+        "emoji": "🚿",
+        "w": "shower",
+        "ph": "/ˈʃaʊə/",
+        "pos": "n./v.",
+        "zh": "淋浴；洗澡",
+        "ex": "I'll have a quick shower before we head out.",
+        "tip": "have a shower（澳/英）= take a shower（美）",
+        "accept": [
+          "shower",
+          "have a shower",
+          "take a shower"
+        ],
+        "near": [
+          "tap water"
+        ]
+      },
+      {
+        "emoji": "🛎️",
+        "w": "bell",
+        "ph": "/bel/",
+        "pos": "n.",
+        "zh": "服务铃；铃",
+        "ex": "Ring the bell at the counter and someone will come out.",
+        "tip": "doorbell 门铃；ring a bell 也指“听着耳熟”",
+        "accept": [
+          "bell",
+          "service bell",
+          "ring the bell"
+        ],
+        "near": [
+          "mantel clock"
+        ]
+      },
+      {
+        "emoji": "🗃️",
+        "w": "storage box",
+        "ph": "/ˈstɔːrɪdʒ bɒks/",
+        "pos": "n.",
+        "zh": "收纳盒",
+        "ex": "Put the winter clothes in a storage box under the bed.",
+        "tip": "declutter 断舍离，收纳也常说 storage",
+        "accept": [
+          "storage box",
+          "storage",
+          "box"
+        ],
+        "near": [
+          "picture frame"
+        ]
+      }
+    ]
   }
 ]
