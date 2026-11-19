@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T01:55:36+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Australia's unemployment rate jumps to 4.9%, the highest in about five years",
+      "title_zh": "澳洲10月失业率升至4.9%，创约五年新高，澳元跌破67美分",
+      "search_zh": "澳洲失业率 2026年10月 4.9% 9月 4.7% 约五年新高 就业人数减少约43500人 澳大利亚统计局 澳元 跌破67美分 加息预期降温 澳洲联储 经济放缓 衰退担忧",
+      "summary_en": "Australia's unemployment rate rose to 4.9 per cent in October, up from 4.7 per cent in September and the highest level in about five years, according to official figures released on Thursday. The number of people with jobs fell by about 43,500, a result that surprised many economists. The Australian dollar dropped below 67 US cents after the data came out, and financial markets scaled back expectations that the Reserve Bank would raise interest rates again. Some leading economists warned that the figures show the economy slowing sharply, raising fears that Australia could be approaching a recession.",
+      "summary_zh": "根据周四公布的官方数据，澳洲10月失业率升至4.9%，高于9月的4.7%，创下约五年来的最高水平。有工作的人数减少了约43500人，这个结果让许多经济学家感到意外。数据公布后，澳元跌破67美分，金融市场也不再那么预期澳洲联储（Reserve Bank）会继续加息。一些知名经济学家警告说，这些数据显示经济正在明显放缓，令人担心澳洲可能正在接近经济衰退。",
+      "why_zh": "失业率直接关系到找工作、加薪和房贷利率，是在澳洲生活的每个人都会关心的数字。“bets（押注、预期）”“recession（经济衰退）”是财经新闻里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Reuters; Bloomberg; Xinhua; FXStreet",
+      "url": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
+      "vocab": [
+        {
+          "word": "bets",
+          "phonetic": "/bets/",
+          "pos": "n.",
+          "zh": "押注；（对未来走势的）预期",
+          "example": "The Australian dollar dropped below 67 US cents after the data came out, and financial markets scaled back expectations that the Reserve Bank would raise interest rates again."
+        },
+        {
+          "word": "recession",
+          "phonetic": "/rɪˈseʃn/",
+          "pos": "n.",
+          "zh": "经济衰退",
+          "example": "Some leading economists warned that the figures show the economy slowing sharply, raising fears that Australia could be approaching a recession."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲10月丢了不少工作岗位，失业率跳到4.9%，大家开始担心经济变差，也觉得联储大概不会再加息了。",
+        "facts": [
+          {
+            "icon": "📊",
+            "name": "失业率 4.9%",
+            "text": "10月的失业率，比9月的4.7%高，是大约五年来最高的水平。"
+          },
+          {
+            "icon": "👷",
+            "name": "就业人数",
+            "text": "有工作的人数减少了约43500人，很多经济学家没想到。"
+          },
+          {
+            "icon": "💱",
+            "name": "澳元",
+            "text": "数据一出来，澳元就跌破了67美分。"
+          },
+          {
+            "icon": "🏦",
+            "name": "澳洲联储 Reserve Bank",
+            "text": "澳洲的中央银行，负责定利率，最近几次都在加息，市场现在认为它不太会再加息。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "就业人数减少",
+            "b": "失业率上升",
+            "type": "cause",
+            "label": "工作岗位变少，失业率升到4.9%"
+          },
+          {
+            "a": "失业率上升",
+            "b": "澳元",
+            "type": "bad",
+            "label": "数据公布后跌破67美分"
+          },
+          {
+            "a": "失业率上升",
+            "b": "加息预期",
+            "type": "cause",
+            "label": "市场不再那么预期联储继续加息"
+          },
+          {
+            "a": "经济学家",
+            "b": "澳洲经济",
+            "type": "bad",
+            "label": "警告经济明显放缓、可能接近衰退"
+          }
+        ],
+        "points": [
+          "10月失业率从4.7%升到4.9%，约五年来最高。",
+          "有工作的人数减少约43500人，结果出乎很多经济学家意料。",
+          "澳元跌破67美分，市场认为联储不太会再加息。",
+          "部分经济学家担心澳洲可能正在接近经济衰退。"
+        ],
+        "relevance": "就业市场变冷时，消费者通常会更谨慎花钱，品牌的营销预算也可能被压缩。做营销的你可以多关注“性价比”“省钱”类的信息，调整广告语和促销节奏；同时，如果利率不再上调，房贷压力不再加重，消费信心有望慢慢稳住，这也是规划明年活动时值得留意的信号。",
+        "phrase": {
+          "en": "tighten one's belt",
+          "zh": "勒紧裤腰带，节省开支"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "Grand Theft Auto VI launches to near-perfect reviews as Take-Two shares jump",
+      "title_zh": "等了13年！《GTA 6》全球发售，媒体评分99分追平历史最高，母公司股价大涨",
+      "search_zh": "侠盗猎车手6 GTA 6 Grand Theft Auto VI 发售 PS5 Xbox Series X|S Rockstar Games Take-Two 股价上涨超过6% GTA 5 13年 Metacritic 99分 追平历史最高 塞尔达传说 时之笛 销量 纪录",
+      "summary_en": "Grand Theft Auto VI, one of the most anticipated video games ever made, was released worldwide this week on PlayStation 5 and Xbox Series X|S. The game arrives about 13 years after Grand Theft Auto V, and critics have welcomed it with a Metacritic score of 99, tying the highest score ever recorded on the review site. Shares in Take-Two Interactive, the owner of the game's developer Rockstar Games, jumped more than 6 per cent as the game rolled out. Early estimates from industry trackers suggest the game is on course for record-breaking sales, although the company has not yet confirmed official figures.",
+      "summary_zh": "史上最受期待的电子游戏之一《侠盗猎车手6》（GTA 6）本周在PS5和Xbox Series X|S平台全球发售。这款游戏距离《GTA 5》推出已经过去约13年，评论界对它一片好评，在Metacritic上拿到99分，追平这个评分网站有史以来的最高分。随着游戏陆续上线，游戏开发商Rockstar Games的母公司Take-Two Interactive股价大涨超过6%。行业数据机构的初步估算显示，这款游戏有望创下销量纪录，不过公司还没有公布官方数字。",
+      "why_zh": "GTA是全球最出名的游戏系列之一，这次发售是年底最大的娱乐和商业话题。“anticipated（备受期待的）”“roll out（推出、上线）”在产品发布类新闻里非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Fox Business; Yahoo Finance; Benzinga; Dot Esports; Mac Observer",
+      "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait",
+      "vocab": [
+        {
+          "word": "anticipated",
+          "phonetic": "/ænˈtɪsɪpeɪtɪd/",
+          "pos": "adj.",
+          "zh": "备受期待的",
+          "example": "Grand Theft Auto VI, one of the most anticipated video games ever made, was released worldwide this week on PlayStation 5 and Xbox Series X|S."
+        },
+        {
+          "word": "rolled out",
+          "phonetic": "/rəʊld aʊt/",
+          "pos": "phr. v.",
+          "zh": "（产品）推出，上线",
+          "example": "Shares in Take-Two Interactive, the owner of the game's developer Rockstar Games, jumped more than 6 per cent as the game rolled out."
+        }
+      ],
+      "explain": {
+        "one_liner": "玩家等了13年的《GTA 6》终于上市，评分几乎满分，连母公司的股票都跟着大涨。",
+        "facts": [
+          {
+            "icon": "🎮",
+            "name": "《GTA 6》",
+            "text": "《侠盗猎车手》系列新作，本周在PS5和Xbox Series X|S上全球发售。"
+          },
+          {
+            "icon": "⏳",
+            "name": "13年",
+            "text": "上一部《GTA 5》大约是13年前推出的，粉丝等了很久。"
+          },
+          {
+            "icon": "⭐",
+            "name": "Metacritic 99分",
+            "text": "游戏评分汇总网站上的分数，追平了这个网站历史最高分。"
+          },
+          {
+            "icon": "🏢",
+            "name": "Rockstar Games / Take-Two",
+            "text": "Rockstar是开发商，Take-Two是它的母公司，股价上涨超过6%。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Take-Two",
+            "b": "Rockstar Games",
+            "type": "neutral",
+            "label": "Take-Two是Rockstar的母公司"
+          },
+          {
+            "a": "《GTA 6》发售",
+            "b": "Take-Two股价",
+            "type": "cause",
+            "label": "游戏上线，股价大涨超过6%"
+          },
+          {
+            "a": "评论界",
+            "b": "《GTA 6》",
+            "type": "good",
+            "label": "给出99分，追平历史最高"
+          }
+        ],
+        "points": [
+          "《GTA 6》本周在PS5和Xbox Series X|S上全球发售。",
+          "距离《GTA 5》约13年，Metacritic评分99分，追平历史最高。",
+          "母公司Take-Two股价随之上涨超过6%。",
+          "行业机构初步估算可能创销量纪录，但官方数字还没公布。"
+        ],
+        "relevance": "《GTA 6》是“饥饿营销”和长期造势的经典案例：多年只放出少量预告，就让全球玩家持续讨论。年底很多品牌也会借这类大型发布做内容或促销，比如电子产品和游戏主机的捆绑优惠。做营销的你可以留意它如何把粉丝期待转化成首发热度，这对任何新品发布都有参考价值。",
+        "phrase": {
+          "en": "build hype",
+          "zh": "造势，制造期待感"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Alibaba's revenue rises 10% as its AI cloud business grows 53%",
+      "title_zh": "阿里巴巴季度收入增长10%，AI云业务大涨53%，闪购亏损明显收窄",
+      "search_zh": "阿里巴巴 2026年9月季度 财报 收入同比增长10% 约2720亿元 AI云 云计算 收入增长53% AI相关产品收入 连续13个季度三位数增长 闪购 即时零售 淘宝闪购 亏损收窄",
+      "summary_en": "Chinese tech giant Alibaba reported on Thursday that its revenue rose 10 per cent from a year earlier to about 272 billion yuan in the three months to September. Its AI cloud business was a major driver, with revenue from AI cloud and computing services up 53 per cent. Revenue from AI-related products also grew at a triple-digit rate for the 13th quarter in a row. Meanwhile, the company said losses in its quick commerce business, which delivers goods to shoppers quickly, had narrowed substantially.",
+      "summary_zh": "中国科技巨头阿里巴巴周四公布，截至9月的三个月里，公司收入同比增长10%，达到约2720亿元人民币。AI云业务是主要的增长动力，AI云和计算服务收入增长了53%。AI相关产品的收入也连续第13个季度实现三位数增长。与此同时，公司表示，为顾客快速送货的闪购（即时零售）业务亏损已经大幅收窄。",
+      "why_zh": "阿里巴巴是淘宝、天猫背后的公司，它的财报能看出中国电商和AI行业的风向。“driver（推动因素）”“narrow（收窄、缩小）”是读财报新闻的必备词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Alibaba Group (Business Wire); Investing.com; mlq.ai; Sina",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-19-alibaba-group-announces-september-quarter-2026-results-and-interim-results-for-the-six-months-ended-september-30-2026",
+      "vocab": [
+        {
+          "word": "driver",
+          "phonetic": "/ˈdraɪvə(r)/",
+          "pos": "n.",
+          "zh": "推动因素，驱动力",
+          "example": "Its AI cloud business was a major driver, with revenue from AI cloud and computing services up 53 per cent."
+        },
+        {
+          "word": "narrowed",
+          "phonetic": "/ˈnærəʊd/",
+          "pos": "v.",
+          "zh": "（亏损、差距等）收窄，缩小",
+          "example": "Meanwhile, the company said losses in its quick commerce business, which delivers goods to shoppers quickly, had narrowed substantially."
+        }
+      ],
+      "explain": {
+        "one_liner": "阿里巴巴最新一季赚得更多了，主要靠AI云业务猛涨，送货快的闪购业务也亏得少了。",
+        "facts": [
+          {
+            "icon": "🛒",
+            "name": "阿里巴巴",
+            "text": "中国科技巨头，截至9月的三个月收入约2720亿元，同比增长10%。"
+          },
+          {
+            "icon": "☁️",
+            "name": "AI云和计算服务",
+            "text": "给企业提供云端算力等服务，这一季收入增长53%，是主要增长动力。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI相关产品",
+            "text": "收入已经连续13个季度保持三位数增长。"
+          },
+          {
+            "icon": "🛵",
+            "name": "闪购（即时零售）",
+            "text": "为顾客快速送货的业务，公司说亏损已经大幅收窄。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "AI云业务",
+            "b": "总收入增长",
+            "type": "cause",
+            "label": "AI云是主要增长动力"
+          },
+          {
+            "a": "阿里巴巴",
+            "b": "闪购业务",
+            "type": "good",
+            "label": "亏损大幅收窄"
+          },
+          {
+            "a": "AI相关产品",
+            "b": "收入",
+            "type": "good",
+            "label": "连续13个季度三位数增长"
+          }
+        ],
+        "points": [
+          "截至9月的三个月，阿里收入同比增长10%，约2720亿元。",
+          "AI云和计算服务收入增长53%，是主要增长动力。",
+          "AI相关产品收入连续第13个季度三位数增长。",
+          "闪购业务的亏损大幅收窄。"
+        ],
+        "relevance": "AI和“快速送达”正在改变人们买东西的方式。做营销的你可以留意：品牌越来越多地用AI工具做内容和投放，而即时配送让“想要马上就能拿到”成为新的消费期待。澳洲的外卖和快送平台也在走类似的路，了解中国市场的打法能帮你更早看到趋势。",
+        "phrase": {
+          "en": "growth engine",
+          "zh": "增长引擎，主要增长动力"
+        }
+      }
+    }
+  ]
+}
