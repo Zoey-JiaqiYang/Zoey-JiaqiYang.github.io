@@ -6553,5 +6553,208 @@
         ]
       }
     ]
+  },
+  {
+    "id": "taste-texture",
+    "added": "2026-11-20",
+    "name": "口味与口感",
+    "icon": "😋",
+    "prompt": "这个味道/口感怎么说？",
+    "items": [
+      {
+        "emoji": "🍋",
+        "w": "tangy",
+        "ph": "/ˈtæŋi/",
+        "pos": "adj.",
+        "zh": "酸爽的，带酸味的",
+        "ex": "This lemon tart is lovely and tangy.",
+        "tip": "sour 偏“酸”，tangy 是好吃的酸爽",
+        "accept": [
+          "tangy",
+          "sour",
+          "zesty"
+        ],
+        "near": [
+          "salty"
+        ]
+      },
+      {
+        "emoji": "🍯",
+        "w": "sticky",
+        "ph": "/ˈstɪki/",
+        "pos": "adj.",
+        "zh": "黏黏的",
+        "ex": "My fingers are all sticky from the honey.",
+        "tip": "sticky date pudding 是澳洲经典甜品",
+        "accept": [
+          "sticky",
+          "gooey"
+        ],
+        "near": [
+          "chewy"
+        ]
+      },
+      {
+        "emoji": "🥨",
+        "w": "salty",
+        "ph": "/ˈsɔːlti/",
+        "pos": "adj.",
+        "zh": "咸的",
+        "ex": "These pretzels are way too salty.",
+        "tip": "口语 salty 也可以指“不爽、酸溜溜”",
+        "accept": [
+          "salty"
+        ],
+        "near": [
+          "tangy"
+        ]
+      },
+      {
+        "emoji": "🍫",
+        "w": "rich",
+        "ph": "/rɪtʃ/",
+        "pos": "adj.",
+        "zh": "浓郁的，腻的",
+        "ex": "The chocolate cake was delicious but a bit too rich.",
+        "tip": "形容食物：油多糖多、很浓 → rich",
+        "accept": [
+          "rich",
+          "decadent"
+        ],
+        "near": [
+          "creamy"
+        ]
+      },
+      {
+        "emoji": "🥜",
+        "w": "nutty",
+        "ph": "/ˈnʌti/",
+        "pos": "adj.",
+        "zh": "坚果味的",
+        "ex": "This coffee has a nice nutty flavour.",
+        "tip": "口语 nutty 也指“疯疯癫癫”",
+        "accept": [
+          "nutty"
+        ],
+        "near": [
+          "rich"
+        ]
+      },
+      {
+        "emoji": "🍞",
+        "w": "stale",
+        "ph": "/steɪl/",
+        "pos": "adj.",
+        "zh": "不新鲜的（变硬的）",
+        "ex": "Don't eat that bread — it's gone stale.",
+        "tip": "面包变硬 = stale；牛奶变质 = off",
+        "accept": [
+          "stale",
+          "gone stale"
+        ],
+        "near": [
+          "crispy"
+        ]
+      },
+      {
+        "emoji": "🥥",
+        "w": "creamy",
+        "ph": "/ˈkriːmi/",
+        "pos": "adj.",
+        "zh": "奶滑的，绵密的",
+        "ex": "The laksa had a creamy coconut broth.",
+        "tip": "smooth 顺滑，creamy 有奶油感",
+        "accept": [
+          "creamy",
+          "smooth"
+        ],
+        "near": [
+          "rich"
+        ]
+      },
+      {
+        "emoji": "🧀",
+        "w": "smelly",
+        "ph": "/ˈsmeli/",
+        "pos": "adj.",
+        "zh": "有臭味的",
+        "ex": "Blue cheese is smelly but tastes amazing.",
+        "tip": "stinky 更口语；pungent 更正式",
+        "accept": [
+          "smelly",
+          "stinky",
+          "pungent"
+        ],
+        "near": [
+          "stale"
+        ]
+      },
+      {
+        "emoji": "🫒",
+        "w": "acquired taste",
+        "ph": "/əˌkwaɪəd ˈteɪst/",
+        "pos": "phr.",
+        "zh": "需要慢慢习惯的口味",
+        "ex": "Olives are an acquired taste for most kids.",
+        "tip": "Vegemite 就是典型的 acquired taste",
+        "accept": [
+          "acquired taste",
+          "an acquired taste"
+        ],
+        "near": [
+          "nutty"
+        ]
+      },
+      {
+        "emoji": "🍡",
+        "w": "chewy",
+        "ph": "/ˈtʃuːi/",
+        "pos": "adj.",
+        "zh": "有嚼劲的，Q弹的",
+        "ex": "I love how chewy these mochi are.",
+        "tip": "形容“Q弹”最常用 chewy",
+        "accept": [
+          "chewy",
+          "springy"
+        ],
+        "near": [
+          "sticky"
+        ]
+      },
+      {
+        "emoji": "🥩",
+        "w": "rare",
+        "ph": "/reə/",
+        "pos": "adj.",
+        "zh": "（牛排）一分熟的",
+        "ex": "I'll have my steak medium-rare, please.",
+        "tip": "rare 一分/medium 五分/well done 全熟",
+        "accept": [
+          "rare",
+          "medium-rare",
+          "medium rare"
+        ],
+        "near": [
+          "crispy"
+        ]
+      },
+      {
+        "emoji": "🍤",
+        "w": "crispy",
+        "ph": "/ˈkrɪspi/",
+        "pos": "adj.",
+        "zh": "酥脆的",
+        "ex": "The tempura prawns were light and crispy.",
+        "tip": "crispy 炸得酥脆；crunchy 嚼起来嘎嘣脆",
+        "accept": [
+          "crispy",
+          "crunchy",
+          "crisp"
+        ],
+        "near": [
+          "stale"
+        ]
+      }
+    ]
   }
 ]
