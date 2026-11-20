@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T01:57:17+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Oxford shortlists 'slopaganda', 'microdrama' and two other words for its 2026 Word of the Year",
+      "title_zh": "牛津年度词汇2026候选出炉：“AI垃圾宣传”“微短剧”等四词入围，公众投票中",
+      "search_zh": "牛津年度词汇 2026 Oxford Word of the Year 候选名单 doomerism 末日论 slopaganda AI垃圾宣传 使用量增长超过1300% post-literate 后读写时代 microdrama 微短剧 公众投票 11月24日截止 2025年度词汇 rage bait 愤怒诱饵",
+      "summary_en": "Oxford University Press has revealed a shortlist of four words for its 2026 Word of the Year: doomerism, slopaganda, post-literate and microdrama. Slopaganda, a blend of \"slop\" and \"propaganda\", describes low-quality propaganda made with generative AI and spread online, and Oxford says its use has jumped by more than 1,300 per cent over the past year. Doomerism means extreme pessimism about threats such as climate change and AI, post-literate describes a society where reading and the written word have declined, and microdrama is a drama series with very short episodes made for watching on phones. The public can vote for their favourite until 24 November, after which Oxford's language experts will choose the winner, following last year's pick, \"rage bait\".",
+      "summary_zh": "牛津大学出版社公布了2026年度词汇的四个候选词：doomerism、slopaganda、post-literate和microdrama。Slopaganda由“slop（垃圾内容）”和“propaganda（宣传）”合成，指用生成式AI制作、在网上传播的低质量宣传内容，牛津表示这个词的使用量在过去一年里增长了超过1300%。Doomerism指对气候变化、AI等威胁的极度悲观；post-literate形容阅读和文字作用下降的社会；microdrama则是每集很短、专为手机观看制作的剧集（微短剧）。公众可以投票选出自己喜欢的词，投票截至11月24日，之后由牛津的语言专家选出最终结果；去年的年度词汇是“rage bait（愤怒诱饵）”。",
+      "why_zh": "年度词汇反映了一年里大家在聊什么，四个候选词都和AI、社交媒体、短视频有关，非常适合学英语时积累新词。“shortlist（候选名单）”“pessimism（悲观）”也是日常和新闻里的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "WION; Bizcommunity; Inshorts; News24; Madhyamam; Time",
+      "url": "https://www.wionews.com/trending/from-post-literate-to-slopaganda-oxford-releases-list-of-2026-word-of-the-year-1795179168646",
+      "vocab": [
+        {
+          "word": "shortlist",
+          "phonetic": "/ˈʃɔːtlɪst/",
+          "pos": "n.",
+          "zh": "候选名单，入围名单",
+          "example": "Oxford University Press has revealed a shortlist of four words for its 2026 Word of the Year: doomerism, slopaganda, post-literate and microdrama."
+        },
+        {
+          "word": "pessimism",
+          "phonetic": "/ˈpesɪmɪzəm/",
+          "pos": "n.",
+          "zh": "悲观，悲观情绪",
+          "example": "Doomerism means extreme pessimism about threats such as climate change and AI, post-literate describes a society where reading and the written word have declined, and microdrama is a drama series with very short episodes made for watching on phones."
+        }
+      ],
+      "explain": {
+        "one_liner": "牛津每年选一个最能代表这一年的英文词，今年有四个词入围，都和AI、短视频、阅读习惯有关，现在大家可以投票。",
+        "facts": [
+          {
+            "icon": "📚",
+            "name": "牛津年度词汇",
+            "text": "牛津大学出版社每年评选的词，今年公布了四个候选词。"
+          },
+          {
+            "icon": "🤖",
+            "name": "slopaganda",
+            "text": "“垃圾内容+宣传”的合成词，指用AI做的低质量宣传，使用量一年增长超过1300%。"
+          },
+          {
+            "icon": "😟",
+            "name": "doomerism",
+            "text": "对气候变化、AI等威胁极度悲观的态度。"
+          },
+          {
+            "icon": "📖",
+            "name": "post-literate",
+            "text": "形容阅读和文字作用变弱的社会。"
+          },
+          {
+            "icon": "📱",
+            "name": "microdrama",
+            "text": "每集很短、专门给手机看的剧，也就是“微短剧”。"
+          },
+          {
+            "icon": "🗳️",
+            "name": "公众投票",
+            "text": "截至11月24日，之后由牛津的语言专家决定最终结果。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "生成式AI",
+            "b": "slopaganda",
+            "type": "cause",
+            "label": "AI让低质量宣传内容变多"
+          },
+          {
+            "a": "公众投票",
+            "b": "语言专家",
+            "type": "neutral",
+            "label": "投票结束后专家选出最终词"
+          },
+          {
+            "a": "rage bait（2025）",
+            "b": "2026年度词汇",
+            "type": "neutral",
+            "label": "去年的年度词汇，今年等待新词"
+          }
+        ],
+        "points": [
+          "牛津2026年度词汇有四个候选：doomerism、slopaganda、post-literate、microdrama。",
+          "slopaganda指AI做的低质量宣传，使用量一年涨了超过1300%。",
+          "公众投票到11月24日，之后由专家选出最终结果。",
+          "去年的年度词汇是“rage bait（愤怒诱饵）”。"
+        ],
+        "relevance": "这四个词几乎就是营销人的日常：AI生成内容泛滥（slopaganda）提醒品牌要坚持内容质量和真实感；微短剧（microdrama）是正在兴起的广告和内容形式；人们阅读习惯变化（post-literate）也意味着文案要更短、更视觉化。在澳洲做营销，这些词能帮你更自然地和同事讨论内容趋势。",
+        "phrase": {
+          "en": "a sign of the times",
+          "zh": "时代的标志，反映当下风气的事物"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "Wreck of Australia's first home-built warship found 128 years to the day after it sank",
+      "title_zh": "沉没128年后，澳洲第一艘本土建造战舰残骸在昆州远北海域被找到",
+      "search_zh": "HMCS Spitfire 喷火号 澳洲第一艘本土建造战舰 沉船残骸 昆士兰远北 Far North Queensland 128年 澳洲皇家海军 扫雷 8月 搜寻一个月 小型炮艇 1855年 悉尼下水 引航船 1898年 Piper Island 沉没 埋在沙中 不打捞 遗产法保护",
+      "summary_en": "The wreck of HMCS Spitfire, the first warship built in Australia, has been found off the coast of Far North Queensland, 128 years to the day after it sank. A Royal Australian Navy mine-hunting team located the wreck in August after a month-long search, but the discovery was only announced this week. The small gunboat was launched in Sydney in 1855 and later worked in Queensland as a pilot vessel, before it sank off Piper Island in 1898. Most of the wreck is buried in sand on the seabed, and there are no plans to raise it, but the site is protected under heritage law.",
+      "summary_zh": "澳洲第一艘本土建造的战舰HMCS Spitfire的残骸，在昆士兰远北地区附近海域被找到，时间恰好是它沉没128年后的同一天。澳洲皇家海军的扫雷团队在经过一个月的搜寻后于8月找到了残骸，但这个发现直到本周才公布。这艘小型炮艇1855年在悉尼下水，后来在昆士兰当引航船，1898年在Piper Island附近海域沉没。残骸大部分埋在海底的沙子里，目前没有打捞计划，但这个地点受到遗产法的保护。",
+      "why_zh": "这是一个有意思的澳洲历史小发现，“128年后的同一天”找到沉船也很巧。“wreck（残骸、沉船）”“launch（船只下水）”是讲船和历史时常见的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News (Australia); AP via Taipei Times / CP24; Marine Insight; Daily Beast",
+      "url": "https://www.abc.net.au/news/2026-11-20/hmcs-spitfire-wreck-found-off-far-north-queensland/107408318",
+      "vocab": [
+        {
+          "word": "wreck",
+          "phonetic": "/rek/",
+          "pos": "n.",
+          "zh": "（船只等的）残骸；沉船",
+          "example": "The wreck of HMCS Spitfire, the first warship built in Australia, has been found off the coast of Far North Queensland, 128 years to the day after it sank."
+        },
+        {
+          "word": "launched",
+          "phonetic": "/lɔːntʃt/",
+          "pos": "v.",
+          "zh": "（新船）下水",
+          "example": "The small gunboat was launched in Sydney in 1855 and later worked in Queensland as a pilot vessel, before it sank off Piper Island in 1898."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲第一艘自己造的战舰在海底躺了128年，海军终于找到了它，而且找到的那天正好是它沉没的纪念日。",
+        "facts": [
+          {
+            "icon": "⚓",
+            "name": "HMCS Spitfire",
+            "text": "澳洲第一艘本土建造的战舰，是一艘小型炮艇。"
+          },
+          {
+            "icon": "🏗️",
+            "name": "1855年 悉尼",
+            "text": "这艘船在悉尼下水，后来去昆士兰当引航船。"
+          },
+          {
+            "icon": "🌊",
+            "name": "1898年 Piper Island",
+            "text": "船在昆州远北Piper Island附近海域沉没。"
+          },
+          {
+            "icon": "🔍",
+            "name": "澳洲皇家海军",
+            "text": "扫雷团队搜寻一个月后在8月找到残骸，本周才公布。"
+          },
+          {
+            "icon": "🏖️",
+            "name": "现状",
+            "text": "残骸大部分埋在海底沙子里，不打捞，地点受遗产法保护。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "澳洲皇家海军",
+            "b": "Spitfire残骸",
+            "type": "good",
+            "label": "搜寻一个月后找到"
+          },
+          {
+            "a": "遗产法",
+            "b": "沉船地点",
+            "type": "good",
+            "label": "保护这个地点"
+          },
+          {
+            "a": "1898年沉没",
+            "b": "8月找到",
+            "type": "neutral",
+            "label": "相隔整整128年的同一天"
+          }
+        ],
+        "points": [
+          "澳洲第一艘本土建造战舰Spitfire的残骸在昆州远北海域被找到。",
+          "海军8月找到，正好是沉没128年后的同一天，本周才公布。",
+          "这艘小型炮艇1855年在悉尼下水，1898年沉没。",
+          "残骸大多埋在沙里，不打捞，但受遗产法保护。"
+        ],
+        "relevance": "“128年后的同一天”这样的巧合，本身就是很好讲故事的素材，这也是新闻能传播开的原因。做营销的你可以留意：一个好故事常常靠一个让人记得住的细节。另外，澳洲人对本地历史和遗产很有感情，昆州旅游、博物馆相关的内容也可能借这类新闻做推广。",
+        "phrase": {
+          "en": "against the odds",
+          "zh": "出乎意料地，在机会很小的情况下（成功）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Young Chinese couples ask brands to sponsor their weddings to cut costs",
+      "title_zh": "结婚也能找“赞助”？中国年轻情侣请品牌赞助婚礼，换取曝光省开销",
+      "search_zh": "婚礼赞助 品牌赞助婚礼 年轻情侣 结婚成本上涨 婚礼筹备压力 零食 饮品 免费或打折产品 婚礼上宣传 社交媒体发帖 博主估算 节省近18000元 婚礼商业化 争议",
+      "summary_en": "A growing number of young couples in China are asking brands to sponsor their weddings as they try to cope with rising costs and the stress of planning. The couples promote the brands at their weddings or in posts on social media in exchange for free or discounted products such as snacks and drinks. One blogger estimated that a couple who secured every available sponsorship could save nearly 18,000 yuan, although this is a rough estimate rather than official data. The trend has attracted wide attention online, but some critics worry that it turns a personal occasion into a commercial one.",
+      "summary_zh": "在中国，越来越多的年轻情侣请品牌赞助自己的婚礼，以应对不断上涨的花费和筹备婚礼的压力。情侣们在婚礼上或社交媒体发帖为这些品牌做宣传，以换取免费或打折的零食、饮品等产品。一位博主估算，如果拿到所有能拿的赞助，一对新人可以省下近18000元，不过这只是粗略估算，并不是官方数据。这个趋势在网上引起了广泛关注，但也有批评者担心，这会把一件私人的喜事变成商业活动。",
+      "why_zh": "这是营销人一看就懂的新闻：婚礼变成了品牌曝光的新场景。“sponsor（赞助）”“in exchange for（作为交换）”在商务和营销英语里非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "South China Morning Post; The Star; SAYS; Seoul Economic Daily; Kompas",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374815/chinese-couples-seek-brand-sponsorships-tackle-rising-wedding-costs-planning-fatigue",
+      "vocab": [
+        {
+          "word": "sponsor",
+          "phonetic": "/ˈspɒnsə(r)/",
+          "pos": "v.",
+          "zh": "赞助",
+          "example": "A growing number of young couples in China are asking brands to sponsor their weddings as they try to cope with rising costs and the stress of planning."
+        },
+        {
+          "word": "in exchange for",
+          "phonetic": "/ɪn ɪksˈtʃeɪndʒ fɔː(r)/",
+          "pos": "phr.",
+          "zh": "作为……的交换",
+          "example": "The couples promote the brands at their weddings or in posts on social media in exchange for free or discounted products such as snacks and drinks."
+        }
+      ],
+      "explain": {
+        "one_liner": "结婚太贵、太累，一些中国年轻人干脆找品牌赞助：品牌送东西，新人帮品牌宣传。",
+        "facts": [
+          {
+            "icon": "💍",
+            "name": "年轻情侣",
+            "text": "越来越多人请品牌赞助婚礼，想减轻花费和筹备压力。"
+          },
+          {
+            "icon": "🍬",
+            "name": "品牌",
+            "text": "提供免费或打折的零食、饮品等产品。"
+          },
+          {
+            "icon": "📲",
+            "name": "宣传方式",
+            "text": "新人在婚礼上或社交媒体发帖为品牌做宣传。"
+          },
+          {
+            "icon": "💰",
+            "name": "近18000元",
+            "text": "一位博主估算拿满所有赞助能省下的钱，只是粗略估算。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "品牌",
+            "b": "新人",
+            "type": "good",
+            "label": "提供免费或打折产品"
+          },
+          {
+            "a": "新人",
+            "b": "品牌",
+            "type": "good",
+            "label": "在婚礼和社交媒体上宣传"
+          },
+          {
+            "a": "婚礼成本上涨",
+            "b": "找赞助",
+            "type": "cause",
+            "label": "为了省钱和减压"
+          },
+          {
+            "a": "批评者",
+            "b": "婚礼赞助",
+            "type": "bad",
+            "label": "担心婚礼变得太商业化"
+          }
+        ],
+        "points": [
+          "中国越来越多年轻情侣请品牌赞助婚礼。",
+          "品牌给免费或打折产品，新人在婚礼和社交媒体上做宣传。",
+          "有博主估算最多能省近18000元，但只是粗略估算。",
+          "话题引起广泛关注，也有人担心婚礼太商业化。"
+        ],
+        "relevance": "这其实就是“用户生成内容（UGC）+ 场景营销”：品牌用很低的成本，进入一个情绪浓、拍照多、亲友都在看的场合。在澳洲做营销，你也可以思考类似的合作方式，比如和真实消费者、小型创作者合作，但同时要注意信息披露是否清楚，避免让人觉得“太广告”。",
+        "phrase": {
+          "en": "a win-win situation",
+          "zh": "双赢的局面"
+        }
+      }
+    }
+  ]
+}
