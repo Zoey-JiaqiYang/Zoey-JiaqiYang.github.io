@@ -6756,5 +6756,214 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gestures-2",
+    "added": "2026-11-21",
+    "name": "手势与口头禅",
+    "icon": "🤙",
+    "prompt": "这个手势怎么说？",
+    "items": [
+      {
+        "emoji": "👍",
+        "w": "thumbs up",
+        "ph": "/ˌθʌmz ˈʌp/",
+        "pos": "n.",
+        "zh": "点赞；同意",
+        "ex": "The boss gave our idea the thumbs up.",
+        "tip": "give sth the thumbs up = 批准、点头同意",
+        "accept": [
+          "thumbs up",
+          "thumbs-up"
+        ],
+        "near": [
+          "OK sign"
+        ]
+      },
+      {
+        "emoji": "👊",
+        "w": "fist bump",
+        "ph": "/ˈfɪst bʌmp/",
+        "pos": "n.",
+        "zh": "碰拳",
+        "ex": "He gave me a fist bump after the presentation.",
+        "tip": "比 high five 更随意",
+        "accept": [
+          "fist bump",
+          "fist-bump"
+        ],
+        "near": [
+          "rock on"
+        ]
+      },
+      {
+        "emoji": "✌️",
+        "w": "peace sign",
+        "ph": "/ˈpiːs saɪn/",
+        "pos": "n.",
+        "zh": "剪刀手，V 字手势",
+        "ex": "Everyone did a peace sign in the group photo.",
+        "tip": "英国/澳洲手背朝外做 V 字是不礼貌的哦",
+        "accept": [
+          "peace sign",
+          "V sign",
+          "peace"
+        ],
+        "near": [
+          "OK sign"
+        ]
+      },
+      {
+        "emoji": "👌",
+        "w": "OK sign",
+        "ph": "/ˌəʊˈkeɪ saɪn/",
+        "pos": "n.",
+        "zh": "OK 手势",
+        "ex": "She just gave me the OK sign from across the room.",
+        "tip": "也可以说 \"Sweet as\" 表示没问题（澳洲口语）",
+        "accept": [
+          "OK sign",
+          "ok",
+          "okay"
+        ],
+        "near": [
+          "thumbs up"
+        ]
+      },
+      {
+        "emoji": "🤘",
+        "w": "rock on",
+        "ph": "/ˌrɒk ˈɒn/",
+        "pos": "phr.",
+        "zh": "摇滚起来！太棒了",
+        "ex": "You finished the marathon? Rock on!",
+        "tip": "演唱会常见手势；口语表示“太酷了”",
+        "accept": [
+          "rock on",
+          "rock and roll"
+        ],
+        "near": [
+          "fist bump"
+        ]
+      },
+      {
+        "emoji": "🤌",
+        "w": "chef's kiss",
+        "ph": "/ˌʃefs ˈkɪs/",
+        "pos": "phr.",
+        "zh": "绝了，完美",
+        "ex": "That campaign idea? Chef's kiss.",
+        "tip": "网络用语，形容东西“完美”；🤌 原本是意大利手势",
+        "accept": [
+          "chef's kiss",
+          "chefs kiss",
+          "perfect"
+        ],
+        "near": [
+          "all good"
+        ]
+      },
+      {
+        "emoji": "🙅",
+        "w": "no way",
+        "ph": "/ˌnəʊ ˈweɪ/",
+        "pos": "phr.",
+        "zh": "不行；不可能",
+        "ex": "No way am I working this weekend.",
+        "tip": "惊讶时也说 No way!（不会吧！）",
+        "accept": [
+          "no way",
+          "nope"
+        ],
+        "near": [
+          "all good"
+        ]
+      },
+      {
+        "emoji": "🙆",
+        "w": "all good",
+        "ph": "/ˌɔːl ˈɡʊd/",
+        "pos": "phr.",
+        "zh": "没事，都好",
+        "ex": "\"Sorry I'm late!\" \"All good!\"",
+        "tip": "澳洲人超常用，回应道歉或感谢",
+        "accept": [
+          "all good",
+          "no worries mate",
+          "it's fine"
+        ],
+        "near": [
+          "no way"
+        ]
+      },
+      {
+        "emoji": "✋",
+        "w": "talk to the hand",
+        "ph": "/ˌtɔːk tə ðə ˈhænd/",
+        "pos": "phr.",
+        "zh": "别跟我说了（不想听）",
+        "ex": "I tried to explain, but she just said \"talk to the hand\".",
+        "tip": "比较不客气的玩笑话，熟人之间用",
+        "accept": [
+          "talk to the hand",
+          "stop"
+        ],
+        "near": [
+          "wait a sec"
+        ]
+      },
+      {
+        "emoji": "🤚",
+        "w": "wait a sec",
+        "ph": "/ˌweɪt ə ˈsek/",
+        "pos": "phr.",
+        "zh": "等一下",
+        "ex": "Wait a sec — I need to grab my keys.",
+        "tip": "sec = second；也说 hang on",
+        "accept": [
+          "wait a sec",
+          "hang on",
+          "just a sec",
+          "wait a second"
+        ],
+        "near": [
+          "talk to the hand"
+        ]
+      },
+      {
+        "emoji": "🫵",
+        "w": "your turn",
+        "ph": "/jɔː ˈtɜːn/",
+        "pos": "phr.",
+        "zh": "轮到你了",
+        "ex": "Okay, your turn to shout the coffees.",
+        "tip": "shout = 请客（澳洲口语）",
+        "accept": [
+          "your turn",
+          "you're up",
+          "you"
+        ],
+        "near": [
+          "here you go"
+        ]
+      },
+      {
+        "emoji": "💁",
+        "w": "here you go",
+        "ph": "/ˈhɪə juː ɡəʊ/",
+        "pos": "phr.",
+        "zh": "给你",
+        "ex": "Here you go — one flat white.",
+        "tip": "递东西时说；There you go 也常用",
+        "accept": [
+          "here you go",
+          "there you go",
+          "here you are"
+        ],
+        "near": [
+          "your turn"
+        ]
+      }
+    ]
   }
 ]
