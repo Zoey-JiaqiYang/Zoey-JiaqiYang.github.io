@@ -6965,5 +6965,209 @@
         ]
       }
     ]
+  },
+  {
+    "id": "animal-idioms",
+    "added": "2026-11-22",
+    "name": "动物习语",
+    "icon": "🦊",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🦉",
+        "w": "night owl",
+        "ph": "/ˈnaɪt aʊl/",
+        "pos": "n.",
+        "zh": "夜猫子",
+        "ex": "I'm a night owl — I do my best work after 10pm.",
+        "tip": "反义词 early bird",
+        "accept": [
+          "night owl",
+          "night person"
+        ],
+        "near": [
+          "early bird"
+        ]
+      },
+      {
+        "emoji": "🐦",
+        "w": "early bird",
+        "ph": "/ˈɜːli bɜːd/",
+        "pos": "n.",
+        "zh": "早起的人",
+        "ex": "She's an early bird and hits the gym at 5am.",
+        "tip": "The early bird catches the worm. 早起的鸟儿有虫吃",
+        "accept": [
+          "early bird",
+          "morning person"
+        ],
+        "near": [
+          "night owl"
+        ]
+      },
+      {
+        "emoji": "🐌",
+        "w": "slowcoach",
+        "ph": "/ˈsləʊkəʊtʃ/",
+        "pos": "n.",
+        "zh": "慢吞吞的人",
+        "ex": "Come on, slowcoach — the bus is leaving!",
+        "tip": "澳洲/英国说 slowcoach，美国说 slowpoke",
+        "accept": [
+          "slowcoach",
+          "slowpoke"
+        ],
+        "near": [
+          "lone wolf"
+        ]
+      },
+      {
+        "emoji": "🐘",
+        "w": "elephant in the room",
+        "ph": "/ˌelɪfənt ɪn ðə ˈruːm/",
+        "pos": "phr.",
+        "zh": "大家心知肚明却避而不谈的问题",
+        "ex": "The budget cut was the elephant in the room at the meeting.",
+        "tip": "开会常用：address the elephant in the room",
+        "accept": [
+          "elephant in the room",
+          "the elephant in the room"
+        ],
+        "near": [
+          "lion's share"
+        ]
+      },
+      {
+        "emoji": "🐒",
+        "w": "monkey around",
+        "ph": "/ˌmʌŋki əˈraʊnd/",
+        "pos": "phr.",
+        "zh": "胡闹，瞎折腾",
+        "ex": "Stop monkeying around and finish the slides.",
+        "tip": "也说 muck around（澳洲口语）",
+        "accept": [
+          "monkey around",
+          "muck around",
+          "mess around"
+        ],
+        "near": [
+          "show-off"
+        ]
+      },
+      {
+        "emoji": "🦚",
+        "w": "show-off",
+        "ph": "/ˈʃəʊ ɒf/",
+        "pos": "n.",
+        "zh": "爱炫耀的人",
+        "ex": "He's such a show-off with his new car.",
+        "tip": "动词 show off；澳洲俚语也说 a bit of a wanker（粗）",
+        "accept": [
+          "show-off",
+          "show off",
+          "poser"
+        ],
+        "near": [
+          "monkey around"
+        ]
+      },
+      {
+        "emoji": "🐻",
+        "w": "bear hug",
+        "ph": "/ˈbeə hʌɡ/",
+        "pos": "n.",
+        "zh": "熊抱",
+        "ex": "My dad gave me a big bear hug at the airport.",
+        "tip": "bear market 是熊市（股市下跌）",
+        "accept": [
+          "bear hug",
+          "big hug"
+        ],
+        "near": [
+          "GOAT"
+        ]
+      },
+      {
+        "emoji": "🦄",
+        "w": "unicorn",
+        "ph": "/ˈjuːnɪkɔːn/",
+        "pos": "n.",
+        "zh": "独角兽公司（估值超10亿美元的初创）",
+        "ex": "Canva became one of Australia's best-known unicorns.",
+        "tip": "营销/创投圈常见词",
+        "accept": [
+          "unicorn",
+          "unicorns"
+        ],
+        "near": [
+          "GOAT"
+        ]
+      },
+      {
+        "emoji": "🐐",
+        "w": "GOAT",
+        "ph": "/ɡəʊt/",
+        "pos": "n.",
+        "zh": "史上最强（Greatest Of All Time）",
+        "ex": "Many fans call Ash Barty the GOAT of Aussie tennis.",
+        "tip": "全大写，读作 goat；夸人用",
+        "accept": [
+          "GOAT",
+          "goat",
+          "greatest of all time"
+        ],
+        "near": [
+          "unicorn"
+        ]
+      },
+      {
+        "emoji": "🐺",
+        "w": "lone wolf",
+        "ph": "/ˌləʊn ˈwʊlf/",
+        "pos": "n.",
+        "zh": "独行侠，喜欢单干的人",
+        "ex": "He's a bit of a lone wolf and prefers working solo.",
+        "tip": "team player 是反义",
+        "accept": [
+          "lone wolf",
+          "loner"
+        ],
+        "near": [
+          "slowcoach"
+        ]
+      },
+      {
+        "emoji": "🦁",
+        "w": "lion's share",
+        "ph": "/ˈlaɪənz ʃeə/",
+        "pos": "phr.",
+        "zh": "最大的一份，大头",
+        "ex": "Digital ads take the lion's share of our budget.",
+        "tip": "the lion's share of sth = 大部分",
+        "accept": [
+          "lion's share",
+          "the lion's share"
+        ],
+        "near": [
+          "elephant in the room"
+        ]
+      },
+      {
+        "emoji": "🐭",
+        "w": "quiet as a mouse",
+        "ph": "/ˌkwaɪət əz ə ˈmaʊs/",
+        "pos": "phr.",
+        "zh": "安静得像只老鼠",
+        "ex": "The new intern is as quiet as a mouse.",
+        "tip": "as ... as 比喻：as busy as a bee",
+        "accept": [
+          "quiet as a mouse",
+          "as quiet as a mouse"
+        ],
+        "near": [
+          "night owl"
+        ]
+      }
+    ]
   }
 ]
