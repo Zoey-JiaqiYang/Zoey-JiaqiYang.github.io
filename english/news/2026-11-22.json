@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T01:56:33+11:00",
+  "items": [
+    {
+      "category": "china",
+      "title_en": "Northern Chinese regions announce 'snow holidays' so students can enjoy winter",
+      "title_zh": "北方多地官宣放“雪假”：吉林连休5天还能免费滑雪，张家口小学生已先放",
+      "search_zh": "雪假 北方多地 中小学生 吉林 12月1日至20日 3个工作日 连休5天 免费滑雪 滑冰 呼伦贝尔 阿勒泰 12月 张家口 试行 小学 11月18日至20日 冰雪旅游 预订增长 南方游客",
+      "summary_en": "Several regions in northern China have announced \"snow holidays\" for school students this winter, giving children short breaks to enjoy snow and ice activities. In Jilin province, students will get three school days off between 1 and 20 December, which become a five-day break when combined with a weekend, and they will be offered free sessions at local ski resorts and ice rinks. Hulunbuir in Inner Mongolia and Altay in Xinjiang have also scheduled breaks for December, while Zhangjiakou in Hebei is trialling the idea this year, with primary school pupils taking their first break from 18 to 20 November. The holidays come as winter tourism is booming, and travel platforms say bookings for snow trips are rising, with many coming from people in southern China.",
+      "summary_zh": "中国北方多地宣布今年冬天给中小学生放“雪假”，让孩子们有几天短假去体验冰雪活动。吉林省的学生将在12月1日至20日之间放3个工作日的假，和周末连起来就是5天，还可以到当地的滑雪场和滑冰场免费体验。内蒙古呼伦贝尔和新疆阿勒泰也把雪假安排在12月，而河北张家口今年开始试行，小学生的第一次雪假在11月18日至20日。雪假推出之际，冰雪旅游正火热，旅游平台表示冰雪游的预订量在增长，其中不少来自南方游客。",
+      "why_zh": "“为了玩雪专门放假”听起来很新鲜，背后也是冰雪旅游这门生意。“scheduled（安排好的）”“trialling（试行）”是工作中讲计划和试点时很实用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "China Daily; Global Times; China News Service (中新网); The Paper (澎湃新闻)",
+      "url": "https://global.chinadaily.com.cn/a/202611/19/WS6afeee7ce4b03ebf8519d83c.html",
+      "vocab": [
+        {
+          "word": "scheduled",
+          "phonetic": "/ˈʃedjuːld/",
+          "pos": "v.",
+          "zh": "安排，预定（时间）",
+          "example": "Hulunbuir in Inner Mongolia and Altay in Xinjiang have also scheduled breaks for December, while Zhangjiakou in Hebei is trialling the idea this year, with primary school pupils taking their first break from 18 to 20 November."
+        },
+        {
+          "word": "booming",
+          "phonetic": "/ˈbuːmɪŋ/",
+          "pos": "adj.",
+          "zh": "迅速发展的，繁荣的",
+          "example": "The holidays come as winter tourism is booming, and travel platforms say bookings for snow trips are rising, with many coming from people in southern China."
+        }
+      ],
+      "explain": {
+        "one_liner": "北方好几个地方专门给学生放几天“雪假”，让孩子们去滑雪、玩冰，也顺便带动了冰雪旅游。",
+        "facts": [
+          {
+            "icon": "❄️",
+            "name": "雪假",
+            "text": "北方多地给中小学生安排的冬季短假，用来体验冰雪活动。"
+          },
+          {
+            "icon": "⛷️",
+            "name": "吉林省",
+            "text": "12月1日至20日之间放3个工作日，连上周末共5天，可以免费去滑雪场和滑冰场体验。"
+          },
+          {
+            "icon": "🏔️",
+            "name": "呼伦贝尔和阿勒泰",
+            "text": "内蒙古呼伦贝尔、新疆阿勒泰的雪假都安排在12月。"
+          },
+          {
+            "icon": "🏫",
+            "name": "河北张家口",
+            "text": "今年开始试行，小学生11月18日至20日放了第一次雪假。"
+          },
+          {
+            "icon": "🧳",
+            "name": "冰雪旅游",
+            "text": "旅游平台说冰雪游预订在增长，不少来自南方游客。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "雪假",
+            "b": "学生和家庭",
+            "type": "good",
+            "label": "多了几天去玩雪的时间"
+          },
+          {
+            "a": "雪假",
+            "b": "冰雪旅游",
+            "type": "cause",
+            "label": "带来更多出游需求"
+          },
+          {
+            "a": "南方游客",
+            "b": "北方冰雪目的地",
+            "type": "neutral",
+            "label": "不少预订来自南方"
+          }
+        ],
+        "points": [
+          "北方多地宣布给中小学生放“雪假”。",
+          "吉林的雪假连周末共5天，还能免费去滑雪场和滑冰场。",
+          "呼伦贝尔、阿勒泰在12月放，张家口今年试行，小学生已在11月18日至20日放过。",
+          "冰雪旅游正火，平台说预订在增长，不少来自南方。"
+        ],
+        "relevance": "这是“政策+假期”带动消费的典型例子：一个新假期就能创造新的出行和消费场景。在澳洲做营销，你可以联想到学校假期、长周末对旅游和零售的拉动；如果你接触面向中国游客或华人家庭的品牌，也可以关注中国冬季出游的新习惯。",
+        "phrase": {
+          "en": "make the most of something",
+          "zh": "充分利用某事物"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "Satellites now outnumber the stars you can see above most towns, analysis finds",
+      "title_zh": "抬头看到的可能不是星星：分析称多数城镇上空的卫星已比肉眼可见的星星还多",
+      "search_zh": "卫星比星星多 夜空 肉眼可见 Accu Components 英国工程公司 美国太空军 追踪数据 超过15000颗卫星 2000公里以下 10月 七个晚上 超过700颗 约105颗被太阳照亮 未经同行评审 光污染 望远镜观测",
+      "summary_en": "A new analysis suggests that above most towns, there are now more satellites in the night sky than stars that people can see with the naked eye. Accu Components, a UK engineering firm, used US Space Force tracking data to follow more than 15,000 active satellites orbiting below 2,000 kilometres over seven nights in October. It estimated that more than 700 satellites are above an average UK town at any moment of the night, although only about 105 of them are lit by the sun and potentially visible. The study has not been peer-reviewed, but astronomers warn that bright satellite trails are a new form of light pollution that can disrupt observations by telescopes on the ground.",
+      "summary_zh": "一项新分析显示，在大多数城镇的夜空中，卫星的数量现在已经超过了人们用肉眼能看到的星星。英国工程公司Accu Components利用美国太空军的追踪数据，在10月的七个晚上追踪了超过15000颗在2000公里以下轨道运行的卫星。分析估计，在夜里任何时刻，英国一个普通城镇的上空都有超过700颗卫星，不过其中只有大约105颗被太阳照亮，有可能被看到。这项研究没有经过同行评审，但天文学家警告说，明亮的卫星轨迹是一种新的光污染，会干扰地面望远镜的观测。",
+      "why_zh": "一个很直观、也很适合聊天的科学话题：夜空正在被卫星“占领”。“outnumber（数量超过）”“peer-reviewed（经过同行评审的）”在新闻和研究报道里很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "Space.com; TechSpot; bdnews24; Yahoo Tech; Nexstar Media (WKBN/WAVY)",
+      "url": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+      "vocab": [
+        {
+          "word": "naked eye",
+          "phonetic": "/ˌneɪkɪd ˈaɪ/",
+          "pos": "n.",
+          "zh": "肉眼",
+          "example": "A new analysis suggests that above most towns, there are now more satellites in the night sky than stars that people can see with the naked eye."
+        },
+        {
+          "word": "peer-reviewed",
+          "phonetic": "/ˌpɪə rɪˈvjuːd/",
+          "pos": "adj.",
+          "zh": "经过同行评审的",
+          "example": "The study has not been peer-reviewed, but astronomers warn that bright satellite trails are a new form of light pollution that can disrupt observations by telescopes on the ground."
+        }
+      ],
+      "explain": {
+        "one_liner": "天上的卫星越来越多，一家英国公司算了一下，发现很多城镇上空的卫星已经比你用肉眼能看到的星星还多。",
+        "facts": [
+          {
+            "icon": "🛰️",
+            "name": "Accu Components",
+            "text": "英国一家工程公司，做了这项分析，研究没有经过同行评审。"
+          },
+          {
+            "icon": "📡",
+            "name": "美国太空军数据",
+            "text": "分析用的是美国太空军的卫星追踪数据。"
+          },
+          {
+            "icon": "🌍",
+            "name": "超过15000颗卫星",
+            "text": "10月的七个晚上，追踪了在2000公里以下轨道运行的在役卫星。"
+          },
+          {
+            "icon": "🌃",
+            "name": "700多颗 vs 约105颗",
+            "text": "英国普通城镇上空任何时刻有700多颗卫星，其中约105颗被阳光照亮、可能被看见。"
+          },
+          {
+            "icon": "🔭",
+            "name": "天文学家",
+            "text": "担心明亮的卫星轨迹成为新的光污染，干扰地面望远镜观测。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "卫星数量增加",
+            "b": "夜空",
+            "type": "cause",
+            "label": "天上能看到的卫星越来越多"
+          },
+          {
+            "a": "卫星轨迹",
+            "b": "地面望远镜",
+            "type": "bad",
+            "label": "干扰天文观测"
+          },
+          {
+            "a": "Accu Components",
+            "b": "美国太空军数据",
+            "type": "neutral",
+            "label": "用这些数据做分析"
+          }
+        ],
+        "points": [
+          "分析认为，多数城镇上空的卫星已经比肉眼可见的星星多。",
+          "英国公司Accu Components追踪了超过15000颗低轨道卫星。",
+          "英国普通城镇上空任何时刻有700多颗卫星，约105颗可能被看到。",
+          "研究未经同行评审，天文学家担心卫星带来新的光污染。"
+        ],
+        "relevance": "这是一个“小公司做数据分析、上了全球科技新闻”的好例子——Accu Components 本身是工程零件公司，用一个有趣的数据故事获得了大量媒体曝光。做营销的你可以参考这种“数据新闻稿（data-led PR）”的思路；同时也要注意，这类研究没有同行评审，引用时要说清楚来源。",
+        "phrase": {
+          "en": "food for thought",
+          "zh": "值得思考的事情"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "'Draw 13 eggs' test trips up AI image tools and goes viral in China",
+      "title_zh": "“让AI画13个鸡蛋”冲上热搜：多款AI屡画屡错，专家解释原因",
+      "search_zh": "让AI画13个鸡蛋 热搜 豆包 盒子里13个鸡蛋 数量画不对 AI集体翻车 文生图模型 没有计数机制 鸡蛋标准包装 12个 30个 网友测试",
+      "summary_en": "A simple test, asking AI to draw 13 eggs, became a hot topic on Chinese social media this week. It started when a user asked Doubao, ByteDance's AI assistant, to draw 13 eggs in a box, but the pictures kept showing the wrong number even after it said it had fixed the mistake. Other users then tried the same task on many different AI image tools, and a lot of them also struggled to get the number right. An expert explained that many image-generating models have no built-in way of counting objects, and that 13 is an unusual number because eggs are usually sold in standard packs such as 12 or 30.",
+      "summary_zh": "一个简单的测试——让AI画13个鸡蛋——本周在中国社交媒体上成了热门话题。起因是一位网友让字节跳动的AI助手豆包画“盒子里的13个鸡蛋”，结果它每次都说已经改好了，画出来的数量却还是不对。随后其他网友用很多不同的AI绘图工具做了同样的测试，不少工具也很难把数量画对。有专家解释说，许多文生图模型没有内置的计数机制，而且13是个不常见的数字，因为鸡蛋通常按12个、30个这样的标准包装出售。",
+      "why_zh": "一个让人哭笑不得的网络热梗，也让大家看到AI的“短板”。“struggle to（很难做到）”“built-in（内置的）”是聊科技产品时的高频表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); 36Kr; Sina; Sohu; NetEase",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34522725",
+      "vocab": [
+        {
+          "word": "struggled",
+          "phonetic": "/ˈstrʌɡld/",
+          "pos": "v.",
+          "zh": "费力，难以做到",
+          "example": "Other users then tried the same task on many different AI image tools, and a lot of them also struggled to get the number right."
+        },
+        {
+          "word": "built-in",
+          "phonetic": "/ˌbɪlt ˈɪn/",
+          "pos": "adj.",
+          "zh": "内置的，固有的",
+          "example": "An expert explained that many image-generating models have no built-in way of counting objects, and that 13 is an unusual number because eggs are usually sold in standard packs such as 12 or 30."
+        }
+      ]
+    }
+  ]
+}
