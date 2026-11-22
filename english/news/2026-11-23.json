@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T01:56:00+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Australians tipped to spend a record $7.2 billion over the Black Friday weekend",
+      "title_zh": "黑五要来了：澳洲人预计四天狂花72亿澳元创纪录，ACCC盯紧“假折扣”",
+      "search_zh": "黑色星期五 网络星期一 澳大利亚零售委员会 Roy Morgan 72亿澳元 创纪录 11月27日至30日 增长5.5% 7654人调查 生活成本 比价 圣诞购物 ACCC 虚假折扣",
+      "summary_en": "Australian shoppers are expected to spend a record $7.2 billion over this year's Black Friday and Cyber Monday sales, according to a forecast by the Australian Retail Council and Roy Morgan. The four-day sales period runs from 27 to 30 November, and spending is predicted to rise 5.5 per cent compared with last year. The forecast is based on a survey of 7,654 Australians, which found that cost-of-living pressures are pushing people to hunt for the best prices and plan ahead for Christmas. Other groups have published lower estimates, and the consumer watchdog, the ACCC, has warned retailers against fake or misleading discounts.",
+      "summary_zh": "根据澳大利亚零售委员会（ARC）和Roy Morgan的预测，今年“黑色星期五”和“网络星期一”大促期间，澳洲消费者预计将花费创纪录的72亿澳元。这次为期四天的促销从11月27日持续到30日，预计消费额比去年增长5.5%。这项预测基于对7654名澳洲人的调查，调查发现生活成本压力促使人们四处寻找最低价，并提前为圣诞节做打算。其他机构给出的估计数字更低，而消费者监管机构ACCC已经警告零售商不要搞虚假或误导性的折扣。",
+      "why_zh": "黑五就在这周，这是和你工作、钱包都直接相关的新闻。“forecast（预测）”“misleading（误导性的）”是做营销和看行业报告时天天会碰到的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Australian Retail Council; Roy Morgan; retailbiz; ChannelNews; ACM (Newcastle Herald / Canberra Times)",
+      "url": "https://www.retail.org.au/media/australians-sharpen-their-hunt-for-savings-with-record-7-2-billion-black-friday-weekend-tipped",
+      "vocab": [
+        {
+          "word": "forecast",
+          "phonetic": "/ˈfɔːkɑːst/",
+          "pos": "n.",
+          "zh": "预测，预报",
+          "example": "Australian shoppers are expected to spend a record $7.2 billion over this year's Black Friday and Cyber Monday sales, according to a forecast by the Australian Retail Council and Roy Morgan."
+        },
+        {
+          "word": "misleading",
+          "phonetic": "/ˌmɪsˈliːdɪŋ/",
+          "pos": "adj.",
+          "zh": "误导性的，让人误解的",
+          "example": "Other groups have published lower estimates, and the consumer watchdog, the ACCC, has warned retailers against fake or misleading discounts."
+        }
+      ],
+      "explain": {
+        "one_liner": "零售行业预测：这周的黑五大促，澳洲人四天会花掉创纪录的72亿澳元，大家手头紧，所以更会找便宜。",
+        "facts": [
+          {
+            "icon": "🛍️",
+            "name": "黑五 + 网络星期一",
+            "text": "今年的大促从11月27日到30日，一共四天。"
+          },
+          {
+            "icon": "💰",
+            "name": "72亿澳元",
+            "text": "ARC和Roy Morgan预测的消费总额，创纪录，比去年多5.5%。"
+          },
+          {
+            "icon": "📋",
+            "name": "7654人调查",
+            "text": "预测来自对7654名澳洲人的调查。"
+          },
+          {
+            "icon": "🏠",
+            "name": "生活成本压力",
+            "text": "让大家更想找最低价，并提前为圣诞做打算。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "ACCC",
+            "text": "澳洲消费者监管机构，警告零售商不要搞虚假或误导性折扣。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "生活成本压力",
+            "b": "消费者",
+            "type": "cause",
+            "label": "更努力地比价找便宜"
+          },
+          {
+            "a": "黑五大促",
+            "b": "零售商",
+            "type": "good",
+            "label": "预计销售额创纪录"
+          },
+          {
+            "a": "ACCC",
+            "b": "虚假折扣",
+            "type": "bad",
+            "label": "警告零售商别这样做"
+          },
+          {
+            "a": "其他机构",
+            "b": "72亿预测",
+            "type": "neutral",
+            "label": "给出的估计更低"
+          }
+        ],
+        "points": [
+          "ARC和Roy Morgan预测今年黑五周末消费72亿澳元，创纪录。",
+          "促销从11月27日到30日，预计比去年增长5.5%。",
+          "生活成本压力让大家更爱比价，也提前准备圣诞。",
+          "其他机构估计更低，ACCC提醒零售商别搞虚假折扣。"
+        ],
+        "relevance": "如果你在澳洲做营销，这周很可能正忙着黑五活动。这条新闻提醒两点：一是消费者“想买但更精打细算”，文案要突出真实的价值和优惠；二是ACCC在盯着虚假折扣，比如先涨价再打折，宣传时一定要实事求是。",
+        "phrase": {
+          "en": "bang for your buck",
+          "zh": "花得值，物有所值"
+        }
+      }
+    },
+    {
+      "category": "world",
+      "title_en": "Genetic study of more than a million people finds new clues to endometriosis",
+      "title_zh": "超百万人基因数据揭秘子宫内膜异位症：新发现27个相关DNA区域",
+      "search_zh": "子宫内膜异位症 基因研究 超过100万人 约十分之一女性 Nature Genetics 美国国立卫生研究院 NIH 14个生物样本库 58个DNA区域 27个首次发现 非欧洲血统",
+      "summary_en": "Scientists have found new genetic clues to endometriosis, a painful condition that affects about one in ten women, in a study using genetic data from more than one million people. The international research, published in the journal Nature Genetics and supported by the US National Institutes of Health, combined data from 14 biobanks around the world. The team identified 58 regions of DNA linked to endometriosis, including 27 that had never been reported before, partly by including more people of non-European ancestry. The findings help explain how the disease develops, but they do not yet offer a genetic test or a new treatment.",
+      "summary_zh": "科学家利用超过100万人的基因数据，发现了关于子宫内膜异位症的新的基因线索，这是一种会引起疼痛、大约每十名女性中就有一人患有的疾病。这项国际研究发表在《自然·遗传学》期刊上，得到美国国立卫生研究院（NIH）的支持，汇总了全球14个生物样本库的数据。研究团队找到了58个与子宫内膜异位症有关的DNA区域，其中27个是以前从未报告过的，这在一定程度上得益于纳入了更多非欧洲血统的人。这些发现有助于解释这种疾病是怎样发生的，但目前还不能带来基因检测或新的治疗方法。",
+      "why_zh": "子宫内膜异位症很常见却常被忽视，这条健康新闻和很多女性息息相关。“condition（疾病、病症）”“ancestry（血统、祖先）”是读健康和科学新闻时的常用词。",
+      "image": "",
+      "image_credit": "",
+      "source": "NIH; Nature Genetics; Medical Xpress; LiveNOW from FOX / Yahoo Health; Newswise",
+      "url": "https://www.nih.gov/news-events/news-releases/large-nih-supported-study-identifies-key-underlying-pathways-endometriosis",
+      "vocab": [
+        {
+          "word": "condition",
+          "phonetic": "/kənˈdɪʃn/",
+          "pos": "n.",
+          "zh": "疾病，病症",
+          "example": "Scientists have found new genetic clues to endometriosis, a painful condition that affects about one in ten women, in a study using genetic data from more than one million people."
+        },
+        {
+          "word": "ancestry",
+          "phonetic": "/ˈænsestri/",
+          "pos": "n.",
+          "zh": "血统，祖先",
+          "example": "The team identified 58 regions of DNA linked to endometriosis, including 27 that had never been reported before, partly by including more people of non-European ancestry."
+        }
+      ],
+      "explain": {
+        "one_liner": "科学家分析了一百多万人的基因，找到更多和子宫内膜异位症有关的DNA区域，帮助理解这个常见又让人疼痛的病。",
+        "facts": [
+          {
+            "icon": "🩺",
+            "name": "子宫内膜异位症",
+            "text": "一种会引起疼痛的疾病，大约每十名女性中有一人患有。"
+          },
+          {
+            "icon": "🧬",
+            "name": "超过100万人",
+            "text": "研究用了这么多人的基因数据，来自全球14个生物样本库。"
+          },
+          {
+            "icon": "📰",
+            "name": "《自然·遗传学》",
+            "text": "研究发表的期刊，研究得到美国国立卫生研究院（NIH）支持。"
+          },
+          {
+            "icon": "🔍",
+            "name": "58个DNA区域",
+            "text": "和这个病有关，其中27个是第一次被发现。"
+          },
+          {
+            "icon": "🌏",
+            "name": "非欧洲血统",
+            "text": "纳入更多非欧洲血统的人，帮助找到了新的线索。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "大规模基因数据",
+            "b": "新发现",
+            "type": "cause",
+            "label": "找到27个新的DNA区域"
+          },
+          {
+            "a": "非欧洲血统人群",
+            "b": "研究结果",
+            "type": "good",
+            "label": "让数据更全面"
+          },
+          {
+            "a": "研究发现",
+            "b": "治疗",
+            "type": "neutral",
+            "label": "暂时还没有新疗法或基因检测"
+          }
+        ],
+        "points": [
+          "子宫内膜异位症很常见，大约每十名女性中就有一人。",
+          "研究用了超过100万人的基因数据，来自14个生物样本库。",
+          "找到58个相关DNA区域，其中27个是新的。",
+          "这有助于理解病因，但还不能带来基因检测或新疗法。"
+        ],
+        "relevance": "女性健康（women's health / femtech）是近几年很热的品牌和营销领域。这类研究提醒你：谈健康话题要准确、克制，不要把“新线索”说成“新疗法”。另外，研究特意纳入不同血统的人，也和营销里重视多元受众的思路相通。",
+        "phrase": {
+          "en": "a step in the right direction",
+          "zh": "朝正确方向迈出的一步"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "China's second home-built large cruise ship sets off on its first commercial voyage",
+      "title_zh": "第二艘国产大型邮轮“爱达·花城号”从广州南沙商业首航，郭晶晶任启航大使",
+      "search_zh": "爱达·花城号 第二艘国产大型邮轮 商业首航 广州南沙国际邮轮母港 5晚 香港 越南顺化 341米 爱达·魔都号 姊妹船 上海交付 郭晶晶 启航大使 邮轮消费",
+      "summary_en": "Adora Flora City, the second large cruise ship built in China, set off from Guangzhou on Sunday on its first commercial voyage. The ship left the Nansha International Cruise Home Port for a five-night trip that will stop in Hong Kong and Hue in Vietnam. It is 341 metres long and is a sister ship of Adora Magic City, China's first home-built large cruise ship, and it was delivered in Shanghai earlier this month. Olympic diving champion Guo Jingjing was invited to be the ship's launch ambassador, and the voyage comes as China is trying to encourage more spending on cruise travel.",
+      "summary_zh": "中国建造的第二艘大型邮轮“爱达·花城号”周日从广州出发，开启了它的首个商业航次。邮轮从南沙国际邮轮母港启航，开始一段5晚的旅程，将停靠香港和越南顺化。它全长341米，是中国第一艘国产大型邮轮“爱达·魔都号”的姊妹船，本月早些时候在上海交付。跳水奥运冠军郭晶晶受邀担任这艘邮轮的启航大使，而这次首航正值中国努力鼓励更多邮轮旅游消费之际。",
+      "why_zh": "国产邮轮、明星大使、邮轮旅游——这是一个“造船+旅游+名人营销”结合的新闻。“commercial（商业的）”“ambassador（大使、代言人）”在品牌和营销场合非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Xinhua; Cruise Industry News; 21st Century Business Herald (21经济网); The Paper (澎湃新闻); Guangzhou Daily (大洋网)",
+      "url": "https://english.news.cn/20261122/e61fa4cac4d2442bad47a81cbdac0baf/c.html",
+      "vocab": [
+        {
+          "word": "commercial",
+          "phonetic": "/kəˈmɜːʃl/",
+          "pos": "adj.",
+          "zh": "商业的，商用的",
+          "example": "Adora Flora City, the second large cruise ship built in China, set off from Guangzhou on Sunday on its first commercial voyage."
+        },
+        {
+          "word": "ambassador",
+          "phonetic": "/æmˈbæsədə(r)/",
+          "pos": "n.",
+          "zh": "大使；（品牌）代言人",
+          "example": "Olympic diving champion Guo Jingjing was invited to be the ship's launch ambassador, and the voyage comes as China is trying to encourage more spending on cruise travel."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国自己造的第二艘大型邮轮正式开始载客出海了，第一趟从广州出发去香港和越南。",
+        "facts": [
+          {
+            "icon": "🚢",
+            "name": "爱达·花城号",
+            "text": "中国建造的第二艘大型邮轮，全长341米。"
+          },
+          {
+            "icon": "⚓",
+            "name": "广州南沙国际邮轮母港",
+            "text": "首个商业航次的出发地，周日启航。"
+          },
+          {
+            "icon": "🗺️",
+            "name": "5晚航程",
+            "text": "停靠香港和越南顺化。"
+          },
+          {
+            "icon": "👯",
+            "name": "爱达·魔都号",
+            "text": "中国第一艘国产大型邮轮，花城号是它的姊妹船。"
+          },
+          {
+            "icon": "🏅",
+            "name": "郭晶晶",
+            "text": "跳水奥运冠军，受邀担任启航大使。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "爱达·花城号",
+            "b": "爱达·魔都号",
+            "type": "neutral",
+            "label": "姊妹船"
+          },
+          {
+            "a": "郭晶晶",
+            "b": "爱达·花城号",
+            "type": "good",
+            "label": "担任启航大使，带来关注"
+          },
+          {
+            "a": "鼓励邮轮消费",
+            "b": "国产邮轮首航",
+            "type": "cause",
+            "label": "背景：想让更多人坐邮轮旅游"
+          }
+        ],
+        "points": [
+          "第二艘国产大型邮轮“爱达·花城号”周日从广州南沙商业首航。",
+          "首航是5晚的行程，停靠香港和越南顺化。",
+          "它长341米，是“爱达·魔都号”的姊妹船，本月在上海交付。",
+          "郭晶晶担任启航大使，中国正鼓励更多邮轮旅游消费。"
+        ],
+        "relevance": "这是典型的“新产品发布+名人大使”营销：用奥运冠军给新邮轮造势。在澳洲做营销，你可以留意邮轮旅游这个市场，以及中国游客出游方式的变化；请运动员当品牌大使，在澳洲同样常见。",
+        "phrase": {
+          "en": "set sail",
+          "zh": "启航，开始新的旅程"
+        }
+      }
+    }
+  ]
+}
