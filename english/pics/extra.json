@@ -7169,5 +7169,217 @@
         ]
       }
     ]
+  },
+  {
+    "id": "feelings-2",
+    "added": "2026-11-23",
+    "name": "情绪词 2",
+    "icon": "🙂",
+    "prompt": "这个表情怎么说？",
+    "items": [
+      {
+        "emoji": "😅",
+        "w": "phew",
+        "ph": "/fjuː/",
+        "pos": "interj.",
+        "zh": "呼～（松了口气）",
+        "ex": "Phew, I made the deadline with two minutes to spare.",
+        "tip": "表示松一口气；也可说 What a relief!",
+        "accept": [
+          "phew",
+          "what a relief",
+          "relief"
+        ],
+        "near": [
+          "meh"
+        ]
+      },
+      {
+        "emoji": "😔",
+        "w": "gutted",
+        "ph": "/ˈɡʌtɪd/",
+        "pos": "adj.",
+        "zh": "特别失望，难过",
+        "ex": "I was gutted when the concert got cancelled.",
+        "tip": "澳洲/英国口语，比 disappointed 更强烈",
+        "accept": [
+          "gutted",
+          "devastated",
+          "disappointed"
+        ],
+        "near": [
+          "anxious"
+        ]
+      },
+      {
+        "emoji": "😟",
+        "w": "anxious",
+        "ph": "/ˈæŋkʃəs/",
+        "pos": "adj.",
+        "zh": "焦虑的，担心的",
+        "ex": "I always get anxious before a big pitch.",
+        "tip": "anxious about sth 担心；anxious to do 急着想做",
+        "accept": [
+          "anxious",
+          "worried",
+          "nervous"
+        ],
+        "near": [
+          "gutted"
+        ]
+      },
+      {
+        "emoji": "🥹",
+        "w": "touched",
+        "ph": "/tʌtʃt/",
+        "pos": "adj.",
+        "zh": "感动的",
+        "ex": "I was really touched by the farewell card from my team.",
+        "tip": "moved 也表示感动",
+        "accept": [
+          "touched",
+          "moved"
+        ],
+        "near": [
+          "speechless"
+        ]
+      },
+      {
+        "emoji": "😠",
+        "w": "fuming",
+        "ph": "/ˈfjuːmɪŋ/",
+        "pos": "adj.",
+        "zh": "气炸了的",
+        "ex": "She was fuming after the client changed the brief again.",
+        "tip": "比 angry 更生动；也说 livid",
+        "accept": [
+          "fuming",
+          "livid",
+          "furious"
+        ],
+        "near": [
+          "frustrated"
+        ]
+      },
+      {
+        "emoji": "😖",
+        "w": "frustrated",
+        "ph": "/frʌˈstreɪtɪd/",
+        "pos": "adj.",
+        "zh": "沮丧的，抓狂的",
+        "ex": "I get so frustrated when the Wi-Fi keeps dropping out.",
+        "tip": "重音在 -STRA-；frustrating 形容让人抓狂的事",
+        "accept": [
+          "frustrated",
+          "frustrating"
+        ],
+        "near": [
+          "fuming"
+        ]
+      },
+      {
+        "emoji": "😎",
+        "w": "chilled",
+        "ph": "/tʃɪld/",
+        "pos": "adj.",
+        "zh": "淡定的，很放松的",
+        "ex": "He's pretty chilled about the whole thing.",
+        "tip": "也说 chill / laid-back（澳洲人超爱）",
+        "accept": [
+          "chilled",
+          "chill",
+          "laid-back",
+          "relaxed"
+        ],
+        "near": [
+          "phew"
+        ]
+      },
+      {
+        "emoji": "🤪",
+        "w": "silly",
+        "ph": "/ˈsɪli/",
+        "pos": "adj.",
+        "zh": "傻乎乎的，犯傻",
+        "ex": "We were being silly and taking funny photos.",
+        "tip": "silly 偏可爱的傻；stupid 是贬义",
+        "accept": [
+          "silly",
+          "goofy",
+          "daft"
+        ],
+        "near": [
+          "giggle"
+        ]
+      },
+      {
+        "emoji": "😶",
+        "w": "speechless",
+        "ph": "/ˈspiːtʃləs/",
+        "pos": "adj.",
+        "zh": "说不出话的",
+        "ex": "I was speechless when they announced my promotion.",
+        "tip": "惊讶、感动、无语都可以",
+        "accept": [
+          "speechless",
+          "lost for words"
+        ],
+        "near": [
+          "gobsmacked"
+        ]
+      },
+      {
+        "emoji": "😲",
+        "w": "gobsmacked",
+        "ph": "/ˈɡɒbsmækt/",
+        "pos": "adj.",
+        "zh": "惊呆了",
+        "ex": "I was gobsmacked by how much the rent went up.",
+        "tip": "澳洲/英国口语，= amazed / shocked",
+        "accept": [
+          "gobsmacked",
+          "stunned",
+          "shocked",
+          "amazed"
+        ],
+        "near": [
+          "speechless"
+        ]
+      },
+      {
+        "emoji": "🤭",
+        "w": "giggle",
+        "ph": "/ˈɡɪɡl/",
+        "pos": "v./n.",
+        "zh": "咯咯笑，偷笑",
+        "ex": "The kids couldn't stop giggling in the back seat.",
+        "tip": "giggle 小声笑；chuckle 轻笑；laugh 大笑",
+        "accept": [
+          "giggle",
+          "chuckle",
+          "giggling"
+        ],
+        "near": [
+          "silly"
+        ]
+      },
+      {
+        "emoji": "🫤",
+        "w": "meh",
+        "ph": "/me/",
+        "pos": "interj./adj.",
+        "zh": "一般般，无感",
+        "ex": "\"How was the movie?\" \"Meh, it was okay.\"",
+        "tip": "表达没兴趣或很一般",
+        "accept": [
+          "meh",
+          "so-so",
+          "not fussed"
+        ],
+        "near": [
+          "phew"
+        ]
+      }
+    ]
   }
 ]
