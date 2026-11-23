@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T01:55:02+11:00",
+  "items": [
+    {
+      "category": "australia",
+      "title_en": "Australian music legend Molly Meldrum, former host of Countdown, dies aged 83",
+      "title_zh": "澳洲音乐传奇、《Countdown》主持人Molly Meldrum去世，享年83岁，将举行国葬",
+      "search_zh": "Molly Meldrum 去世 83岁 Countdown 主持人 澳洲音乐 墨尔本 国葬 凯莉·米洛 Kylie Minogue Jimmy Barnes 悼念",
+      "summary_en": "Molly Meldrum, the music broadcaster who became famous as the host of the TV show Countdown, has died in Melbourne at the age of 83. He died peacefully on Monday morning, and his family has accepted the offer of a state funeral. For decades, Meldrum championed Australian music and helped many young artists reach a national audience. Stars including Kylie Minogue and Jimmy Barnes led the tributes, with Minogue remembering him as one of her earliest inspirations after she appeared on Countdown as a teenager.",
+      "summary_zh": "音乐节目主持人Molly Meldrum因主持电视节目《Countdown》而成名，他在墨尔本去世，享年83岁。他于周一上午安详离世，家人已经接受了为他举行国葬的提议。几十年来，Meldrum一直大力支持澳洲音乐，帮助许多年轻音乐人被全国观众认识。凯莉·米洛（Kylie Minogue）和Jimmy Barnes等明星带头发文悼念，米洛回忆说，她十几岁时上过《Countdown》，Meldrum是她最早的偶像和激励之一。",
+      "why_zh": "Molly Meldrum是几代澳洲人心中的“音乐教父”，今天澳洲媒体和社交平台都在谈论他。了解他，能帮你听懂同事聊天里的澳洲流行文化梗。“championed（大力支持）”“tributes（悼念、致敬）”是新闻和品牌文案里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Billboard; The New Daily; ACM (Canberra Times); Music-News",
+      "url": "https://www.abc.net.au/news/2026-11-23/molly-meldrum-countdown-host-music-industry-icon-dies/3735358",
+      "vocab": [
+        {
+          "word": "championed",
+          "phonetic": "/ˈtʃæmpiənd/",
+          "pos": "v.",
+          "zh": "大力支持，拥护（champion的过去式）",
+          "example": "For decades, Meldrum championed Australian music and helped many young artists reach a national audience."
+        },
+        {
+          "word": "tributes",
+          "phonetic": "/ˈtrɪbjuːts/",
+          "pos": "n.",
+          "zh": "悼念，致敬（的话语或行动）",
+          "example": "Stars including Kylie Minogue and Jimmy Barnes led the tributes, with Minogue remembering him as one of her earliest inspirations after she appeared on Countdown as a teenager."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲最有名的音乐电视人之一Molly Meldrum去世了，各路明星都在怀念他，政府还会为他办国葬。",
+        "facts": [
+          {
+            "icon": "🎤",
+            "name": "Molly Meldrum",
+            "text": "音乐节目主持人，因主持电视节目《Countdown》出名，享年83岁。"
+          },
+          {
+            "icon": "📺",
+            "name": "《Countdown》",
+            "text": "他主持的电视音乐节目，很多歌手年轻时都上过。"
+          },
+          {
+            "icon": "🕊️",
+            "name": "周一上午",
+            "text": "他在墨尔本安详离世。"
+          },
+          {
+            "icon": "🏛️",
+            "name": "国葬",
+            "text": "家人已接受为他举行国葬的提议。"
+          },
+          {
+            "icon": "⭐",
+            "name": "Kylie Minogue",
+            "text": "十几岁时上过《Countdown》，称他是自己最早的激励之一。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Molly Meldrum",
+            "b": "澳洲音乐",
+            "type": "good",
+            "label": "几十年来大力支持"
+          },
+          {
+            "a": "《Countdown》",
+            "b": "年轻音乐人",
+            "type": "cause",
+            "label": "让他们被全国观众认识"
+          },
+          {
+            "a": "Kylie Minogue、Jimmy Barnes",
+            "b": "Molly Meldrum",
+            "type": "neutral",
+            "label": "带头发文悼念"
+          }
+        ],
+        "points": [
+          "《Countdown》前主持人Molly Meldrum在墨尔本去世，享年83岁。",
+          "他周一上午安详离世，家人接受了举行国葬的提议。",
+          "几十年来他一直支持澳洲音乐，帮年轻音乐人走向全国。",
+          "Kylie Minogue和Jimmy Barnes等明星纷纷悼念。"
+        ],
+        "relevance": "Meldrum是澳洲“推荐人改变品牌命运”的经典例子：一档电视节目就能把新人推向全国。做营销时，这和今天的KOL、意见领袖思路很像。另外，在澳洲遇到这种全民悼念的时刻，品牌发内容要特别注意语气，避免蹭热点。",
+        "phrase": {
+          "en": "give someone a leg up",
+          "zh": "拉某人一把，帮助某人起步"
+        }
+      }
+    },
+    {
+      "category": "markets",
+      "title_en": "ASX falls for an eighth straight day as Wall Street slides into a correction",
+      "title_zh": "澳股连跌八天！美股标普500跌入“回调区间”，AI热潮引担忧",
+      "search_zh": "澳股 ASX 200 连续八个交易日下跌 下跌0.3% 约8570点 矿业股上涨 银行股下跌 美股 标普500 回调 较纪录高位下跌超过10% 人工智能热潮 担忧",
+      "summary_en": "The Australian share market fell for an eighth trading session in a row on Monday, as a sell-off on Wall Street continued to worry investors. The benchmark ASX 200 index slipped about 0.3 per cent to close at around 8,570 points, after a heavy loss the week before. Mining shares rose, but falls in the big banks kept the market lower overall. In the US, the S&P 500 index had dropped into correction territory, meaning more than 10 per cent below its record high, amid concerns about whether the artificial intelligence boom can last.",
+      "summary_zh": "周一，澳大利亚股市连续第八个交易日下跌，因为华尔街的抛售潮继续让投资者感到担忧。基准指数ASX 200下跌约0.3%，收于约8570点，而前一周它已经大幅下跌。矿业股上涨，但大银行股的下跌让整个大盘仍然走低。在美国，标普500指数此前已经跌入“回调区间”，也就是比历史最高点低了10%以上，原因是人们担心人工智能热潮能否持续下去。",
+      "why_zh": "股市连跌会影响养老金（super）、公司预算，甚至广告投放。新闻里常说的“sell-off（抛售）”“correction（回调）”，搞懂了就能看懂大多数财经标题。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Market Index; Stockhead; Sharetrader; Proactive Investors",
+      "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+      "vocab": [
+        {
+          "word": "sell-off",
+          "phonetic": "/ˈsel ɒf/",
+          "pos": "n.",
+          "zh": "抛售，大量卖出",
+          "example": "The Australian share market fell for an eighth trading session in a row on Monday, as a sell-off on Wall Street continued to worry investors."
+        },
+        {
+          "word": "correction",
+          "phonetic": "/kəˈrekʃn/",
+          "pos": "n.",
+          "zh": "（股市）回调，从高点下跌10%以上",
+          "example": "In the US, the S&P 500 index had dropped into correction territory, meaning more than 10 per cent below its record high, amid concerns about whether the artificial intelligence boom can last."
+        }
+      ],
+      "explain": {
+        "one_liner": "美国股市因担心AI热潮而大跌，连带澳洲股市也已经连续跌了八天。",
+        "facts": [
+          {
+            "icon": "📉",
+            "name": "ASX 200",
+            "text": "澳洲基准股指，周一下跌约0.3%，收于约8570点，连跌第八天。"
+          },
+          {
+            "icon": "⛏️",
+            "name": "矿业股",
+            "text": "周一上涨，算是给大盘“托底”。"
+          },
+          {
+            "icon": "🏦",
+            "name": "大银行股",
+            "text": "下跌，让整体大盘还是走低。"
+          },
+          {
+            "icon": "🇺🇸",
+            "name": "标普500",
+            "text": "美国股指，已跌入“回调区间”，比最高点低10%以上。"
+          },
+          {
+            "icon": "🤖",
+            "name": "AI热潮",
+            "text": "市场担心这股热潮能不能持续。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "对AI热潮的担忧",
+            "b": "美股",
+            "type": "cause",
+            "label": "引发抛售，跌入回调"
+          },
+          {
+            "a": "华尔街抛售",
+            "b": "澳股",
+            "type": "bad",
+            "label": "拖累，连跌八天"
+          },
+          {
+            "a": "矿业股",
+            "b": "ASX 200",
+            "type": "good",
+            "label": "上涨，部分抵消跌幅"
+          },
+          {
+            "a": "银行股",
+            "b": "ASX 200",
+            "type": "bad",
+            "label": "下跌，拉低大盘"
+          }
+        ],
+        "points": [
+          "澳股ASX 200周一连续第八个交易日下跌。",
+          "指数跌约0.3%，收于约8570点，前一周已大跌。",
+          "矿业股涨，银行股跌，大盘整体仍走低。",
+          "美股标普500跌入回调区间，市场担心AI热潮难以持续。"
+        ],
+        "relevance": "股市不好时，企业往往会收紧预算，营销费用常常是最先被砍的部分之一；消费者看到养老金缩水，也可能更谨慎花钱。在澳洲做营销，这周可以多留意老板对预算的态度，以及黑五期间消费者的情绪变化。",
+        "phrase": {
+          "en": "in the red",
+          "zh": "亏损，（股市）下跌"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "CCTV host Yang Fan loses a false tooth to a sesame sweet while filming, tops Weibo trends",
+      "title_zh": "热搜第一！央视主持人杨帆录节目吃芝麻糖，假牙被粘掉找不回",
+      "search_zh": "央视主持人录节目假牙丢了 杨帆 芝麻糖 喀什 新疆 临时牙 热搜第一",
+      "summary_en": "A CCTV presenter, Yang Fan, became the top trending topic on Weibo after he lost a false front tooth while filming a travel show in Kashgar, Xinjiang. The tooth came loose while he was eating a sticky sesame sweet at a market, and he only noticed when he felt air coming through the gap. People at the market, including local children, helped look for it, but it was never found, so a dentist at a nearby clinic made him a temporary tooth and filming continued. Yang later joked about the incident on Weibo, and many netizens praised him for handling the embarrassing moment with good humour.",
+      "summary_zh": "央视主持人杨帆在新疆喀什录制旅游节目时弄丢了一颗假门牙，随后登上微博热搜第一。他在集市上吃黏黏的芝麻糖时，门牙被粘掉了，直到感觉嘴里漏风才发现。集市上的人，包括当地的小朋友，都帮忙一起找，但始终没找到，于是附近诊所的牙医给他做了一颗临时牙，节目录制继续进行。杨帆后来在微博上拿这件事开玩笑，很多网友称赞他用幽默化解了尴尬。",
+      "why_zh": "一个轻松好笑的热搜，适合当成和中国朋友聊天的话题。“trending（热门的、上热搜的）”“temporary（临时的）”是日常和社交媒体上都很常用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "The Paper (澎湃新闻); Sohu (搜狐); NetEase (网易); Sina (新浪新闻)",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34540546",
+      "vocab": [
+        {
+          "word": "trending",
+          "phonetic": "/ˈtrendɪŋ/",
+          "pos": "adj.",
+          "zh": "热门的，上热搜的",
+          "example": "A CCTV presenter, Yang Fan, became the top trending topic on Weibo after he lost a false front tooth while filming a travel show in Kashgar, Xinjiang."
+        },
+        {
+          "word": "temporary",
+          "phonetic": "/ˈtemprəri/",
+          "pos": "adj.",
+          "zh": "临时的，暂时的",
+          "example": "People at the market, including local children, helped look for it, but it was never found, so a dentist at a nearby clinic made him a temporary tooth and filming continued."
+        }
+      ]
+    }
+  ]
+}
