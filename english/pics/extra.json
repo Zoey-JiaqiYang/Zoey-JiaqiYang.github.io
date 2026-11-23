@@ -7381,5 +7381,217 @@
         ]
       }
     ]
+  },
+  {
+    "id": "time-words",
+    "added": "2026-11-24",
+    "name": "时间说法",
+    "icon": "⏰",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "📆",
+        "w": "fortnight",
+        "ph": "/ˈfɔːtnaɪt/",
+        "pos": "n.",
+        "zh": "两周",
+        "ex": "I get paid every fortnight.",
+        "tip": "澳洲超常用（工资按两周发），美国少用",
+        "accept": [
+          "fortnight",
+          "two weeks"
+        ],
+        "near": [
+          "long weekend"
+        ]
+      },
+      {
+        "emoji": "🕛",
+        "w": "midday",
+        "ph": "/ˌmɪdˈdeɪ/",
+        "pos": "n.",
+        "zh": "正午，中午12点",
+        "ex": "Let's meet at midday for lunch.",
+        "tip": "= noon；midnight 是午夜",
+        "accept": [
+          "midday",
+          "noon",
+          "12pm"
+        ],
+        "near": [
+          "on the dot"
+        ]
+      },
+      {
+        "emoji": "🌄",
+        "w": "crack of dawn",
+        "ph": "/ˌkræk əv ˈdɔːn/",
+        "pos": "phr.",
+        "zh": "天刚亮，一大早",
+        "ex": "We left at the crack of dawn to beat the traffic.",
+        "tip": "at the crack of dawn 常连用",
+        "accept": [
+          "crack of dawn",
+          "dawn",
+          "sunrise",
+          "the crack of dawn"
+        ],
+        "near": [
+          "after hours"
+        ]
+      },
+      {
+        "emoji": "⏱️",
+        "w": "on the dot",
+        "ph": "/ɒn ðə ˈdɒt/",
+        "pos": "phr.",
+        "zh": "准时，整点",
+        "ex": "The meeting starts at nine on the dot.",
+        "tip": "= exactly on time；也说 sharp: 9 sharp",
+        "accept": [
+          "on the dot",
+          "sharp",
+          "on time"
+        ],
+        "near": [
+          "midday"
+        ]
+      },
+      {
+        "emoji": "⏲️",
+        "w": "timer",
+        "ph": "/ˈtaɪmə/",
+        "pos": "n.",
+        "zh": "定时器",
+        "ex": "Set a timer for twenty minutes so the cake doesn't burn.",
+        "tip": "set a timer 设置定时",
+        "accept": [
+          "timer",
+          "kitchen timer"
+        ],
+        "near": [
+          "on the dot"
+        ]
+      },
+      {
+        "emoji": "🔜",
+        "w": "any minute now",
+        "ph": "/ˌeni ˈmɪnɪt naʊ/",
+        "pos": "phr.",
+        "zh": "马上就，随时",
+        "ex": "The delivery should arrive any minute now.",
+        "tip": "也说 any second now",
+        "accept": [
+          "any minute now",
+          "any second now",
+          "soon"
+        ],
+        "near": [
+          "running late"
+        ]
+      },
+      {
+        "emoji": "🌆",
+        "w": "knock-off time",
+        "ph": "/ˈnɒk ɒf taɪm/",
+        "pos": "n.",
+        "zh": "下班时间",
+        "ex": "Only ten minutes till knock-off time!",
+        "tip": "澳洲口语 knock off = 下班；knock-off 也指仿冒品",
+        "accept": [
+          "knock-off time",
+          "knock off",
+          "home time"
+        ],
+        "near": [
+          "after hours"
+        ]
+      },
+      {
+        "emoji": "⌚",
+        "w": "running late",
+        "ph": "/ˌrʌnɪŋ ˈleɪt/",
+        "pos": "phr.",
+        "zh": "要迟到了",
+        "ex": "Sorry, I'm running late — be there in ten.",
+        "tip": "发消息常用；也说 running behind",
+        "accept": [
+          "running late",
+          "late",
+          "running behind"
+        ],
+        "near": [
+          "any minute now"
+        ]
+      },
+      {
+        "emoji": "📅",
+        "w": "long weekend",
+        "ph": "/ˌlɒŋ ˈwiːkend/",
+        "pos": "n.",
+        "zh": "小长假（连上公众假期的周末）",
+        "ex": "Are you going away for the long weekend?",
+        "tip": "澳洲公众假期 public holiday 常连成 long weekend",
+        "accept": [
+          "long weekend",
+          "public holiday"
+        ],
+        "near": [
+          "fortnight"
+        ]
+      },
+      {
+        "emoji": "🔂",
+        "w": "every other day",
+        "ph": "/ˌevri ˌʌðə ˈdeɪ/",
+        "pos": "phr.",
+        "zh": "隔一天，每两天",
+        "ex": "I go to the gym every other day.",
+        "tip": "every other week = 隔周",
+        "accept": [
+          "every other day",
+          "every second day",
+          "alternate days"
+        ],
+        "near": [
+          "fortnight"
+        ]
+      },
+      {
+        "emoji": "🌃",
+        "w": "after hours",
+        "ph": "/ˌɑːftər ˈaʊəz/",
+        "pos": "phr.",
+        "zh": "下班后；营业时间外",
+        "ex": "Call the after-hours number if it's urgent.",
+        "tip": "after-hours doctor 夜间诊所",
+        "accept": [
+          "after hours",
+          "after-hours",
+          "out of hours"
+        ],
+        "near": [
+          "knock-off time"
+        ]
+      },
+      {
+        "emoji": "🔚",
+        "w": "EOD",
+        "ph": "/ˌiː əʊ ˈdiː/",
+        "pos": "n.",
+        "zh": "今天下班前（end of day）",
+        "ex": "Can you send me the report by EOD?",
+        "tip": "职场缩写：EOD / EOW(本周末) / ASAP",
+        "accept": [
+          "EOD",
+          "end of day",
+          "COB",
+          "close of business"
+        ],
+        "near": [
+          "knock-off time"
+        ]
+      }
+    ]
   }
 ]
