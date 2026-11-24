@@ -7593,5 +7593,216 @@
         ]
       }
     ]
+  },
+  {
+    "id": "travel-holiday",
+    "added": "2026-11-25",
+    "name": "旅行度假",
+    "icon": "🧳",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🏨",
+        "w": "check out",
+        "ph": "/ˌtʃek ˈaʊt/",
+        "pos": "phr.",
+        "zh": "退房",
+        "ex": "We have to check out by 10am.",
+        "tip": "名词 checkout；也可说 check sth out = 看看",
+        "accept": [
+          "check out",
+          "checkout",
+          "check-out"
+        ],
+        "near": [
+          "getaway"
+        ]
+      },
+      {
+        "emoji": "🗼",
+        "w": "sightseeing",
+        "ph": "/ˈsaɪtsiːɪŋ/",
+        "pos": "n.",
+        "zh": "观光",
+        "ex": "We spent the whole day sightseeing in Tokyo.",
+        "tip": "go sightseeing 去观光",
+        "accept": [
+          "sightseeing",
+          "go sightseeing",
+          "sight-seeing"
+        ],
+        "near": [
+          "landmark"
+        ]
+      },
+      {
+        "emoji": "🏝️",
+        "w": "getaway",
+        "ph": "/ˈɡetəweɪ/",
+        "pos": "n.",
+        "zh": "短途度假",
+        "ex": "We're planning a weekend getaway to Byron Bay.",
+        "tip": "romantic getaway / quick getaway",
+        "accept": [
+          "getaway",
+          "weekend getaway",
+          "trip"
+        ],
+        "near": [
+          "cruise"
+        ]
+      },
+      {
+        "emoji": "🗽",
+        "w": "landmark",
+        "ph": "/ˈlændmɑːk/",
+        "pos": "n.",
+        "zh": "地标",
+        "ex": "The Opera House is Sydney's most famous landmark.",
+        "tip": "也指“里程碑式的”：a landmark decision",
+        "accept": [
+          "landmark",
+          "landmarks",
+          "icon"
+        ],
+        "near": [
+          "museum"
+        ]
+      },
+      {
+        "emoji": "💱",
+        "w": "exchange rate",
+        "ph": "/ɪksˈtʃeɪndʒ reɪt/",
+        "pos": "n.",
+        "zh": "汇率",
+        "ex": "The exchange rate isn't great right now.",
+        "tip": "换汇 = exchange money / currency",
+        "accept": [
+          "exchange rate",
+          "currency exchange",
+          "rate"
+        ],
+        "near": [
+          "roaming"
+        ]
+      },
+      {
+        "emoji": "🌐",
+        "w": "roaming",
+        "ph": "/ˈrəʊmɪŋ/",
+        "pos": "n.",
+        "zh": "（手机）漫游",
+        "ex": "Turn off data roaming or you'll get a huge bill.",
+        "tip": "international roaming 国际漫游",
+        "accept": [
+          "roaming",
+          "data roaming",
+          "international roaming"
+        ],
+        "near": [
+          "exchange rate"
+        ]
+      },
+      {
+        "emoji": "🚠",
+        "w": "cable car",
+        "ph": "/ˈkeɪbl kɑː/",
+        "pos": "n.",
+        "zh": "缆车",
+        "ex": "We took the cable car up the mountain.",
+        "tip": "chairlift 是露天吊椅",
+        "accept": [
+          "cable car",
+          "gondola",
+          "chairlift"
+        ],
+        "near": [
+          "Ferris wheel"
+        ]
+      },
+      {
+        "emoji": "🎡",
+        "w": "Ferris wheel",
+        "ph": "/ˈferɪs wiːl/",
+        "pos": "n.",
+        "zh": "摩天轮",
+        "ex": "The kids want to ride the Ferris wheel at the Show.",
+        "tip": "the Show = 澳洲各州的 Royal Show 农展会",
+        "accept": [
+          "Ferris wheel",
+          "ferris wheel",
+          "big wheel"
+        ],
+        "near": [
+          "cable car"
+        ]
+      },
+      {
+        "emoji": "🛳️",
+        "w": "cruise",
+        "ph": "/kruːz/",
+        "pos": "n./v.",
+        "zh": "邮轮旅行",
+        "ex": "My parents are going on a cruise to the Pacific Islands.",
+        "tip": "cruise ship 邮轮；cruise 也指“轻松地开”",
+        "accept": [
+          "cruise",
+          "cruise ship"
+        ],
+        "near": [
+          "getaway"
+        ]
+      },
+      {
+        "emoji": "🚁",
+        "w": "scenic flight",
+        "ph": "/ˌsiːnɪk ˈflaɪt/",
+        "pos": "n.",
+        "zh": "观光飞行",
+        "ex": "We did a scenic flight over the Great Barrier Reef.",
+        "tip": "scenic 读 /ˈsiːnɪk/，风景优美的",
+        "accept": [
+          "scenic flight",
+          "helicopter ride",
+          "helicopter"
+        ],
+        "near": [
+          "cable car"
+        ]
+      },
+      {
+        "emoji": "🏛️",
+        "w": "museum",
+        "ph": "/mjuˈziːəm/",
+        "pos": "n.",
+        "zh": "博物馆",
+        "ex": "The museum is free on weekdays.",
+        "tip": "重音在 -SE-：mu-SE-um",
+        "accept": [
+          "museum",
+          "gallery"
+        ],
+        "near": [
+          "landmark"
+        ]
+      },
+      {
+        "emoji": "🗒️",
+        "w": "itinerary",
+        "ph": "/aɪˈtɪnərəri/",
+        "pos": "n.",
+        "zh": "行程安排",
+        "ex": "I've emailed you our itinerary for Japan.",
+        "tip": "发音难点：ai-TIN-er-ary",
+        "accept": [
+          "itinerary",
+          "travel plan",
+          "schedule"
+        ],
+        "near": [
+          "sightseeing"
+        ]
+      }
+    ]
   }
 ]
