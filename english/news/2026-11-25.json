@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T01:54:45+11:00",
+  "items": [
+    {
+      "category": "markets",
+      "title_en": "ASX ends eight-day losing streak after Nvidia brings back Jensen Huang as CEO",
+      "title_zh": "澳股终于止跌！英伟达请回黄仁勋当CEO，股价暴涨31%带动全球反弹",
+      "search_zh": "澳股 ASX 200 结束八连跌 上涨1.82% 收于8726.4点 英伟达 黄仁勋 重新担任CEO 股价上涨31% 11个板块中10个上涨 能源板块 下跌",
+      "summary_en": "The Australian share market finally snapped an eight-day losing streak on Tuesday, as a global relief rally swept through stock markets. The benchmark ASX 200 index jumped 1.82 per cent to close at 8,726.4 points, with ten of its eleven sectors rising and only energy shares falling. The rebound followed a dramatic night on Wall Street, where Nvidia shares soared 31 per cent after the chipmaker reinstated Jensen Huang as its chief executive. However, analysts noted that the ASX has recovered only about a quarter of its recent losses, and US shares gave back some of their gains the following day.",
+      "summary_zh": "周二，澳大利亚股市终于结束了连续八天的下跌，因为一波全球性的“松一口气式”反弹席卷了各大股市。基准指数ASX 200上涨1.82%，收于8726.4点，11个板块中有10个上涨，只有能源股下跌。这次反弹发生在华尔街一个戏剧性的夜晚之后：芯片公司英伟达重新任命黄仁勋为首席执行官，其股价随即飙升31%。不过，分析人士指出，澳股只收复了近期跌幅的大约四分之一，而美股在第二天也回吐了部分涨幅。",
+      "why_zh": "昨天我们讲了澳股“八连跌”，今天它终于止跌了，正好可以连着看。一家公司换CEO就能让股价一天涨三成，说明“人”对品牌和市场信心有多重要。“snapped a losing streak（结束连败）”“reinstated（恢复职位）”都是财经新闻里的常用表达。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; News24 (AAP); The Bull; Sharetrader; CNBC; Yahoo Finance",
+      "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
+      "vocab": [
+        {
+          "word": "streak",
+          "phonetic": "/striːk/",
+          "pos": "n.",
+          "zh": "连续的一段（输或赢），连续纪录",
+          "example": "The Australian share market finally snapped an eight-day losing streak on Tuesday, as a global relief rally swept through stock markets."
+        },
+        {
+          "word": "reinstated",
+          "phonetic": "/ˌriːɪnˈsteɪtɪd/",
+          "pos": "v.",
+          "zh": "使恢复（原职位），复职（reinstate的过去式）",
+          "example": "The rebound followed a dramatic night on Wall Street, where Nvidia shares soared 31 per cent after the chipmaker reinstated Jensen Huang as its chief executive."
+        }
+      ],
+      "explain": {
+        "one_liner": "英伟达把黄仁勋请回来当CEO，股价大涨，全球股市跟着反弹，澳股也终于不再连跌了。",
+        "facts": [
+          {
+            "icon": "📈",
+            "name": "ASX 200",
+            "text": "澳洲基准股指，周二上涨1.82%，收于8726.4点，结束八连跌。"
+          },
+          {
+            "icon": "🧩",
+            "name": "11个板块",
+            "text": "其中10个上涨，只有能源股下跌。"
+          },
+          {
+            "icon": "💻",
+            "name": "英伟达（Nvidia）",
+            "text": "美国芯片公司，重新任命黄仁勋为CEO后，股价一天涨了31%。"
+          },
+          {
+            "icon": "👔",
+            "name": "黄仁勋（Jensen Huang）",
+            "text": "英伟达的CEO，这次被公司董事会请回原职。"
+          },
+          {
+            "icon": "🔙",
+            "name": "四分之一",
+            "text": "分析人士说，澳股只收回了近期跌幅的大约四分之一。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "黄仁勋回归",
+            "b": "英伟达股价",
+            "type": "cause",
+            "label": "带动暴涨31%"
+          },
+          {
+            "a": "华尔街反弹",
+            "b": "澳股",
+            "type": "good",
+            "label": "带动上涨，结束八连跌"
+          },
+          {
+            "a": "能源股",
+            "b": "ASX 200",
+            "type": "bad",
+            "label": "唯一下跌的板块"
+          },
+          {
+            "a": "美股第二天",
+            "b": "前一天的涨幅",
+            "type": "neutral",
+            "label": "回吐了一部分"
+          }
+        ],
+        "points": [
+          "澳股ASX 200周二上涨1.82%，收于8726.4点，结束八连跌。",
+          "11个板块中10个上涨，只有能源股下跌。",
+          "起因是英伟达重新任命黄仁勋为CEO，股价一天涨31%，带动全球反弹。",
+          "不过澳股只收回约四分之一的跌幅，美股第二天也回吐了部分涨幅。"
+        ],
+        "relevance": "这个故事很好地说明了“创始人/领导人就是品牌”：一个CEO回归，市场信心立刻改变。做营销时，很多品牌也依赖创始人形象，人事变动会直接影响品牌口碑。另外，股市情绪好转对年底促销季的消费者信心也是个小小的好消息，可以留意客户预算是否回暖。",
+        "phrase": {
+          "en": "back in the green",
+          "zh": "重新上涨，回到盈利（股市变绿/上涨）"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Shenzhou-24 set to launch with Pakistani astronaut, the first foreigner to visit China's space station",
+      "title_zh": "神舟二十四号今天上午将发射！“天宫”将迎来首位外籍航天员",
+      "search_zh": "神舟二十四号 11月25日 8时18分 发射 酒泉卫星发射中心 汤洪波 指令长 武毅 巴基斯坦航天员 穆罕默德·齐尚·阿里 首位外籍航天员 天宫空间站 约一周 搭乘神舟二十三号返回",
+      "summary_en": "China is preparing to launch its Shenzhou-24 spacecraft from the Jiuquan Satellite Launch Center at 8:18 am Beijing time on Wednesday. The three-person crew is led by commander Tang Hongbo, together with Wu Yi and Pakistan's Muhammad Zeeshan Ali. Ali is set to become the first foreign astronaut to visit China's Tiangong space station, marking a milestone for the country's space programme. He is expected to stay on board for about a week before returning to Earth on the Shenzhou-23 spacecraft.",
+      "summary_zh": "中国正准备于北京时间周三上午8时18分，在酒泉卫星发射中心发射神舟二十四号飞船。三人乘组由指令长汤洪波带领，成员还有武毅和来自巴基斯坦的穆罕默德·齐尚·阿里。阿里将成为首位到访中国“天宫”空间站的外籍航天员，这是中国航天事业的一个里程碑。他预计将在空间站停留约一周，然后搭乘神舟二十三号飞船返回地球。",
+      "why_zh": "这是今天中国最受关注的科技新闻之一，发射时间换算成悉尼时间是周三上午11点18分左右，你上班时就能看到结果。“crew（全体乘员）”“milestone（里程碑）”是新闻和企业宣传里非常常用的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Xinhua (新华社); The Paper (澎湃新闻); 21jingji (21财经); Dawn; Astronomy.com; China-Global South Project",
+      "url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-set-to-become-countrys-first-astronaut-in-space-on-nov-25",
+      "vocab": [
+        {
+          "word": "crew",
+          "phonetic": "/kruː/",
+          "pos": "n.",
+          "zh": "（飞船、飞机、船上的）全体工作人员，乘组",
+          "example": "The three-person crew is led by commander Tang Hongbo, together with Wu Yi and Pakistan's Muhammad Zeeshan Ali."
+        },
+        {
+          "word": "milestone",
+          "phonetic": "/ˈmaɪlstəʊn/",
+          "pos": "n.",
+          "zh": "里程碑，重要事件",
+          "example": "Ali is set to become the first foreign astronaut to visit China's Tiangong space station, marking a milestone for the country's space programme."
+        }
+      ],
+      "explain": {
+        "one_liner": "中国今天发射神舟二十四号，船上有一位巴基斯坦航天员，他将是第一个登上中国空间站的外国人。",
+        "facts": [
+          {
+            "icon": "🚀",
+            "name": "神舟二十四号",
+            "text": "中国的载人飞船，计划北京时间周三上午8时18分发射。"
+          },
+          {
+            "icon": "📍",
+            "name": "酒泉卫星发射中心",
+            "text": "这次的发射地点。"
+          },
+          {
+            "icon": "👨‍✈️",
+            "name": "汤洪波",
+            "text": "本次任务的指令长，和武毅一起执行任务。"
+          },
+          {
+            "icon": "🇵🇰",
+            "name": "穆罕默德·齐尚·阿里",
+            "text": "巴基斯坦航天员，将成为首位到访“天宫”的外籍航天员。"
+          },
+          {
+            "icon": "🛰️",
+            "name": "天宫空间站",
+            "text": "中国的空间站，阿里预计在上面停留约一周。"
+          },
+          {
+            "icon": "🔁",
+            "name": "神舟二十三号",
+            "text": "阿里将搭乘这艘飞船返回地球。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "神舟二十四号",
+            "b": "天宫空间站",
+            "type": "neutral",
+            "label": "把三名航天员送上去"
+          },
+          {
+            "a": "阿里",
+            "b": "天宫空间站",
+            "type": "good",
+            "label": "首位到访的外籍航天员"
+          },
+          {
+            "a": "阿里",
+            "b": "神舟二十三号",
+            "type": "neutral",
+            "label": "约一周后搭乘它返回"
+          }
+        ],
+        "points": [
+          "神舟二十四号计划北京时间周三上午8时18分从酒泉发射。",
+          "乘组是指令长汤洪波、武毅和巴基斯坦航天员阿里。",
+          "阿里将成为首位到访“天宫”的外籍航天员，是个里程碑。",
+          "他预计停留约一周，搭乘神舟二十三号返回。"
+        ],
+        "relevance": "“第一个”永远是最好的传播点——“首位外籍航天员”这样的标签让新闻自带话题。做营销时，找到产品或活动的“第一”，往往比堆砌卖点更有效。另外，航天发射这类全民关注的直播时刻，也常被品牌拿来做实时营销，但要注意内容得体。",
+        "phrase": {
+          "en": "a giant leap",
+          "zh": "巨大的飞跃（来自登月名言）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "ABC to close its ABC Entertains TV channel and make YouTube a primary platform",
+      "title_zh": "ABC要关掉一个电视频道，改把YouTube当“主要播出平台”",
+      "search_zh": "ABC 关闭 ABC Entertains 频道 2027年 YouTube 主要发行平台 Hugh Marks 总经理 每年节省数千万澳元 澳洲本土内容",
+      "summary_en": "The ABC has announced that it will close its ABC Entertains TV channel in 2027 as part of a major shift in strategy. Managing director Hugh Marks said the public broadcaster would embrace YouTube as a primary distribution platform. According to Marks, dropping the channel could save potentially tens of millions of dollars a year. The ABC plans to put the money into more Australian content, as it tries to reach audiences who increasingly watch video online rather than on traditional TV.",
+      "summary_zh": "ABC宣布，将在2027年关闭旗下的ABC Entertains电视频道，这是其战略大调整的一部分。总经理Hugh Marks表示，这家公共广播机构将把YouTube作为主要的发行平台。Marks说，停掉这个频道每年可能节省数千万澳元。ABC计划把这笔钱投入到更多澳洲本土内容上，以吸引越来越多在网上而不是在传统电视上看视频的观众。",
+      "why_zh": "连国家级的公共电视台都在“搬家”到YouTube，说明观众的注意力真的变了。这对做营销的你特别有参考价值。“embrace（拥抱、积极采用）”“distribution（发行、分发）”都是营销和媒体行业的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; Mumbrella; News24 (AAP); Yahoo Lifestyle Australia",
+      "url": "https://www.abc.net.au/news/2026-11-24/abc-to-discontinue-entertains-tv-channel-pursue-youtube-content/107419672",
+      "vocab": [
+        {
+          "word": "embrace",
+          "phonetic": "/ɪmˈbreɪs/",
+          "pos": "v.",
+          "zh": "欣然接受，积极采用（新事物）",
+          "example": "Managing director Hugh Marks said the public broadcaster would embrace YouTube as a primary distribution platform."
+        },
+        {
+          "word": "traditional",
+          "phonetic": "/trəˈdɪʃənl/",
+          "pos": "adj.",
+          "zh": "传统的",
+          "example": "The ABC plans to put the money into more Australian content, as it tries to reach audiences who increasingly watch video online rather than on traditional TV."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲公共电视台ABC要关掉一个电视频道，把精力和钱转到YouTube和本土内容上。",
+        "facts": [
+          {
+            "icon": "📺",
+            "name": "ABC Entertains",
+            "text": "ABC旗下的一个电视频道，将在2027年关闭。"
+          },
+          {
+            "icon": "👔",
+            "name": "Hugh Marks",
+            "text": "ABC总经理，宣布了这次战略调整。"
+          },
+          {
+            "icon": "▶️",
+            "name": "YouTube",
+            "text": "ABC将把它当作主要发行平台，并大幅增加内容。"
+          },
+          {
+            "icon": "💰",
+            "name": "数千万澳元",
+            "text": "Marks说，停掉频道每年可能省下这么多钱。"
+          },
+          {
+            "icon": "🇦🇺",
+            "name": "澳洲本土内容",
+            "text": "省下的钱计划投入到这里。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "观众转向网上看视频",
+            "b": "ABC",
+            "type": "cause",
+            "label": "促使它调整战略"
+          },
+          {
+            "a": "关闭ABC Entertains",
+            "b": "澳洲本土内容",
+            "type": "good",
+            "label": "省下的钱投入其中"
+          },
+          {
+            "a": "ABC",
+            "b": "YouTube",
+            "type": "neutral",
+            "label": "当作主要发行平台"
+          }
+        ],
+        "points": [
+          "ABC将在2027年关闭ABC Entertains电视频道。",
+          "总经理Hugh Marks说要把YouTube当作主要发行平台。",
+          "关掉频道每年可能节省数千万澳元。",
+          "省下的钱将投入更多澳洲本土内容，以吸引在网上看视频的观众。"
+        ],
+        "relevance": "这是澳洲媒体格局变化的一个信号：传统电视在让位给YouTube这样的线上平台。对营销人来说，这意味着投放预算和内容形式也要跟着变——短视频、频道运营和平台算法会越来越重要。以后做澳洲本地推广，YouTube上的ABC内容也可能成为新的合作或投放机会。",
+        "phrase": {
+          "en": "go where the audience is",
+          "zh": "观众在哪里，就去哪里"
+        }
+      }
+    }
+  ]
+}
