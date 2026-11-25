@@ -7804,5 +7804,210 @@
         ]
       }
     ]
+  },
+  {
+    "id": "kitchen-verbs-2",
+    "added": "2026-11-26",
+    "name": "厨房动作 2",
+    "icon": "👩‍🍳",
+    "prompt": "这个动作怎么说？",
+    "items": [
+      {
+        "emoji": "🥘",
+        "w": "simmer",
+        "ph": "/ˈsɪmə/",
+        "pos": "v.",
+        "zh": "小火慢炖",
+        "ex": "Let the sauce simmer for twenty minutes.",
+        "tip": "boil 大火煮开；simmer 小火咕嘟",
+        "accept": [
+          "simmer",
+          "simmering"
+        ],
+        "near": [
+          "deep-fry"
+        ]
+      },
+      {
+        "emoji": "🧈",
+        "w": "spread",
+        "ph": "/spred/",
+        "pos": "v./n.",
+        "zh": "抹（黄油、酱）",
+        "ex": "Spread some butter on the toast.",
+        "tip": "也指“抹酱”名词：Vegemite is a spread",
+        "accept": [
+          "spread",
+          "spreading"
+        ],
+        "near": [
+          "slice"
+        ]
+      },
+      {
+        "emoji": "🥗",
+        "w": "toss",
+        "ph": "/tɒs/",
+        "pos": "v.",
+        "zh": "拌，翻拌",
+        "ex": "Toss the salad with olive oil and lemon.",
+        "tip": "toss 也有“扔”的意思：toss it in the bin",
+        "accept": [
+          "toss",
+          "mix"
+        ],
+        "near": [
+          "rinse"
+        ]
+      },
+      {
+        "emoji": "🍕",
+        "w": "slice",
+        "ph": "/slaɪs/",
+        "pos": "n./v.",
+        "zh": "一片；切片",
+        "ex": "Can I grab another slice of pizza?",
+        "tip": "slice 薄片；chunk 大块；澳洲 slice 也指方块甜点",
+        "accept": [
+          "slice",
+          "slices"
+        ],
+        "near": [
+          "spread"
+        ]
+      },
+      {
+        "emoji": "🥙",
+        "w": "wrap",
+        "ph": "/ræp/",
+        "pos": "n./v.",
+        "zh": "卷饼；包起来",
+        "ex": "I'll just grab a chicken wrap for lunch.",
+        "tip": "wrap up 也指“收尾”",
+        "accept": [
+          "wrap",
+          "kebab"
+        ],
+        "near": [
+          "knead"
+        ]
+      },
+      {
+        "emoji": "🥚",
+        "w": "crack an egg",
+        "ph": "/ˌkræk ən ˈeɡ/",
+        "pos": "phr.",
+        "zh": "打（磕）一个蛋",
+        "ex": "Crack an egg into the bowl and whisk it.",
+        "tip": "whisk 打散；beat 搅打",
+        "accept": [
+          "crack an egg",
+          "crack the egg",
+          "crack eggs"
+        ],
+        "near": [
+          "mash"
+        ]
+      },
+      {
+        "emoji": "🍿",
+        "w": "pop",
+        "ph": "/pɒp/",
+        "pos": "v.",
+        "zh": "（爆米花）爆开；（放进）一下",
+        "ex": "Pop it in the microwave for a minute.",
+        "tip": "澳洲口语 pop = 随手放：pop it in the fridge",
+        "accept": [
+          "pop",
+          "popping",
+          "popcorn"
+        ],
+        "near": [
+          "toss"
+        ]
+      },
+      {
+        "emoji": "🍱",
+        "w": "leftovers",
+        "ph": "/ˈleftəʊvəz/",
+        "pos": "n.",
+        "zh": "剩菜",
+        "ex": "I'm bringing last night's leftovers for lunch.",
+        "tip": "常用复数",
+        "accept": [
+          "leftovers",
+          "leftover"
+        ],
+        "near": [
+          "wrap"
+        ]
+      },
+      {
+        "emoji": "🫓",
+        "w": "knead",
+        "ph": "/niːd/",
+        "pos": "v.",
+        "zh": "揉（面）",
+        "ex": "Knead the dough for about ten minutes.",
+        "tip": "k 不发音，读音同 need",
+        "accept": [
+          "knead",
+          "kneading"
+        ],
+        "near": [
+          "wrap"
+        ]
+      },
+      {
+        "emoji": "🍚",
+        "w": "rinse",
+        "ph": "/rɪns/",
+        "pos": "v.",
+        "zh": "冲洗，淘（米）",
+        "ex": "Rinse the rice until the water runs clear.",
+        "tip": "rinse 冲洗；soak 浸泡",
+        "accept": [
+          "rinse",
+          "wash"
+        ],
+        "near": [
+          "toss"
+        ]
+      },
+      {
+        "emoji": "🍠",
+        "w": "mash",
+        "ph": "/mæʃ/",
+        "pos": "v./n.",
+        "zh": "捣成泥；土豆泥",
+        "ex": "Mash the sweet potato with a bit of butter.",
+        "tip": "mashed potato = 土豆泥（澳洲常说 mash）",
+        "accept": [
+          "mash",
+          "mashed",
+          "mash up"
+        ],
+        "near": [
+          "crack an egg"
+        ]
+      },
+      {
+        "emoji": "🧆",
+        "w": "deep-fry",
+        "ph": "/ˌdiːp ˈfraɪ/",
+        "pos": "v.",
+        "zh": "油炸",
+        "ex": "They deep-fry the falafel until golden.",
+        "tip": "pan-fry 煎；stir-fry 炒；air fryer 空气炸锅",
+        "accept": [
+          "deep-fry",
+          "deep fry",
+          "deep-fried"
+        ],
+        "near": [
+          "simmer"
+        ]
+      }
+    ]
   }
 ]
