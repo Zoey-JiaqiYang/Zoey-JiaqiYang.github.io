@@ -1,219 +1,214 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T01:55:43+11:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T01:54:52+11:00",
   "items": [
     {
-      "category": "markets",
-      "title_en": "Australia's inflation jumps to 4.9%, its highest in about three years",
-      "title_zh": "澳洲通胀飙到4.9%！创约三年新高，油价和电费是“罪魁祸首”",
-      "search_zh": "澳洲 通胀 10月 4.9% 9月 4.3% 三年新高 高于预期 燃油 上涨32.5% 电费 上涨25.2% 电费补贴 结束 截尾均值 3.8% 澳储行 2%-3% 目标",
-      "summary_en": "Australia's annual inflation rate rose to 4.9 per cent in the year to October, up from 4.3 per cent in September and higher than economists had expected. It is the highest reading in about three years, according to new figures from the Australian Bureau of Statistics. Fuel prices were up 32.5 per cent over the year, while electricity prices jumped 25.2 per cent, mainly because government energy rebates from a year earlier have ended. The trimmed mean, a measure of underlying inflation closely watched by the Reserve Bank, also climbed to 3.8 per cent, well above the bank's 2 to 3 per cent target range.",
-      "summary_zh": "截至10月的一年里，澳大利亚的年通胀率升至4.9%，高于9月的4.3%，也高于经济学家的预期。根据澳大利亚统计局公布的新数据，这是大约三年来的最高水平。燃油价格一年内上涨了32.5%，电费则大涨25.2%，主要原因是一年前政府发放的电费补贴已经结束。澳洲储备银行密切关注的“截尾均值”（衡量核心通胀的指标）也升至3.8%，远高于该行2%到3%的目标区间。",
-      "why_zh": "通胀直接关系到你每天加油、交电费和买东西的花费，也会影响以后的房贷利率。消费者手头一紧，品牌的促销和定价策略也得跟着调整。“rebates（补贴、返款）”“underlying（潜在的、核心的）”都是财经新闻高频词。",
+      "category": "china",
+      "title_en": "Ancient teeth from Guangxi caves reveal Denisovans in southern China, and possibly an unknown human group",
+      "title_zh": "广西洞穴发现古人类牙齿！丹尼索瓦人首现华南，还可能有一支“未知古人类”",
+      "search_zh": "广西 古人类 牙齿 丹尼索瓦人 龙船洞 穿山洞 未知古人类支系 10.1万年 付巧妹 中国科学院 自然 Nature 古蛋白",
+      "summary_en": "Chinese scientists say four ancient human teeth found in two caves in Guangxi show that Denisovans, a mysterious extinct group of early humans, once lived in southern China. The study, published in the journal Nature, was carried out by a team including Fu Qiaomei of the Chinese Academy of Sciences. Teeth from Longchuandong cave matched Denisovans in both their shape and their ancient proteins, the first time the group has been found in China's subtropical south. However, a tooth from a second cave, Chuanshandong, did not fit any known group, and the researchers believe it may come from an unidentified human lineage dating back at least 101,000 years, although they have not named a new species.",
+      "summary_zh": "中国科学家表示，在广西两处洞穴中发现的4颗古人类牙齿表明，丹尼索瓦人——一个神秘的、已经灭绝的早期人类群体——曾经生活在中国南方。这项研究发表在《自然》杂志上，研究团队成员包括中国科学院的付巧妹。龙船洞出土的牙齿在形态和古蛋白上都与丹尼索瓦人相符，这是首次在中国亚热带南方发现这一人群。不过，另一处洞穴穿山洞出土的一颗牙齿与任何已知人群都对不上，研究人员认为它可能来自一个距今至少10.1万年的未知古人类支系，但他们还没有给它命名为新物种。",
+      "why_zh": "这是一个关于“我们从哪里来”的重大考古发现，小小几颗牙齿就能改写人类演化的地图，很适合当聊天话题。“extinct（灭绝的）”“lineage（血统、支系）”是科学和历史新闻里的高频词。",
       "image": "",
       "image_credit": "",
-      "source": "ABC News; Australian Bureau of Statistics; CommBank Newsroom; SBS News; Yahoo Finance; The Nightly",
-      "url": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+      "source": "Nature; Xinhua; Guangming Online (光明网); Science and Technology Daily (科技日报); China.com.cn (中国网); Nature World News",
+      "url": "https://english.news.cn/20261126/de68cea8def34ac98d3855ffbb2044b6/c.html",
       "vocab": [
         {
-          "word": "rebates",
-          "phonetic": "/ˈriːbeɪts/",
-          "pos": "n.",
-          "zh": "补贴，返款，退款（rebate的复数）",
-          "example": "Fuel prices were up 32.5 per cent over the year, while electricity prices jumped 25.2 per cent, mainly because government energy rebates from a year earlier have ended."
+          "word": "extinct",
+          "phonetic": "/ɪkˈstɪŋkt/",
+          "pos": "adj.",
+          "zh": "灭绝的，绝种的",
+          "example": "Chinese scientists say four ancient human teeth found in two caves in Guangxi show that Denisovans, a mysterious extinct group of early humans, once lived in southern China."
         },
         {
-          "word": "underlying",
-          "phonetic": "/ˌʌndəˈlaɪɪŋ/",
-          "pos": "adj.",
-          "zh": "潜在的，根本的；（经济中）核心的",
-          "example": "The trimmed mean, a measure of underlying inflation closely watched by the Reserve Bank, also climbed to 3.8 per cent, well above the bank's 2 to 3 per cent target range."
+          "word": "lineage",
+          "phonetic": "/ˈlɪniɪdʒ/",
+          "pos": "n.",
+          "zh": "血统，世系；（演化上的）支系",
+          "example": "However, a tooth from a second cave, Chuanshandong, did not fit any known group, and the researchers believe it may come from an unidentified human lineage dating back at least 101,000 years, although they have not named a new species."
         }
       ],
       "explain": {
-        "one_liner": "澳洲物价涨得比预期还快，一年涨了4.9%，主要是油价和电费推高的。",
+        "one_liner": "广西洞穴里的几颗古人类牙齿，证明神秘的丹尼索瓦人到过中国南方，还可能藏着一支没人认识的古人类。",
         "facts": [
           {
-            "icon": "📈",
-            "name": "通胀率 4.9%",
-            "text": "截至10月的一年物价涨幅，9月时还是4.3%，是约三年来最高。"
+            "icon": "🦷",
+            "name": "4颗牙齿",
+            "text": "出土于广西的两处洞穴：龙船洞和穿山洞。"
           },
           {
-            "icon": "⛽",
-            "name": "燃油",
-            "text": "一年内涨了32.5%，是推高通胀的主要因素之一。"
+            "icon": "🧬",
+            "name": "丹尼索瓦人",
+            "text": "一个已经灭绝的神秘早期人类群体。龙船洞的牙齿在形态和古蛋白上都和他们相符。"
           },
           {
-            "icon": "💡",
-            "name": "电费",
-            "text": "一年涨了25.2%，主要因为一年前的政府电费补贴结束了。"
+            "icon": "❓",
+            "name": "未知支系",
+            "text": "穿山洞的一颗牙齿对不上任何已知人群，距今至少10.1万年，但还没被命名为新物种。"
           },
           {
-            "icon": "🎯",
-            "name": "截尾均值 3.8%",
-            "text": "澳储行重点看的核心通胀指标，高于2%–3%的目标区间。"
+            "icon": "👩‍🔬",
+            "name": "付巧妹",
+            "text": "中国科学院的科学家，是研究团队成员之一。"
           },
           {
-            "icon": "🏦",
-            "name": "澳洲储备银行（RBA）",
-            "text": "澳洲的央行，负责把通胀控制在目标范围内。"
+            "icon": "📖",
+            "name": "《自然》（Nature）",
+            "text": "世界顶级科学期刊，这项研究就发表在上面。"
           }
         ],
         "relations": [
           {
-            "a": "油价上涨",
-            "b": "通胀率",
-            "type": "cause",
-            "label": "推高物价"
+            "a": "龙船洞牙齿",
+            "b": "丹尼索瓦人",
+            "type": "good",
+            "label": "形态和古蛋白都相符"
           },
           {
-            "a": "电费补贴结束",
-            "b": "电费",
-            "type": "cause",
-            "label": "一年涨了25.2%"
-          },
-          {
-            "a": "核心通胀3.8%",
-            "b": "澳储行目标",
-            "type": "bad",
-            "label": "高于2%–3%的区间"
-          },
-          {
-            "a": "通胀数据",
-            "b": "经济学家预期",
+            "a": "穿山洞牙齿",
+            "b": "已知人群",
             "type": "neutral",
-            "label": "比预期更高"
+            "label": "对不上，可能是未知支系"
+          },
+          {
+            "a": "这项发现",
+            "b": "中国亚热带南方",
+            "type": "cause",
+            "label": "首次在这里找到丹尼索瓦人"
           }
         ],
         "points": [
-          "截至10月，澳洲年通胀率升到4.9%，高于9月的4.3%，也高于预期。",
-          "这是大约三年来的最高水平。",
-          "燃油一年涨32.5%，电费涨25.2%（因为去年的电费补贴结束了）。",
-          "核心通胀指标升到3.8%，高于澳储行2%–3%的目标。"
+          "广西两处洞穴发现了4颗古人类牙齿。",
+          "龙船洞的牙齿属于丹尼索瓦人，这是首次在中国亚热带南方发现他们。",
+          "穿山洞的一颗牙齿可能来自一个至少10.1万年前的未知古人类支系。",
+          "研究发表在《自然》上，但科学家还没有给它命名为新物种。"
         ],
-        "relevance": "通胀高意味着消费者觉得“钱不经花”，会更看重性价比、折扣和会员福利。做营销时，年底促销文案可以多强调“省钱”“划算”和实际价值。同时，客户公司也可能因成本上升而压缩广告预算，需要更注重投放效果和ROI。",
+        "relevance": "“重大发现”“首次”“未知”这类词天生自带传播力，是科普内容和品牌故事常用的钩子。如果你做文化、旅游或教育相关的推广，可以留意这类话题带来的关注度，比如广西的文旅宣传就可能借势。用英文聊这种新闻，也能在和同事闲聊时显得很有话题感。",
         "phrase": {
-          "en": "feel the pinch",
-          "zh": "感到手头紧，经济上吃紧"
+          "en": "rewrite the history books",
+          "zh": "改写历史（指一个发现颠覆了原有认识）"
         }
       }
     },
     {
-      "category": "china",
-      "title_en": "Huawei says its HarmonyOS now runs on more than 100 million devices",
-      "title_zh": "鸿蒙设备突破1亿台！华为发布会上宣布新里程碑",
-      "search_zh": "华为 鸿蒙 HarmonyOS 终端设备 突破1亿 余承东 Mate X8 发布会 11月24日 手机 平板 电脑 HarmonyOS 5 6 7 应用和服务 超46万 注册开发者 超1200万",
-      "summary_en": "Huawei says its home-grown HarmonyOS operating system is now running on more than 100 million devices. The figure was announced by Huawei executive Richard Yu on Tuesday, at a launch event for the company's new Mate X8 phone. The count includes phones, tablets and computers running HarmonyOS 5, 6 and 7, and these newer versions of the system no longer rely on Google's Android. Huawei also said the platform now offers more than 460,000 apps and services and has over 12 million registered developers.",
-      "summary_zh": "华为表示，其自主研发的鸿蒙操作系统目前已在超过1亿台设备上运行。这一数字由华为高管余承东于周二在华为新款Mate X8手机的发布会上宣布。统计范围包括运行HarmonyOS 5、6和7的手机、平板和电脑，这几个版本的系统已不再依赖谷歌的安卓。华为还表示，该平台目前可提供超过46万个应用和服务，注册开发者超过1200万。",
-      "why_zh": "鸿蒙是中国科技圈最受关注的“国产系统”，1亿台是一个很有标志性的数字。对做营销的人来说，平台用户规模越大，在上面做App、广告和内容的机会就越多。“home-grown（本土自产的）”“rely on（依赖）”在商业新闻里很常见。",
+      "category": "australia",
+      "title_en": "TVSN, Australia's only TV shopping channel, goes into liquidation after 31 years",
+      "title_zh": "澳洲唯一电视购物频道TVSN倒闭清算，31年老牌落幕，供应商还在等货款",
+      "search_zh": "TVSN 澳洲 电视购物 频道 清算 31年 停播 Direct Group 读者文摘 Fort Restructuring 清算人 供应商 欠款",
+      "summary_en": "TVSN, Australia's only dedicated TV shopping channel, has gone into liquidation after 31 years on air. The channel stopped broadcasting earlier this month after its owner, Direct Group, which is also behind Reader's Digest, failed to find a buyer or new investment. Liquidators from Fort Restructuring have been appointed and are now working out how much money is owed and what assets are left. Some suppliers, which sent stock to TVSN's warehouse so it could be sold on air, say they are still owed money.",
+      "summary_zh": "TVSN是澳大利亚唯一一家专门的电视购物频道，在播出31年后进入了清算程序。该频道本月早些时候已停止播出，此前其母公司Direct Group（也是《读者文摘》背后的公司）未能找到买家或新的投资。Fort Restructuring公司的清算人已被任命，目前正在核算公司欠了多少钱、还剩下哪些资产。一些曾把货物送到TVSN仓库、准备在节目中销售的供应商表示，他们仍有货款没有拿到。",
+      "why_zh": "电视购物曾是很多人熟悉的购物方式，它的倒闭反映了消费者越来越多转向网购和直播带货。“liquidation（清算）”“assets（资产）”是商业新闻里描述公司倒闭时最常见的词。",
       "image": "",
       "image_credit": "",
-      "source": "DigiTimes; tech-ish; People's Daily (人民网); Sina (新浪); NetEase (网易); Sohu (搜狐)",
-      "url": "https://www.digitimes.com/news/a20261124VL221/huawei-harmonyos-operating-system-apple-2026.html",
+      "source": "ABC News; AdNews; Ragtrader; Yahoo Finance; news.com.au; IBTimes",
+      "url": "https://www.abc.net.au/news/2026-11-26/tvsn-shopping-network-channel-liquidation/107428726",
       "vocab": [
         {
-          "word": "home-grown",
-          "phonetic": "/ˌhəʊm ˈɡrəʊn/",
-          "pos": "adj.",
-          "zh": "本土的，自主研发的，国产的",
-          "example": "Huawei says its home-grown HarmonyOS operating system is now running on more than 100 million devices."
+          "word": "liquidation",
+          "phonetic": "/ˌlɪkwɪˈdeɪʃn/",
+          "pos": "n.",
+          "zh": "清算，停业清理（公司倒闭后变卖资产还债）",
+          "example": "TVSN, Australia's only dedicated TV shopping channel, has gone into liquidation after 31 years on air."
         },
         {
-          "word": "rely",
-          "phonetic": "/rɪˈlaɪ/",
-          "pos": "v.",
-          "zh": "依赖，依靠（常用搭配 rely on）",
-          "example": "The count includes phones, tablets and computers running HarmonyOS 5, 6 and 7, and these newer versions of the system no longer rely on Google's Android."
+          "word": "assets",
+          "phonetic": "/ˈæsets/",
+          "pos": "n.",
+          "zh": "资产，财产（asset的复数）",
+          "example": "Liquidators from Fort Restructuring have been appointed and are now working out how much money is owed and what assets are left."
         }
       ],
       "explain": {
-        "one_liner": "华为自己的手机系统“鸿蒙”，现在已经装在1亿多台设备上了。",
+        "one_liner": "澳洲唯一的电视购物频道TVSN开了31年，没找到买家，最终倒闭进入清算。",
         "facts": [
           {
-            "icon": "📱",
-            "name": "鸿蒙（HarmonyOS）",
-            "text": "华为自主研发的操作系统，新版本不再依赖安卓。"
+            "icon": "📺",
+            "name": "TVSN",
+            "text": "澳大利亚唯一一家专门的电视购物频道，播出了31年。"
           },
           {
-            "icon": "💯",
-            "name": "1亿台",
-            "text": "运行HarmonyOS 5、6、7的手机、平板和电脑总数已超过这个数字。"
+            "icon": "🏢",
+            "name": "Direct Group",
+            "text": "TVSN的母公司，也是《读者文摘》背后的公司，没能找到买家或新投资。"
           },
           {
-            "icon": "🎤",
-            "name": "余承东（Richard Yu）",
-            "text": "华为高管，周二在发布会上宣布了这个数字。"
+            "icon": "⚖️",
+            "name": "Fort Restructuring",
+            "text": "被任命为清算人的公司，正在核算欠款和剩余资产。"
           },
           {
-            "icon": "📲",
-            "name": "Mate X8",
-            "text": "华为的新款手机，这次发布会的主角。"
-          },
-          {
-            "icon": "🧩",
-            "name": "应用和开发者",
-            "text": "鸿蒙上有超过46万个应用和服务，注册开发者超过1200万。"
+            "icon": "📦",
+            "name": "供应商",
+            "text": "有些供应商把货送进TVSN仓库准备上节目卖，现在还没拿到钱。"
           }
         ],
         "relations": [
           {
-            "a": "鸿蒙",
-            "b": "安卓",
+            "a": "Direct Group",
+            "b": "TVSN",
             "type": "neutral",
-            "label": "新版本不再依赖"
+            "label": "母公司"
           },
           {
-            "a": "开发者和应用",
-            "b": "鸿蒙",
-            "type": "good",
-            "label": "让平台更好用"
+            "a": "没找到买家或投资",
+            "b": "TVSN停播",
+            "type": "cause",
+            "label": "导致倒闭"
           },
           {
-            "a": "Mate X8发布会",
-            "b": "1亿台",
+            "a": "TVSN",
+            "b": "供应商",
+            "type": "bad",
+            "label": "仍欠着货款"
+          },
+          {
+            "a": "清算人",
+            "b": "欠款和资产",
             "type": "neutral",
-            "label": "在这里宣布"
+            "label": "正在核算"
           }
         ],
         "points": [
-          "华为说鸿蒙系统已运行在超过1亿台设备上。",
-          "余承东周二在Mate X8发布会上宣布了这个消息。",
-          "统计包括运行HarmonyOS 5、6、7的手机、平板和电脑，这些版本不再依赖安卓。",
-          "平台有超过46万个应用和服务、超过1200万注册开发者。"
+          "TVSN是澳洲唯一的电视购物频道，播出31年后进入清算。",
+          "本月早些时候频道已经停播。",
+          "母公司Direct Group没能找到买家或新投资。",
+          "清算人正在核算欠款和资产，一些供应商还在等货款。"
         ],
-        "relevance": "如果你的工作涉及面向华人消费者的推广，鸿蒙生态正在变成一个不能忽视的渠道——App是否适配鸿蒙、能否在华为应用市场曝光，都会影响触达效果。另外，“1亿”这样的整数里程碑本身就是很好的传播点，是品牌宣传常用的套路。",
+        "relevance": "这是营销渠道变迁的真实案例：传统电视购物让位给电商、社交媒体和直播带货。做营销时要不断评估渠道是否还“活着”，别把预算押在正在衰落的平台上。另外，和合作渠道打交道时也要留意对方的财务状况，避免像这些供应商一样货款收不回来。",
         "phrase": {
-          "en": "hit a milestone",
-          "zh": "达到一个里程碑"
+          "en": "go under",
+          "zh": "（公司）倒闭，破产"
         }
       }
     },
     {
       "category": "entertainment",
-      "title_en": "Six-year-old calls TV host Wu Xin 'grandma' on a variety show, and the clip goes viral",
-      "title_zh": "吴昕被6岁小师傅喊“奶奶”当场愣住，自称“吴昕妹妹”笑翻网友",
-      "search_zh": "吴昕 被6岁小师傅叫奶奶 快乐老家 第二季 青城山 学武 李维嘉 爷爷奶奶 吴昕妹妹",
-      "summary_en": "TV host Wu Xin has become a hot topic on Weibo after a six-year-old called her \"grandma\" on a variety show. The moment happened on the second season of the show Happy Hometown, during a segment in which the guests learned martial arts at Mount Qingcheng. The young martial arts teacher addressed Wu Xin and fellow guest Li Weijia as \"grandpa and grandma\", leaving Wu stunned for a moment. She quickly turned the awkward moment into a joke by calling herself \"little sister Wu Xin\", and the clip has been widely shared online.",
-      "summary_zh": "主持人吴昕在一档综艺节目中被一名6岁的孩子叫“奶奶”，随即登上微博热门话题。这一幕出现在《快乐老家》第二季中，当时嘉宾们正在青城山学武。这位年幼的武术小师傅把吴昕和同行嘉宾李维嘉称为“爷爷奶奶”，让吴昕当场愣了一下。她很快自称“吴昕妹妹”，把尴尬的场面变成了笑点，这段视频也在网上被广泛转发。",
-      "why_zh": "这是一条轻松好笑的热搜，很多人都有被小朋友“叫老了”的经历。吴昕用一句自嘲化解尴尬，也是很好的“危机公关”小示范。“stunned（愣住、惊呆）”“awkward（尴尬的）”都是日常聊天超常用的词。",
+      "title_en": "Actress Wang Yuwen faces boycott calls over fur brand endorsement; her studio says the ads weren't about fur",
+      "title_zh": "“爱宠女星”王玉雯代言皮草品牌遭抵制上热搜，工作室回应：主推的不是皮草",
+      "search_zh": "王玉雯 代言 皮草 网友抵制 热搜 工作室回应 皮衣 派克服 美利奴羊毛外套 品牌方声明 爱宠",
+      "summary_en": "Actress Wang Yuwen has become a hot topic on Weibo after some netizens called for a boycott over her endorsement of a clothing brand that sells real fur. Critics said the deal clashed with her public image, as she often shares posts about her pets on social media. Her studio responded that the products she appeared with were mainly leather jackets, parkas and merino wool coats, and that the campaign was not focused on promoting fur. The brand also issued its own statement saying the shoot did not focus on fur, while the studio said it would use stricter standards when assessing future partnerships.",
+      "summary_zh": "一些网友因演员王玉雯代言一个销售真皮草的服装品牌而发起抵制，她随即登上微博热门话题。批评者认为，这次代言与她的公众形象相冲突，因为她经常在社交媒体上分享宠物日常。她的工作室回应称，她出镜的产品主要是皮衣、派克服和美利奴羊毛外套，这次宣传并不是以推广皮草为主。品牌方也发表声明称拍摄并非主推皮草，工作室则表示今后会用更严格的标准评估合作。",
+      "why_zh": "明星“人设”和代言品牌不匹配，很容易引发粉丝反弹，这是品牌营销里的经典风险。“boycott（抵制）”“clash with（与……冲突）”在讨论舆论和品牌危机时非常常用。",
       "image": "",
       "image_credit": "",
-      "source": "Sina Entertainment (新浪娱乐); Weibo (微博)",
-      "url": "https://ent.sina.cn/2026-11-25/detail-inizwwnv4416841.d.html?vt=4",
+      "source": "Tencent News (腾讯新闻); HK01 (香港01); NetEase (网易); Sina (新浪)",
+      "url": "https://news.qq.com/rain/a/20261125A0G13600",
       "vocab": [
         {
-          "word": "stunned",
-          "phonetic": "/stʌnd/",
-          "pos": "adj.",
-          "zh": "惊呆的，愣住的",
-          "example": "The young martial arts teacher addressed Wu Xin and fellow guest Li Weijia as \"grandpa and grandma\", leaving Wu stunned for a moment."
+          "word": "boycott",
+          "phonetic": "/ˈbɔɪkɒt/",
+          "pos": "n.",
+          "zh": "抵制，拒绝购买",
+          "example": "Actress Wang Yuwen has become a hot topic on Weibo after some netizens called for a boycott over her endorsement of a clothing brand that sells real fur."
         },
         {
-          "word": "awkward",
-          "phonetic": "/ˈɔːkwəd/",
-          "pos": "adj.",
-          "zh": "尴尬的，令人难堪的",
-          "example": "She quickly turned the awkward moment into a joke by calling herself \"little sister Wu Xin\", and the clip has been widely shared online."
+          "word": "clashed",
+          "phonetic": "/klæʃt/",
+          "pos": "v.",
+          "zh": "冲突，不协调（clash的过去式，常用搭配 clash with）",
+          "example": "Critics said the deal clashed with her public image, as she often shares posts about her pets on social media."
         }
       ]
     }

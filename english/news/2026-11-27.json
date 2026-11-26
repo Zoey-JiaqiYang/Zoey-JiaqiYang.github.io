@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T01:54:52+11:00",
+  "items": [
+    {
+      "category": "china",
+      "title_en": "Ancient teeth from Guangxi caves reveal Denisovans in southern China, and possibly an unknown human group",
+      "title_zh": "广西洞穴发现古人类牙齿！丹尼索瓦人首现华南，还可能有一支“未知古人类”",
+      "search_zh": "广西 古人类 牙齿 丹尼索瓦人 龙船洞 穿山洞 未知古人类支系 10.1万年 付巧妹 中国科学院 自然 Nature 古蛋白",
+      "summary_en": "Chinese scientists say four ancient human teeth found in two caves in Guangxi show that Denisovans, a mysterious extinct group of early humans, once lived in southern China. The study, published in the journal Nature, was carried out by a team including Fu Qiaomei of the Chinese Academy of Sciences. Teeth from Longchuandong cave matched Denisovans in both their shape and their ancient proteins, the first time the group has been found in China's subtropical south. However, a tooth from a second cave, Chuanshandong, did not fit any known group, and the researchers believe it may come from an unidentified human lineage dating back at least 101,000 years, although they have not named a new species.",
+      "summary_zh": "中国科学家表示，在广西两处洞穴中发现的4颗古人类牙齿表明，丹尼索瓦人——一个神秘的、已经灭绝的早期人类群体——曾经生活在中国南方。这项研究发表在《自然》杂志上，研究团队成员包括中国科学院的付巧妹。龙船洞出土的牙齿在形态和古蛋白上都与丹尼索瓦人相符，这是首次在中国亚热带南方发现这一人群。不过，另一处洞穴穿山洞出土的一颗牙齿与任何已知人群都对不上，研究人员认为它可能来自一个距今至少10.1万年的未知古人类支系，但他们还没有给它命名为新物种。",
+      "why_zh": "这是一个关于“我们从哪里来”的重大考古发现，小小几颗牙齿就能改写人类演化的地图，很适合当聊天话题。“extinct（灭绝的）”“lineage（血统、支系）”是科学和历史新闻里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "Nature; Xinhua; Guangming Online (光明网); Science and Technology Daily (科技日报); China.com.cn (中国网); Nature World News",
+      "url": "https://english.news.cn/20261126/de68cea8def34ac98d3855ffbb2044b6/c.html",
+      "vocab": [
+        {
+          "word": "extinct",
+          "phonetic": "/ɪkˈstɪŋkt/",
+          "pos": "adj.",
+          "zh": "灭绝的，绝种的",
+          "example": "Chinese scientists say four ancient human teeth found in two caves in Guangxi show that Denisovans, a mysterious extinct group of early humans, once lived in southern China."
+        },
+        {
+          "word": "lineage",
+          "phonetic": "/ˈlɪniɪdʒ/",
+          "pos": "n.",
+          "zh": "血统，世系；（演化上的）支系",
+          "example": "However, a tooth from a second cave, Chuanshandong, did not fit any known group, and the researchers believe it may come from an unidentified human lineage dating back at least 101,000 years, although they have not named a new species."
+        }
+      ],
+      "explain": {
+        "one_liner": "广西洞穴里的几颗古人类牙齿，证明神秘的丹尼索瓦人到过中国南方，还可能藏着一支没人认识的古人类。",
+        "facts": [
+          {
+            "icon": "🦷",
+            "name": "4颗牙齿",
+            "text": "出土于广西的两处洞穴：龙船洞和穿山洞。"
+          },
+          {
+            "icon": "🧬",
+            "name": "丹尼索瓦人",
+            "text": "一个已经灭绝的神秘早期人类群体。龙船洞的牙齿在形态和古蛋白上都和他们相符。"
+          },
+          {
+            "icon": "❓",
+            "name": "未知支系",
+            "text": "穿山洞的一颗牙齿对不上任何已知人群，距今至少10.1万年，但还没被命名为新物种。"
+          },
+          {
+            "icon": "👩‍🔬",
+            "name": "付巧妹",
+            "text": "中国科学院的科学家，是研究团队成员之一。"
+          },
+          {
+            "icon": "📖",
+            "name": "《自然》（Nature）",
+            "text": "世界顶级科学期刊，这项研究就发表在上面。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "龙船洞牙齿",
+            "b": "丹尼索瓦人",
+            "type": "good",
+            "label": "形态和古蛋白都相符"
+          },
+          {
+            "a": "穿山洞牙齿",
+            "b": "已知人群",
+            "type": "neutral",
+            "label": "对不上，可能是未知支系"
+          },
+          {
+            "a": "这项发现",
+            "b": "中国亚热带南方",
+            "type": "cause",
+            "label": "首次在这里找到丹尼索瓦人"
+          }
+        ],
+        "points": [
+          "广西两处洞穴发现了4颗古人类牙齿。",
+          "龙船洞的牙齿属于丹尼索瓦人，这是首次在中国亚热带南方发现他们。",
+          "穿山洞的一颗牙齿可能来自一个至少10.1万年前的未知古人类支系。",
+          "研究发表在《自然》上，但科学家还没有给它命名为新物种。"
+        ],
+        "relevance": "“重大发现”“首次”“未知”这类词天生自带传播力，是科普内容和品牌故事常用的钩子。如果你做文化、旅游或教育相关的推广，可以留意这类话题带来的关注度，比如广西的文旅宣传就可能借势。用英文聊这种新闻，也能在和同事闲聊时显得很有话题感。",
+        "phrase": {
+          "en": "rewrite the history books",
+          "zh": "改写历史（指一个发现颠覆了原有认识）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "TVSN, Australia's only TV shopping channel, goes into liquidation after 31 years",
+      "title_zh": "澳洲唯一电视购物频道TVSN倒闭清算，31年老牌落幕，供应商还在等货款",
+      "search_zh": "TVSN 澳洲 电视购物 频道 清算 31年 停播 Direct Group 读者文摘 Fort Restructuring 清算人 供应商 欠款",
+      "summary_en": "TVSN, Australia's only dedicated TV shopping channel, has gone into liquidation after 31 years on air. The channel stopped broadcasting earlier this month after its owner, Direct Group, which is also behind Reader's Digest, failed to find a buyer or new investment. Liquidators from Fort Restructuring have been appointed and are now working out how much money is owed and what assets are left. Some suppliers, which sent stock to TVSN's warehouse so it could be sold on air, say they are still owed money.",
+      "summary_zh": "TVSN是澳大利亚唯一一家专门的电视购物频道，在播出31年后进入了清算程序。该频道本月早些时候已停止播出，此前其母公司Direct Group（也是《读者文摘》背后的公司）未能找到买家或新的投资。Fort Restructuring公司的清算人已被任命，目前正在核算公司欠了多少钱、还剩下哪些资产。一些曾把货物送到TVSN仓库、准备在节目中销售的供应商表示，他们仍有货款没有拿到。",
+      "why_zh": "电视购物曾是很多人熟悉的购物方式，它的倒闭反映了消费者越来越多转向网购和直播带货。“liquidation（清算）”“assets（资产）”是商业新闻里描述公司倒闭时最常见的词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; AdNews; Ragtrader; Yahoo Finance; news.com.au; IBTimes",
+      "url": "https://www.abc.net.au/news/2026-11-26/tvsn-shopping-network-channel-liquidation/107428726",
+      "vocab": [
+        {
+          "word": "liquidation",
+          "phonetic": "/ˌlɪkwɪˈdeɪʃn/",
+          "pos": "n.",
+          "zh": "清算，停业清理（公司倒闭后变卖资产还债）",
+          "example": "TVSN, Australia's only dedicated TV shopping channel, has gone into liquidation after 31 years on air."
+        },
+        {
+          "word": "assets",
+          "phonetic": "/ˈæsets/",
+          "pos": "n.",
+          "zh": "资产，财产（asset的复数）",
+          "example": "Liquidators from Fort Restructuring have been appointed and are now working out how much money is owed and what assets are left."
+        }
+      ],
+      "explain": {
+        "one_liner": "澳洲唯一的电视购物频道TVSN开了31年，没找到买家，最终倒闭进入清算。",
+        "facts": [
+          {
+            "icon": "📺",
+            "name": "TVSN",
+            "text": "澳大利亚唯一一家专门的电视购物频道，播出了31年。"
+          },
+          {
+            "icon": "🏢",
+            "name": "Direct Group",
+            "text": "TVSN的母公司，也是《读者文摘》背后的公司，没能找到买家或新投资。"
+          },
+          {
+            "icon": "⚖️",
+            "name": "Fort Restructuring",
+            "text": "被任命为清算人的公司，正在核算欠款和剩余资产。"
+          },
+          {
+            "icon": "📦",
+            "name": "供应商",
+            "text": "有些供应商把货送进TVSN仓库准备上节目卖，现在还没拿到钱。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Direct Group",
+            "b": "TVSN",
+            "type": "neutral",
+            "label": "母公司"
+          },
+          {
+            "a": "没找到买家或投资",
+            "b": "TVSN停播",
+            "type": "cause",
+            "label": "导致倒闭"
+          },
+          {
+            "a": "TVSN",
+            "b": "供应商",
+            "type": "bad",
+            "label": "仍欠着货款"
+          },
+          {
+            "a": "清算人",
+            "b": "欠款和资产",
+            "type": "neutral",
+            "label": "正在核算"
+          }
+        ],
+        "points": [
+          "TVSN是澳洲唯一的电视购物频道，播出31年后进入清算。",
+          "本月早些时候频道已经停播。",
+          "母公司Direct Group没能找到买家或新投资。",
+          "清算人正在核算欠款和资产，一些供应商还在等货款。"
+        ],
+        "relevance": "这是营销渠道变迁的真实案例：传统电视购物让位给电商、社交媒体和直播带货。做营销时要不断评估渠道是否还“活着”，别把预算押在正在衰落的平台上。另外，和合作渠道打交道时也要留意对方的财务状况，避免像这些供应商一样货款收不回来。",
+        "phrase": {
+          "en": "go under",
+          "zh": "（公司）倒闭，破产"
+        }
+      }
+    },
+    {
+      "category": "entertainment",
+      "title_en": "Actress Wang Yuwen faces boycott calls over fur brand endorsement; her studio says the ads weren't about fur",
+      "title_zh": "“爱宠女星”王玉雯代言皮草品牌遭抵制上热搜，工作室回应：主推的不是皮草",
+      "search_zh": "王玉雯 代言 皮草 网友抵制 热搜 工作室回应 皮衣 派克服 美利奴羊毛外套 品牌方声明 爱宠",
+      "summary_en": "Actress Wang Yuwen has become a hot topic on Weibo after some netizens called for a boycott over her endorsement of a clothing brand that sells real fur. Critics said the deal clashed with her public image, as she often shares posts about her pets on social media. Her studio responded that the products she appeared with were mainly leather jackets, parkas and merino wool coats, and that the campaign was not focused on promoting fur. The brand also issued its own statement saying the shoot did not focus on fur, while the studio said it would use stricter standards when assessing future partnerships.",
+      "summary_zh": "一些网友因演员王玉雯代言一个销售真皮草的服装品牌而发起抵制，她随即登上微博热门话题。批评者认为，这次代言与她的公众形象相冲突，因为她经常在社交媒体上分享宠物日常。她的工作室回应称，她出镜的产品主要是皮衣、派克服和美利奴羊毛外套，这次宣传并不是以推广皮草为主。品牌方也发表声明称拍摄并非主推皮草，工作室则表示今后会用更严格的标准评估合作。",
+      "why_zh": "明星“人设”和代言品牌不匹配，很容易引发粉丝反弹，这是品牌营销里的经典风险。“boycott（抵制）”“clash with（与……冲突）”在讨论舆论和品牌危机时非常常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "Tencent News (腾讯新闻); HK01 (香港01); NetEase (网易); Sina (新浪)",
+      "url": "https://news.qq.com/rain/a/20261125A0G13600",
+      "vocab": [
+        {
+          "word": "boycott",
+          "phonetic": "/ˈbɔɪkɒt/",
+          "pos": "n.",
+          "zh": "抵制，拒绝购买",
+          "example": "Actress Wang Yuwen has become a hot topic on Weibo after some netizens called for a boycott over her endorsement of a clothing brand that sells real fur."
+        },
+        {
+          "word": "clashed",
+          "phonetic": "/klæʃt/",
+          "pos": "v.",
+          "zh": "冲突，不协调（clash的过去式，常用搭配 clash with）",
+          "example": "Critics said the deal clashed with her public image, as she often shares posts about her pets on social media."
+        }
+      ]
+    }
+  ]
+}
