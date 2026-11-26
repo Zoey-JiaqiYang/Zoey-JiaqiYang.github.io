@@ -8009,5 +8009,214 @@
         ]
       }
     ]
+  },
+  {
+    "id": "body-looks",
+    "added": "2026-11-27",
+    "name": "身体与外貌",
+    "icon": "🧍",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🦵",
+        "w": "calf",
+        "ph": "/kɑːf/",
+        "pos": "n.",
+        "zh": "小腿肚",
+        "ex": "I pulled a calf muscle playing netball.",
+        "tip": "l 不发音；复数 calves；也指小牛",
+        "accept": [
+          "calf",
+          "calves",
+          "calf muscle"
+        ],
+        "near": [
+          "barefoot"
+        ]
+      },
+      {
+        "emoji": "🫀",
+        "w": "heart rate",
+        "ph": "/ˈhɑːt reɪt/",
+        "pos": "n.",
+        "zh": "心率",
+        "ex": "My watch says my heart rate is 120.",
+        "tip": "resting heart rate 静息心率",
+        "accept": [
+          "heart rate",
+          "pulse",
+          "heartbeat"
+        ],
+        "near": [
+          "palm"
+        ]
+      },
+      {
+        "emoji": "👁️",
+        "w": "eyelid",
+        "ph": "/ˈaɪlɪd/",
+        "pos": "n.",
+        "zh": "眼皮",
+        "ex": "My eyelid keeps twitching — too much coffee.",
+        "tip": "eyelash 睫毛；eyebrow 眉毛",
+        "accept": [
+          "eyelid",
+          "eyelids"
+        ],
+        "near": []
+      },
+      {
+        "emoji": "👅",
+        "w": "tongue-tied",
+        "ph": "/ˈtʌŋ taɪd/",
+        "pos": "adj.",
+        "zh": "紧张得说不出话",
+        "ex": "I got completely tongue-tied in the interview.",
+        "tip": "比喻用法，紧张时用",
+        "accept": [
+          "tongue-tied",
+          "tongue tied",
+          "lost for words"
+        ],
+        "near": [
+          "lip-sync"
+        ]
+      },
+      {
+        "emoji": "👄",
+        "w": "lip-sync",
+        "ph": "/ˈlɪp sɪŋk/",
+        "pos": "v./n.",
+        "zh": "对口型（假唱）",
+        "ex": "Everyone could tell the singer was lip-syncing.",
+        "tip": "sync 读 /sɪŋk/",
+        "accept": [
+          "lip-sync",
+          "lip sync",
+          "lip-synch",
+          "mime"
+        ],
+        "near": [
+          "tongue-tied"
+        ]
+      },
+      {
+        "emoji": "🫦",
+        "w": "bite your lip",
+        "ph": "/ˌbaɪt jə ˈlɪp/",
+        "pos": "phr.",
+        "zh": "咬嘴唇；忍住不说",
+        "ex": "I had to bite my lip when the client criticised our work.",
+        "tip": "比喻：忍住不发火/不说话",
+        "accept": [
+          "bite your lip",
+          "bite my lip",
+          "hold your tongue"
+        ],
+        "near": [
+          "tongue-tied"
+        ]
+      },
+      {
+        "emoji": "👣",
+        "w": "footprints",
+        "ph": "/ˈfʊtprɪnts/",
+        "pos": "n.",
+        "zh": "脚印",
+        "ex": "We left footprints all along the wet sand.",
+        "tip": "carbon footprint 碳足迹",
+        "accept": [
+          "footprints",
+          "footprint",
+          "tracks"
+        ],
+        "near": [
+          "barefoot"
+        ]
+      },
+      {
+        "emoji": "🖐️",
+        "w": "palm",
+        "ph": "/pɑːm/",
+        "pos": "n.",
+        "zh": "手掌",
+        "ex": "She read my palm at the markets.",
+        "tip": "l 不发音；palm tree 棕榈树",
+        "accept": [
+          "palm",
+          "palms"
+        ],
+        "near": [
+          "heart rate"
+        ]
+      },
+      {
+        "emoji": "🧔",
+        "w": "beard",
+        "ph": "/bɪəd/",
+        "pos": "n.",
+        "zh": "络腮胡",
+        "ex": "He grew a beard for Movember.",
+        "tip": "Movember 11月蓄胡子公益活动（澳洲发起）；moustache 小胡子",
+        "accept": [
+          "beard",
+          "beards",
+          "facial hair"
+        ],
+        "near": [
+          "bald"
+        ]
+      },
+      {
+        "emoji": "👨‍🦲",
+        "w": "bald",
+        "ph": "/bɔːld/",
+        "pos": "adj.",
+        "zh": "秃头的",
+        "ex": "My dad started going bald in his thirties.",
+        "tip": "go bald 变秃；receding hairline 发际线后移",
+        "accept": [
+          "bald",
+          "balding"
+        ],
+        "near": [
+          "beard"
+        ]
+      },
+      {
+        "emoji": "🧑‍🦰",
+        "w": "ginger",
+        "ph": "/ˈdʒɪndʒə/",
+        "pos": "n./adj.",
+        "zh": "红头发的（人）",
+        "ex": "He's the tall ginger guy in marketing.",
+        "tip": "澳洲/英国口语；也说 redhead",
+        "accept": [
+          "ginger",
+          "redhead",
+          "red-haired"
+        ],
+        "near": [
+          "bald"
+        ]
+      },
+      {
+        "emoji": "🦶",
+        "w": "barefoot",
+        "ph": "/ˈbeəfʊt/",
+        "pos": "adj./adv.",
+        "zh": "光着脚",
+        "ex": "Kids walk around barefoot all summer here.",
+        "tip": "澳洲人常光脚出门，被戏称 thongs or barefoot",
+        "accept": [
+          "barefoot",
+          "bare feet",
+          "no shoes"
+        ],
+        "near": [
+          "footprints"
+        ]
+      }
+    ]
   }
 ]
