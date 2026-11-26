@@ -8185,15 +8185,15 @@
       },
       {
         "emoji": "🧑‍🦰",
-        "w": "ginger",
-        "ph": "/ˈdʒɪndʒə/",
-        "pos": "n./adj.",
-        "zh": "红头发的（人）",
-        "ex": "He's the tall ginger guy in marketing.",
-        "tip": "澳洲/英国口语；也说 redhead",
+        "w": "redhead",
+        "ph": "/ˈredhed/",
+        "pos": "n.",
+        "zh": "红头发的人",
+        "ex": "He's the tall redhead in marketing.",
+        "tip": "澳洲/英国口语也叫 ginger（但 ginger 也是“姜”）",
         "accept": [
-          "ginger",
           "redhead",
+          "ginger",
           "red-haired"
         ],
         "near": [
