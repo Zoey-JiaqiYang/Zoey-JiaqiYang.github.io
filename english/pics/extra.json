@@ -8218,5 +8218,212 @@
         ]
       }
     ]
+  },
+  {
+    "id": "computer-it",
+    "added": "2026-11-28",
+    "name": "电脑与IT",
+    "icon": "💻",
+    "prompt": "这个怎么说？",
+    "items": [
+      {
+        "emoji": "🖱️",
+        "w": "right-click",
+        "ph": "/ˌraɪt ˈklɪk/",
+        "pos": "v.",
+        "zh": "右键点击",
+        "ex": "Right-click the image and choose 'Save as'.",
+        "tip": "double-click 双击",
+        "accept": [
+          "right-click",
+          "right click"
+        ],
+        "near": [
+          "shortcut"
+        ]
+      },
+      {
+        "emoji": "⌨️",
+        "w": "shortcut",
+        "ph": "/ˈʃɔːtkʌt/",
+        "pos": "n.",
+        "zh": "快捷键；捷径",
+        "ex": "Ctrl+Z is the shortcut for undo.",
+        "tip": "keyboard shortcut；也指近路",
+        "accept": [
+          "shortcut",
+          "keyboard shortcut"
+        ],
+        "near": [
+          "right-click"
+        ]
+      },
+      {
+        "emoji": "🖥️",
+        "w": "dual monitors",
+        "ph": "/ˌdjuːəl ˈmɒnɪtəz/",
+        "pos": "n.",
+        "zh": "双屏",
+        "ex": "I can't work without dual monitors anymore.",
+        "tip": "也说 second screen",
+        "accept": [
+          "dual monitors",
+          "second screen",
+          "two screens"
+        ],
+        "near": [
+          "settings"
+        ]
+      },
+      {
+        "emoji": "🔐",
+        "w": "two-factor",
+        "ph": "/ˌtuː ˈfæktə/",
+        "pos": "n.",
+        "zh": "双重验证",
+        "ex": "Turn on two-factor so no one can hack your account.",
+        "tip": "全称 two-factor authentication (2FA)",
+        "accept": [
+          "two-factor",
+          "2FA",
+          "two-factor authentication"
+        ],
+        "near": [
+          "log in"
+        ]
+      },
+      {
+        "emoji": "📧",
+        "w": "cc",
+        "ph": "/ˌsiː ˈsiː/",
+        "pos": "v.",
+        "zh": "抄送",
+        "ex": "Can you cc me on that email?",
+        "tip": "bcc 密送；reply all 回复全部",
+        "accept": [
+          "cc",
+          "CC",
+          "copy in"
+        ],
+        "near": [
+          "hyperlink"
+        ]
+      },
+      {
+        "emoji": "🔗",
+        "w": "hyperlink",
+        "ph": "/ˈhaɪpəlɪŋk/",
+        "pos": "n./v.",
+        "zh": "超链接",
+        "ex": "Add a hyperlink to the landing page.",
+        "tip": "口语常说 link",
+        "accept": [
+          "hyperlink",
+          "link"
+        ],
+        "near": [
+          "cc"
+        ]
+      },
+      {
+        "emoji": "🔃",
+        "w": "refresh",
+        "ph": "/rɪˈfreʃ/",
+        "pos": "v.",
+        "zh": "刷新",
+        "ex": "Try refreshing the page.",
+        "tip": "hard refresh 强制刷新",
+        "accept": [
+          "refresh",
+          "reload"
+        ],
+        "near": [
+          "troubleshoot"
+        ]
+      },
+      {
+        "emoji": "🔓",
+        "w": "log in",
+        "ph": "/ˌlɒɡ ˈɪn/",
+        "pos": "phr.",
+        "zh": "登录",
+        "ex": "I can't log in — I forgot my password.",
+        "tip": "动词 log in（两个词）；名词 login",
+        "accept": [
+          "log in",
+          "login",
+          "sign in"
+        ],
+        "near": [
+          "two-factor"
+        ]
+      },
+      {
+        "emoji": "💽",
+        "w": "hard drive",
+        "ph": "/ˈhɑːd draɪv/",
+        "pos": "n.",
+        "zh": "硬盘",
+        "ex": "Back up your files to an external hard drive.",
+        "tip": "back up 备份",
+        "accept": [
+          "hard drive",
+          "hard disk",
+          "external drive"
+        ],
+        "near": [
+          "settings"
+        ]
+      },
+      {
+        "emoji": "⚙️",
+        "w": "settings",
+        "ph": "/ˈsetɪŋz/",
+        "pos": "n.",
+        "zh": "设置",
+        "ex": "Go into settings and turn off notifications.",
+        "tip": "preferences 偏好设置",
+        "accept": [
+          "settings",
+          "preferences"
+        ],
+        "near": [
+          "refresh"
+        ]
+      },
+      {
+        "emoji": "🛠️",
+        "w": "troubleshoot",
+        "ph": "/ˈtrʌblʃuːt/",
+        "pos": "v.",
+        "zh": "排查故障",
+        "ex": "IT is still trying to troubleshoot the issue.",
+        "tip": "troubleshooting 故障排除",
+        "accept": [
+          "troubleshoot",
+          "fix"
+        ],
+        "near": [
+          "refresh"
+        ]
+      },
+      {
+        "emoji": "🤖",
+        "w": "chatbot",
+        "ph": "/ˈtʃætbɒt/",
+        "pos": "n.",
+        "zh": "聊天机器人",
+        "ex": "The bank's chatbot couldn't answer my question.",
+        "tip": "AI assistant / virtual assistant",
+        "accept": [
+          "chatbot",
+          "bot",
+          "AI assistant"
+        ],
+        "near": [
+          "hyperlink"
+        ]
+      }
+    ]
   }
 ]
