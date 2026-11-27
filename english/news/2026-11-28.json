@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T01:54:28+11:00",
+  "items": [
+    {
+      "category": "world",
+      "title_en": "Storm pushes the 100th Macy's Thanksgiving Day Parade from Thursday to Saturday",
+      "title_zh": "风暴来袭！纽约梅西百货感恩节大游行第100届改期到周六",
+      "search_zh": "梅西百货 感恩节大游行 第100届 改期 周六 风暴 大风 巨型气球 纽约",
+      "summary_en": "The 100th Macy's Thanksgiving Day Parade in New York has been postponed from Thursday to Saturday because of a powerful storm forecast for the holiday. Organisers said the decision was made for safety reasons, as strong winds would make it too risky to fly the parade's famous giant balloons. The balloons, which had already been inflated, were deflated and are due to be filled again before the rescheduled event. The parade is now scheduled to start at 8:30 am local time on Saturday, 28 November, which is just after midnight on Sunday in Sydney.",
+      "summary_zh": "纽约第100届梅西百货感恩节大游行因节日当天预报有强风暴，已从周四推迟到周六举行。主办方表示，这一决定是出于安全考虑，因为强风会让游行中著名的巨型气球飘起来太危险。这些气球原本已经充好了气，后来又被放了气，预计会在改期后的活动前重新充气。游行现在计划于当地时间11月28日（周六）上午8:30开始，也就是悉尼时间周日凌晨刚过午夜。",
+      "why_zh": "梅西百货感恩节大游行是美国最有名的节日活动之一，也是一个品牌做了100年的“超级营销事件”。“postpone（推迟）”“deflate（放气）”在活动、出行新闻里很常用。",
+      "image": "",
+      "image_credit": "",
+      "source": "CNN; The Washington Post; Variety; NBC News; CBS New York; ABC7; weather.com",
+      "url": "https://www.cnn.com/2026/11/25/us/macys-thanksgiving-day-parade-postponed",
+      "vocab": [
+        {
+          "word": "postponed",
+          "phonetic": "/pəˈspəʊnd/",
+          "pos": "v.",
+          "zh": "推迟，延期（postpone的过去分词）",
+          "example": "The 100th Macy's Thanksgiving Day Parade in New York has been postponed from Thursday to Saturday because of a powerful storm forecast for the holiday."
+        },
+        {
+          "word": "deflated",
+          "phonetic": "/dɪˈfleɪtɪd/",
+          "pos": "v.",
+          "zh": "（给气球、轮胎等）放气（deflate的过去式/过去分词）",
+          "example": "The balloons, which had already been inflated, were deflated and are due to be filled again before the rescheduled event."
+        }
+      ],
+      "explain": {
+        "one_liner": "纽约梅西百货感恩节大游行迎来第100届，却因为风暴太大，只好从周四改到周六。",
+        "facts": [
+          {
+            "icon": "🎈",
+            "name": "梅西百货感恩节大游行",
+            "text": "纽约著名的节日游行，今年是第100届，以巨型气球闻名。"
+          },
+          {
+            "icon": "🌬️",
+            "name": "风暴",
+            "text": "感恩节当天预报有强风暴，强风让巨型气球飘起来太危险。"
+          },
+          {
+            "icon": "📅",
+            "name": "新时间",
+            "text": "改到当地时间11月28日（周六）上午8:30，相当于悉尼周日凌晨刚过午夜。"
+          },
+          {
+            "icon": "🎈",
+            "name": "气球",
+            "text": "本来已经充好气，后来又放了气，要在新日期前重新充气。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "强风暴",
+            "b": "游行",
+            "type": "cause",
+            "label": "导致从周四推迟到周六"
+          },
+          {
+            "a": "强风",
+            "b": "巨型气球",
+            "type": "bad",
+            "label": "让气球飘起来不安全"
+          },
+          {
+            "a": "主办方",
+            "b": "观众安全",
+            "type": "good",
+            "label": "出于安全考虑做出决定"
+          }
+        ],
+        "points": [
+          "第100届梅西百货感恩节大游行从周四推迟到了周六。",
+          "原因是感恩节当天预报有强风暴。",
+          "强风会让巨型气球飘起来很危险，所以主办方出于安全考虑改期。",
+          "新的开始时间是当地周六上午8:30，悉尼时间周日凌晨。"
+        ],
+        "relevance": "这场游行本身就是梅西百货做了100年的品牌活动，是“活动营销”的经典案例。大型线下活动最怕天气等不可控因素，这次改期提醒做营销的人：活动方案里一定要有备用计划（Plan B），还要提前想好怎么和观众、合作方沟通变更。",
+        "phrase": {
+          "en": "rain check",
+          "zh": "改天再说，延期（原指因下雨改期）"
+        }
+      }
+    },
+    {
+      "category": "australia",
+      "title_en": "ACCC finds no evidence that tomato and cage-free egg labels named by Four Corners were misleading",
+      "title_zh": "澳洲竞争与消费者委员会调查结束：番茄制品和“非笼养”鸡蛋标签未发现虚假证据",
+      "search_zh": "ACCC 澳大利亚竞争与消费者委员会 Four Corners 食品标签 番茄制品 非笼养鸡蛋 原产地 Source Certain 实验室检测 ABC",
+      "summary_en": "Australia's consumer watchdog, the ACCC, has finished its inquiries into food labelling claims raised by the ABC's Four Corners program. The regulator looked at processed tomato products and eggs sold as cage-free, and said it found no evidence that their country-of-origin or cage-free labels were false or misleading. However, the ACCC did not carry out its own laboratory tests, and Source Certain, the lab that did the testing for Four Corners, said it was disappointed by this. The ABC has responded by saying that it stands by its reporting.",
+      "summary_zh": "澳大利亚消费者监管机构——澳大利亚竞争与消费者委员会（ACCC）已经结束了对ABC《四角》（Four Corners）节目提出的食品标签问题的调查。该机构调查了番茄加工制品和以“非笼养”名义出售的鸡蛋，表示没有发现证据证明它们的原产地标签或“非笼养”标签是虚假或误导性的。不过，ACCC没有自己进行实验室检测，而为《四角》做检测的实验室Source Certain表示对此感到失望。ABC对此回应称，它坚持自己的报道。",
+      "why_zh": "食品标签上的“产地”“非笼养”等说法直接影响我们买什么，这件事关系到消费者能不能相信包装上的话。“watchdog（监管机构）”“misleading（误导性的）”是消费和广告新闻里的高频词。",
+      "image": "",
+      "image_credit": "",
+      "source": "ABC News; B&T; Mediaweek; Briev",
+      "url": "https://www.abc.net.au/news/2026-11-27/accc-concludes-food-fraud-inquiries-after-four-corners-episode/107435478",
+      "vocab": [
+        {
+          "word": "watchdog",
+          "phonetic": "/ˈwɒtʃdɒɡ/",
+          "pos": "n.",
+          "zh": "监管机构，监督者",
+          "example": "Australia's consumer watchdog, the ACCC, has finished its inquiries into food labelling claims raised by the ABC's Four Corners program."
+        },
+        {
+          "word": "misleading",
+          "phonetic": "/ˌmɪsˈliːdɪŋ/",
+          "pos": "adj.",
+          "zh": "误导性的，让人产生错误印象的",
+          "example": "The regulator looked at processed tomato products and eggs sold as cage-free, and said it found no evidence that their country-of-origin or cage-free labels were false or misleading."
+        }
+      ],
+      "explain": {
+        "one_liner": "ABC节目质疑一些食品标签造假，澳洲消费者监管机构查完后说：没找到证据。",
+        "facts": [
+          {
+            "icon": "🛡️",
+            "name": "ACCC",
+            "text": "澳大利亚竞争与消费者委员会，负责保护消费者、管虚假宣传的监管机构。"
+          },
+          {
+            "icon": "📺",
+            "name": "Four Corners（《四角》）",
+            "text": "ABC的调查新闻节目，之前提出了食品标签可能有问题。"
+          },
+          {
+            "icon": "🍅",
+            "name": "调查对象",
+            "text": "番茄加工制品和以“非笼养”名义出售的鸡蛋。"
+          },
+          {
+            "icon": "🔬",
+            "name": "Source Certain",
+            "text": "为《四角》做检测的实验室，对ACCC没有自己做检测感到失望。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "Four Corners",
+            "b": "食品标签",
+            "type": "bad",
+            "label": "提出质疑"
+          },
+          {
+            "a": "ACCC",
+            "b": "食品标签",
+            "type": "neutral",
+            "label": "调查后没发现虚假证据"
+          },
+          {
+            "a": "Source Certain",
+            "b": "ACCC",
+            "type": "bad",
+            "label": "不满对方没做自己的检测"
+          },
+          {
+            "a": "ABC",
+            "b": "自己的报道",
+            "type": "good",
+            "label": "坚持报道内容"
+          }
+        ],
+        "points": [
+          "ACCC结束了对《四角》节目提出的食品标签问题的调查。",
+          "调查范围是番茄加工制品和“非笼养”鸡蛋。",
+          "ACCC说没发现证据证明原产地或“非笼养”标签是虚假或误导性的。",
+          "ACCC没做自己的实验室检测，检测实验室表示失望，ABC则坚持自己的报道。"
+        ],
+        "relevance": "产地、“非笼养”这类标签本质上就是营销卖点，也是ACCC重点盯的地方。做营销的人写包装文案或广告时，每一个说法都要有供应链、认证等证据支持。这件事也说明，一旦媒体质疑，品牌能不能拿出证明材料，直接决定了口碑能不能稳住。",
+        "phrase": {
+          "en": "stand by something",
+          "zh": "坚持（某说法、决定），不收回"
+        }
+      }
+    },
+    {
+      "category": "china",
+      "title_en": "Humanoid robots take the spotlight as the 28th China Hi-Tech Fair opens in Shenzhen",
+      "title_zh": "第二十八届高交会在深圳开幕，人形机器人成最大看点",
+      "search_zh": "第二十八届 高交会 中国国际高新技术成果交易会 深圳 开幕 人形机器人 宇树科技 人工智能",
+      "summary_en": "The 28th China Hi-Tech Fair opened in the southern city of Shenzhen on 26 November and runs until 28 November. Robots are one of the biggest attractions at this year's event, with companies showing off humanoid robots alongside other AI and advanced manufacturing technology. Photos from the opening day showed humanoid robots from Unitree Robotics performing for visitors. The fair is one of China's major technology trade shows, and organisers are also hoping to attract buyers and partners from overseas.",
+      "summary_zh": "第二十八届中国国际高新技术成果交易会（高交会）于11月26日在南方城市深圳开幕，将持续到11月28日。机器人是今年展会最大的看点之一，各家企业展示了人形机器人，以及其他人工智能和先进制造技术。开幕当天的照片显示，宇树科技的人形机器人为观众进行了表演。高交会是中国重要的科技展会之一，主办方还希望吸引海外买家和合作伙伴。",
+      "why_zh": "人形机器人是现在最火的科技话题之一，从“会走路”到“能表演”，进步很快。“humanoid（人形的）”“attraction（吸引人的东西、看点）”在科技和旅游新闻里都很常见。",
+      "image": "",
+      "image_credit": "",
+      "source": "People's Daily Online; Global Times; Media OutReach; Matrix News",
+      "url": "https://en.people.cn/n3/2026/1127/c90000-20523712.html",
+      "vocab": [
+        {
+          "word": "attractions",
+          "phonetic": "/əˈtrækʃnz/",
+          "pos": "n.",
+          "zh": "吸引人的东西，看点（attraction的复数）",
+          "example": "Robots are one of the biggest attractions at this year's event, with companies showing off humanoid robots alongside other AI and advanced manufacturing technology."
+        },
+        {
+          "word": "humanoid",
+          "phonetic": "/ˈhjuːmənɔɪd/",
+          "pos": "adj.",
+          "zh": "人形的，像人的",
+          "example": "Photos from the opening day showed humanoid robots from Unitree Robotics performing for visitors."
+        }
+      ],
+      "explain": {
+        "one_liner": "深圳高交会开幕，人形机器人上台表演，成了全场焦点。",
+        "facts": [
+          {
+            "icon": "🏙️",
+            "name": "高交会",
+            "text": "中国国际高新技术成果交易会，今年是第28届，在深圳举办，是中国重要的科技展会之一。"
+          },
+          {
+            "icon": "📅",
+            "name": "时间",
+            "text": "11月26日开幕，持续到11月28日。"
+          },
+          {
+            "icon": "🤖",
+            "name": "人形机器人",
+            "text": "今年最大的看点之一，和人工智能、先进制造技术一起亮相。"
+          },
+          {
+            "icon": "🐕",
+            "name": "宇树科技（Unitree Robotics）",
+            "text": "开幕当天，它的人形机器人为观众表演。"
+          },
+          {
+            "icon": "🌏",
+            "name": "海外买家",
+            "text": "主办方希望吸引海外买家和合作伙伴。"
+          }
+        ],
+        "relations": [
+          {
+            "a": "宇树科技",
+            "b": "高交会观众",
+            "type": "good",
+            "label": "人形机器人表演"
+          },
+          {
+            "a": "高交会",
+            "b": "海外买家",
+            "type": "good",
+            "label": "希望吸引合作"
+          },
+          {
+            "a": "人形机器人",
+            "b": "高交会",
+            "type": "cause",
+            "label": "成为最大看点之一"
+          }
+        ],
+        "points": [
+          "第28届高交会11月26日在深圳开幕，到11月28日结束。",
+          "机器人是今年最大的看点之一。",
+          "宇树科技的人形机器人在开幕当天进行了表演。",
+          "主办方希望吸引海外买家和合作伙伴。"
+        ],
+        "relevance": "机器人表演很“出片”，天然适合社交媒体传播，这也是科技公司爱在展会上让机器人跳舞、表演的原因。做营销的人可以学习这种“把技术变成看得见的体验”的做法。另外，中国机器人和AI产品正加速走向海外，未来澳洲市场上也可能看到更多相关品牌。",
+        "phrase": {
+          "en": "steal the show",
+          "zh": "抢尽风头，成为全场焦点"
+        }
+      }
+    }
+  ]
+}
